@@ -20,7 +20,7 @@ def load_entries():
                         key, val = line.split(':', 1)
                         val = val.strip().strip("'\"")
                         if val.startswith('['):
-                            val = [v.strip().strip("'\"") for v in val[1:-1].split(',')]
+                            val = [v.strip().strip("'\"") for v in val[1:-1].split(',') if v.strip().strip("'\"")]
                         entry[key.strip()] = val
                 entries.append(entry)
     return entries
