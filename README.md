@@ -23,8 +23,21 @@
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
 ├── scripts/         # Utility scripts for catalog management
+│   ├── generate-catalog.py  # Main catalog generation script
+│   ├── refresh.sh           # Wrapper: pull, generate, commit, push
+│   └── query.py             # CLI query tool
 └── README.md        # This file
 ```
+
+## Auto-Refresh
+
+Catalog regenerates automatically every Monday at 9:00 AM via cron job. The script:
+1. Pulls latest changes
+2. Fetches current owned/starred repos via `gh` CLI
+3. Regenerates all markdown files
+4. Commits and pushes if there are changes
+
+Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 
 ## Owned Repositories
 
