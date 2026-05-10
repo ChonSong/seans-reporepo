@@ -8,20 +8,40 @@ CATALOG_DIR = Path(__file__).parent.parent
 def load_entries():
     entries = []
     for d in ['owned', 'starred']:
-        for f in Path(f'{CATALOG_DIR}/{d}').glob('*.md'):
+        dir_path = Path(f'{CATALOG_DIR}/{d}')
+        if not dir_path.exists():
+            continue
+        for f in dir_path.glob('*.md'):
             content = f.read_text()
-            # Parse frontmatter
             if content.startswith('---'):
                 fm_end = content.index('---', 3)
                 fm_text = content[3:fm_end]
                 entry = {}
+                current_list_key = None
                 for line in fm_text.split('\n'):
+                    if not line.strip():
+                        continue
+                    # Check if it's a list item
+                    if line.startswith('- '):
+                        if current_list_key:
+                            if current_list_key not in entry:
+                                entry[current_list_key] = []
+                            val = line[2:].strip().strip("'\"")
+                            if val:
+                                entry[current_list_key].append(val)
+                        continue
+                    current_list_key = None
                     if ':' in line:
                         key, val = line.split(':', 1)
-                        val = val.strip().strip("'\"")
-                        if val.startswith('['):
-                            val = [v.strip().strip("'\"") for v in val[1:-1].split(',') if v.strip().strip("'\"")]
-                        entry[key.strip()] = val
+                        key = key.strip()
+                        val = val.strip()
+                        if not val:
+                            # Multi-line list
+                            current_list_key = key
+                        elif val.startswith('['):
+                            entry[key] = [v.strip().strip("'\"") for v in val[1:-1].split(',') if v.strip().strip("'\"")]
+                        else:
+                            entry[key] = val.strip("'\"")
                 entries.append(entry)
     return entries
 
@@ -53,7 +73,12 @@ def main():
     cmd = sys.argv[1]
     if cmd == '--all':
         for e in entries:
-            print(f"{e.get('repo', '?')} | {e.get('type', '-')} | {e.get('language', '-')} | {e.get('stars', 0):,}★")
+            stars = e.get('stars', '0')
+            try:
+                stars = int(stars)
+            except:
+                stars = 0
+            print(f"{e.get('repo', '?')} | {e.get('type', '-')} | {e.get('language', '-')} | {stars:,}★")
     elif cmd == '--stats':
         types = {}
         langs = {}
@@ -80,7 +105,13 @@ def main():
         elif cmd == 'search':
             results = search(entries, query=value)
         for e in results:
-            print(f"{e.get('repo', '?')} | {e.get('type', '-')} | {e.get('language', '-')} | {e.get('stars', 0):,}★ | {e.get('tags', [])}")
+            stars = e.get('stars', '0')
+            try:
+                stars = int(stars)
+            except:
+                stars = 0
+            tags = e.get('tags', [])[:3]
+            print(f"{e.get('repo', '?')} | {e.get('type', '-')} | {e.get('language', '-')} | {stars:,}★ | {tags}")
     else:
         print(f"Unknown command: {cmd}")
 
