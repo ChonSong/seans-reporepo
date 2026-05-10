@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/sean-s-landing-page
-url: https://github.com/ChonSong/sean-s-landing-page
+repo: 'ChonSong/sean-s-landing-page'
+url: 'https://github.com/ChonSong/sean-s-landing-page'
 description: sean's landing page
 type: unknown
 status: active
@@ -10,9 +10,9 @@ stars: 0
 last_pushed: '2025-11-24'
 license: unknown
 tags:
-- ai
-- api
-- website
+  - ai
+  - api
+  - website
 ---
 
 # sean-s-landing-page

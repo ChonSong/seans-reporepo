@@ -1,8 +1,7 @@
 ---
 repo: tnm/zclaw
-url: https://github.com/tnm/zclaw
-description: Your personal AI assistant at all-in 888KiB (~35KB in app code). Running
-  on an ESP32. GPIO, cron, custom tools, memory, and more.
+url: 'https://github.com/tnm/zclaw'
+description: 'Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.'
 type: agent
 status: active
 language: C
@@ -11,7 +10,7 @@ stars: 2121
 last_pushed: '2026-03-23'
 license: MIT
 tags:
-- ai
+  - ai
 ---
 
 # zclaw

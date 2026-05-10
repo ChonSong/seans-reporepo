@@ -1,16 +1,16 @@
 ---
 repo: juanfont/headscale
-url: https://github.com/juanfont/headscale
-description: An open source, self-hosted implementation of the Tailscale control server
+url: 'https://github.com/juanfont/headscale'
+description: 'An open source, self-hosted implementation of the Tailscale control server'
 type: infrastructure
 status: active
 language: Go
 size_kb: 36046
-stars: 38217
+stars: 38216
 last_pushed: '2026-05-10'
-license: BSD-3-Clause
+license: 'BSD-3-Clause'
 tags:
-- ai
+  - ai
 ---
 
 # headscale
@@ -25,8 +25,7 @@ tags:
 - **Status:** active
 - **Language:** Go
 - **Size:** 36,046 KB
-- **Stars:** 38,217
+- **Stars:** 38,216
 - **Last Pushed:** 2026-05-10
 - **License:** BSD-3-Clause
 - **Tags:** ai
-- **Topics:** tailscale, tailscale-control-server, tailscale-server, wireguard

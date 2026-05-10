@@ -1,8 +1,7 @@
 ---
 repo: ChonSong/ecosystem
-url: https://github.com/ChonSong/ecosystem
-description: Architecture documentation for the ChonSong agent ecosystem — ClawTeam,
-  claw-aie, AIE, RepoTransmute
+url: 'https://github.com/ChonSong/ecosystem'
+description: 'Architecture documentation for the ChonSong agent ecosystem — ClawTeam, claw-aie, AIE, RepoTransmute'
 type: agent
 status: active
 language: Shell
@@ -11,10 +10,11 @@ stars: 0
 last_pushed: '2026-04-17'
 license: unknown
 tags:
-- agent
-- ai
-- aie
-- transpilation
+  - agent
+  - ai
+  - aie
+  - multi-agent
+  - transpilation
 ---
 
 # ecosystem
@@ -32,8 +32,4 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-04-17
 - **License:** unknown
-- **Tags:** agent, ai, aie, transpilation
-
-## README Excerpt
-
-,jhw]˦z{Z*'alhr"r-ܢ{^ z֫z,+ʷvgn8...
+- **Tags:** agent, ai, aie, multi-agent, transpilation

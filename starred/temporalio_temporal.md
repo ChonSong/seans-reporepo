@@ -1,6 +1,6 @@
 ---
 repo: temporalio/temporal
-url: https://github.com/temporalio/temporal
+url: 'https://github.com/temporalio/temporal'
 description: Temporal service
 type: unknown
 status: active
@@ -10,8 +10,8 @@ stars: 20148
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- go
-- workflow-engine
+  - go
+  - workflow-engine
 ---
 
 # temporal
@@ -30,4 +30,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** go, workflow-engine
-- **Topics:** cronjob-scheduler, distributed-cron, distributed-systems, durable-execution, golang, microservice-framework, microservice-orchestration, microservices-architecture, orchestrator, service-bus, service-fabric, workflow-automation, workflow-engine, workflow-management, workflow-management-system, workflows

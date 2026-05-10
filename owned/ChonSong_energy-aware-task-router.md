@@ -1,10 +1,8 @@
 ---
-repo: ChonSong/energy-aware-task-router
-url: https://github.com/ChonSong/energy-aware-task-router
-description: A task routing system that queries real-time carbon intensity of the
-  electricity grid and routes deferrable compute to low-intensity windows — without
-  breaking user-facing SLAs.
-type: unknown
+repo: 'ChonSong/energy-aware-task-router'
+url: 'https://github.com/ChonSong/energy-aware-task-router'
+description: 'A task routing system that queries real-time carbon intensity of the electricity grid and routes deferrable compute to low-intensity windows — without breaking user-facing SLAs.'
+type: infrastructure
 status: active
 language: Python
 size_kb: 3
@@ -12,12 +10,13 @@ stars: 0
 last_pushed: '2026-03-29'
 license: unknown
 tags:
-- ai
-- api
-- energy
-- infrastructure
-- python
-- sustainability
+  - ai
+  - api
+  - energy
+  - infrastructure
+  - python
+  - sustainability
+  - training
 ---
 
 # energy-aware-task-router
@@ -28,14 +27,14 @@ tags:
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** infrastructure
 - **Status:** active
 - **Language:** Python
 - **Size:** 3 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-03-29
 - **License:** unknown
-- **Tags:** ai, api, energy, infrastructure, python, sustainability
+- **Tags:** ai, api, energy, infrastructure, python, sustainability, training
 
 ## README Excerpt
 

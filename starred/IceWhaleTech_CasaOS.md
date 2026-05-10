@@ -1,17 +1,17 @@
 ---
 repo: IceWhaleTech/CasaOS
-url: https://github.com/IceWhaleTech/CasaOS
-description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+url: 'https://github.com/IceWhaleTech/CasaOS'
+description: 'CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.'
 type: unknown
 status: active
 language: Go
 size_kb: 182856
 stars: 33790
 last_pushed: '2025-08-06'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- docker
-- go
+  - docker
+  - go
 ---
 
 # CasaOS
@@ -30,4 +30,3 @@ tags:
 - **Last Pushed:** 2025-08-06
 - **License:** Apache-2.0
 - **Tags:** docker, go
-- **Topics:** casaos, docker, golang, home-automation, home-cloud, home-server, iot, raspberry, self-hosted, vuejs

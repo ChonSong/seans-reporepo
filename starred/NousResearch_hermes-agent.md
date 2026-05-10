@@ -1,17 +1,18 @@
 ---
-repo: NousResearch/hermes-agent
-url: https://github.com/NousResearch/hermes-agent
+repo: 'NousResearch/hermes-agent'
+url: 'https://github.com/NousResearch/hermes-agent'
 description: The agent that grows with you
 type: agent
 status: active
 language: Python
-size_kb: 201060
-stars: 141658
+size_kb: 201031
+stars: 141667
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- agent
-- ai
+  - agent
+  - ai
+  - llm
 ---
 
 # hermes-agent
@@ -25,9 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 201,060 KB
-- **Stars:** 141,658
+- **Size:** 201,031 KB
+- **Stars:** 141,667
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** agent, ai
-- **Topics:** ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw
+- **Tags:** agent, ai, llm

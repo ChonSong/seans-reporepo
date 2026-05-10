@@ -1,16 +1,16 @@
 ---
 repo: DigitalPlatDev/FreeDomain
-url: https://github.com/DigitalPlatDev/FreeDomain
+url: 'https://github.com/DigitalPlatDev/FreeDomain'
 description: 'DigitalPlat FreeDomain: Free Domain For Everyone'
 type: unknown
 status: active
 language: HTML
 size_kb: 972
-stars: 161250
+stars: 161251
 last_pushed: '2026-04-24'
-license: AGPL-3.0
+license: 'AGPL-3.0'
 tags:
-- ai
+  - ai
 ---
 
 # FreeDomain
@@ -25,8 +25,7 @@ tags:
 - **Status:** active
 - **Language:** HTML
 - **Size:** 972 KB
-- **Stars:** 161,250
+- **Stars:** 161,251
 - **Last Pushed:** 2026-04-24
 - **License:** AGPL-3.0
 - **Tags:** ai
-- **Topics:** digitalplat, domain, domain-platform, domainname, domains, free, freedomain

@@ -1,6 +1,6 @@
 ---
-repo: community-scripts/ProxmoxVE
-url: https://github.com/community-scripts/ProxmoxVE
+repo: 'community-scripts/ProxmoxVE'
+url: 'https://github.com/community-scripts/ProxmoxVE'
 description: 'Proxmox VE Helper-Scripts (Community Edition) '
 type: unknown
 status: active
@@ -10,7 +10,7 @@ stars: 27964
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- docker
+  - docker
 ---
 
 # ProxmoxVE
@@ -29,4 +29,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** docker
-- **Topics:** alpine, authentification, container, debian, docker, home-assistant, home-automation, homelab, homelab-setup, lxc, network, proxmox, proxmox-ve, scripts, security, self-hosted, self-hosting, smarthome, ubuntu, vm

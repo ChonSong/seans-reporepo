@@ -1,8 +1,7 @@
 ---
-repo: ChonSong/casaos-agent
-url: https://github.com/ChonSong/casaos-agent
-description: Agent-native CasaOS CLI — JSON output, --yes non-interactive, --watch
-  streaming. Fork of CasaOS-CLI.
+repo: 'ChonSong/casaos-agent'
+url: 'https://github.com/ChonSong/casaos-agent'
+description: 'Agent-native CasaOS CLI — JSON output, --yes non-interactive, --watch streaming. Fork of CasaOS-CLI.'
 type: agent
 status: active
 language: Go
@@ -11,14 +10,15 @@ stars: 0
 last_pushed: '2026-04-05'
 license: unknown
 tags:
-- agent
-- api
-- cli
-- docker
-- go
-- home-server
-- nginx
-- web-app
+  - agent
+  - api
+  - awesome-list
+  - cli
+  - docker
+  - go
+  - nginx
+  - rag
+  - web-app
 ---
 
 # casaos-agent
@@ -36,7 +36,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-04-05
 - **License:** unknown
-- **Tags:** agent, api, cli, docker, go, home-server, nginx, web-app
+- **Tags:** agent, api, awesome-list, cli, docker, go, nginx, rag, web-app
 
 ## README Excerpt
 

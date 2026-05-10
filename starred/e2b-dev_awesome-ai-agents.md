@@ -1,8 +1,8 @@
 ---
-repo: e2b-dev/awesome-ai-agents
-url: https://github.com/e2b-dev/awesome-ai-agents
+repo: 'e2b-dev/awesome-ai-agents'
+url: 'https://github.com/e2b-dev/awesome-ai-agents'
 description: A list of AI autonomous agents
-type: awesome-list
+type: 'awesome-list'
 status: active
 language: other
 size_kb: 117748
@@ -10,10 +10,10 @@ stars: 27742
 last_pushed: '2025-02-26'
 license: NOASSERTION
 tags:
-- agent
-- ai
-- awesome-list
-- python
+  - agent
+  - ai
+  - awesome-list
+  - python
 ---
 
 # awesome-ai-agents
@@ -32,4 +32,3 @@ tags:
 - **Last Pushed:** 2025-02-26
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, python
-- **Topics:** agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python

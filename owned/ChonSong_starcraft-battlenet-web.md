@@ -1,10 +1,8 @@
 ---
-repo: ChonSong/starcraft-battlenet-web
-url: https://github.com/ChonSong/starcraft-battlenet-web
-description: StarCraft Battle.net Web Gaming Platform - Complete Docker infrastructure
-  for serving Battle.net games over the web with VNC, Nginx, Redis, and enterprise-grade
-  security
-type: webapp
+repo: 'ChonSong/starcraft-battlenet-web'
+url: 'https://github.com/ChonSong/starcraft-battlenet-web'
+description: 'StarCraft Battle.net Web Gaming Platform - Complete Docker infrastructure for serving Battle.net games over the web with VNC, Nginx, Redis, and enterprise-grade security'
+type: cli
 status: active
 language: HTML
 size_kb: 7
@@ -12,17 +10,18 @@ stars: 0
 last_pushed: '2025-12-29'
 license: unknown
 tags:
-- ai
-- api
-- cli
-- docker
-- gaming
-- infrastructure
-- monitoring
-- nginx
-- proxy
-- solver
-- web-app
+  - ai
+  - api
+  - browser-automation
+  - cli
+  - docker
+  - gaming
+  - infrastructure
+  - monitoring
+  - nginx
+  - proxy
+  - solver
+  - web-app
 ---
 
 # starcraft-battlenet-web
@@ -33,14 +32,14 @@ tags:
 
 ## Metadata
 
-- **Type:** webapp
+- **Type:** cli
 - **Status:** active
 - **Language:** HTML
 - **Size:** 7 KB
 - **Stars:** 0
 - **Last Pushed:** 2025-12-29
 - **License:** unknown
-- **Tags:** ai, api, cli, docker, gaming, infrastructure, monitoring, nginx, proxy, solver, web-app
+- **Tags:** ai, api, browser-automation, cli, docker, gaming, infrastructure, monitoring, nginx, proxy, solver, web-app
 
 ## README Excerpt
 

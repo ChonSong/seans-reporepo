@@ -1,6 +1,6 @@
 ---
 repo: pbakaus/impeccable
-url: https://github.com/pbakaus/impeccable
+url: 'https://github.com/pbakaus/impeccable'
 description: The design language that makes your AI harness better at design.
 type: unknown
 status: active
@@ -8,10 +8,10 @@ language: JavaScript
 size_kb: 30858
 stars: 26633
 last_pushed: '2026-05-04'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- ai
-- harness
+  - ai
+  - harness
 ---
 
 # impeccable

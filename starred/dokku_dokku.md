@@ -1,8 +1,7 @@
 ---
 repo: dokku/dokku
-url: https://github.com/dokku/dokku
-description: A docker-powered PaaS that helps you build and manage the lifecycle of
-  applications
+url: 'https://github.com/dokku/dokku'
+description: 'A docker-powered PaaS that helps you build and manage the lifecycle of applications'
 type: infrastructure
 status: active
 language: Shell
@@ -11,7 +10,7 @@ stars: 31865
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- docker
+  - docker
 ---
 
 # dokku
@@ -30,4 +29,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** docker
-- **Topics:** buildpack, containers, devops, docker, dokku, heroku, kubernetes, nomad, paas, self-hosted, selfhosted

@@ -1,20 +1,20 @@
 ---
-repo: vercel-labs/agent-browser
-url: https://github.com/vercel-labs/agent-browser
+repo: 'vercel-labs/agent-browser'
+url: 'https://github.com/vercel-labs/agent-browser'
 description: Browser automation CLI for AI agents
 type: agent
 status: active
 language: Rust
 size_kb: 17031
-stars: 32480
+stars: 32481
 last_pushed: '2026-05-07'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- ai
-- automation
-- browser-automation
-- cli
+  - agent
+  - ai
+  - automation
+  - browser-automation
+  - cli
 ---
 
 # agent-browser
@@ -29,7 +29,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 17,031 KB
-- **Stars:** 32,480
+- **Stars:** 32,481
 - **Last Pushed:** 2026-05-07
 - **License:** Apache-2.0
 - **Tags:** agent, ai, automation, browser-automation, cli

@@ -1,6 +1,6 @@
 ---
 repo: pmndrs/zustand
-url: https://github.com/pmndrs/zustand
+url: 'https://github.com/pmndrs/zustand'
 description: 🐻 Bear necessities for state management in React
 type: unknown
 status: active
@@ -10,7 +10,7 @@ stars: 57990
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- react
+  - react
 ---
 
 # zustand
@@ -29,4 +29,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** react
-- **Topics:** hacktoberfest, hooks, react, react-context, reactjs, redux, state-management

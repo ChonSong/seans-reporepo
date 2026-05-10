@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/everything-dashboard
-url: https://github.com/ChonSong/everything-dashboard
+repo: 'ChonSong/everything-dashboard'
+url: 'https://github.com/ChonSong/everything-dashboard'
 description: 'Lightweight monolithic dashboard: React + Express + Python Agent Core'
 type: monorepo
 status: active
@@ -10,11 +10,11 @@ stars: 0
 last_pushed: '2026-05-07'
 license: unknown
 tags:
-- agent
-- dashboard
-- express
-- python
-- react
+  - agent
+  - dashboard
+  - express
+  - python
+  - react
 ---
 
 # everything-dashboard
@@ -33,7 +33,3 @@ tags:
 - **Last Pushed:** 2026-05-07
 - **License:** unknown
 - **Tags:** agent, dashboard, express, python, react
-
-## README Excerpt
-
-,jhw]˦z{Z*'alhr"r-ܢ{^ z֫z,+ʷvgn8...

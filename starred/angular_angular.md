@@ -1,6 +1,6 @@
 ---
 repo: angular/angular
-url: https://github.com/angular/angular
+url: 'https://github.com/angular/angular'
 description: Deliver web apps with confidence 🚀
 type: webapp
 status: active
@@ -10,10 +10,10 @@ stars: 100068
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- ide
-- javascript
-- typescript
-- web-app
+  - ide
+  - javascript
+  - typescript
+  - web-app
 ---
 
 # angular
@@ -32,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** ide, javascript, typescript, web-app
-- **Topics:** angular, javascript, pwa, typescript, web, web-framework, web-performance

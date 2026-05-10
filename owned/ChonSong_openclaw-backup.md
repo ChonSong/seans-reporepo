@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/openclaw-backup
-url: https://github.com/ChonSong/openclaw-backup
+repo: 'ChonSong/openclaw-backup'
+url: 'https://github.com/ChonSong/openclaw-backup'
 description: No description
 type: unknown
 status: active
@@ -27,7 +27,3 @@ tags: []
 - **Stars:** 0
 - **Last Pushed:** 2026-04-26
 - **License:** unknown
-
-## README Excerpt
-
-,jhw]˦z{Z*'alhr"r-ܢ{^ z֫z,+ʷvgn8...

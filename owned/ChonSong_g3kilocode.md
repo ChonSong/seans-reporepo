@@ -1,9 +1,7 @@
 ---
 repo: ChonSong/g3kilocode
-url: https://github.com/ChonSong/g3kilocode
-description: 'Kilo is the all-in-one agentic engineering platform. Build, ship, and
-  iterate faster with the most popular open source coding agent. #1 on OpenRouter.
-  750k+ Kilo Coders. 6.1 trillion tokens/month.'
+url: 'https://github.com/ChonSong/g3kilocode'
+description: 'Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.'
 type: agent
 status: active
 language: TypeScript
@@ -12,15 +10,15 @@ stars: 0
 last_pushed: '2025-12-23'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- automation
-- go
-- mcp
-- rust
-- terminal
-fork_of: ''
+  - agent
+  - ai
+  - api
+  - automation
+  - browser-automation
+  - go
+  - mcp
+  - rust
+  - terminal
 ---
 
 # g3kilocode
@@ -28,7 +26,6 @@ fork_of: ''
 > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 
 **URL:** [ChonSong/g3kilocode](https://github.com/ChonSong/g3kilocode)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -36,9 +33,10 @@ fork_of: ''
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 501,876 KB
+- **Stars:** 0
 - **Last Pushed:** 2025-12-23
 - **License:** unknown
-- **Tags:** agent, ai, api, automation, go, mcp, rust, terminal
+- **Tags:** agent, ai, api, automation, browser-automation, go, mcp, rust, terminal
 
 ## README Excerpt
 

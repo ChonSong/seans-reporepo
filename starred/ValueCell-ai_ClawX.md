@@ -1,9 +1,7 @@
 ---
-repo: ValueCell-ai/ClawX
-url: https://github.com/ValueCell-ai/ClawX
-description: ClawX is a desktop app that provides a graphical interface for OpenClaw
-  AI agents. It turns CLI-based AI orchestration into a desktop experience without
-  using the terminal. China website is https://clawx.com.cn.
+repo: 'ValueCell-ai/ClawX'
+url: 'https://github.com/ValueCell-ai/ClawX'
+description: 'ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.'
 type: agent
 status: active
 language: TypeScript
@@ -12,14 +10,14 @@ stars: 7114
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- agent
-- ai
-- cli
-- ide
-- openclaw
-- orchestration
-- terminal
-- web-app
+  - agent
+  - ai
+  - cli
+  - ide
+  - openclaw
+  - orchestration
+  - terminal
+  - web-app
 ---
 
 # ClawX
@@ -38,4 +36,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** agent, ai, cli, ide, openclaw, orchestration, terminal, web-app
-- **Topics:** agent, agentic-ai, agents, ai, clawdbot, moltbot, openclaw, skill

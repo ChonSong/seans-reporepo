@@ -1,6 +1,6 @@
 ---
-repo: SeniorMatt/Matthew-s-NixOS
-url: https://github.com/SeniorMatt/Matthew-s-NixOS
+repo: 'SeniorMatt/Matthew-s-NixOS'
+url: 'https://github.com/SeniorMatt/Matthew-s-NixOS'
 description: My NixOS configuration
 type: unknown
 status: active

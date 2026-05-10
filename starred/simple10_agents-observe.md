@@ -1,7 +1,7 @@
 ---
-repo: simple10/agents-observe
-url: https://github.com/simple10/agents-observe
-description: Real-time observability of claude code sessions & multi-agents.
+repo: 'simple10/agents-observe'
+url: 'https://github.com/simple10/agents-observe'
+description: 'Real-time observability of claude code sessions & multi-agents.'
 type: agent
 status: active
 language: TypeScript
@@ -10,8 +10,8 @@ stars: 546
 last_pushed: '2026-05-04'
 license: MIT
 tags:
-- agent
-- multi-agent
+  - agent
+  - multi-agent
 ---
 
 # agents-observe

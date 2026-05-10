@@ -1,8 +1,7 @@
 ---
-repo: outsourc-e/hermes-workspace
-url: https://github.com/outsourc-e/hermes-workspace
-description: Native web workspace for Hermes Agent — chat, terminal, memory, skills,
-  inspector.
+repo: 'outsourc-e/hermes-workspace'
+url: 'https://github.com/outsourc-e/hermes-workspace'
+description: 'Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.'
 type: agent
 status: active
 language: JavaScript
@@ -11,12 +10,12 @@ stars: 3767
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- agent
-- hermes-agent
-- react
-- terminal
-- typescript
-- web-app
+  - agent
+  - hermes-agent
+  - react
+  - terminal
+  - typescript
+  - web-app
 ---
 
 # hermes-workspace
@@ -35,4 +34,3 @@ tags:
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent, hermes-agent, react, terminal, typescript, web-app
-- **Topics:** agent-ui, ai-workspace, hackathon, hermes-agent, nous-research, react, typescript

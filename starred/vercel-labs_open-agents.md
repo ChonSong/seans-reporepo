@@ -1,17 +1,17 @@
 ---
-repo: vercel-labs/open-agents
-url: https://github.com/vercel-labs/open-agents
+repo: 'vercel-labs/open-agents'
+url: 'https://github.com/vercel-labs/open-agents'
 description: An open source template for building cloud agents.
 type: agent
 status: active
 language: TypeScript
 size_kb: 9822
 stars: 5295
-last_pushed: '2026-05-08'
+last_pushed: '2026-05-10'
 license: MIT
 tags:
-- agent
-- ai
+  - agent
+  - ai
 ---
 
 # open-agents
@@ -27,7 +27,6 @@ tags:
 - **Language:** TypeScript
 - **Size:** 9,822 KB
 - **Stars:** 5,295
-- **Last Pushed:** 2026-05-08
+- **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, ai
-- **Topics:** agent, agents, ai, background-agents

@@ -1,13 +1,12 @@
 ---
 repo: garrytan/gstack
-url: https://github.com/garrytan/gstack
-description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that
-  serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA'
+url: 'https://github.com/garrytan/gstack'
+description: 'Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA'
 type: unknown
 status: active
 language: TypeScript
 size_kb: 97700
-stars: 92630
+stars: 92634
 last_pushed: '2026-05-10'
 license: MIT
 tags: []
@@ -25,6 +24,6 @@ tags: []
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 97,700 KB
-- **Stars:** 92,630
+- **Stars:** 92,634
 - **Last Pushed:** 2026-05-10
 - **License:** MIT

@@ -1,16 +1,16 @@
 ---
 repo: AndyMik90/Aperant
-url: https://github.com/AndyMik90/Aperant
-description: Autonomous multi-session AI coding
+url: 'https://github.com/AndyMik90/Aperant'
+description: 'Autonomous multi-session AI coding'
 type: unknown
 status: active
 language: TypeScript
 size_kb: 58828
 stars: 14183
 last_pushed: '2026-03-23'
-license: AGPL-3.0
+license: 'AGPL-3.0'
 tags:
-- ai
+  - ai
 ---
 
 # Aperant

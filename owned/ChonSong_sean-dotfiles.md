@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/sean-dotfiles
-url: https://github.com/ChonSong/sean-dotfiles
+repo: 'ChonSong/sean-dotfiles'
+url: 'https://github.com/ChonSong/sean-dotfiles'
 description: My Arch Linux Hyprland dotfiles with StarCraft mode configuration
 type: unknown
 status: active
@@ -10,11 +10,11 @@ stars: 0
 last_pushed: '2025-12-26'
 license: unknown
 tags:
-- ai
-- dotfiles
-- gaming
-- go
-- terminal
+  - ai
+  - dotfiles
+  - gaming
+  - go
+  - terminal
 ---
 
 # sean-dotfiles

@@ -1,9 +1,8 @@
 ---
-repo: ChonSong/rasta-assistant
-url: https://github.com/ChonSong/rasta-assistant
-description: Fork of Autonomous multi-session AI coding assistant for Unity and Jungle
-  XRKit
-type: fork
+repo: 'ChonSong/rasta-assistant'
+url: 'https://github.com/ChonSong/rasta-assistant'
+description: 'Fork of Autonomous multi-session AI coding assistant for Unity and Jungle XRKit'
+type: library
 status: active
 language: TypeScript
 size_kb: 37004
@@ -11,12 +10,12 @@ stars: 0
 last_pushed: '2026-01-02'
 license: unknown
 tags:
-- agent
-- ai
-- framework
-- go
-- image-gen
-fork_of: ''
+  - agent
+  - ai
+  - framework
+  - go
+  - image-gen
+  - multi-agent
 ---
 
 # rasta-assistant
@@ -24,17 +23,17 @@ fork_of: ''
 > Fork of Autonomous multi-session AI coding assistant for Unity and Jungle XRKit
 
 **URL:** [ChonSong/rasta-assistant](https://github.com/ChonSong/rasta-assistant)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
-- **Type:** fork
+- **Type:** library
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 37,004 KB
+- **Stars:** 0
 - **Last Pushed:** 2026-01-02
 - **License:** unknown
-- **Tags:** agent, ai, framework, go, image-gen
+- **Tags:** agent, ai, framework, go, image-gen, multi-agent
 
 ## README Excerpt
 

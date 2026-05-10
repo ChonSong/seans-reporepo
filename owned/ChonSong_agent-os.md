@@ -1,7 +1,7 @@
 ---
-repo: ChonSong/agent-os
-url: https://github.com/ChonSong/agent-os
-description: Agentic OS — monorepo for CasaOS + nanobot + everything-dashboard
+repo: 'ChonSong/agent-os'
+url: 'https://github.com/ChonSong/agent-os'
+description: 'Agentic OS — monorepo for CasaOS + nanobot + everything-dashboard'
 type: monorepo
 status: active
 language: Python
@@ -10,22 +10,20 @@ stars: 0
 last_pushed: '2026-05-10'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- bot
-- dashboard
-- database
-- docker
-- express
-- go
-- hermes-agent
-- home-server
-- ide
-- llm
-- react
-- web-app
-- webhook
+  - agent
+  - ai
+  - api
+  - bot
+  - dashboard
+  - database
+  - docker
+  - express
+  - go
+  - hermes-agent
+  - ide
+  - llm
+  - react
+  - web-app
 ---
 
 # agent-os
@@ -43,7 +41,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown
-- **Tags:** agent, ai, api, bot, dashboard, database, docker, express, go, hermes-agent, home-server, ide, llm, react, web-app, webhook
+- **Tags:** agent, ai, api, bot, dashboard, database, docker, express, go, hermes-agent, ide, llm, react, web-app
 
 ## README Excerpt
 

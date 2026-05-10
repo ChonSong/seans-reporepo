@@ -1,6 +1,6 @@
 ---
-repo: impulse-os/mod-illogical-impulse-dotfiles
-url: https://github.com/impulse-os/mod-illogical-impulse-dotfiles
+repo: 'impulse-os/mod-illogical-impulse-dotfiles'
+url: 'https://github.com/impulse-os/mod-illogical-impulse-dotfiles'
 description: Modified Illogical Impulse Dotfiles for Impulse OS
 type: unknown
 status: active
@@ -8,9 +8,9 @@ language: other
 size_kb: 15598
 stars: 28
 last_pushed: '2024-09-16'
-license: GPL-3.0
+license: 'GPL-3.0'
 tags:
-- dotfiles
+  - dotfiles
 ---
 
 # mod-illogical-impulse-dotfiles

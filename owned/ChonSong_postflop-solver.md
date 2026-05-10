@@ -1,8 +1,7 @@
 ---
-repo: ChonSong/postflop-solver
-url: https://github.com/ChonSong/postflop-solver
-description: '[Development suspended] An efficient open-source postflop solver library
-  written in Rust'
+repo: 'ChonSong/postflop-solver'
+url: 'https://github.com/ChonSong/postflop-solver'
+description: '[Development suspended] An efficient open-source postflop solver library written in Rust'
 type: library
 status: suspended
 language: Rust
@@ -11,14 +10,13 @@ stars: 0
 last_pushed: '2024-07-09'
 license: unknown
 tags:
-- ai
-- gaming
-- go
-- ide
-- rust
-- solver
-- web-app
-fork_of: ''
+  - ai
+  - gaming
+  - go
+  - ide
+  - rust
+  - solver
+  - web-app
 ---
 
 # postflop-solver
@@ -26,7 +24,6 @@ fork_of: ''
 > [Development suspended] An efficient open-source postflop solver library written in Rust
 
 **URL:** [ChonSong/postflop-solver](https://github.com/ChonSong/postflop-solver)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -34,6 +31,7 @@ fork_of: ''
 - **Status:** suspended
 - **Language:** Rust
 - **Size:** 547 KB
+- **Stars:** 0
 - **Last Pushed:** 2024-07-09
 - **License:** unknown
 - **Tags:** ai, gaming, go, ide, rust, solver, web-app

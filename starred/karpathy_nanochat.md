@@ -1,6 +1,6 @@
 ---
 repo: karpathy/nanochat
-url: https://github.com/karpathy/nanochat
+url: 'https://github.com/karpathy/nanochat'
 description: The best ChatGPT that $100 can buy.
 type: unknown
 status: active

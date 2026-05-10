@@ -1,6 +1,6 @@
 ---
 repo: justinlime/dotfiles
-url: https://github.com/justinlime/dotfiles
+url: 'https://github.com/justinlime/dotfiles'
 description: My general config and dotfiles for linux
 type: unknown
 status: active
@@ -10,7 +10,7 @@ stars: 276
 last_pushed: '2026-04-25'
 license: unknown
 tags:
-- dotfiles
+  - dotfiles
 ---
 
 # dotfiles

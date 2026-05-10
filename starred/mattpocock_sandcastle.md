@@ -1,6 +1,6 @@
 ---
 repo: mattpocock/sandcastle
-url: https://github.com/mattpocock/sandcastle
+url: 'https://github.com/mattpocock/sandcastle'
 description: Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 type: agent
 status: active
@@ -10,9 +10,9 @@ stars: 4021
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- agent
-- orchestration
-- typescript
+  - agent
+  - orchestration
+  - typescript
 ---
 
 # sandcastle

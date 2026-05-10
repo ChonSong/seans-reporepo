@@ -1,8 +1,7 @@
 ---
 repo: knowsuchagency/mcp2cli
-url: https://github.com/knowsuchagency/mcp2cli
-description: Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with
-  zero codegen
+url: 'https://github.com/knowsuchagency/mcp2cli'
+description: 'Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen'
 type: cli
 status: active
 language: Python
@@ -11,10 +10,10 @@ stars: 2101
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- ai
-- api
-- cli
-- mcp
+  - ai
+  - api
+  - cli
+  - mcp
 ---
 
 # mcp2cli
@@ -33,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** ai, api, cli, mcp
-- **Topics:** ai, cli, graphql, mcp, openapi

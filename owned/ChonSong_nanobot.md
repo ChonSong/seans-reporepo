@@ -1,6 +1,6 @@
 ---
 repo: ChonSong/nanobot
-url: https://github.com/ChonSong/nanobot
+url: 'https://github.com/ChonSong/nanobot'
 description: '"🐈 nanobot: The Ultra-Lightweight OpenClaw"'
 type: agent
 status: active
@@ -10,16 +10,16 @@ stars: 0
 last_pushed: '2026-05-01'
 license: unknown
 tags:
-- agent
-- ai
-- bot
-- go
-- ide
-- mcp
-- openclaw
-- python
-- web-app
-fork_of: ''
+  - agent
+  - ai
+  - bot
+  - go
+  - ide
+  - mcp
+  - multi-agent
+  - openclaw
+  - python
+  - web-app
 ---
 
 # nanobot
@@ -27,7 +27,6 @@ fork_of: ''
 > "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
 **URL:** [ChonSong/nanobot](https://github.com/ChonSong/nanobot)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -35,9 +34,10 @@ fork_of: ''
 - **Status:** active
 - **Language:** Python
 - **Size:** 39,921 KB
+- **Stars:** 0
 - **Last Pushed:** 2026-05-01
 - **License:** unknown
-- **Tags:** agent, ai, bot, go, ide, mcp, openclaw, python, web-app
+- **Tags:** agent, ai, bot, go, ide, mcp, multi-agent, openclaw, python, web-app
 
 ## README Excerpt
 

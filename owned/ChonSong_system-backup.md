@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/system-backup
-url: https://github.com/ChonSong/system-backup
+repo: 'ChonSong/system-backup'
+url: 'https://github.com/ChonSong/system-backup'
 description: System configuration and code backup
 type: utility
 status: active
@@ -10,7 +10,7 @@ stars: 0
 last_pushed: '2025-12-11'
 license: unknown
 tags:
-- backup
+  - backup
 ---
 
 # system-backup

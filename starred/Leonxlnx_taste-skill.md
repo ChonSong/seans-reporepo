@@ -1,19 +1,18 @@
 ---
-repo: Leonxlnx/taste-skill
-url: https://github.com/Leonxlnx/taste-skill
-description: 'Taste-Skill - gives your AI good taste. stops the AI from generating
-  boring, generic slop '
+repo: 'Leonxlnx/taste-skill'
+url: 'https://github.com/Leonxlnx/taste-skill'
+description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
 type: unknown
 status: active
 language: Shell
 size_kb: 2694
-stars: 16507
+stars: 16508
 last_pushed: '2026-05-06'
 license: MIT
 tags:
-- agent
-- ai
-- go
+  - agent
+  - ai
+  - go
 ---
 
 # taste-skill
@@ -28,8 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Shell
 - **Size:** 2,694 KB
-- **Stars:** 16,507
+- **Stars:** 16,508
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
 - **Tags:** agent, ai, go
-- **Topics:** agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding

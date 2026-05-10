@@ -1,8 +1,7 @@
 ---
-repo: JaKooLit/NixOS-Hyprland
-url: https://github.com/JaKooLit/NixOS-Hyprland
-description: 'To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot
-  configs are not written in Nix.'
+repo: 'JaKooLit/NixOS-Hyprland'
+url: 'https://github.com/JaKooLit/NixOS-Hyprland'
+description: 'To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.'
 type: unknown
 status: active
 language: Nix
@@ -28,4 +27,3 @@ tags: []
 - **Stars:** 387
 - **Last Pushed:** 2026-02-22
 - **License:** unknown
-- **Topics:** hyprland, hyprland-config, hyprland-rice, nixos, nixos-config, rice, rofi, rofi-config, rofi-menus, rofi-theme, rofi-wayland, swww, wallust, waybar, wayland

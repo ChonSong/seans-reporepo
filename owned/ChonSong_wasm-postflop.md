@@ -1,8 +1,7 @@
 ---
-repo: ChonSong/wasm-postflop
-url: https://github.com/ChonSong/wasm-postflop
-description: '[Development suspended] Advanced open-source Texas Hold''em GTO solver
-  with optimized performance (web browser version)'
+repo: 'ChonSong/wasm-postflop'
+url: 'https://github.com/ChonSong/wasm-postflop'
+description: '[Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance (web browser version)'
 type: webapp
 status: suspended
 language: Vue
@@ -11,13 +10,13 @@ stars: 0
 last_pushed: '2023-10-01'
 license: unknown
 tags:
-- ai
-- gaming
-- go
-- ide
-- solver
-- web-app
-fork_of: ''
+  - ai
+  - browser-automation
+  - gaming
+  - go
+  - ide
+  - solver
+  - web-app
 ---
 
 # wasm-postflop
@@ -25,7 +24,6 @@ fork_of: ''
 > [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance (web browser version)
 
 **URL:** [ChonSong/wasm-postflop](https://github.com/ChonSong/wasm-postflop)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -33,9 +31,10 @@ fork_of: ''
 - **Status:** suspended
 - **Language:** Vue
 - **Size:** 4,450 KB
+- **Stars:** 0
 - **Last Pushed:** 2023-10-01
 - **License:** unknown
-- **Tags:** ai, gaming, go, ide, solver, web-app
+- **Tags:** ai, browser-automation, gaming, go, ide, solver, web-app
 
 ## README Excerpt
 

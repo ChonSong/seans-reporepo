@@ -1,8 +1,7 @@
 ---
-repo: ChonSong/casaos-webhook-emitter
-url: https://github.com/ChonSong/casaos-webhook-emitter
-description: Webhook emitter sidecar for CasaOS — subscribes to MessageBus events
-  and fans them out as HTTP webhooks to agent endpoints.
+repo: 'ChonSong/casaos-webhook-emitter'
+url: 'https://github.com/ChonSong/casaos-webhook-emitter'
+description: Webhook emitter sidecar for CasaOS — subscribes to MessageBus events and fans them out as HTTP webhooks to agent endpoints.
 type: agent
 status: active
 language: Go
@@ -11,14 +10,13 @@ stars: 0
 last_pushed: '2026-04-05'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- go
-- home-server
-- ide
-- web-app
-- webhook
+  - agent
+  - ai
+  - api
+  - awesome-list
+  - go
+  - ide
+  - web-app
 ---
 
 # casaos-webhook-emitter
@@ -36,7 +34,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-04-05
 - **License:** unknown
-- **Tags:** agent, ai, api, go, home-server, ide, web-app, webhook
+- **Tags:** agent, ai, api, awesome-list, go, ide, web-app
 
 ## README Excerpt
 

@@ -1,22 +1,21 @@
 ---
 repo: langfengQ/DrMAS
-url: https://github.com/langfengQ/DrMAS
-description: Dr. MAS is an end-to-end RL training framework for multi-agent LLM systems,
-  supporting the co-training of multiple (heterogeneous) LLMs.
-type: agent
+url: 'https://github.com/langfengQ/DrMAS'
+description: 'Dr. MAS is an end-to-end RL training framework for multi-agent LLM systems, supporting the co-training of multiple (heterogeneous) LLMs.'
+type: library
 status: active
 language: Python
 size_kb: 41195
 stars: 130
 last_pushed: '2026-04-01'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- ai
-- framework
-- llm
-- multi-agent
-- training
+  - agent
+  - ai
+  - framework
+  - llm
+  - multi-agent
+  - training
 ---
 
 # DrMAS
@@ -27,7 +26,7 @@ tags:
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** library
 - **Status:** active
 - **Language:** Python
 - **Size:** 41,195 KB

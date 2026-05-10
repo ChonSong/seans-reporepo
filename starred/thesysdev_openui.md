@@ -1,6 +1,6 @@
 ---
 repo: thesysdev/openui
-url: https://github.com/thesysdev/openui
+url: 'https://github.com/thesysdev/openui'
 description: The Open Standard for Generative UI
 type: unknown
 status: active
@@ -10,9 +10,10 @@ stars: 4515
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- agent
-- ai
-- javascript
+  - agent
+  - ai
+  - javascript
+  - llm
 ---
 
 # openui
@@ -30,5 +31,4 @@ tags:
 - **Stars:** 4,515
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
-- **Tags:** agent, ai, javascript
-- **Topics:** agent, agents, ai, generative-ui, help-wanted, javascript, llm, looking-for-contributors
+- **Tags:** agent, ai, javascript, llm

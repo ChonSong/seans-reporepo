@@ -1,18 +1,18 @@
 ---
 repo: microsoft/RustTraining
-url: https://github.com/microsoft/RustTraining
-description: Beginner, advanced, expert level Rust training material
+url: 'https://github.com/microsoft/RustTraining'
+description: 'Beginner, advanced, expert level Rust training material'
 type: unknown
 status: active
 language: Rust
 size_kb: 1781
-stars: 14254
+stars: 14253
 last_pushed: '2026-05-01'
 license: MIT
 tags:
-- ai
-- rust
-- training
+  - ai
+  - rust
+  - training
 ---
 
 # RustTraining
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 1,781 KB
-- **Stars:** 14,254
+- **Stars:** 14,253
 - **Last Pushed:** 2026-05-01
 - **License:** MIT
 - **Tags:** ai, rust, training

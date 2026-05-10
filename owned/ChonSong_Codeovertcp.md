@@ -1,6 +1,6 @@
 ---
 repo: ChonSong/Codeovertcp
-url: https://github.com/ChonSong/Codeovertcp
+url: 'https://github.com/ChonSong/Codeovertcp'
 description: Voice first agentic packed web based IDE
 type: agent
 status: active
@@ -10,10 +10,10 @@ stars: 0
 last_pushed: '2025-11-19'
 license: unknown
 tags:
-- agent
-- ide
-- voice
-- web-app
+  - agent
+  - ide
+  - voice
+  - web-app
 ---
 
 # Codeovertcp
@@ -26,7 +26,7 @@ tags:
 
 - **Type:** agent
 - **Status:** active
-- **Language:** N/A
+- **Language:** other
 - **Size:** 153 KB
 - **Stars:** 0
 - **Last Pushed:** 2025-11-19

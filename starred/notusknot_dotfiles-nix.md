@@ -1,7 +1,7 @@
 ---
-repo: notusknot/dotfiles-nix
-url: https://github.com/notusknot/dotfiles-nix
-description: Configuration files for my NixOS machine, declared by home-manager
+repo: 'notusknot/dotfiles-nix'
+url: 'https://github.com/notusknot/dotfiles-nix'
+description: 'Configuration files for my NixOS machine, declared by home-manager'
 type: unknown
 status: active
 language: Nix
@@ -27,4 +27,3 @@ tags: []
 - **Stars:** 599
 - **Last Pushed:** 2022-07-26
 - **License:** MIT
-- **Topics:** dotfiles, eww, hyprland, neovim, nix, nixos, rice, unixporn, zsh

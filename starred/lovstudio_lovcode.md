@@ -1,20 +1,19 @@
 ---
 repo: lovstudio/lovcode
-url: https://github.com/lovstudio/lovcode
-description: A desktop companion app for AI coding tools. Browse Claude Code chat
-  history, manage configurations, commands, skills, and more.
+url: 'https://github.com/lovstudio/lovcode'
+description: 'A desktop companion app for AI coding tools. Browse Claude Code chat history, manage configurations, commands, skills, and more.'
 type: unknown
 status: active
 language: TypeScript
 size_kb: 26106
 stars: 328
 last_pushed: '2026-05-09'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- ai
-- react
-- rust
-- typescript
+  - ai
+  - react
+  - rust
+  - typescript
 ---
 
 # lovcode
@@ -33,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
 - **Tags:** ai, react, rust, typescript
-- **Topics:** ai-tools, claude-code, desktop-app, react, rust, tailwindcss, tauri, typescript

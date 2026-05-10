@@ -1,6 +1,6 @@
 ---
 repo: leigest519/OpenGame
-url: https://github.com/leigest519/OpenGame
+url: 'https://github.com/leigest519/OpenGame'
 description: 'OpenGame: Open Agentic Coding for Games'
 type: agent
 status: active
@@ -8,10 +8,10 @@ language: TypeScript
 size_kb: 22439
 stars: 2083
 last_pushed: '2026-04-22'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- gaming
+  - agent
+  - gaming
 ---
 
 # OpenGame

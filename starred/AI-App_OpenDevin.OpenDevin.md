@@ -1,6 +1,6 @@
 ---
-repo: AI-App/OpenDevin.OpenDevin
-url: https://github.com/AI-App/OpenDevin.OpenDevin
+repo: 'AI-App/OpenDevin.OpenDevin'
+url: 'https://github.com/AI-App/OpenDevin.OpenDevin'
 description: '🐚 OpenDevin: Code Less, Make More'
 type: unknown
 status: active

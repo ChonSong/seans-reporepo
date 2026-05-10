@@ -1,8 +1,8 @@
 ---
-repo: ChonSong/hermes-sync
-url: https://github.com/ChonSong/hermes-sync
+repo: 'ChonSong/hermes-sync'
+url: 'https://github.com/ChonSong/hermes-sync'
 description: Hermes Agent state backup
-type: agent
+type: monorepo
 status: active
 language: Python
 size_kb: 197672
@@ -10,15 +10,14 @@ stars: 0
 last_pushed: '2026-05-10'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- backup
-- dashboard
-- docker
-- hermes-agent
-- sync
-- webhook
+  - agent
+  - ai
+  - api
+  - backup
+  - dashboard
+  - docker
+  - hermes-agent
+  - sync
 ---
 
 # hermes-sync
@@ -29,14 +28,14 @@ tags:
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** monorepo
 - **Status:** active
 - **Language:** Python
 - **Size:** 197,672 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown
-- **Tags:** agent, ai, api, backup, dashboard, docker, hermes-agent, sync, webhook
+- **Tags:** agent, ai, api, backup, dashboard, docker, hermes-agent, sync
 
 ## README Excerpt
 

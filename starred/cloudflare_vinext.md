@@ -1,6 +1,6 @@
 ---
 repo: cloudflare/vinext
-url: https://github.com/cloudflare/vinext
+url: 'https://github.com/cloudflare/vinext'
 description: Vite plugin that reimplements the Next.js API surface — deploy anywhere
 type: unknown
 status: active
@@ -10,8 +10,8 @@ stars: 8003
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- api
-- plugin
+  - api
+  - plugin
 ---
 
 # vinext

@@ -1,7 +1,7 @@
 ---
 repo: linuxserver/davos
-url: https://github.com/linuxserver/davos
-description: Web-based FTP automation for Linux servers.
+url: 'https://github.com/linuxserver/davos'
+description: 'Web-based FTP automation for Linux servers.'
 type: webapp
 status: active
 language: Java
@@ -10,8 +10,8 @@ stars: 184
 last_pushed: '2022-01-15'
 license: MIT
 tags:
-- automation
-- web-app
+  - automation
+  - web-app
 ---
 
 # davos
@@ -30,4 +30,3 @@ tags:
 - **Last Pushed:** 2022-01-15
 - **License:** MIT
 - **Tags:** automation, web-app
-- **Topics:** ftp, schedule, server

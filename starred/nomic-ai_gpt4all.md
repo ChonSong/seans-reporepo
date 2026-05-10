@@ -1,8 +1,7 @@
 ---
-repo: nomic-ai/gpt4all
-url: https://github.com/nomic-ai/gpt4all
-description: 'GPT4All: Run Local LLMs on Any Device. Open-source and available for
-  commercial use.'
+repo: 'nomic-ai/gpt4all'
+url: 'https://github.com/nomic-ai/gpt4all'
+description: 'GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.'
 type: unknown
 status: active
 language: C++
@@ -11,8 +10,8 @@ stars: 77363
 last_pushed: '2025-05-27'
 license: MIT
 tags:
-- ai
-- llm
+  - ai
+  - llm
 ---
 
 # gpt4all
@@ -31,4 +30,3 @@ tags:
 - **Last Pushed:** 2025-05-27
 - **License:** MIT
 - **Tags:** ai, llm
-- **Topics:** ai-chat, llm-inference

@@ -1,18 +1,17 @@
 ---
-repo: forrestchang/andrej-karpathy-skills
-url: https://github.com/forrestchang/andrej-karpathy-skills
-description: A single CLAUDE.md file to improve Claude Code behavior, derived from
-  Andrej Karpathy's observations on LLM coding pitfalls.
+repo: 'forrestchang/andrej-karpathy-skills'
+url: 'https://github.com/forrestchang/andrej-karpathy-skills'
+description: 'A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.'
 type: unknown
 status: active
 language: other
 size_kb: 20
-stars: 122917
+stars: 122922
 last_pushed: '2026-04-20'
 license: unknown
 tags:
-- llm
-- research
+  - llm
+  - research
 ---
 
 # andrej-karpathy-skills
@@ -27,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 20 KB
-- **Stars:** 122,917
+- **Stars:** 122,922
 - **Last Pushed:** 2026-04-20
 - **License:** unknown
 - **Tags:** llm, research

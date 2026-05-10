@@ -1,21 +1,19 @@
 ---
 repo: ArcadeData/arcadedb
-url: https://github.com/ArcadeData/arcadedb
-description: ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin,
-  HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first
-  Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
+url: 'https://github.com/ArcadeData/arcadedb'
+description: 'ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.'
 type: unknown
 status: active
 language: Java
-size_kb: 52081
-stars: 856
+size_kb: 51397
+stars: 857
 last_pushed: '2026-05-10'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- docker
-- embeddings
-- go
-- vector-db
+  - docker
+  - embeddings
+  - go
+  - vector-db
 ---
 
 # arcadedb
@@ -29,9 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Java
-- **Size:** 52,081 KB
-- **Stars:** 856
+- **Size:** 51,397 KB
+- **Stars:** 857
 - **Last Pushed:** 2026-05-10
 - **License:** Apache-2.0
 - **Tags:** docker, embeddings, go, vector-db
-- **Topics:** arcadedb, database, dbms, distributed, docker, document, embedded, graph, k8s, key-value, kubernetes, multi-model, orientdb, search-engine, similarity-search, time-series, vector-database, vector-search

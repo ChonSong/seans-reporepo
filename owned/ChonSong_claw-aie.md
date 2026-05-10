@@ -1,8 +1,8 @@
 ---
-repo: ChonSong/claw-aie
-url: https://github.com/ChonSong/claw-aie
-description: AIE-compatible harness with working hooks and tool execution
-type: unknown
+repo: 'ChonSong/claw-aie'
+url: 'https://github.com/ChonSong/claw-aie'
+description: 'AIE-compatible harness with working hooks and tool execution'
+type: agent
 status: active
 language: Python
 size_kb: 126
@@ -10,14 +10,13 @@ stars: 0
 last_pushed: '2026-04-17'
 license: unknown
 tags:
-- agent
-- ai
-- aie
-- cli
-- harness
-- python
-- sync
-- webhook
+  - agent
+  - ai
+  - aie
+  - cli
+  - harness
+  - python
+  - sync
 ---
 
 # claw-aie
@@ -28,14 +27,14 @@ tags:
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** Python
 - **Size:** 126 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-04-17
 - **License:** unknown
-- **Tags:** agent, ai, aie, cli, harness, python, sync, webhook
+- **Tags:** agent, ai, aie, cli, harness, python, sync
 
 ## README Excerpt
 

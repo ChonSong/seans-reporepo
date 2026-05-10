@@ -1,17 +1,16 @@
 ---
-repo: VoltAgent/awesome-design-md
-url: https://github.com/VoltAgent/awesome-design-md
-description: A collection of DESIGN.md files inspired by popular brand design systems.
-  Drop one into your project and let coding agents generate a matching UI.
+repo: 'VoltAgent/awesome-design-md'
+url: 'https://github.com/VoltAgent/awesome-design-md'
+description: A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 type: agent
 status: active
 language: other
 size_kb: 1575
-stars: 74379
+stars: 74385
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- agent
+  - agent
 ---
 
 # awesome-design-md
@@ -26,8 +25,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 1,575 KB
-- **Stars:** 74,379
+- **Stars:** 74,385
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent
-- **Topics:** awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design

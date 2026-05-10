@@ -1,8 +1,8 @@
 ---
-repo: ChonSong/clonezilla-backup
-url: https://github.com/ChonSong/clonezilla-backup
+repo: 'ChonSong/clonezilla-backup'
+url: 'https://github.com/ChonSong/clonezilla-backup'
 description: Clonezilla backup
-type: utility
+type: cli
 status: active
 language: other
 size_kb: 2
@@ -10,10 +10,11 @@ stars: 0
 last_pushed: '2025-12-02'
 license: unknown
 tags:
-- ai
-- backup
-- cli
-- ide
+  - ai
+  - backup
+  - cli
+  - ide
+  - rag
 ---
 
 # clonezilla-backup
@@ -24,14 +25,14 @@ tags:
 
 ## Metadata
 
-- **Type:** utility
+- **Type:** cli
 - **Status:** active
-- **Language:** N/A
+- **Language:** other
 - **Size:** 2 KB
 - **Stars:** 0
 - **Last Pushed:** 2025-12-02
 - **License:** unknown
-- **Tags:** ai, backup, cli, ide
+- **Tags:** ai, backup, cli, ide, rag
 
 ## README Excerpt
 

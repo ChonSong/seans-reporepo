@@ -1,8 +1,7 @@
 ---
-repo: zilliztech/claude-context
-url: https://github.com/zilliztech/claude-context
-description: Code search MCP for Claude Code. Make entire codebase the context for
-  any coding agent.
+repo: 'zilliztech/claude-context'
+url: 'https://github.com/zilliztech/claude-context'
+description: Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 type: agent
 status: active
 language: TypeScript
@@ -11,9 +10,9 @@ stars: 10907
 last_pushed: '2026-05-06'
 license: MIT
 tags:
-- agent
-- mcp
-- typescript
+  - agent
+  - mcp
+  - typescript
 ---
 
 # claude-context
@@ -32,4 +31,3 @@ tags:
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
 - **Tags:** agent, mcp, typescript
-- **Topics:** agent, agentic-rag, ai-coding, claude-code, code-generation, code-search, cursor, embedding, gemini-cli, mcp, merkle-tree, nodejs, openai, rag, semantic-search, typescript, vector-database, vibe-coding, voyage-ai, vscode-extension

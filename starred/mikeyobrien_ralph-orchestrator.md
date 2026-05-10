@@ -1,8 +1,7 @@
 ---
-repo: mikeyobrien/ralph-orchestrator
-url: https://github.com/mikeyobrien/ralph-orchestrator
-description: An improved implementation of the Ralph Wiggum technique for autonomous
-  AI agent orchestration
+repo: 'mikeyobrien/ralph-orchestrator'
+url: 'https://github.com/mikeyobrien/ralph-orchestrator'
+description: An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 type: agent
 status: active
 language: Rust
@@ -11,9 +10,9 @@ stars: 2846
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- agent
-- ai
-- orchestration
+  - agent
+  - ai
+  - orchestration
 ---
 
 # ralph-orchestrator
@@ -32,4 +31,3 @@ tags:
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent, ai, orchestration
-- **Topics:** ai, ai-agents, ai-agents-framework, ai-developer-tools, claude-code, claude-code-cli, codex-cli, development-tools, development-workflow, gemini-cli, kiro, kiro-cli, opencode, ralph-loop, ralph-wiggum

@@ -1,19 +1,19 @@
 ---
-repo: yt-dlp/yt-dlp
-url: https://github.com/yt-dlp/yt-dlp
-description: A feature-rich command-line audio/video downloader
+repo: 'yt-dlp/yt-dlp'
+url: 'https://github.com/yt-dlp/yt-dlp'
+description: 'A feature-rich command-line audio/video downloader'
 type: unknown
 status: active
 language: Python
 size_kb: 60594
-stars: 161405
+stars: 161408
 last_pushed: '2026-05-05'
 license: Unlicense
 tags:
-- audio
-- ide
-- python
-- video
+  - audio
+  - ide
+  - python
+  - video
 ---
 
 # yt-dlp
@@ -28,8 +28,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 60,594 KB
-- **Stars:** 161,405
+- **Stars:** 161,408
 - **Last Pushed:** 2026-05-05
 - **License:** Unlicense
 - **Tags:** audio, ide, python, video
-- **Topics:** cli, downloader, python, sponsorblock, youtube-dl, youtube-downloader, yt-dlp

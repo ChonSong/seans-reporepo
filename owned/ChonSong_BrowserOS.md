@@ -1,8 +1,7 @@
 ---
 repo: ChonSong/BrowserOS
-url: https://github.com/ChonSong/BrowserOS
-description: 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT
-  Atlas, Perplexity Comet, Dia.
+url: 'https://github.com/ChonSong/BrowserOS'
+description: '🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.'
 type: agent
 status: active
 language: C++
@@ -11,14 +10,14 @@ stars: 0
 last_pushed: '2025-12-09'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- cli
-- go
-- ide
-- mcp
-fork_of: ''
+  - agent
+  - ai
+  - api
+  - browser-automation
+  - cli
+  - go
+  - ide
+  - mcp
 ---
 
 # BrowserOS
@@ -26,7 +25,6 @@ fork_of: ''
 > 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 
 **URL:** [ChonSong/BrowserOS](https://github.com/ChonSong/BrowserOS)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -34,9 +32,10 @@ fork_of: ''
 - **Status:** active
 - **Language:** C++
 - **Size:** 583,037 KB
+- **Stars:** 0
 - **Last Pushed:** 2025-12-09
 - **License:** unknown
-- **Tags:** agent, ai, api, cli, go, ide, mcp
+- **Tags:** agent, ai, api, browser-automation, cli, go, ide, mcp
 
 ## README Excerpt
 

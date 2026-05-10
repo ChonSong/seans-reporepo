@@ -1,17 +1,16 @@
 ---
-repo: EveryInc/compound-engineering-plugin
-url: https://github.com/EveryInc/compound-engineering-plugin
-description: Official Compound Engineering plugin for Claude Code, Codex, Cursor,
-  and more
+repo: 'EveryInc/compound-engineering-plugin'
+url: 'https://github.com/EveryInc/compound-engineering-plugin'
+description: 'Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more'
 type: unknown
 status: active
 language: TypeScript
 size_kb: 18000
-stars: 16440
+stars: 16443
 last_pushed: '2026-05-08'
 license: MIT
 tags:
-- plugin
+  - plugin
 ---
 
 # compound-engineering-plugin
@@ -26,8 +25,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 18,000 KB
-- **Stars:** 16,440
+- **Stars:** 16,443
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** plugin
-- **Topics:** compound, engineering

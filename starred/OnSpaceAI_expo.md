@@ -1,8 +1,7 @@
 ---
 repo: OnSpaceAI/expo
-url: https://github.com/OnSpaceAI/expo
-description: An open-source framework for making universal native apps with React.
-  Expo runs on Android, iOS, and the web.
+url: 'https://github.com/OnSpaceAI/expo'
+description: 'An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.'
 type: library
 status: active
 language: TypeScript
@@ -11,9 +10,9 @@ stars: 6
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- framework
-- react
-- web-app
+  - framework
+  - react
+  - web-app
 ---
 
 # expo

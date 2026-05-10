@@ -1,8 +1,7 @@
 ---
-repo: ChonSong/mobile-codeovertcp.com
-url: https://github.com/ChonSong/mobile-codeovertcp.com
-description: Complete mobile-optimized VS Code code-server setup with touch-friendly
-  interface, responsive design, and autonomous development workflow
+repo: 'ChonSong/mobile-codeovertcp.com'
+url: 'https://github.com/ChonSong/mobile-codeovertcp.com'
+description: 'Complete mobile-optimized VS Code code-server setup with touch-friendly interface, responsive design, and autonomous development workflow'
 type: infrastructure
 status: active
 language: CSS
@@ -11,13 +10,13 @@ stars: 0
 last_pushed: '2025-11-26'
 license: unknown
 tags:
-- ai
-- backup
-- ide
-- mobile
-- nginx
-- proxy
-- remote-dev
+  - ai
+  - backup
+  - ide
+  - mobile
+  - nginx
+  - proxy
+  - remote-dev
 ---
 
 # mobile-codeovertcp.com

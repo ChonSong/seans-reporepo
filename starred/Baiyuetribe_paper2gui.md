@@ -1,8 +1,7 @@
 ---
 repo: Baiyuetribe/paper2gui
-url: https://github.com/Baiyuetribe/paper2gui
-description: Convert AI papers to GUI，Make it easy and convenient for everyone to
-  use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+url: 'https://github.com/Baiyuetribe/paper2gui'
+description: Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 type: unknown
 status: active
 language: Jupyter Notebook
@@ -11,7 +10,7 @@ stars: 10724
 last_pushed: '2024-09-20'
 license: MIT
 tags:
-- ai
+  - ai
 ---
 
 # paper2gui
@@ -30,4 +29,3 @@ tags:
 - **Last Pushed:** 2024-09-20
 - **License:** MIT
 - **Tags:** ai
-- **Topics:** animegan2, codeformer-gui, dain, dain-gui, gfpgan, huoshan-tts, microsoft-tts, ncnn, ncnn-model, noveria, realcugan-gui, realcugan-pro, realesrganv2-gu, rife-gui, stable-diffusion, waifu2x-gui

@@ -1,8 +1,7 @@
 ---
 repo: stitionai/devika
-url: https://github.com/stitionai/devika
-description: Devika is the first open-source implementation of an Agentic Software
-  Engineer. Initially started as an open-source alternative to Devin.
+url: 'https://github.com/stitionai/devika'
+description: 'Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.'
 type: agent
 status: active
 language: Python
@@ -11,7 +10,7 @@ stars: 19510
 last_pushed: '2025-09-25'
 license: MIT
 tags:
-- agent
+  - agent
 ---
 
 # devika

@@ -1,8 +1,7 @@
 ---
 repo: jayminwest/overstory
-url: https://github.com/jayminwest/overstory
-description: Multi-agent orchestration for AI coding agents — pluggable runtime adapters
-  for Claude Code, Pi, and more
+url: 'https://github.com/jayminwest/overstory'
+description: 'Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more'
 type: agent
 status: active
 language: TypeScript
@@ -11,10 +10,10 @@ stars: 1284
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- agent
-- ai
-- multi-agent
-- orchestration
+  - agent
+  - ai
+  - multi-agent
+  - orchestration
 ---
 
 # overstory
@@ -33,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** agent, ai, multi-agent, orchestration
-- **Topics:** agent-swarms, ai-agents, claude-code, tmux

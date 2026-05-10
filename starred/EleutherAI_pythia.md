@@ -1,6 +1,6 @@
 ---
 repo: EleutherAI/pythia
-url: https://github.com/EleutherAI/pythia
+url: 'https://github.com/EleutherAI/pythia'
 description: The hub for EleutherAI's work on interpretability and learning dynamics
 type: unknown
 status: active
@@ -8,9 +8,9 @@ language: Jupyter Notebook
 size_kb: 510882
 stars: 2792
 last_pushed: '2025-11-15'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- ai
+  - ai
 ---
 
 # pythia

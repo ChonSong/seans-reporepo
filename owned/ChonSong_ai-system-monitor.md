@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/ai-system-monitor
-url: https://github.com/ChonSong/ai-system-monitor
+repo: 'ChonSong/ai-system-monitor'
+url: 'https://github.com/ChonSong/ai-system-monitor'
 description: No description
 type: unknown
 status: active
@@ -27,7 +27,3 @@ tags: []
 - **Stars:** 0
 - **Last Pushed:** 2025-11-25
 - **License:** unknown
-
-## README Excerpt
-
-,jhw]˦z{Z*'alhr"r-ܢ{^ z֫z,+ʷvgn8...

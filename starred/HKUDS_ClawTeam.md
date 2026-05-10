@@ -1,6 +1,6 @@
 ---
 repo: HKUDS/ClawTeam
-url: https://github.com/HKUDS/ClawTeam
+url: 'https://github.com/HKUDS/ClawTeam'
 description: '"ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)'
 type: agent
 status: active
@@ -10,9 +10,9 @@ stars: 5145
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- agent
-- automation
-- multi-agent
+  - agent
+  - automation
+  - multi-agent
 ---
 
 # ClawTeam

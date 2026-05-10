@@ -1,17 +1,17 @@
 ---
 repo: HKUDS/OpenHarness
-url: https://github.com/HKUDS/OpenHarness
+url: 'https://github.com/HKUDS/OpenHarness'
 description: '"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"'
 type: agent
 status: active
 language: Python
 size_kb: 11529
-stars: 12272
+stars: 12271
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- agent
-- harness
+  - agent
+  - harness
 ---
 
 # OpenHarness
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 11,529 KB
-- **Stars:** 12,272
+- **Stars:** 12,271
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, harness

@@ -1,6 +1,6 @@
 ---
-repo: ChonSong/hermes-agent
-url: https://github.com/ChonSong/hermes-agent
+repo: 'ChonSong/hermes-agent'
+url: 'https://github.com/ChonSong/hermes-agent'
 description: The agent that grows with you
 type: agent
 status: active
@@ -10,21 +10,20 @@ stars: 0
 last_pushed: '2026-05-02'
 license: unknown
 tags:
-- agent
-- ai
-- automation
-- backup
-- cli
-- go
-- hermes-agent
-- infrastructure
-- llm
-- python
-- solver
-- terminal
-- tui
-- voice
-fork_of: ''
+  - agent
+  - ai
+  - automation
+  - backup
+  - cli
+  - go
+  - hermes-agent
+  - infrastructure
+  - llm
+  - python
+  - solver
+  - terminal
+  - tui
+  - voice
 ---
 
 # hermes-agent
@@ -32,7 +31,6 @@ fork_of: ''
 > The agent that grows with you
 
 **URL:** [ChonSong/hermes-agent](https://github.com/ChonSong/hermes-agent)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -40,6 +38,7 @@ fork_of: ''
 - **Status:** active
 - **Language:** Python
 - **Size:** 172,173 KB
+- **Stars:** 0
 - **Last Pushed:** 2026-05-02
 - **License:** unknown
 - **Tags:** agent, ai, automation, backup, cli, go, hermes-agent, infrastructure, llm, python, solver, terminal, tui, voice

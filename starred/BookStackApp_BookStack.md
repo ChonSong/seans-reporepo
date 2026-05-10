@@ -1,6 +1,6 @@
 ---
 repo: BookStackApp/BookStack
-url: https://github.com/BookStackApp/BookStack
+url: 'https://github.com/BookStackApp/BookStack'
 description: NOW MANAGED ON CODEBERG
 type: unknown
 status: active
@@ -27,4 +27,3 @@ tags: []
 - **Stars:** 18,749
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Topics:** bookstack, documentation, laravel, php, selfhosted, wiki

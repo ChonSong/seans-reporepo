@@ -1,9 +1,8 @@
 ---
-repo: ChonSong/linux-web-serving-infrastructure
-url: https://github.com/ChonSong/linux-web-serving-infrastructure
-description: Complete infrastructure for serving Linux applications over the web with
-  nginx, Docker, WebSocket, and enterprise-grade security
-type: webapp
+repo: 'ChonSong/linux-web-serving-infrastructure'
+url: 'https://github.com/ChonSong/linux-web-serving-infrastructure'
+description: 'Complete infrastructure for serving Linux applications over the web with nginx, Docker, WebSocket, and enterprise-grade security'
+type: library
 status: active
 language: TypeScript
 size_kb: 276
@@ -11,28 +10,29 @@ stars: 0
 last_pushed: '2025-12-29'
 license: unknown
 tags:
-- ai
-- api
-- automation
-- backup
-- cli
-- database
-- docker
-- framework
-- ide
-- infrastructure
-- logging
-- mobile
-- monitoring
-- nginx
-- orchestration
-- proxy
-- react
-- remote-dev
-- sync
-- testing
-- typescript
-- web-app
+  - ai
+  - api
+  - automation
+  - backup
+  - cli
+  - database
+  - docker
+  - framework
+  - ide
+  - infrastructure
+  - logging
+  - mobile
+  - monitoring
+  - nginx
+  - orchestration
+  - proxy
+  - rag
+  - react
+  - remote-dev
+  - sync
+  - testing
+  - typescript
+  - web-app
 ---
 
 # linux-web-serving-infrastructure
@@ -43,14 +43,14 @@ tags:
 
 ## Metadata
 
-- **Type:** webapp
+- **Type:** library
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 276 KB
 - **Stars:** 0
 - **Last Pushed:** 2025-12-29
 - **License:** unknown
-- **Tags:** ai, api, automation, backup, cli, database, docker, framework, ide, infrastructure, logging, mobile, monitoring, nginx, orchestration, proxy, react, remote-dev, sync, testing, typescript, web-app
+- **Tags:** ai, api, automation, backup, cli, database, docker, framework, ide, infrastructure, logging, mobile, monitoring, nginx, orchestration, proxy, rag, react, remote-dev, sync, testing, typescript, web-app
 
 ## README Excerpt
 

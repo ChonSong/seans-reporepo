@@ -1,6 +1,6 @@
 ---
 repo: HKUDS/CatchMe
-url: https://github.com/HKUDS/CatchMe
+url: 'https://github.com/HKUDS/CatchMe'
 description: '"CatchMe: Make Your AI Agents Truly Personal"'
 type: agent
 status: active
@@ -8,10 +8,11 @@ language: Python
 size_kb: 18671
 stars: 391
 last_pushed: '2026-04-25'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- ai
+  - agent
+  - ai
+  - llm
 ---
 
 # CatchMe
@@ -29,5 +30,4 @@ tags:
 - **Stars:** 391
 - **Last Pushed:** 2026-04-25
 - **License:** Apache-2.0
-- **Tags:** agent, ai
-- **Topics:** ai-agent, clawdbot-plugin, llm, recall-ai, retrieval-systems, screen-recorder
+- **Tags:** agent, ai, llm

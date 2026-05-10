@@ -1,7 +1,7 @@
 ---
-repo: ChonSong/nanobot-workspace
-url: https://github.com/ChonSong/nanobot-workspace
-description: nanobot workspace - scripts, skills, and plans
+repo: 'ChonSong/nanobot-workspace'
+url: 'https://github.com/ChonSong/nanobot-workspace'
+description: 'nanobot workspace - scripts, skills, and plans'
 type: agent
 status: active
 language: Shell
@@ -10,8 +10,8 @@ stars: 0
 last_pushed: '2026-03-05'
 license: unknown
 tags:
-- agent
-- bot
+  - agent
+  - bot
 ---
 
 # nanobot-workspace
@@ -30,7 +30,3 @@ tags:
 - **Last Pushed:** 2026-03-05
 - **License:** unknown
 - **Tags:** agent, bot
-
-## README Excerpt
-
-,jhw]˦z{Z*'alhr"r-ܢ{^ z֫z,+ʷvgn8...

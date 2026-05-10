@@ -1,8 +1,8 @@
 ---
-repo: ChonSong/repo-transmute
-url: https://github.com/ChonSong/repo-transmute
-description: AI-powered code transpilation engine
-type: unknown
+repo: 'ChonSong/repo-transmute'
+url: 'https://github.com/ChonSong/repo-transmute'
+description: 'AI-powered code transpilation engine'
+type: agent
 status: active
 language: Python
 size_kb: 3975
@@ -10,17 +10,18 @@ stars: 0
 last_pushed: '2026-05-10'
 license: unknown
 tags:
-- agent
-- ai
-- api
-- cli
-- ide
-- llm
-- python
-- solver
-- transpilation
-- typescript
-- vector-search
+  - agent
+  - ai
+  - api
+  - cli
+  - ide
+  - llm
+  - multi-agent
+  - python
+  - solver
+  - transpilation
+  - typescript
+  - vector-search
 ---
 
 # repo-transmute
@@ -31,14 +32,14 @@ tags:
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** Python
 - **Size:** 3,975 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown
-- **Tags:** agent, ai, api, cli, ide, llm, python, solver, transpilation, typescript, vector-search
+- **Tags:** agent, ai, api, cli, ide, llm, multi-agent, python, solver, transpilation, typescript, vector-search
 
 ## README Excerpt
 

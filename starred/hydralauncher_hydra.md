@@ -1,8 +1,7 @@
 ---
 repo: hydralauncher/hydra
-url: https://github.com/hydralauncher/hydra
-description: Hydra Launcher is an open-source gaming platform created to be the single
-  tool that you need
+url: 'https://github.com/hydralauncher/hydra'
+description: 'Hydra Launcher is an open-source gaming platform created to be the single tool that you need'
 type: unknown
 status: active
 language: TypeScript

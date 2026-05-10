@@ -1,17 +1,17 @@
 ---
 repo: NVIDIA/OpenShell
-url: https://github.com/NVIDIA/OpenShell
-description: OpenShell is the safe, private runtime for autonomous AI agents.
+url: 'https://github.com/NVIDIA/OpenShell'
+description: 'OpenShell is the safe, private runtime for autonomous AI agents.'
 type: agent
 status: active
 language: Rust
 size_kb: 34605
 stars: 5690
 last_pushed: '2026-05-10'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- ai
+  - agent
+  - ai
 ---
 
 # OpenShell

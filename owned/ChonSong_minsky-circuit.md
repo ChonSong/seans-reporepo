@@ -1,9 +1,8 @@
 ---
-repo: ChonSong/minsky-circuit
-url: https://github.com/ChonSong/minsky-circuit
-description: A lightweight simulator modelling how credit expansion, leverage cycles,
-  and asset price deflation interact across a simplified economy.
-type: unknown
+repo: 'ChonSong/minsky-circuit'
+url: 'https://github.com/ChonSong/minsky-circuit'
+description: 'A lightweight simulator modelling how credit expansion, leverage cycles, and asset price deflation interact across a simplified economy.'
+type: infrastructure
 status: active
 language: Python
 size_kb: 4
@@ -11,9 +10,10 @@ stars: 0
 last_pushed: '2026-03-29'
 license: unknown
 tags:
-- ai
-- infrastructure
-- python
+  - ai
+  - infrastructure
+  - python
+  - rag
 ---
 
 # minsky-circuit
@@ -24,14 +24,14 @@ tags:
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** infrastructure
 - **Status:** active
 - **Language:** Python
 - **Size:** 4 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-03-29
 - **License:** unknown
-- **Tags:** ai, infrastructure, python
+- **Tags:** ai, infrastructure, python, rag
 
 ## README Excerpt
 

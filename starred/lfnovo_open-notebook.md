@@ -1,8 +1,7 @@
 ---
-repo: lfnovo/open-notebook
-url: https://github.com/lfnovo/open-notebook
-description: An Open Source implementation of Notebook LM with more flexibility and
-  features
+repo: 'lfnovo/open-notebook'
+url: 'https://github.com/lfnovo/open-notebook'
+description: An Open Source implementation of Notebook LM with more flexibility and features
 type: unknown
 status: active
 language: TypeScript
@@ -28,4 +27,3 @@ tags: []
 - **Stars:** 23,194
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
-- **Topics:** assistant, learning, note-taking, notebook, notes-app, self-learning

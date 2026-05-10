@@ -1,6 +1,6 @@
 ---
-repo: better-auth/better-auth
-url: https://github.com/better-auth/better-auth
+repo: 'better-auth/better-auth'
+url: 'https://github.com/better-auth/better-auth'
 description: The most comprehensive authentication framework
 type: library
 status: active
@@ -10,8 +10,8 @@ stars: 28239
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- framework
-- typescript
+  - framework
+  - typescript
 ---
 
 # better-auth
@@ -30,4 +30,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** framework, typescript
-- **Topics:** authentication, iam, oauth, oauth2, oidc, sso, stripe, typescript

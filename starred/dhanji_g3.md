@@ -1,6 +1,6 @@
 ---
 repo: dhanji/g3
-url: https://github.com/dhanji/g3
+url: 'https://github.com/dhanji/g3'
 description: experiments in goose
 type: unknown
 status: active
@@ -10,7 +10,7 @@ stars: 511
 last_pushed: '2026-05-02'
 license: unknown
 tags:
-- go
+  - go
 ---
 
 # g3

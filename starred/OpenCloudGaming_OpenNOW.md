@@ -1,6 +1,6 @@
 ---
 repo: OpenCloudGaming/OpenNOW
-url: https://github.com/OpenCloudGaming/OpenNOW
+url: 'https://github.com/OpenCloudGaming/OpenNOW'
 description: Custom GeForce Now Client Named OpenNOW
 type: cli
 status: active
@@ -10,7 +10,7 @@ stars: 2024
 last_pushed: '2026-05-10'
 license: MIT
 tags:
-- cli
+  - cli
 ---
 
 # OpenNOW
@@ -29,4 +29,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** cli
-- **Topics:** cloud-gaming, cross-platform, game-streaming, geforce-now, gfn, nvidia

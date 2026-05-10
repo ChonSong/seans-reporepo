@@ -1,18 +1,18 @@
 ---
 repo: karpathy/autoresearch
-url: https://github.com/karpathy/autoresearch
-description: AI agents running research on single-GPU nanochat training automatically
+url: 'https://github.com/karpathy/autoresearch'
+description: 'AI agents running research on single-GPU nanochat training automatically'
 type: agent
 status: active
 language: Python
 size_kb: 530
-stars: 80109
+stars: 80112
 last_pushed: '2026-03-26'
 license: unknown
 tags:
-- agent
-- ai
-- training
+  - agent
+  - ai
+  - training
 ---
 
 # autoresearch
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 530 KB
-- **Stars:** 80,109
+- **Stars:** 80,112
 - **Last Pushed:** 2026-03-26
 - **License:** unknown
 - **Tags:** agent, ai, training

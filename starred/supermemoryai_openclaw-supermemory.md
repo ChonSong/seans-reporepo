@@ -1,8 +1,7 @@
 ---
-repo: supermemoryai/openclaw-supermemory
-url: https://github.com/supermemoryai/openclaw-supermemory
-description: OpenClaw Supermemory lets to have long-term memory and recall for your
-  openclaw agent.
+repo: 'supermemoryai/openclaw-supermemory'
+url: 'https://github.com/supermemoryai/openclaw-supermemory'
+description: 'OpenClaw Supermemory lets to have long-term memory and recall for your openclaw agent.'
 type: agent
 status: active
 language: TypeScript
@@ -11,8 +10,8 @@ stars: 774
 last_pushed: '2026-05-08'
 license: unknown
 tags:
-- agent
-- openclaw
+  - agent
+  - openclaw
 ---
 
 # openclaw-supermemory
@@ -31,4 +30,3 @@ tags:
 - **Last Pushed:** 2026-05-08
 - **License:** unknown
 - **Tags:** agent, openclaw
-- **Topics:** ai-memory, clawd, clawdbot, memory, moltbot, openai, openclaw

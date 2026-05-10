@@ -1,8 +1,8 @@
 ---
-repo: BuilderIO/agent-native
-url: https://github.com/BuilderIO/agent-native
-description: A framework for building agent-native applications.
-type: agent
+repo: 'BuilderIO/agent-native'
+url: 'https://github.com/BuilderIO/agent-native'
+description: 'A framework for building agent-native applications.'
+type: library
 status: active
 language: TypeScript
 size_kb: 64005
@@ -10,10 +10,10 @@ stars: 139
 last_pushed: '2026-05-10'
 license: unknown
 tags:
-- agent
-- ai
-- framework
-- react
+  - agent
+  - ai
+  - framework
+  - react
 ---
 
 # agent-native
@@ -24,7 +24,7 @@ tags:
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** library
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 64,005 KB
@@ -32,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** unknown
 - **Tags:** agent, ai, framework, react
-- **Topics:** agents, ai, react

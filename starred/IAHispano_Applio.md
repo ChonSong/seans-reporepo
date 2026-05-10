@@ -1,8 +1,7 @@
 ---
 repo: IAHispano/Applio
-url: https://github.com/IAHispano/Applio
-description: A simple, high-quality voice conversion tool focused on ease of use and
-  performance.
+url: 'https://github.com/IAHispano/Applio'
+description: 'A simple, high-quality voice conversion tool focused on ease of use and performance.'
 type: unknown
 status: active
 language: Python
@@ -11,8 +10,8 @@ stars: 3246
 last_pushed: '2026-05-06'
 license: MIT
 tags:
-- ai
-- voice
+  - ai
+  - voice
 ---
 
 # Applio
@@ -31,4 +30,3 @@ tags:
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
 - **Tags:** ai, voice
-- **Topics:** ai, applio, pytorch, rvc, speech, speech-to-speech, text-to-speech, tts, vc, vits, voice, voice-clone, voice-cloning, voice-conversion

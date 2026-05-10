@@ -1,6 +1,6 @@
 ---
 repo: qemus/qemu
-url: https://github.com/qemus/qemu
+url: 'https://github.com/qemus/qemu'
 description: QEMU in a Docker container.
 type: infrastructure
 status: active
@@ -10,8 +10,8 @@ stars: 1823
 last_pushed: '2026-05-09'
 license: MIT
 tags:
-- ai
-- docker
+  - ai
+  - docker
 ---
 
 # qemu
@@ -30,4 +30,3 @@ tags:
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** ai, docker
-- **Topics:** docker, docker-image, kvm, kvm-hypervisor, qemu, qemu-kvm, virtual-machine, virtualization

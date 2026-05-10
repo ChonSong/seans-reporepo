@@ -1,8 +1,7 @@
 ---
 repo: ChonSong/pokerkit
-url: https://github.com/ChonSong/pokerkit
-description: An open-source Python library for poker game simulations, hand evaluations,
-  and statistical analysis
+url: 'https://github.com/ChonSong/pokerkit'
+description: 'An open-source Python library for poker game simulations, hand evaluations, and statistical analysis'
 type: library
 status: active
 language: Python
@@ -11,15 +10,15 @@ stars: 0
 last_pushed: '2025-05-08'
 license: unknown
 tags:
-- ai
-- api
-- automation
-- gaming
-- ide
-- llm
-- python
-- tui
-fork_of: ''
+  - ai
+  - api
+  - automation
+  - gaming
+  - ide
+  - llm
+  - python
+  - rag
+  - tui
 ---
 
 # pokerkit
@@ -27,7 +26,6 @@ fork_of: ''
 > An open-source Python library for poker game simulations, hand evaluations, and statistical analysis
 
 **URL:** [ChonSong/pokerkit](https://github.com/ChonSong/pokerkit)
-**Fork of:** [](https://github.com/)
 
 ## Metadata
 
@@ -35,9 +33,10 @@ fork_of: ''
 - **Status:** active
 - **Language:** Python
 - **Size:** 6,067 KB
+- **Stars:** 0
 - **Last Pushed:** 2025-05-08
 - **License:** unknown
-- **Tags:** ai, api, automation, gaming, ide, llm, python, tui
+- **Tags:** ai, api, automation, gaming, ide, llm, python, rag, tui
 
 ## README Excerpt
 

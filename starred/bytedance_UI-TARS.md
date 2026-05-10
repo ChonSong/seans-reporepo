@@ -1,6 +1,6 @@
 ---
-repo: bytedance/UI-TARS
-url: https://github.com/bytedance/UI-TARS
+repo: 'bytedance/UI-TARS'
+url: 'https://github.com/bytedance/UI-TARS'
 description: Pioneering Automated GUI Interaction with Native Agents
 type: agent
 status: active
@@ -8,9 +8,9 @@ language: Python
 size_kb: 44374
 stars: 10338
 last_pushed: '2026-01-27'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
+  - agent
 ---
 
 # UI-TARS
@@ -29,4 +29,3 @@ tags:
 - **Last Pushed:** 2026-01-27
 - **License:** Apache-2.0
 - **Tags:** agent
-- **Topics:** research

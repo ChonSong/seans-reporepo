@@ -1,9 +1,8 @@
 ---
-repo: ChonSong/llm-benchmark-platform
-url: https://github.com/ChonSong/llm-benchmark-platform
-description: Web-based LLM benchmarking platform for comparing coding models across
-  adherence, refactoring, and extension tasks
-type: webapp
+repo: 'ChonSong/llm-benchmark-platform'
+url: 'https://github.com/ChonSong/llm-benchmark-platform'
+description: 'Web-based LLM benchmarking platform for comparing coding models across adherence, refactoring, and extension tasks'
+type: monorepo
 status: active
 language: Python
 size_kb: 73
@@ -11,18 +10,19 @@ stars: 0
 last_pushed: '2025-12-22'
 license: unknown
 tags:
-- ai
-- api
-- benchmarking
-- cli
-- dashboard
-- docker
-- go
-- ide
-- llm
-- python
-- typescript
-- web-app
+  - ai
+  - api
+  - awesome-list
+  - benchmarking
+  - cli
+  - dashboard
+  - docker
+  - go
+  - ide
+  - llm
+  - python
+  - typescript
+  - web-app
 ---
 
 # llm-benchmark-platform
@@ -33,14 +33,14 @@ tags:
 
 ## Metadata
 
-- **Type:** webapp
+- **Type:** monorepo
 - **Status:** active
 - **Language:** Python
 - **Size:** 73 KB
 - **Stars:** 0
 - **Last Pushed:** 2025-12-22
 - **License:** unknown
-- **Tags:** ai, api, benchmarking, cli, dashboard, docker, go, ide, llm, python, typescript, web-app
+- **Tags:** ai, api, awesome-list, benchmarking, cli, dashboard, docker, go, ide, llm, python, typescript, web-app
 
 ## README Excerpt
 

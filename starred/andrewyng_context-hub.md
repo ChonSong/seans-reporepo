@@ -1,6 +1,6 @@
 ---
-repo: andrewyng/context-hub
-url: https://github.com/andrewyng/context-hub
+repo: 'andrewyng/context-hub'
+url: 'https://github.com/andrewyng/context-hub'
 description: No description
 type: unknown
 status: active

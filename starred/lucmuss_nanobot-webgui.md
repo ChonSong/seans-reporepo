@@ -1,8 +1,7 @@
 ---
-repo: lucmuss/nanobot-webgui
-url: https://github.com/lucmuss/nanobot-webgui
-description: Production-focused web GUI for HKUDS/nanobot with setup wizard, MCP management,
-  chat, memory, and admin controls.
+repo: 'lucmuss/nanobot-webgui'
+url: 'https://github.com/lucmuss/nanobot-webgui'
+description: 'Production-focused web GUI for HKUDS/nanobot with setup wizard, MCP management, chat, memory, and admin controls.'
 type: agent
 status: active
 language: Python
@@ -11,10 +10,10 @@ stars: 21
 last_pushed: '2026-04-05'
 license: MIT
 tags:
-- agent
-- bot
-- mcp
-- web-app
+  - agent
+  - bot
+  - mcp
+  - web-app
 ---
 
 # nanobot-webgui
@@ -33,4 +32,3 @@ tags:
 - **Last Pushed:** 2026-04-05
 - **License:** MIT
 - **Tags:** agent, bot, mcp, web-app
-- **Topics:** nanobot, nanobot-skill, nanobot-webui, openclaw

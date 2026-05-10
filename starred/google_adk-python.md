@@ -1,19 +1,19 @@
 ---
-repo: google/adk-python
-url: https://github.com/google/adk-python
-description: An open-source, code-first Python toolkit for building, evaluating, and
-  deploying sophisticated AI agents with flexibility and control.
+repo: 'google/adk-python'
+url: 'https://github.com/google/adk-python'
+description: 'An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.'
 type: agent
 status: active
 language: Python
 size_kb: 63645
 stars: 19554
 last_pushed: '2026-05-09'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- ai
-- python
+  - agent
+  - ai
+  - llm
+  - python
 ---
 
 # adk-python
@@ -31,5 +31,4 @@ tags:
 - **Stars:** 19,554
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
-- **Tags:** agent, ai, python
-- **Topics:** agent, agentic, agentic-ai, agents, agents-sdk, ai, ai-agents, aiagentframework, genai, genai-chatbot, llm, llms, multi-agent, multi-agent-systems, multi-agents, multi-agents-collaboration
+- **Tags:** agent, ai, llm, python

@@ -1,18 +1,17 @@
 ---
-repo: FunAudioLLM/Fun-Audio-Chat
-url: https://github.com/FunAudioLLM/Fun-Audio-Chat
-description: Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency
-  voice interactions.
+repo: 'FunAudioLLM/Fun-Audio-Chat'
+url: 'https://github.com/FunAudioLLM/Fun-Audio-Chat'
+description: 'Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.'
 type: unknown
 status: active
 language: Python
 size_kb: 9592
 stars: 938
 last_pushed: '2026-02-27'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- audio
-- voice
+  - audio
+  - voice
 ---
 
 # Fun-Audio-Chat

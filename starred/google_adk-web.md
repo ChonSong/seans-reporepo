@@ -1,18 +1,17 @@
 ---
-repo: google/adk-web
-url: https://github.com/google/adk-web
-description: 'Agent Development Kit Web (adk web) is the built-in developer UI that
-  is integrated with Agent Development Kit for easier agent development and debugging. '
+repo: 'google/adk-web'
+url: 'https://github.com/google/adk-web'
+description: 'Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. '
 type: agent
 status: active
 language: TypeScript
 size_kb: 2060
 stars: 940
 last_pushed: '2026-04-28'
-license: Apache-2.0
+license: 'Apache-2.0'
 tags:
-- agent
-- web-app
+  - agent
+  - web-app
 ---
 
 # adk-web

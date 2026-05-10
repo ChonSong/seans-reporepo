@@ -1,19 +1,18 @@
 ---
 repo: netdata/netdata
-url: https://github.com/netdata/netdata
-description: The fastest path to AI-powered full stack observability, even for lean
-  teams.
+url: 'https://github.com/netdata/netdata'
+description: 'The fastest path to AI-powered full stack observability, even for lean teams.'
 type: unknown
 status: active
 language: C
 size_kb: 270089
 stars: 78762
 last_pushed: '2026-05-10'
-license: GPL-3.0
+license: 'GPL-3.0'
 tags:
-- ai
-- docker
-- multi-agent
+  - ai
+  - docker
+  - multi-agent
 ---
 
 # netdata
@@ -32,4 +31,3 @@ tags:
 - **Last Pushed:** 2026-05-10
 - **License:** GPL-3.0
 - **Tags:** ai, docker, multi-agent
-- **Topics:** ai, alerting, cncf, data-visualization, database, devops, docker, grafana, influxdb, kubernetes, linux, machine-learning, mcp, mongodb, monitoring, mysql, netdata, observability, postgresql, prometheus

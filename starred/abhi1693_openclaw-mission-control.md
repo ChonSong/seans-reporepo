@@ -1,9 +1,8 @@
 ---
-repo: abhi1693/openclaw-mission-control
-url: https://github.com/abhi1693/openclaw-mission-control
-description: AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and
-  coordinate multi-agent collaboration via OpenClaw Gateway.
-type: agent
+repo: 'abhi1693/openclaw-mission-control'
+url: 'https://github.com/abhi1693/openclaw-mission-control'
+description: 'AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.'
+type: monorepo
 status: active
 language: TypeScript
 size_kb: 31975
@@ -11,12 +10,12 @@ stars: 3943
 last_pushed: '2026-04-06'
 license: MIT
 tags:
-- agent
-- ai
-- dashboard
-- multi-agent
-- openclaw
-- orchestration
+  - agent
+  - ai
+  - dashboard
+  - multi-agent
+  - openclaw
+  - orchestration
 ---
 
 # openclaw-mission-control
@@ -27,7 +26,7 @@ tags:
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 31,975 KB
@@ -35,4 +34,3 @@ tags:
 - **Last Pushed:** 2026-04-06
 - **License:** MIT
 - **Tags:** agent, ai, dashboard, multi-agent, openclaw, orchestration
-- **Topics:** ai-agents, automation, openclaw, orchestration
