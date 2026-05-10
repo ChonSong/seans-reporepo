@@ -7,7 +7,7 @@
 | | Owned | Starred | Total |
 |---|---|---|---|
 | Repos | 35 | 117 | 152 |
-| Total Size | 2,137,995 KB | 13,958,233 KB | 16,096,228 KB (15,718 MB) |
+| Total Size | 2,137,995 KB | 13,958,435 KB | 16,096,430 KB (15,719 MB) |
 | Languages | 11 | 15 | 18 |
 | Tags | — | — | 65 |
 
@@ -23,21 +23,8 @@
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
 ├── scripts/         # Utility scripts for catalog management
-│   ├── generate-catalog.py  # Main catalog generation script
-│   ├── refresh.sh           # Wrapper: pull, generate, commit, push
-│   └── query.py             # CLI query tool
 └── README.md        # This file
 ```
-
-## Auto-Refresh
-
-Catalog regenerates automatically every Monday at 9:00 AM via cron job. The script:
-1. Pulls latest changes
-2. Fetches current owned/starred repos via `gh` CLI
-3. Regenerates all markdown files
-4. Commits and pushes if there are changes
-
-Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 
 ## Owned Repositories
 
@@ -58,6 +45,12 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | [nanobot-workspace](owned/ChonSong_nanobot-workspace.md) | Shell | 101 KB | 0 | agent, bot |
 | [ecosystem](owned/ChonSong_ecosystem.md) | Shell | 93 KB | 0 | agent, ai, aie |
 | [casaos-webhook-emitter](owned/ChonSong_casaos-webhook-emitter.md) | Go | 21 KB | 0 | agent, ai, api |
+
+### Awesome List (1)
+
+| Repo | Language | Size | Stars | Tags |
+|---|---|---|---|---|
+| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 0 KB | 0 | agent, ai, aie |
 
 ### Cli (2)
 
@@ -84,7 +77,7 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | [linux-web-serving-infrastructure](owned/ChonSong_linux-web-serving-infrastructure.md) | TypeScript | 276 KB | 0 | ai, api, automation |
 | [circuit-breaker-framework](owned/ChonSong_circuit-breaker-framework.md) | Python | 15 KB | 0 | agent, ai, aie |
 
-### Monorepo (5)
+### Monorepo (4)
 
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
@@ -92,7 +85,6 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | [agent-os](owned/ChonSong_agent-os.md) | Python | 10,219 KB | 0 | agent, ai, api |
 | [everything-dashboard](owned/ChonSong_everything-dashboard.md) | TypeScript | 76 KB | 0 | agent, dashboard, express |
 | [llm-benchmark-platform](owned/ChonSong_llm-benchmark-platform.md) | Python | 73 KB | 0 | ai, api, awesome-list |
-| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 0 KB | 0 | agent, ai, aie |
 
 ### Unknown (5)
 
@@ -120,25 +112,25 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 
 | Repo | Type | Language | Stars | Tags |
 |---|---|---|---|---|
-| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,372 | ai |
+| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,374 | ai |
 | [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 190,899 | rust |
-| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 177,258 | agent, coding-agent, harness |
+| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 177,262 | agent, coding-agent, harness |
 | [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,408 | audio, ide, python |
-| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,251 | ai |
+| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,252 | ai |
 | [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 157,779 | agent |
 | [langflow](starred/langflow-ai_langflow.md) | agent | Python | 147,917 | agent, ai |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 141,667 | agent, ai, llm |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 141,673 | agent, ai, llm |
 | [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,398 | ai, api, llm |
-| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 122,922 | llm, research |
+| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 122,924 | llm, research |
 | [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 117,686 | ai, api, llm |
 | [angular](starred/angular_angular.md) | webapp | TypeScript | 100,068 | ide, javascript, typescript |
-| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,593 | agent, ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 92,634 |  |
+| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,594 | agent, ai |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 92,636 |  |
 | [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,112 | agent, ai, training |
 | [netdata](starred/netdata_netdata.md) | unknown | C | 78,762 | ai, docker, multi-agent |
 | [gpt4all](starred/nomic-ai_gpt4all.md) | unknown | C++ | 77,363 | ai, llm |
-| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,385 | agent |
-| [OpenHands](starred/OpenHands_OpenHands.md) | unknown | Python | 73,031 | agent, ai, coding-agent |
+| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,387 | agent |
+| [OpenHands](starred/OpenHands_OpenHands.md) | unknown | Python | 73,032 | agent, ai, coding-agent |
 | [paperclip](starred/paperclipai_paperclip.md) | unknown | TypeScript | 63,890 | orchestration |
 
 *...and 97 more in `starred/`*
@@ -161,14 +153,14 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | `cli` | 20 | seans-reporepo, repo-transmute, hermes-agent +17 more |
 | `code-packing` | 2 | seans-reporepo, repomix |
 | `coding-agent` | 3 | oh-my-openagent, everything-claude-code, OpenHands |
-| `dashboard` | 7 | seans-reporepo, agent-os, hermes-sync +4 more |
+| `dashboard` | 6 | agent-os, hermes-sync, everything-dashboard +3 more |
 | `database` | 2 | agent-os, linux-web-serving-infrastructure |
 | `docker` | 14 | agent-os, hermes-sync, casaos-agent +11 more |
 | `dotfiles` | 3 | sean-dotfiles, mod-illogical-impulse-dotfiles, dotfiles |
 | `embeddings` | 1 | arcadedb |
 | `energy` | 1 | energy-aware-task-router |
 | `express` | 2 | agent-os, everything-dashboard |
-| `framework` | 9 | seans-reporepo, circuit-breaker-framework, rasta-assistant +6 more |
+| `framework` | 8 | circuit-breaker-framework, rasta-assistant, linux-web-serving-infrastructure +5 more |
 | `gaming` | 8 | seans-reporepo, starcraft-battlenet-web, sean-dotfiles +5 more |
 | `go` | 23 | seans-reporepo, agent-os, hermes-agent +20 more |
 | `harness` | 7 | seans-reporepo, claw-aie, claw-aie-harness +4 more |
@@ -181,7 +173,7 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | `logging` | 1 | linux-web-serving-infrastructure |
 | `mcp` | 6 | nanobot, g3kilocode, BrowserOS +3 more |
 | `mobile` | 3 | seans-reporepo, linux-web-serving-infrastructure, mobile-codeovertcp.com |
-| `monitoring` | 5 | seans-reporepo, circuit-breaker-framework, starcraft-battlenet-web +2 more |
+| `monitoring` | 4 | circuit-breaker-framework, starcraft-battlenet-web, linux-web-serving-infrastructure +1 more |
 | `multi-agent` | 16 | repo-transmute, nanobot, ecosystem +13 more |
 | `nginx` | 5 | casaos-agent, starcraft-battlenet-web, linux-web-serving-infrastructure +2 more |
 | `openclaw` | 9 | nanobot, secureclaw, ClawX +6 more |
@@ -194,10 +186,10 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | `reliability` | 1 | circuit-breaker-framework |
 | `remote-dev` | 2 | linux-web-serving-infrastructure, mobile-codeovertcp.com |
 | `research` | 1 | andrej-karpathy-skills |
-| `rust` | 7 | seans-reporepo, g3kilocode, postflop-solver +4 more |
-| `solver` | 6 | seans-reporepo, repo-transmute, hermes-agent +3 more |
+| `rust` | 6 | g3kilocode, postflop-solver, claw-code +3 more |
+| `solver` | 5 | repo-transmute, hermes-agent, starcraft-battlenet-web +2 more |
 | `sustainability` | 1 | energy-aware-task-router |
-| `sync` | 4 | seans-reporepo, hermes-sync, claw-aie +1 more |
+| `sync` | 3 | hermes-sync, claw-aie, linux-web-serving-infrastructure |
 | `telemetry` | 2 | langfuse, openclaw-telemetry |
 | `terminal` | 7 | hermes-agent, sean-dotfiles, g3kilocode +4 more |
 | `testing` | 3 | linux-web-serving-infrastructure, kali-openclaw-usb, promptfoo |
@@ -217,7 +209,7 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 
 | Language | Count | Total Size |
 |---|---|---|
-| TypeScript | 48 | 7,968,319 KB |
+| TypeScript | 48 | 7,968,521 KB |
 | Python | 43 | 4,174,188 KB |
 | other | 11 | 141,363 KB |
 | Shell | 10 | 636,554 KB |
@@ -277,7 +269,7 @@ Repos that share tags are candidates for combination:
 - Starred: repomix
 
 ### `dashboard`
-- Owned: seans-reporepo, agent-os, hermes-sync
+- Owned: agent-os, hermes-sync, everything-dashboard
 - Starred: opik, openclaw-mission-control
 
 ### `docker`
@@ -289,7 +281,7 @@ Repos that share tags are candidates for combination:
 - Starred: mod-illogical-impulse-dotfiles, dotfiles
 
 ### `framework`
-- Owned: seans-reporepo, circuit-breaker-framework, rasta-assistant
+- Owned: circuit-breaker-framework, rasta-assistant, linux-web-serving-infrastructure
 - Starred: DrMAS, agent-native, txtai
 
 ### `gaming`

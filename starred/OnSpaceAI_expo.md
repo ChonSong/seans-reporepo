@@ -5,7 +5,7 @@ description: 'An open-source framework for making universal native apps with Rea
 type: library
 status: active
 language: TypeScript
-size_kb: 3190940
+size_kb: 3191142
 stars: 6
 last_pushed: '2026-05-10'
 license: MIT
@@ -26,7 +26,7 @@ tags:
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 3,190,940 KB
+- **Size:** 3,191,142 KB
 - **Stars:** 6
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
