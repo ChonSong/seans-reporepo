@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 202066
-stars: 142649
+stars: 142657
 last_pushed: '2026-05-11'
 license: MIT
 tags:
@@ -40,7 +40,7 @@ topics:
   - nous-research
   - openai
   - openclaw
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # hermes-agent
@@ -55,7 +55,7 @@ refreshed_at: '2026-05-11 02:10 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 202,066 KB
-- **Stars:** 142,649
+- **Stars:** 142,657
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, chat-ui, database, docker, hermes-agent, llm, openclaw, research, sustainability, training

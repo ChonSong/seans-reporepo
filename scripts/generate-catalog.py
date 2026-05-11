@@ -188,7 +188,7 @@ TEXT_KEYWORD_MAP = {
 }
 
 
-def gh(cmd: str) -> str:
+def gh(cmd: str, silent: bool = False) -> str:
     """Run a gh command and return stdout."""
     result = subprocess.run(
         f"gh {cmd}",
@@ -198,7 +198,8 @@ def gh(cmd: str) -> str:
         timeout=120,
     )
     if result.returncode != 0:
-        print(f"gh error: {result.stderr[:200]}", file=sys.stderr)
+        if not silent:
+            print(f"gh error: {result.stderr[:200]}", file=sys.stderr)
         return ""
     return result.stdout
 
@@ -630,7 +631,7 @@ def main():
         # Try to get README — handle 404s gracefully
         readme_text = ""
         try:
-            readme_out = gh(f'api "repos/{name}/readme" --jq ".content"')
+            readme_out = gh(f'api "repos/{name}/readme" --jq ".content"', silent=True)
             if readme_out:
                 readme_text = base64.b64decode(readme_out.strip()).decode("utf-8", errors="ignore")[:3000]
         except Exception:

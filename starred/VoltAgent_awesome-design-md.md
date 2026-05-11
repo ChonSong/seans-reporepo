@@ -6,7 +6,7 @@ type: agent
 status: active
 language: other
 size_kb: 1575
-stars: 74949
+stars: 74950
 last_pushed: '2026-05-08'
 license: MIT
 tags:
@@ -24,7 +24,7 @@ topics:
   - landing-page
   - vibe-coding
   - vibe-design
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # awesome-design-md
@@ -39,7 +39,7 @@ refreshed_at: '2026-05-11 02:10 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1,575 KB
-- **Stars:** 74,949
+- **Stars:** 74,950
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent, awesome-list, design-system, go

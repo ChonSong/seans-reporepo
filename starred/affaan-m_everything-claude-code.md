@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 31432
-stars: 178314
+stars: 178318
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -25,7 +25,7 @@ topics:
   - llm
   - mcp
   - productivity
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # everything-claude-code
@@ -40,7 +40,7 @@ refreshed_at: '2026-05-11 02:10 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 31,432 KB
-- **Stars:** 178,314
+- **Stars:** 178,318
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, ai, coding-agent, harness, llm, mcp

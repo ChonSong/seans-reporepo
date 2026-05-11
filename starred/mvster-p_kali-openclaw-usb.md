@@ -30,7 +30,7 @@ topics:
   - red-team
   - security-tools
   - usb
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # kali-openclaw-usb

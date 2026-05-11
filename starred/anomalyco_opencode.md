@@ -6,13 +6,13 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 256408
-stars: 158020
+stars: 158022
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
 topics: []
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # opencode
@@ -27,7 +27,7 @@ refreshed_at: '2026-05-11 02:10 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 256,408 KB
-- **Stars:** 158,020
+- **Stars:** 158,022
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent

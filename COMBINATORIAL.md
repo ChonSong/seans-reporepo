@@ -40,20 +40,20 @@ Owned:
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐354,539 — Interactive roadmaps, guides and other educational content to help developers gr
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314 — The agent harness performance optimization system. Skills, instincts, memory, se
-- [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) ⭐161,392 — DigitalPlat FreeDomain: Free Domain For Everyone
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318 — The agent harness performance optimization system. Skills, instincts, memory, se
+- [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) ⭐161,393 — DigitalPlat FreeDomain: Free Domain For Everyone
 - [langflow](https://github.com/langflow-ai/langflow) ⭐147,934 — Langflow is a powerful tool for building and deploying AI-powered agents and wor
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
-- [agency-agents](https://github.com/msitarzewski/agency-agents) ⭐95,854 — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
+- [agency-agents](https://github.com/msitarzewski/agency-agents) ⭐95,855 — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 - [autoresearch](https://github.com/karpathy/autoresearch) ⭐80,230 — AI agents running research on single-GPU nanochat training automatically
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐77,364 — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096 — 🙌 OpenHands: AI-Driven Development
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025 — omo; the best agent harness - previously oh-my-opencode
 - [context7](https://github.com/upstash/context7) ⭐54,961 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [milvus](https://github.com/milvus-io/milvus) ⭐44,223 — Milvus is a high-performance, cloud-native vector database built for scalable ve
 - [nanobot](https://github.com/HKUDS/nanobot) ⭐42,153 — "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [headscale](https://github.com/juanfont/headscale) ⭐38,232 — An open source, self-hosted implementation of the Tailscale control server
@@ -62,7 +62,7 @@ Starred:
 - [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ⭐27,970 — Proxmox VE Helper-Scripts (Community Edition) 
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
 - [langfuse](https://github.com/langfuse/langfuse) ⭐26,939 — 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp
-- [impeccable](https://github.com/pbakaus/impeccable) ⭐26,770 — The design language that makes your AI harness better at design.
+- [impeccable](https://github.com/pbakaus/impeccable) ⭐26,771 — The design language that makes your AI harness better at design.
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐23,741 — OpenViking is an open-source context database designed specifically for AI Agent
 - [open-notebook](https://github.com/lfnovo/open-notebook) ⭐23,209 — An Open Source implementation of Notebook LM with more flexibility and features
@@ -72,7 +72,7 @@ Starred:
 - [opik](https://github.com/comet-ml/opik) ⭐19,265 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic wor
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐18,838 — Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [web-llm](https://github.com/mlc-ai/web-llm) ⭐17,949 — High-performance In-browser LLM Inference Engine 
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627 — Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
 - [RustTraining](https://github.com/microsoft/RustTraining) ⭐14,261 — Beginner, advanced, expert level Rust training material
@@ -140,20 +140,20 @@ Owned:
 - [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
 
 Starred:
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314 — The agent harness performance optimization system. Skills, instincts, memory, se
-- [opencode](https://github.com/anomalyco/opencode) ⭐158,020 — The open source coding agent.
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318 — The agent harness performance optimization system. Skills, instincts, memory, se
+- [opencode](https://github.com/anomalyco/opencode) ⭐158,022 — The open source coding agent.
 - [langflow](https://github.com/langflow-ai/langflow) ⭐147,934 — Langflow is a powerful tool for building and deploying AI-powered agents and wor
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
-- [agency-agents](https://github.com/msitarzewski/agency-agents) ⭐95,854 — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
+- [agency-agents](https://github.com/msitarzewski/agency-agents) ⭐95,855 — A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 - [autoresearch](https://github.com/karpathy/autoresearch) ⭐80,230 — AI agents running research on single-GPU nanochat training automatically
-- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,949 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,950 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096 — 🙌 OpenHands: AI-Driven Development
 - [MiroFish](https://github.com/666ghj/MiroFish) ⭐59,970 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能
 - [warp](https://github.com/warpdotdev/warp) ⭐57,323 — Warp is an agentic development environment, born out of the terminal.
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025 — omo; the best agent harness - previously oh-my-opencode
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [nanobot](https://github.com/HKUDS/nanobot) ⭐42,153 — "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [agent-browser](https://github.com/vercel-labs/agent-browser) ⭐32,576 — Browser automation CLI for AI agents
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
@@ -166,7 +166,7 @@ Starred:
 - [opik](https://github.com/comet-ml/opik) ⭐19,265 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic wor
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐18,838 — Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) ⭐17,256 — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning 
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) ⭐12,301 — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
@@ -215,17 +215,17 @@ Owned:
 - [llm-benchmark-platform](https://github.com/ChonSong/llm-benchmark-platform) — Web-based LLM benchmarking platform for comparing coding models across adherence
 
 Starred:
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314 — The agent harness performance optimization system. Skills, instincts, memory, se
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318 — The agent harness performance optimization system. Skills, instincts, memory, se
 - [langflow](https://github.com/langflow-ai/langflow) ⭐147,934 — Langflow is a powerful tool for building and deploying AI-powered agents and wor
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐123,739 — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
+- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐123,744 — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
 - [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐77,364 — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096 — 🙌 OpenHands: AI-Driven Development
 - [MiroFish](https://github.com/666ghj/MiroFish) ⭐59,970 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能
 - [context7](https://github.com/upstash/context7) ⭐54,961 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [milvus](https://github.com/milvus-io/milvus) ⭐44,223 — Milvus is a high-performance, cloud-native vector database built for scalable ve
 - [nanobot](https://github.com/HKUDS/nanobot) ⭐42,153 — "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [langfuse](https://github.com/langfuse/langfuse) ⭐26,939 — 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp
@@ -263,7 +263,7 @@ Owned:
 
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
@@ -275,7 +275,7 @@ Starred:
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627 — Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
@@ -316,7 +316,7 @@ Starred:
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐18,838 — Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) ⭐17,256 — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning 
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
 - [bytebot](https://github.com/bytebot-ai/bytebot) ⭐11,007 — Bytebot is a self-hosted AI desktop agent that automates computer tasks through 
 - [claude-context](https://github.com/zilliztech/claude-context) ⭐10,922 — Code search MCP for Claude Code. Make entire codebase the context for any coding
@@ -360,9 +360,9 @@ Starred:
 - [angular](https://github.com/angular/angular) ⭐100,072 — Deliver web apps with confidence 🚀
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐72,571 — 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐65,494 — Curated list of design and UI resources from stock photos, web templates, CSS fr
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐46,671 — Manually curated collection of resources for frontend web developers.
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [ClawX](https://github.com/ValueCell-ai/ClawX) ⭐7,122 — ClawX is a desktop app that provides a graphical interface for OpenClaw AI agent
 - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐3,847 — Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspecto
 - [docker-swag](https://github.com/linuxserver/docker-swag) ⭐3,660 — Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's
@@ -385,7 +385,7 @@ Owned:
 
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
@@ -394,7 +394,7 @@ Starred:
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627 — Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
 - [bytebot](https://github.com/bytebot-ai/bytebot) ⭐11,007 — Bytebot is a self-hosted AI desktop agent that automates computer tasks through 
@@ -434,12 +434,12 @@ Owned:
 Starred:
 - [developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐354,539 — Interactive roadmaps, guides and other educational content to help developers gr
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
-- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,949 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,950 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
 - [milvus](https://github.com/milvus-io/milvus) ⭐44,223 — Milvus is a high-performance, cloud-native vector database built for scalable ve
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐33,797 — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [temporal](https://github.com/temporalio/temporal) ⭐20,153 — Temporal service
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [adk-go](https://github.com/google/adk-go) ⭐7,874 — An open-source, code-first Go toolkit for building, evaluating, and deploying so
 - [godogen](https://github.com/htdt/godogen) ⭐3,145 — Autonomous game development for Godot and Bevy with Claude Code and Codex
 - [omatsuri](https://github.com/rtivital/omatsuri) ⭐2,968 — PWA with 12 open source frontend focused tools
@@ -453,7 +453,7 @@ Owned:
 
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
 - [autoresearch](https://github.com/karpathy/autoresearch) ⭐80,230 — AI agents running research on single-GPU nanochat training automatically
@@ -463,7 +463,7 @@ Starred:
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627 — Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
 - [RustTraining](https://github.com/microsoft/RustTraining) ⭐14,261 — Beginner, advanced, expert level Rust training material
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
@@ -499,7 +499,7 @@ Owned:
 Starred:
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐161,538 — A feature-rich command-line audio/video downloader
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096 — 🙌 OpenHands: AI-Driven Development
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [agent-browser](https://github.com/vercel-labs/agent-browser) ⭐32,576 — Browser automation CLI for AI agents
 - [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐21,134 — A curated collection of 1000+ agent skills from official dev teams and the commu
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) ⭐17,256 — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning 
@@ -521,7 +521,7 @@ Owned:
 
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
@@ -530,7 +530,7 @@ Starred:
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752 — A list of AI autonomous agents
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627 — Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract o
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
 - [bytebot](https://github.com/bytebot-ai/bytebot) ⭐11,007 — Bytebot is a self-hosted AI desktop agent that automates computer tasks through 
@@ -570,7 +570,7 @@ Owned:
 Starred:
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [firecrawl](https://github.com/firecrawl/firecrawl) ⭐117,977 — 🔥 The API to search, scrape, and interact with the web for AI
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [vinext](https://github.com/cloudflare/vinext) ⭐8,005 — Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [mcp2cli](https://github.com/knowsuchagency/mcp2cli) ⭐2,106 — Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero code
 - [arcadedb](https://github.com/ArcadeData/arcadedb) ⭐862 — ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP
@@ -617,9 +617,9 @@ Owned:
 - [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
 
 Starred:
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [nanobot](https://github.com/HKUDS/nanobot) ⭐42,153 — "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [repomix](https://github.com/yamadashy/repomix) ⭐24,578 — 📦 Repomix is a powerful tool that packs your entire repository into a single, AI
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐23,741 — OpenViking is an open-source context database designed specifically for AI Agent
@@ -659,31 +659,6 @@ Starred:
 - [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
 
-### `framework` (19 repos)
-
-Owned:
-- [rasta-assistant](https://github.com/ChonSong/rasta-assistant) — Fork of Autonomous multi-session AI coding assistant for Unity and Jungle XRKit
-- [linux-web-serving-infrastructure](https://github.com/ChonSong/linux-web-serving-infrastructure) — Complete infrastructure for serving Linux applications over the web with nginx, 
-- [seans-reporepo](https://github.com/ChonSong/seans-reporepo) — Personal code catalog for ideation and combinatorial app design
-- [circuit-breaker-framework](https://github.com/ChonSong/circuit-breaker-framework) — A general-purpose circuit breaker framework that allows automated workflows to d
-- [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
-
-Starred:
-- [angular](https://github.com/angular/angular) ⭐100,072 — Deliver web apps with confidence 🚀
-- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐65,494 — Curated list of design and UI resources from stock photos, web templates, CSS fr
-- [better-auth](https://github.com/better-auth/better-auth) ⭐28,242 — The most comprehensive authentication framework
-- [promptfoo](https://github.com/promptfoo/promptfoo) ⭐21,107 — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
-- [temporal](https://github.com/temporalio/temporal) ⭐20,153 — Temporal service
-- [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
-- [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
-- [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
-- [webdriverio](https://github.com/webdriverio/webdriverio) ⭐9,801 — Next-gen browser and mobile automation test framework for Node.js
-- [adk-go](https://github.com/google/adk-go) ⭐7,874 — An open-source, code-first Go toolkit for building, evaluating, and deploying so
-- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐2,850 — An improved implementation of the Ralph Wiggum technique for autonomous AI agent
-- [agent-native](https://github.com/BuilderIO/agent-native) ⭐139 — A framework for building agent-native applications.
-- [DrMAS](https://github.com/langfengQ/DrMAS) ⭐130 — Dr. MAS is an end-to-end RL training framework for multi-agent LLM systems, supp
-- [expo](https://github.com/OnSpaceAI/expo) ⭐6 — An open-source framework for making universal native apps with React. Expo runs 
-
 ### `automation` (18 repos)
 
 Owned:
@@ -722,7 +697,7 @@ Owned:
 
 Starred:
 - [awesome](https://github.com/sindresorhus/awesome) ⭐464,983 — 😎 Awesome lists about all kinds of interesting topics
-- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,949 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
+- [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐74,950 — A collection of DESIGN.md files inspired by popular brand design systems. Drop o
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐72,571 — 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐65,494 — Curated list of design and UI resources from stock photos, web templates, CSS fr
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
@@ -731,6 +706,30 @@ Starred:
 - [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐21,134 — A curated collection of 1000+ agent skills from official dev teams and the commu
 - [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐2,799 — A curated list of awesome skills, tools, integrations, and resources for Hermes 
 - [awesome-frontend-resources](https://github.com/requestly/awesome-frontend-resources) ⭐327 — A curated collection of awesome resources for frontend developers: tutorials, to
+
+### `framework` (18 repos)
+
+Owned:
+- [rasta-assistant](https://github.com/ChonSong/rasta-assistant) — Fork of Autonomous multi-session AI coding assistant for Unity and Jungle XRKit
+- [linux-web-serving-infrastructure](https://github.com/ChonSong/linux-web-serving-infrastructure) — Complete infrastructure for serving Linux applications over the web with nginx, 
+- [circuit-breaker-framework](https://github.com/ChonSong/circuit-breaker-framework) — A general-purpose circuit breaker framework that allows automated workflows to d
+- [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
+
+Starred:
+- [angular](https://github.com/angular/angular) ⭐100,072 — Deliver web apps with confidence 🚀
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐65,494 — Curated list of design and UI resources from stock photos, web templates, CSS fr
+- [better-auth](https://github.com/better-auth/better-auth) ⭐28,242 — The most comprehensive authentication framework
+- [promptfoo](https://github.com/promptfoo/promptfoo) ⭐21,107 — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
+- [temporal](https://github.com/temporalio/temporal) ⭐20,153 — Temporal service
+- [adk-python](https://github.com/google/adk-python) ⭐19,561 — An open-source, code-first Python toolkit for building, evaluating, and deployin
+- [cua](https://github.com/trycua/cua) ⭐15,876 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma
+- [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
+- [webdriverio](https://github.com/webdriverio/webdriverio) ⭐9,801 — Next-gen browser and mobile automation test framework for Node.js
+- [adk-go](https://github.com/google/adk-go) ⭐7,874 — An open-source, code-first Go toolkit for building, evaluating, and deploying so
+- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ⭐2,850 — An improved implementation of the Ralph Wiggum technique for autonomous AI agent
+- [agent-native](https://github.com/BuilderIO/agent-native) ⭐139 — A framework for building agent-native applications.
+- [DrMAS](https://github.com/langfengQ/DrMAS) ⭐130 — Dr. MAS is an end-to-end RL training framework for multi-agent LLM systems, supp
+- [expo](https://github.com/OnSpaceAI/expo) ⭐6 — An open-source framework for making universal native apps with React. Expo runs 
 
 ### `mcp` (18 repos)
 
@@ -741,7 +740,7 @@ Owned:
 - [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
 
 Starred:
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314 — The agent harness performance optimization system. Skills, instincts, memory, se
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318 — The agent harness performance optimization system. Skills, instincts, memory, se
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
 - [context7](https://github.com/upstash/context7) ⭐54,961 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -764,7 +763,7 @@ Owned:
 
 Starred:
 - [developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐354,539 — Interactive roadmaps, guides and other educational content to help developers gr
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [netdata](https://github.com/netdata/netdata) ⭐78,764 — The fastest path to AI-powered full stack observability, even for lean teams.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
 - [milvus](https://github.com/milvus-io/milvus) ⭐44,223 — Milvus is a high-performance, cloud-native vector database built for scalable ve
@@ -806,7 +805,7 @@ Owned:
 
 Starred:
 - [openclaw](https://github.com/openclaw/openclaw) ⭐370,582 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐48,386 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
 - [nanobot](https://github.com/HKUDS/nanobot) ⭐42,153 — "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐23,741 — OpenViking is an open-source context database designed specifically for AI Agent
@@ -907,7 +906,7 @@ Owned:
 - [circuit-breaker-framework](https://github.com/ChonSong/circuit-breaker-framework) — A general-purpose circuit breaker framework that allows automated workflows to d
 
 Starred:
-- [paperclip](https://github.com/paperclipai/paperclip) ⭐64,043 — Open-source orchestration for zero-human companies
+- [paperclip](https://github.com/paperclipai/paperclip) ⭐64,044 — Open-source orchestration for zero-human companies
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025 — omo; the best agent harness - previously oh-my-opencode
 - [temporal](https://github.com/temporalio/temporal) ⭐20,153 — Temporal service
 - [txtai](https://github.com/neuml/txtai) ⭐12,478 — 💡 All-in-one AI framework for semantic search, LLM orchestration and language mo
@@ -929,7 +928,7 @@ Owned:
 - [hermes-computer-planning](https://github.com/ChonSong/hermes-computer-planning) — Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-desktop-linux, kasm-
 
 Starred:
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649 — The agent that grows with you
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657 — The agent that grows with you
 - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) ⭐3,847 — Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspecto
 - [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) ⭐2,799 — A curated list of awesome skills, tools, integrations, and resources for Hermes 
 
@@ -957,9 +956,9 @@ Owned:
 - [claw-aie](https://github.com/ChonSong/claw-aie) — AIE-compatible harness with working hooks and tool execution
 
 Starred:
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314 — The agent harness performance optimization system. Skills, instincts, memory, se
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318 — The agent harness performance optimization system. Skills, instincts, memory, se
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025 — omo; the best agent harness - previously oh-my-opencode
-- [impeccable](https://github.com/pbakaus/impeccable) ⭐26,770 — The design language that makes your AI harness better at design.
+- [impeccable](https://github.com/pbakaus/impeccable) ⭐26,771 — The design language that makes your AI harness better at design.
 - [OpenHarness](https://github.com/HKUDS/OpenHarness) ⭐12,301 — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 - [memsearch](https://github.com/zilliztech/memsearch) ⭐1,644 — A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Cod
 
@@ -1002,7 +1001,7 @@ Starred:
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [warp](https://github.com/warpdotdev/warp) ⭐57,323 — Warp is an agentic development environment, born out of the terminal.
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025 — omo; the best agent harness - previously oh-my-opencode
-- [pi](https://github.com/earendil-works/pi) ⭐47,716 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
+- [pi](https://github.com/earendil-works/pi) ⭐47,718 — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla
 - [galaxy](https://github.com/uiverse-io/galaxy) ⭐10,671 — The largest Open-Source UI Library! Community-made and free to use. Made with ei
 - [openpencil](https://github.com/ZSeven-W/openpencil) ⭐2,580 — The world's first open-source AI-native vector design tool and the first to feat
 
@@ -1216,14 +1215,14 @@ Tags that appear in starred repos but not owned — potential areas to explore.
 
 ### `coding-agent` (19 repos)
 
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,314
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐178,318
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096
 - [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐57,025
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐27,752
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐23,741
 - [adk-python](https://github.com/google/adk-python) ⭐19,561
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐18,838
-- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,617
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐16,618
 - [cua](https://github.com/trycua/cua) ⭐15,876
 - [gitingest](https://github.com/coderamp-labs/gitingest) ⭐14,627
 - [bytebot](https://github.com/bytebot-ai/bytebot) ⭐11,007
@@ -1259,7 +1258,7 @@ Tags that appear in starred repos but not owned — potential areas to explore.
 ### `chat-ui` (12 repos)
 
 - [langflow](https://github.com/langflow-ai/langflow) ⭐147,934
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657
 - [open-webui](https://github.com/open-webui/open-webui) ⭐136,503
 - [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐77,364
 - [OpenHands](https://github.com/OpenHands/OpenHands) ⭐73,096
@@ -1273,8 +1272,8 @@ Tags that appear in starred repos but not owned — potential areas to explore.
 
 ### `research` (7 repos)
 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,649
-- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐123,739
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐142,657
+- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐123,744
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐18,838
 - [txtai](https://github.com/neuml/txtai) ⭐12,478
 - [UI-TARS](https://github.com/bytedance/UI-TARS) ⭐10,367

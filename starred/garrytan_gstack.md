@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 97633
-stars: 93070
+stars: 93072
 last_pushed: '2026-05-10'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-05-11 02:10 UTC'
+refreshed_at: '2026-05-11 02:12 UTC'
 ---
 
 # gstack
@@ -26,6 +26,6 @@ refreshed_at: '2026-05-11 02:10 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 97,633 KB
-- **Stars:** 93,070
+- **Stars:** 93,072
 - **Last Pushed:** 2026-05-10
 - **License:** MIT

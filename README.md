@@ -2,7 +2,7 @@
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-05-11 02:10 UTC
+> **Last refreshed:** 2026-05-11 02:12 UTC
 
 ## Quick Stats
 
@@ -117,22 +117,22 @@
 | [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,582 | ai, aie, docker |
 | [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 354,539 | ai, database, education |
 | [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 190,976 | rust |
-| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,314 | agent, ai, coding-agent |
+| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,318 | agent, ai, coding-agent |
 | [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,538 | audio, cli, ide |
-| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,392 | ai, paas |
-| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,020 | agent |
+| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,393 | ai, paas |
+| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,022 | agent |
 | [langflow](starred/langflow-ai_langflow.md) | agent | Python | 147,934 | agent, ai, chat-ui |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 142,649 | agent, ai, aie |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 142,657 | agent, ai, aie |
 | [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,503 | ai, aie, api |
-| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 123,739 | llm, research |
+| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 123,744 | llm, research |
 | [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 117,977 | agent, ai, aie |
 | [angular](starred/angular_angular.md) | webapp | TypeScript | 100,072 | design-system, framework, ide |
-| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,854 | agent, ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,070 |  |
+| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,855 | agent, ai |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,072 |  |
 | [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,230 | agent, ai, training |
 | [netdata](starred/netdata_netdata.md) | unknown | C | 78,764 | ai, aie, database |
 | [gpt4all](starred/nomic-ai_gpt4all.md) | unknown | C++ | 77,364 | ai, chat-ui, llm |
-| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,949 | agent, awesome-list, design-system |
+| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,950 | agent, awesome-list, design-system |
 
 *...and 113 more in `starred/`*
 
@@ -167,7 +167,7 @@
 | `embeddings` | 4 | memsearch, claude-context, txtai +1 more |
 | `energy` | 3 | seans-reporepo, energy-aware-task-router, promptfoo |
 | `express` | 2 | agent-os, everything-dashboard |
-| `framework` | 19 | seans-reporepo, hermes-computer-planning, circuit-breaker-framework +16 more |
+| `framework` | 18 | hermes-computer-planning, circuit-breaker-framework, rasta-assistant +15 more |
 | `gaming` | 9 | seans-reporepo, starcraft-battlenet-web, sean-dotfiles +6 more |
 | `go` | 30 | seans-reporepo, hermes-computer-planning, hermes-web-computer +27 more |
 | `harness` | 9 | seans-reporepo, hermes-web-computer, claw-aie +6 more |
