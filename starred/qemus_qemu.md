@@ -6,7 +6,7 @@ type: infrastructure
 status: active
 language: Shell
 size_kb: 1221
-stars: 1824
+stars: 1827
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -21,7 +21,7 @@ topics:
   - qemu-kvm
   - virtual-machine
   - virtualization
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # qemu
@@ -36,7 +36,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 1,221 KB
-- **Stars:** 1,824
+- **Stars:** 1,827
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** ai, docker

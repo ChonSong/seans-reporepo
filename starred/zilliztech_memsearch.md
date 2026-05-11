@@ -5,9 +5,9 @@ description: 'A persistent, unified memory layer for all your AI agents (e.g. Cl
 type: agent
 status: active
 language: Python
-size_kb: 26234
-stars: 1645
-last_pushed: '2026-05-09'
+size_kb: 26239
+stars: 1650
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
@@ -42,7 +42,7 @@ topics:
   - reranker
   - semantic-search
   - skills
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # memsearch
@@ -56,8 +56,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 26,234 KB
-- **Stars:** 1,645
-- **Last Pushed:** 2026-05-09
+- **Size:** 26,239 KB
+- **Stars:** 1,650
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, cli, coding-agent, embeddings, harness, multi-agent, openclaw, plugin, rag, vector-db

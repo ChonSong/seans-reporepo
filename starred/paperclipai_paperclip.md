@@ -5,14 +5,14 @@ description: 'Open-source orchestration for zero-human companies'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 58518
-stars: 64053
+size_kb: 58487
+stars: 64196
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - orchestration
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # paperclip
@@ -26,8 +26,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 58,518 KB
-- **Stars:** 64,053
+- **Size:** 58,487 KB
+- **Stars:** 64,196
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** orchestration

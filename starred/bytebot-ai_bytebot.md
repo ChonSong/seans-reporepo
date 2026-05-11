@@ -6,7 +6,7 @@ type: agent
 status: archived
 language: TypeScript
 size_kb: 19011
-stars: 11007
+stars: 11008
 last_pushed: '2025-09-12'
 license: 'Apache-2.0'
 tags:
@@ -43,7 +43,7 @@ topics:
   - llm
   - mcp
   - openai
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # bytebot
@@ -58,7 +58,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** archived
 - **Language:** TypeScript
 - **Size:** 19,011 KB
-- **Stars:** 11,007
+- **Stars:** 11,008
 - **Last Pushed:** 2025-09-12
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, automation, bot, browser-automation, coding-agent, docker, llm, mcp, multi-agent, sustainability, training

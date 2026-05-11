@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 241955
-stars: 10859
+stars: 10869
 last_pushed: '2026-05-09'
 license: 'AGPL-3.0'
 tags:
@@ -28,7 +28,7 @@ topics:
   - macos
   - ollama
   - windows
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # BrowserOS
@@ -43,7 +43,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 241,955 KB
-- **Stars:** 10,859
+- **Stars:** 10,869
 - **Last Pushed:** 2026-05-09
 - **License:** AGPL-3.0
 - **Tags:** agent, browser-automation, coding-agent, llm, multi-agent, ui

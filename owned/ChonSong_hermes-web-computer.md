@@ -5,7 +5,7 @@ description: 'Agent-OS v1.2: browser-native collaborative dev environment with H
 type: monorepo
 status: active
 language: Go
-size_kb: 5773
+size_kb: 5859
 stars: 0
 last_pushed: '2026-05-11'
 license: unknown
@@ -29,7 +29,7 @@ tags:
   - web-app
   - workflow-engine
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # hermes-web-computer
@@ -43,7 +43,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Go
-- **Size:** 5,773 KB
+- **Size:** 5,859 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-11
 - **License:** unknown

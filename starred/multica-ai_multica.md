@@ -5,15 +5,15 @@ description: 'The open-source managed agents platform. Turn coding agents into r
 type: agent
 status: active
 language: TypeScript
-size_kb: 46632
-stars: 26924
-last_pushed: '2026-05-10'
+size_kb: 46810
+stars: 27118
+last_pushed: '2026-05-11'
 license: NOASSERTION
 tags:
   - agent
   - multi-agent
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # multica
@@ -27,8 +27,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 46,632 KB
-- **Stars:** 26,924
-- **Last Pushed:** 2026-05-10
+- **Size:** 46,810 KB
+- **Stars:** 27,118
+- **Last Pushed:** 2026-05-11
 - **License:** NOASSERTION
 - **Tags:** agent, multi-agent

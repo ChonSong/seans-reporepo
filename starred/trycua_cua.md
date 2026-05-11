@@ -5,8 +5,8 @@ description: 'Open-source infrastructure for Computer-Use Agents. Sandboxes, SDK
 type: agent
 status: active
 language: HTML
-size_kb: 207833
-stars: 15878
+size_kb: 207842
+stars: 15904
 last_pushed: '2026-05-11'
 license: MIT
 tags:
@@ -39,7 +39,7 @@ topics:
   - virtualization-framework
   - windows
   - windows-sandbox
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # cua
@@ -53,8 +53,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** HTML
-- **Size:** 207,833 KB
-- **Stars:** 15,878
+- **Size:** 207,842 KB
+- **Stars:** 15,904
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, infrastructure, multi-agent

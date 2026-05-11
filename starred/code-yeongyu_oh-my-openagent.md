@@ -5,8 +5,8 @@ description: 'omo; the best agent harness - previously oh-my-opencode'
 type: agent
 status: active
 language: TypeScript
-size_kb: 66464
-stars: 57036
+size_kb: 66681
+stars: 57129
 last_pushed: '2026-05-11'
 license: NOASSERTION
 tags:
@@ -42,7 +42,7 @@ topics:
   - orchestration
   - tui
   - typescript
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # oh-my-openagent
@@ -56,8 +56,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 66,464 KB
-- **Stars:** 57,036
+- **Size:** 66,681 KB
+- **Stars:** 57,129
 - **Last Pushed:** 2026-05-11
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, harness, ide, orchestration, sustainability, training, tui, typescript, ui, video

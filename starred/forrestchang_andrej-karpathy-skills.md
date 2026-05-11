@@ -6,14 +6,14 @@ type: unknown
 status: active
 language: other
 size_kb: 20
-stars: 123806
+stars: 124416
 last_pushed: '2026-04-20'
 license: unknown
 tags:
   - llm
   - research
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # andrej-karpathy-skills
@@ -28,7 +28,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 20 KB
-- **Stars:** 123,806
+- **Stars:** 124,416
 - **Last Pushed:** 2026-04-20
 - **License:** unknown
 - **Tags:** llm, research

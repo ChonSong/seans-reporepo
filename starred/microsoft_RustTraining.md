@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Rust
 size_kb: 1781
-stars: 14261
+stars: 14273
 last_pushed: '2026-05-01'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
   - rust
   - training
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # RustTraining
@@ -29,7 +29,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 1,781 KB
-- **Stars:** 14,261
+- **Stars:** 14,273
 - **Last Pushed:** 2026-05-01
 - **License:** MIT
 - **Tags:** ai, rust, training

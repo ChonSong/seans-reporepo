@@ -2,25 +2,25 @@
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-05-11 02:46 UTC
+> **Last refreshed:** 2026-05-11 09:24 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 38 | 133 | 171 |
-| Total Size | 2,145,906 KB | 15,022,523 KB | 17,168,429 KB (16,766 MB) |
+| Repos | 39 | 135 | 174 |
+| Total Size | 2,146,226 KB | 15,079,291 KB | 17,225,517 KB (16,821 MB) |
 | Languages | 11 | 16 | 19 |
 | Tags | — | — | 79 |
 
 ## Structure
 
 ```
-├── owned/           # My repositories (38)
+├── owned/           # My repositories (39)
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (133)
+├── starred/         # Repos I've starred (135)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
@@ -71,21 +71,22 @@
 | [rasta-assistant](owned/ChonSong_rasta-assistant.md) | TypeScript | 37,004 KB | 0 | agent, ai, framework |
 | [pokerkit](owned/ChonSong_pokerkit.md) | Python | 6,067 KB | 0 | ai, api, automation |
 | [postflop-solver](owned/ChonSong_postflop-solver.md) | Rust | 547 KB | 0 | ai, gaming, go |
+| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 340 KB | 0 | agent, ai, aie |
 | [linux-web-serving-infrastructure](owned/ChonSong_linux-web-serving-infrastructure.md) | TypeScript | 276 KB | 0 | ai, api, automation |
-| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 127 KB | 0 | agent, ai, aie |
+| [hermes-computer-planning](owned/ChonSong_hermes-computer-planning.md) | other | 22 KB | 0 | agent, ai, api |
 | [circuit-breaker-framework](owned/ChonSong_circuit-breaker-framework.md) | Python | 15 KB | 0 | agent, ai, aie |
-| [hermes-computer-planning](owned/ChonSong_hermes-computer-planning.md) | other | 6 KB | 0 | agent, ai, api |
 
-### Monorepo (6)
+### Monorepo (7)
 
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
 | [hermes-sync](owned/ChonSong_hermes-sync.md) | Python | 197,672 KB | 0 | agent, ai, api |
 | [agent-os](owned/ChonSong_agent-os.md) | Python | 10,268 KB | 0 | agent, ai, api |
-| [hermes-web-computer](owned/ChonSong_hermes-web-computer.md) | Go | 5,773 KB | 0 | agent, ai, audio |
+| [hermes-web-computer](owned/ChonSong_hermes-web-computer.md) | Go | 5,859 KB | 0 | agent, ai, audio |
 | [features-list](owned/ChonSong_features-list.md) | HTML | 1,711 KB | 0 | agent, ai, analytics |
 | [everything-dashboard](owned/ChonSong_everything-dashboard.md) | TypeScript | 76 KB | 0 | agent, dashboard, express |
 | [llm-benchmark-platform](owned/ChonSong_llm-benchmark-platform.md) | Python | 73 KB | 0 | ai, api, awesome-list |
+| [seans](owned/ChonSong_seans.md) | other | 5 KB | 1 | agent, ai, aie |
 
 ### Unknown (5)
 
@@ -113,68 +114,68 @@
 
 | Repo | Type | Language | Stars | Tags |
 |---|---|---|---|---|
-| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 464,988 | awesome-list |
-| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,600 | ai, aie, docker |
-| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 354,540 | ai, database, education |
-| [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 190,979 | rust |
-| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,362 | agent, ai, coding-agent |
-| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,546 | audio, cli, ide |
-| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,397 | ai, paas |
-| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,041 | agent |
-| [langflow](starred/langflow-ai_langflow.md) | agent | Python | 147,934 | agent, ai, chat-ui |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 142,720 | agent, ai, aie |
-| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,509 | ai, aie, api |
-| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 123,806 | llm, research |
-| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 117,989 | agent, ai, aie |
-| [angular](starred/angular_angular.md) | webapp | TypeScript | 100,072 | design-system, framework, ide |
-| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,863 | agent, ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,094 |  |
-| [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,236 | agent, ai, training |
-| [netdata](starred/netdata_netdata.md) | unknown | C | 78,766 | ai, aie, database |
-| [gpt4all](starred/nomic-ai_gpt4all.md) | unknown | C++ | 77,364 | ai, chat-ui, llm |
-| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,985 | agent, awesome-list, design-system |
+| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 465,100 | awesome-list |
+| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,708 | ai, aie, docker |
+| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 354,551 | ai, database, education |
+| [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 191,034 | rust |
+| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,892 | agent, ai, coding-agent |
+| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,608 | audio, cli, ide |
+| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,459 | ai, paas |
+| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,266 | agent |
+| [langflow](starred/langflow-ai_langflow.md) | agent | Python | 147,951 | agent, ai, chat-ui |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 143,446 | agent, ai, aie |
+| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,559 | ai, aie, api |
+| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 124,416 | llm, research |
+| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 118,136 | agent, ai, aie |
+| [angular](starred/angular_angular.md) | webapp | TypeScript | 100,074 | design-system, framework, ide |
+| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,973 | agent, ai |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,415 |  |
+| [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,336 | agent, ai, training |
+| [netdata](starred/netdata_netdata.md) | unknown | C | 78,770 | ai, aie, database |
+| [gpt4all](starred/nomic-ai_gpt4all.md) | unknown | C++ | 77,363 | ai, chat-ui, llm |
+| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 75,364 | agent, awesome-list, design-system |
 
-*...and 113 more in `starred/`*
+*...and 115 more in `starred/`*
 
 ## Tag Index
 
 | Tag | Count | Repos |
 |---|---|---|
-| `agent` | 84 | hermes-computer-planning, seans-reporepo, hermes-web-computer +81 more |
-| `ai` | 104 | hermes-computer-planning, seans-reporepo, hermes-web-computer +101 more |
-| `aie` | 30 | seans-reporepo, ecosystem, claw-aie +27 more |
-| `analytics` | 2 | features-list, langfuse |
+| `agent` | 86 | seans, hermes-web-computer, hermes-computer-planning +83 more |
+| `ai` | 106 | seans, hermes-web-computer, hermes-computer-planning +103 more |
+| `aie` | 31 | seans, seans-reporepo, ecosystem +28 more |
+| `analytics` | 3 | seans, features-list, langfuse |
 | `api` | 24 | hermes-computer-planning, seans-reporepo, features-list +21 more |
 | `audio` | 3 | hermes-web-computer, Fun-Audio-Chat, yt-dlp |
 | `automation` | 18 | hermes-computer-planning, seans-reporepo, hermes-agent +15 more |
-| `awesome-list` | 18 | hermes-computer-planning, seans-reporepo, features-list +15 more |
-| `backup` | 8 | seans-reporepo, features-list, hermes-sync +5 more |
+| `awesome-list` | 19 | seans, hermes-computer-planning, seans-reporepo +16 more |
+| `backup` | 9 | seans, seans-reporepo, features-list +6 more |
 | `benchmarking` | 3 | hermes-web-computer, llm-benchmark-platform, cua |
-| `bot` | 21 | hermes-computer-planning, seans-reporepo, hermes-web-computer +18 more |
-| `browser-automation` | 14 | seans-reporepo, hermes-web-computer, starcraft-battlenet-web +11 more |
+| `bot` | 22 | seans, hermes-web-computer, hermes-computer-planning +19 more |
+| `browser-automation` | 15 | seans, hermes-web-computer, seans-reporepo +12 more |
 | `chat-ui` | 12 | galaxy, repomix, gpt4all +9 more |
 | `cli` | 27 | seans-reporepo, repo-transmute, hermes-agent +24 more |
 | `code-ingestion` | 1 | gitingest |
 | `code-packing` | 3 | seans-reporepo, repomix, gitingest |
-| `coding-agent` | 19 | bytebot, cua, awesome-ai-agents +16 more |
+| `coding-agent` | 20 | hermes-webui, bytebot, cua +17 more |
 | `css` | 5 | Front-End-Checklist, galaxy, omatsuri +2 more |
-| `dashboard` | 7 | features-list, agent-os, hermes-sync +4 more |
+| `dashboard` | 8 | seans, features-list, agent-os +5 more |
 | `database` | 16 | agent-os, linux-web-serving-infrastructure, developer-roadmap +13 more |
 | `design-system` | 3 | awesome-design-md, angular, taste-skill |
 | `docker` | 40 | hermes-web-computer, features-list, agent-os +37 more |
 | `dotfiles` | 4 | sean-dotfiles, mod-illogical-impulse-dotfiles, dotfiles +1 more |
 | `education` | 5 | developer-roadmap, awesome-frontend-resources, web-llm +2 more |
 | `embeddings` | 4 | memsearch, claude-context, txtai +1 more |
-| `energy` | 3 | seans-reporepo, energy-aware-task-router, promptfoo |
+| `energy` | 4 | seans, seans-reporepo, energy-aware-task-router +1 more |
 | `express` | 2 | agent-os, everything-dashboard |
-| `framework` | 18 | hermes-computer-planning, circuit-breaker-framework, rasta-assistant +15 more |
-| `gaming` | 9 | seans-reporepo, starcraft-battlenet-web, sean-dotfiles +6 more |
-| `go` | 30 | hermes-computer-planning, seans-reporepo, hermes-web-computer +27 more |
-| `harness` | 9 | seans-reporepo, hermes-web-computer, claw-aie +6 more |
-| `hermes-agent` | 10 | hermes-computer-planning, seans-reporepo, hermes-web-computer +7 more |
+| `framework` | 19 | seans, hermes-computer-planning, circuit-breaker-framework +16 more |
+| `gaming` | 10 | seans, seans-reporepo, starcraft-battlenet-web +7 more |
+| `go` | 31 | seans, hermes-web-computer, hermes-computer-planning +28 more |
+| `harness` | 10 | seans, hermes-web-computer, seans-reporepo +7 more |
+| `hermes-agent` | 12 | seans, hermes-web-computer, hermes-computer-planning +9 more |
 | `ide` | 23 | hermes-computer-planning, seans-reporepo, agent-os +20 more |
 | `image-gen` | 6 | circuit-breaker-framework, rasta-assistant, galaxy +3 more |
-| `infrastructure` | 15 | seans-reporepo, features-list, hermes-agent +12 more |
+| `infrastructure` | 16 | seans, seans-reporepo, features-list +13 more |
 | `javascript` | 6 | webdriverio, Front-End-Checklist, developer-roadmap +3 more |
 | `library` | 2 | adk-go, adk-python |
 | `llm` | 40 | seans-reporepo, agent-os, repo-transmute +37 more |
@@ -182,41 +183,41 @@
 | `mcp` | 18 | hermes-computer-planning, nanobot, g3kilocode +15 more |
 | `mobile` | 5 | seans-reporepo, features-list, linux-web-serving-infrastructure +2 more |
 | `monitoring` | 8 | hermes-computer-planning, features-list, circuit-breaker-framework +5 more |
-| `multi-agent` | 34 | repo-transmute, nanobot, ecosystem +31 more |
+| `multi-agent` | 36 | seans, repo-transmute, nanobot +33 more |
 | `nginx` | 5 | casaos-agent, starcraft-battlenet-web, linux-web-serving-infrastructure +2 more |
 | `observability` | 4 | langfuse, openclaw-telemetry, opik +1 more |
-| `openclaw` | 15 | nanobot, HiClaw, secureclaw +12 more |
-| `orchestration` | 11 | circuit-breaker-framework, linux-web-serving-infrastructure, sandcastle +8 more |
+| `openclaw` | 16 | seans, nanobot, HiClaw +13 more |
+| `orchestration` | 12 | seans, circuit-breaker-framework, linux-web-serving-infrastructure +9 more |
 | `paas` | 3 | OpenNOW, dokku, FreeDomain |
 | `plugin` | 6 | CatchMe, secureclaw, memsearch +3 more |
 | `proxy` | 4 | starcraft-battlenet-web, linux-web-serving-infrastructure, mobile-codeovertcp.com +1 more |
-| `python` | 21 | hermes-computer-planning, seans-reporepo, hermes-web-computer +18 more |
+| `python` | 22 | seans, hermes-web-computer, hermes-computer-planning +19 more |
 | `rag` | 14 | circuit-breaker-framework, casaos-agent, minsky-circuit +11 more |
 | `react` | 14 | agent-os, everything-dashboard, linux-web-serving-infrastructure +11 more |
-| `reliability` | 5 | circuit-breaker-framework, galaxy, openpencil +2 more |
+| `reliability` | 6 | seans, circuit-breaker-framework, galaxy +3 more |
 | `remote-dev` | 2 | linux-web-serving-infrastructure, mobile-codeovertcp.com |
-| `research` | 7 | hermes-workspace, awesome-hermes-agent, andrej-karpathy-skills +4 more |
-| `rust` | 7 | g3kilocode, postflop-solver, openclaw +4 more |
+| `research` | 8 | hermes-webui, hermes-workspace, awesome-hermes-agent +5 more |
+| `rust` | 8 | seans, g3kilocode, postflop-solver +5 more |
 | `security` | 4 | secureclaw, kali-openclaw-usb, better-auth +1 more |
 | `solver` | 5 | repo-transmute, hermes-agent, starcraft-battlenet-web +2 more |
 | `sustainability` | 26 | energy-aware-task-router, bytebot, repomix +23 more |
-| `svelte` | 4 | hermes-computer-planning, hermes-web-computer, ai-tools +1 more |
-| `sync` | 6 | hermes-computer-planning, hermes-web-computer, features-list +3 more |
+| `svelte` | 4 | hermes-web-computer, hermes-computer-planning, ai-tools +1 more |
+| `sync` | 7 | seans, hermes-web-computer, hermes-computer-planning +4 more |
 | `telemetry` | 3 | hermes-web-computer, langfuse, openclaw-telemetry |
-| `terminal` | 9 | hermes-web-computer, features-list, hermes-agent +6 more |
+| `terminal` | 10 | seans, hermes-web-computer, features-list +7 more |
 | `testing` | 4 | linux-web-serving-infrastructure, webdriverio, kali-openclaw-usb +1 more |
 | `training` | 29 | energy-aware-task-router, bytebot, repomix +26 more |
-| `transpilation` | 4 | seans-reporepo, features-list, repo-transmute +1 more |
+| `transpilation` | 5 | seans, seans-reporepo, features-list +2 more |
 | `tui` | 8 | hermes-agent, pokerkit, galaxy +5 more |
-| `typescript` | 14 | hermes-computer-planning, seans-reporepo, repo-transmute +11 more |
+| `typescript` | 15 | seans, hermes-computer-planning, seans-reporepo +12 more |
 | `ui` | 17 | Front-End-Checklist, galaxy, paper2gui +14 more |
 | `vector-db` | 7 | memsearch, claude-context, openpencil +4 more |
 | `vector-search` | 5 | repo-transmute, claw-aie-harness, txtai +2 more |
 | `video` | 2 | oh-my-openagent, yt-dlp |
-| `voice` | 6 | seans-reporepo, hermes-web-computer, hermes-agent +3 more |
+| `voice` | 6 | hermes-web-computer, seans-reporepo, hermes-agent +3 more |
 | `vpn` | 2 | hermes-computer-planning, headscale |
 | `vue` | 4 | developer-roadmap, awesome-frontend-resources, openpencil +1 more |
-| `web-app` | 33 | hermes-computer-planning, seans-reporepo, hermes-web-computer +30 more |
+| `web-app` | 35 | seans, hermes-web-computer, hermes-computer-planning +32 more |
 | `website` | 2 | features-list, sean-s-landing-page |
 | `workflow-engine` | 3 | hermes-web-computer, temporal, ralph-orchestrator |
 
@@ -224,19 +225,19 @@
 
 | Language | Count | Total Size |
 |---|---|---|
-| TypeScript | 56 | 8,810,116 KB |
-| Python | 43 | 4,172,624 KB |
-| other | 17 | 152,032 KB |
-| Go | 10 | 739,624 KB |
-| Shell | 10 | 636,710 KB |
-| Rust | 8 | 265,688 KB |
-| HTML | 5 | 215,896 KB |
-| JavaScript | 4 | 176,685 KB |
+| TypeScript | 56 | 8,846,639 KB |
+| Python | 44 | 4,191,181 KB |
+| other | 19 | 152,058 KB |
+| Go | 10 | 740,152 KB |
+| Shell | 10 | 636,821 KB |
+| Rust | 8 | 266,424 KB |
+| HTML | 5 | 215,905 KB |
+| JavaScript | 4 | 176,950 KB |
 | Nix | 4 | 295,047 KB |
 | C++ | 2 | 627,715 KB |
 | Jupyter Notebook | 2 | 649,626 KB |
-| Java | 2 | 96,027 KB |
-| C | 2 | 271,867 KB |
+| Java | 2 | 96,225 KB |
+| C | 2 | 272,002 KB |
 | QML | 1 | 998 KB |
 | CSS | 1 | 180 KB |
 | Vue | 1 | 4,450 KB |

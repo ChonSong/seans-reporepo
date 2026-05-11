@@ -5,7 +5,7 @@ description: Personal code catalog for ideation and combinatorial app design
 type: library
 status: active
 language: Python
-size_kb: 127
+size_kb: 340
 stars: 0
 last_pushed: '2026-05-11'
 license: unknown
@@ -36,7 +36,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # seans-reporepo
@@ -50,7 +50,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 127 KB
+- **Size:** 340 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-11
 - **License:** unknown
@@ -62,14 +62,14 @@ refreshed_at: '2026-05-11 02:46 UTC'
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-05-11 02:12 UTC
+> **Last refreshed:** 2026-05-11 02:46 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
 | Repos | 38 | 133 | 171 |
-| Total Size | 2,145,906 KB | 15,021,360 KB | 17,167,266 KB (16,764 MB) |
+| Total Size | 2,145,906 KB | 15,022,523 KB | 17,168,429 KB (16,766 MB) |
 | Languages | 11 | 16 | 19 |
 | Tags | — | — | 79 |
 

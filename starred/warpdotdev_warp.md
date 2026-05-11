@@ -5,8 +5,8 @@ description: 'Warp is an agentic development environment, born out of the termin
 type: agent
 status: active
 language: Rust
-size_kb: 181910
-stars: 57329
+size_kb: 181612
+stars: 57436
 last_pushed: '2026-05-11'
 license: 'AGPL-3.0'
 tags:
@@ -24,7 +24,7 @@ topics:
   - terminal
   - wasm
   - zsh
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # warp
@@ -38,8 +38,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 181,910 KB
-- **Stars:** 57,329
+- **Size:** 181,612 KB
+- **Stars:** 57,436
 - **Last Pushed:** 2026-05-11
 - **License:** AGPL-3.0
 - **Tags:** agent, rust, terminal, tui, ui

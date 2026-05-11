@@ -5,7 +5,7 @@ description: 'Real-time observability of claude code sessions & multi-agents.'
 type: agent
 status: active
 language: TypeScript
-size_kb: 30830
+size_kb: 30845
 stars: 550
 last_pushed: '2026-05-11'
 license: MIT
@@ -13,7 +13,7 @@ tags:
   - agent
   - multi-agent
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # agents-observe
@@ -27,7 +27,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 30,830 KB
+- **Size:** 30,845 KB
 - **Stars:** 550
 - **Last Pushed:** 2026-05-11
 - **License:** MIT

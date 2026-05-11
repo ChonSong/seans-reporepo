@@ -5,7 +5,7 @@ description: 'Analysis of computer-use repos vs Agent-OS v1.2 spec: coder-deskto
 type: library
 status: active
 language: other
-size_kb: 6
+size_kb: 22
 stars: 0
 last_pushed: '2026-05-11'
 license: unknown
@@ -29,7 +29,7 @@ tags:
   - vpn
   - web-app
 topics: []
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # hermes-computer-planning
@@ -43,7 +43,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** other
-- **Size:** 6 KB
+- **Size:** 22 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-11
 - **License:** unknown

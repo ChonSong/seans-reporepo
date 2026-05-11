@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 7883
-stars: 57994
+stars: 57997
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -20,7 +20,7 @@ topics:
   - reactjs
   - redux
   - state-management
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # zustand
@@ -35,7 +35,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 7,883 KB
-- **Stars:** 57,994
+- **Stars:** 57,997
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** react, ui

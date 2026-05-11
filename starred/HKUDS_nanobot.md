@@ -5,9 +5,9 @@ description: '"🐈 nanobot: The Ultra-Lightweight Personal AI Agent"'
 type: agent
 status: active
 language: Python
-size_kb: 41630
-stars: 42154
-last_pushed: '2026-05-10'
+size_kb: 41651
+stars: 42181
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
@@ -33,7 +33,7 @@ topics:
   - nanobot
   - openai
   - openclaw
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # nanobot
@@ -47,8 +47,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 41,630 KB
-- **Stars:** 42,154
-- **Last Pushed:** 2026-05-10
+- **Size:** 41,651 KB
+- **Stars:** 42,181
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, chat-ui, docker, llm, openclaw, sustainability, training

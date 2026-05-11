@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 63645
-stars: 19561
+stars: 19572
 last_pushed: '2026-05-09'
 license: 'Apache-2.0'
 tags:
@@ -41,7 +41,7 @@ topics:
   - multi-agent-systems
   - multi-agents
   - multi-agents-collaboration
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # adk-python
@@ -56,7 +56,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 63,645 KB
-- **Stars:** 19,561
+- **Stars:** 19,572
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, bot, chat-ui, coding-agent, docker, framework, library, llm, multi-agent, python, sustainability, training

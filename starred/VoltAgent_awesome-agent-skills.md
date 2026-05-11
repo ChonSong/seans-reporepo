@@ -6,7 +6,7 @@ type: agent
 status: active
 language: other
 size_kb: 330
-stars: 21140
+stars: 21198
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ topics:
   - gemini-skills
   - opencode-skills
   - skills
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # awesome-agent-skills
@@ -45,7 +45,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 330 KB
-- **Stars:** 21,140
+- **Stars:** 21,198
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, ai, awesome-list, cli, multi-agent

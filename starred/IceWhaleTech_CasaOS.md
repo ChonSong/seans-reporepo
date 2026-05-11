@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Go
 size_kb: 182856
-stars: 33797
+stars: 33798
 last_pushed: '2025-08-06'
 license: 'Apache-2.0'
 tags:
@@ -26,7 +26,7 @@ topics:
   - raspberry
   - self-hosted
   - vuejs
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # CasaOS
@@ -41,7 +41,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 182,856 KB
-- **Stars:** 33,797
+- **Stars:** 33,798
 - **Last Pushed:** 2025-08-06
 - **License:** Apache-2.0
 - **Tags:** automation, docker, go, infrastructure, vue

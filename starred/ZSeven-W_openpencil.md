@@ -5,8 +5,8 @@ description: 'The world's first open-source AI-native vector design tool and the
 type: agent
 status: active
 language: TypeScript
-size_kb: 26199
-stars: 2581
+size_kb: 26198
+stars: 2584
 last_pushed: '2026-05-11'
 license: MIT
 tags:
@@ -49,7 +49,7 @@ topics:
   - vibecoding
   - vibedesign
   - vue
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # openpencil
@@ -63,8 +63,8 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 26,199 KB
-- **Stars:** 2,581
+- **Size:** 26,198 KB
+- **Stars:** 2,584
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, image-gen, mcp, multi-agent, react, reliability, sustainability, svelte, training, tui, ui, vector-db, vue

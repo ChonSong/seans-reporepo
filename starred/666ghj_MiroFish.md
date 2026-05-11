@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 16197
-stars: 59974
+stars: 60044
 last_pushed: '2026-04-02'
 license: 'AGPL-3.0'
 tags:
@@ -25,7 +25,7 @@ topics:
   - python3
   - social-prediction
   - swarm-intelligence
-refreshed_at: '2026-05-11 02:46 UTC'
+refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # MiroFish
@@ -40,7 +40,7 @@ refreshed_at: '2026-05-11 02:46 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 16,197 KB
-- **Stars:** 59,974
+- **Stars:** 60,044
 - **Last Pushed:** 2026-04-02
 - **License:** AGPL-3.0
 - **Tags:** agent, llm, multi-agent, python
