@@ -12,6 +12,9 @@ license: MIT
 tags:
   - agent
   - mcp
+  - svelte
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # ai-tools
@@ -29,4 +32,4 @@ tags:
 - **Stars:** 249
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** agent, mcp
+- **Tags:** agent, mcp, svelte

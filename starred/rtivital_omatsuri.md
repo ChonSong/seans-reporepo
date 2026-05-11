@@ -10,7 +10,20 @@ stars: 2968
 last_pushed: '2026-02-23'
 license: MIT
 tags:
+  - css
+  - go
   - react
+  - web-app
+topics:
+  - application
+  - css
+  - frontend
+  - react
+  - svg
+  - svgo
+  - toolbox
+  - webworkers
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # omatsuri
@@ -28,4 +41,4 @@ tags:
 - **Stars:** 2,968
 - **Last Pushed:** 2026-02-23
 - **License:** MIT
-- **Tags:** react
+- **Tags:** css, go, react, web-app

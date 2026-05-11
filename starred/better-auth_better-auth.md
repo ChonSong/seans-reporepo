@@ -11,7 +11,18 @@ last_pushed: '2026-05-10'
 license: MIT
 tags:
   - framework
+  - security
   - typescript
+topics:
+  - authentication
+  - iam
+  - oauth
+  - oauth2
+  - oidc
+  - sso
+  - stripe
+  - typescript
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # better-auth
@@ -29,4 +40,4 @@ tags:
 - **Stars:** 28,242
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** framework, typescript
+- **Tags:** framework, security, typescript

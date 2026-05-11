@@ -11,7 +11,27 @@ last_pushed: '2026-05-06'
 license: MIT
 tags:
   - ai
+  - aie
+  - docker
+  - sustainability
+  - training
   - voice
+topics:
+  - ai
+  - applio
+  - pytorch
+  - rvc
+  - speech
+  - speech-to-speech
+  - text-to-speech
+  - tts
+  - vc
+  - vits
+  - voice
+  - voice-clone
+  - voice-cloning
+  - voice-conversion
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # Applio
@@ -29,4 +49,4 @@ tags:
 - **Stars:** 3,249
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
-- **Tags:** ai, voice
+- **Tags:** ai, aie, docker, sustainability, training, voice

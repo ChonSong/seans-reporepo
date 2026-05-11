@@ -9,7 +9,19 @@ size_kb: 22338
 stars: 595
 last_pushed: '2022-07-26'
 license: MIT
-tags: []
+tags:
+  - dotfiles
+topics:
+  - dotfiles
+  - eww
+  - hyprland
+  - neovim
+  - nix
+  - nixos
+  - rice
+  - unixporn
+  - zsh
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # dotfiles-nix
@@ -27,3 +39,4 @@ tags: []
 - **Stars:** 595
 - **Last Pushed:** 2022-07-26
 - **License:** MIT
+- **Tags:** dotfiles

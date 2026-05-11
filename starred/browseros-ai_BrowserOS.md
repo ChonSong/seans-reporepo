@@ -12,7 +12,23 @@ license: 'AGPL-3.0'
 tags:
   - agent
   - browser-automation
+  - coding-agent
   - llm
+  - multi-agent
+  - ui
+topics:
+  - agent
+  - browser
+  - browseros
+  - chromium
+  - hacktoberfest
+  - linux
+  - llm
+  - lmstudio
+  - macos
+  - ollama
+  - windows
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # BrowserOS
@@ -30,4 +46,4 @@ tags:
 - **Stars:** 10,859
 - **Last Pushed:** 2026-05-09
 - **License:** AGPL-3.0
-- **Tags:** agent, browser-automation, llm
+- **Tags:** agent, browser-automation, coding-agent, llm, multi-agent, ui

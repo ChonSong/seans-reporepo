@@ -11,9 +11,20 @@ last_pushed: '2026-05-10'
 license: MIT
 tags:
   - ai
+  - aie
   - api
   - cli
+  - docker
   - mcp
+  - sustainability
+  - training
+topics:
+  - ai
+  - cli
+  - graphql
+  - mcp
+  - openapi
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # mcp2cli
@@ -31,4 +42,4 @@ tags:
 - **Stars:** 2,106
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** ai, api, cli, mcp
+- **Tags:** ai, aie, api, cli, docker, mcp, sustainability, training

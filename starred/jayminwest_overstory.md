@@ -14,6 +14,13 @@ tags:
   - ai
   - multi-agent
   - orchestration
+  - ui
+topics:
+  - agent-swarms
+  - ai-agents
+  - claude-code
+  - tmux
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # overstory
@@ -31,4 +38,4 @@ tags:
 - **Stars:** 1,287
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** agent, ai, multi-agent, orchestration
+- **Tags:** agent, ai, multi-agent, orchestration, ui

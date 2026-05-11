@@ -11,10 +11,27 @@ last_pushed: '2026-05-11'
 license: 'Apache-2.0'
 tags:
   - agent
+  - ai
   - dashboard
   - llm
   - monitoring
+  - observability
   - rag
+topics:
+  - evaluation
+  - hacktoberfest
+  - hacktoberfest2025
+  - langchain
+  - llama-index
+  - llm
+  - llm-evaluation
+  - llm-observability
+  - llmops
+  - open-source
+  - openai
+  - playground
+  - prompt-engineering
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # opik
@@ -32,4 +49,4 @@ tags:
 - **Stars:** 19,265
 - **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
-- **Tags:** agent, dashboard, llm, monitoring, rag
+- **Tags:** agent, ai, dashboard, llm, monitoring, observability, rag

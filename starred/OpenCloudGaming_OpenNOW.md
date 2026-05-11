@@ -11,6 +11,17 @@ last_pushed: '2026-05-11'
 license: MIT
 tags:
   - cli
+  - gaming
+  - infrastructure
+  - paas
+topics:
+  - cloud-gaming
+  - cross-platform
+  - game-streaming
+  - geforce-now
+  - gfn
+  - nvidia
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # OpenNOW
@@ -28,4 +39,4 @@ tags:
 - **Stars:** 2,024
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** cli
+- **Tags:** cli, gaming, infrastructure, paas

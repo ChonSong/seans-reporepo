@@ -6,12 +6,20 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 27867
-stars: 54960
+stars: 54961
 last_pushed: '2026-05-09'
 license: MIT
 tags:
   - ai
+  - infrastructure
   - llm
+  - mcp
+topics:
+  - llm
+  - mcp
+  - mcp-server
+  - vibe-coding
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # context7
@@ -26,7 +34,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 27,867 KB
-- **Stars:** 54,960
+- **Stars:** 54,961
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** ai, llm
+- **Tags:** ai, infrastructure, llm, mcp

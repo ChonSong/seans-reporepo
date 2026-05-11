@@ -21,6 +21,8 @@ tags:
   - python
   - rag
   - reliability
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # circuit-breaker-framework

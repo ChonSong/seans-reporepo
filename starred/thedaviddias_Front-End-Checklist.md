@@ -11,8 +11,25 @@ last_pushed: '2026-03-16'
 license: 'CC0-1.0'
 tags:
   - awesome-list
+  - css
+  - ide
   - javascript
+  - ui
   - web-app
+topics:
+  - checklist
+  - css
+  - front-end-developer-tool
+  - front-end-development
+  - frontend
+  - guidelines
+  - html
+  - javascript
+  - lists
+  - reference
+  - resources
+  - web-development
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # Front-End-Checklist
@@ -30,4 +47,4 @@ tags:
 - **Stars:** 72,571
 - **Last Pushed:** 2026-03-16
 - **License:** CC0-1.0
-- **Tags:** awesome-list, javascript, web-app
+- **Tags:** awesome-list, css, ide, javascript, ui, web-app

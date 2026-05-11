@@ -12,9 +12,38 @@ license: 'Apache-2.0'
 tags:
   - agent
   - ai
+  - aie
+  - automation
   - bot
+  - browser-automation
+  - coding-agent
   - docker
   - llm
+  - mcp
+  - multi-agent
+  - sustainability
+  - training
+topics:
+  - agent
+  - agentic-ai
+  - agents
+  - ai
+  - ai-agents
+  - ai-tools
+  - anthropic
+  - automation
+  - bytebot
+  - computer-use
+  - computer-use-agent
+  - cua
+  - desktop
+  - desktop-automation
+  - docker
+  - gemini
+  - llm
+  - mcp
+  - openai
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # bytebot
@@ -32,4 +61,4 @@ tags:
 - **Stars:** 11,007
 - **Last Pushed:** 2025-09-12
 - **License:** Apache-2.0
-- **Tags:** agent, ai, bot, docker, llm
+- **Tags:** agent, ai, aie, automation, bot, browser-automation, coding-agent, docker, llm, mcp, multi-agent, sustainability, training

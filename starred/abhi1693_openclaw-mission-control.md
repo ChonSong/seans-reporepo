@@ -12,10 +12,18 @@ license: MIT
 tags:
   - agent
   - ai
+  - automation
+  - browser-automation
   - dashboard
   - multi-agent
   - openclaw
   - orchestration
+topics:
+  - ai-agents
+  - automation
+  - openclaw
+  - orchestration
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # openclaw-mission-control
@@ -33,4 +41,4 @@ tags:
 - **Stars:** 3,946
 - **Last Pushed:** 2026-04-06
 - **License:** MIT
-- **Tags:** agent, ai, dashboard, multi-agent, openclaw, orchestration
+- **Tags:** agent, ai, automation, browser-automation, dashboard, multi-agent, openclaw, orchestration

@@ -11,11 +11,23 @@ last_pushed: '2026-05-08'
 license: MIT
 tags:
   - agent
+  - ai
   - hermes-agent
   - react
+  - research
   - terminal
   - typescript
+  - ui
   - web-app
+topics:
+  - agent-ui
+  - ai-workspace
+  - hackathon
+  - hermes-agent
+  - nous-research
+  - react
+  - typescript
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # hermes-workspace
@@ -33,4 +45,4 @@ tags:
 - **Stars:** 3,847
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
-- **Tags:** agent, hermes-agent, react, terminal, typescript, web-app
+- **Tags:** agent, ai, hermes-agent, react, research, terminal, typescript, ui, web-app

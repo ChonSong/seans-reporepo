@@ -11,6 +11,10 @@ last_pushed: '2026-01-27'
 license: 'Apache-2.0'
 tags:
   - agent
+  - research
+topics:
+  - research
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # UI-TARS
@@ -28,4 +32,4 @@ tags:
 - **Stars:** 10,367
 - **Last Pushed:** 2026-01-27
 - **License:** Apache-2.0
-- **Tags:** agent
+- **Tags:** agent, research

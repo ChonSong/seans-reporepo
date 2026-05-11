@@ -11,8 +11,36 @@ last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
   - ai
+  - aie
   - api
+  - chat-ui
+  - docker
+  - image-gen
   - llm
+  - mcp
+  - rag
+  - reliability
+  - sustainability
+  - training
+  - tui
+  - ui
+topics:
+  - ai
+  - llm
+  - llm-ui
+  - llm-webui
+  - llms
+  - mcp
+  - ollama
+  - ollama-webui
+  - open-webui
+  - openai
+  - openapi
+  - rag
+  - self-hosted
+  - ui
+  - webui
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # open-webui
@@ -30,4 +58,4 @@ tags:
 - **Stars:** 136,503
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
-- **Tags:** ai, api, llm
+- **Tags:** ai, aie, api, chat-ui, docker, image-gen, llm, mcp, rag, reliability, sustainability, training, tui, ui

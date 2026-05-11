@@ -21,12 +21,15 @@ tags:
   - harness
   - hermes-agent
   - python
+  - svelte
   - sync
   - telemetry
   - terminal
   - voice
   - web-app
   - workflow-engine
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # hermes-web-computer
@@ -44,7 +47,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-05-11
 - **License:** unknown
-- **Tags:** agent, ai, audio, benchmarking, bot, browser-automation, docker, go, harness, hermes-agent, python, sync, telemetry, terminal, voice, web-app, workflow-engine
+- **Tags:** agent, ai, audio, benchmarking, bot, browser-automation, docker, go, harness, hermes-agent, python, svelte, sync, telemetry, terminal, voice, web-app, workflow-engine
 
 ## README Excerpt
 

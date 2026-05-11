@@ -12,7 +12,14 @@ license: 'Apache-2.0'
 tags:
   - agent
   - ai
+  - aie
   - docker
+  - sustainability
+  - training
+topics:
+  - agents
+  - ai
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # docker-agent
@@ -30,4 +37,4 @@ tags:
 - **Stars:** 2,902
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
-- **Tags:** agent, ai, docker
+- **Tags:** agent, ai, aie, docker, sustainability, training

@@ -11,6 +11,8 @@ last_pushed: '2024-09-16'
 license: 'GPL-3.0'
 tags:
   - dotfiles
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # mod-illogical-impulse-dotfiles

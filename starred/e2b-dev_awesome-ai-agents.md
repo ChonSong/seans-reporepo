@@ -12,8 +12,29 @@ license: NOASSERTION
 tags:
   - agent
   - ai
+  - aie
   - awesome-list
+  - coding-agent
+  - docker
+  - multi-agent
   - python
+  - sustainability
+  - training
+topics:
+  - agent
+  - ai
+  - artificial-intelligence
+  - autogpt
+  - autonomous-agents
+  - awesome
+  - babyagi
+  - copilot
+  - gpt
+  - gpt-4
+  - gpt-engineer
+  - openai
+  - python
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # awesome-ai-agents
@@ -31,4 +52,4 @@ tags:
 - **Stars:** 27,752
 - **Last Pushed:** 2025-02-26
 - **License:** NOASSERTION
-- **Tags:** agent, ai, awesome-list, python
+- **Tags:** agent, ai, aie, awesome-list, coding-agent, docker, multi-agent, python, sustainability, training

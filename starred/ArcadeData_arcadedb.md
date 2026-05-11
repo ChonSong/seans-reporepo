@@ -10,10 +10,33 @@ stars: 862
 last_pushed: '2026-05-10'
 license: 'Apache-2.0'
 tags:
+  - api
+  - database
   - docker
   - embeddings
   - go
   - vector-db
+  - vector-search
+topics:
+  - arcadedb
+  - database
+  - dbms
+  - distributed
+  - docker
+  - document
+  - embedded
+  - graph
+  - k8s
+  - key-value
+  - kubernetes
+  - multi-model
+  - orientdb
+  - search-engine
+  - similarity-search
+  - time-series
+  - vector-database
+  - vector-search
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # arcadedb
@@ -31,4 +54,4 @@ tags:
 - **Stars:** 862
 - **Last Pushed:** 2026-05-10
 - **License:** Apache-2.0
-- **Tags:** docker, embeddings, go, vector-db
+- **Tags:** api, database, docker, embeddings, go, vector-db, vector-search

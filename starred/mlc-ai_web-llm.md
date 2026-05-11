@@ -10,8 +10,20 @@ stars: 17949
 last_pushed: '2026-05-06'
 license: 'Apache-2.0'
 tags:
+  - ai
   - browser-automation
+  - chat-ui
+  - education
   - llm
+topics:
+  - chatgpt
+  - deep-learning
+  - language-model
+  - llm
+  - tvm
+  - webgpu
+  - webml
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # web-llm
@@ -29,4 +41,4 @@ tags:
 - **Stars:** 17,949
 - **Last Pushed:** 2026-05-06
 - **License:** Apache-2.0
-- **Tags:** browser-automation, llm
+- **Tags:** ai, browser-automation, chat-ui, education, llm

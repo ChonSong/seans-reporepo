@@ -12,8 +12,25 @@ license: MIT
 tags:
   - agent
   - ai
+  - aie
+  - coding-agent
+  - docker
   - javascript
   - llm
+  - multi-agent
+  - sustainability
+  - training
+  - ui
+topics:
+  - agent
+  - agents
+  - ai
+  - generative-ui
+  - help-wanted
+  - javascript
+  - llm
+  - looking-for-contributors
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # openui
@@ -31,4 +48,4 @@ tags:
 - **Stars:** 4,545
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
-- **Tags:** agent, ai, javascript, llm
+- **Tags:** agent, ai, aie, coding-agent, docker, javascript, llm, multi-agent, sustainability, training, ui

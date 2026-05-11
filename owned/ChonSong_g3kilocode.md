@@ -19,6 +19,8 @@ tags:
   - mcp
   - rust
   - terminal
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # g3kilocode

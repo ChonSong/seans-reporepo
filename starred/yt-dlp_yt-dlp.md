@@ -6,14 +6,24 @@ type: unknown
 status: active
 language: Python
 size_kb: 60594
-stars: 161537
+stars: 161538
 last_pushed: '2026-05-05'
 license: Unlicense
 tags:
   - audio
+  - cli
   - ide
   - python
   - video
+topics:
+  - cli
+  - downloader
+  - python
+  - sponsorblock
+  - youtube-dl
+  - youtube-downloader
+  - yt-dlp
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # yt-dlp
@@ -28,7 +38,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 60,594 KB
-- **Stars:** 161,537
+- **Stars:** 161,538
 - **Last Pushed:** 2026-05-05
 - **License:** Unlicense
-- **Tags:** audio, ide, python, video
+- **Tags:** audio, cli, ide, python, video

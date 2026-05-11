@@ -10,7 +10,37 @@ stars: 354539
 last_pushed: '2026-05-09'
 license: NOASSERTION
 tags:
+  - ai
+  - database
+  - education
+  - go
   - ide
+  - infrastructure
+  - javascript
+  - python
+  - react
+  - vue
+  - web-app
+topics:
+  - angular-roadmap
+  - backend-roadmap
+  - blockchain-roadmap
+  - computer-science
+  - dba-roadmap
+  - developer-roadmap
+  - devops-roadmap
+  - frontend-roadmap
+  - go-roadmap
+  - java-roadmap
+  - javascript-roadmap
+  - nodejs-roadmap
+  - python-roadmap
+  - qa-roadmap
+  - react-roadmap
+  - roadmap
+  - software-architect-roadmap
+  - vue-roadmap
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # developer-roadmap
@@ -28,4 +58,4 @@ tags:
 - **Stars:** 354,539
 - **Last Pushed:** 2026-05-09
 - **License:** NOASSERTION
-- **Tags:** ide
+- **Tags:** ai, database, education, go, ide, infrastructure, javascript, python, react, vue, web-app

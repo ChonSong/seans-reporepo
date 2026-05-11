@@ -6,13 +6,15 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 84401
-stars: 17255
+stars: 17256
 last_pushed: '2026-05-11'
 license: 'AGPL-3.0'
 tags:
   - agent
   - cli
   - multi-agent
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # OpenMAIC
@@ -27,7 +29,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 84,401 KB
-- **Stars:** 17,255
+- **Stars:** 17,256
 - **Last Pushed:** 2026-05-11
 - **License:** AGPL-3.0
 - **Tags:** agent, cli, multi-agent

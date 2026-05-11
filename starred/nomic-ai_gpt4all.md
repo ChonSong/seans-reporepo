@@ -11,7 +11,12 @@ last_pushed: '2025-05-27'
 license: MIT
 tags:
   - ai
+  - chat-ui
   - llm
+topics:
+  - ai-chat
+  - llm-inference
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # gpt4all
@@ -29,4 +34,4 @@ tags:
 - **Stars:** 77,364
 - **Last Pushed:** 2025-05-27
 - **License:** MIT
-- **Tags:** ai, llm
+- **Tags:** ai, chat-ui, llm

@@ -12,6 +12,18 @@ license: MIT
 tags:
   - agent
   - ai
+  - chat-ui
+  - llm
+  - multi-agent
+  - react
+topics:
+  - agents
+  - chatgpt
+  - generative-ai
+  - large-language-models
+  - multiagent
+  - react-flow
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # langflow
@@ -29,4 +41,4 @@ tags:
 - **Stars:** 147,934
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** agent, ai
+- **Tags:** agent, ai, chat-ui, llm, multi-agent, react

@@ -12,8 +12,28 @@ license: 'AGPL-3.0'
 tags:
   - agent
   - ai
+  - bot
+  - coding-agent
+  - database
   - llm
+  - multi-agent
   - openclaw
+  - rag
+topics:
+  - agent
+  - agentic-rag
+  - ai-agents
+  - clawbot
+  - context-database
+  - context-engineering
+  - filesystem
+  - llm
+  - memory
+  - openclaw
+  - opencode
+  - rag
+  - skill
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # OpenViking
@@ -31,4 +51,4 @@ tags:
 - **Stars:** 23,741
 - **Last Pushed:** 2026-05-10
 - **License:** AGPL-3.0
-- **Tags:** agent, ai, llm, openclaw
+- **Tags:** agent, ai, bot, coding-agent, database, llm, multi-agent, openclaw, rag

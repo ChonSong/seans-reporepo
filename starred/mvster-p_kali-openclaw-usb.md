@@ -12,8 +12,25 @@ license: unknown
 tags:
   - ai
   - automation
+  - browser-automation
   - openclaw
+  - security
   - testing
+  - ui
+topics:
+  - automation
+  - cybersecurity
+  - ethical-hacking
+  - kali-linux
+  - offensive-security
+  - openclaw
+  - penetration-testing
+  - pentest
+  - portable
+  - red-team
+  - security-tools
+  - usb
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # kali-openclaw-usb
@@ -31,4 +48,4 @@ tags:
 - **Stars:** 43
 - **Last Pushed:** 2026-04-03
 - **License:** unknown
-- **Tags:** ai, automation, openclaw, testing
+- **Tags:** ai, automation, browser-automation, openclaw, security, testing, ui

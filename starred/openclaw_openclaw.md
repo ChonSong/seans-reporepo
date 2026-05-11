@@ -6,11 +6,26 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 1034309
-stars: 370578
+stars: 370582
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - ai
+  - aie
+  - docker
+  - openclaw
+  - rust
+  - sustainability
+  - training
+topics:
+  - ai
+  - assistant
+  - crustacean
+  - molty
+  - openclaw
+  - own-your-data
+  - personal
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # openclaw
@@ -25,7 +40,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 1,034,309 KB
-- **Stars:** 370,578
+- **Stars:** 370,582
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** ai
+- **Tags:** ai, aie, docker, openclaw, rust, sustainability, training

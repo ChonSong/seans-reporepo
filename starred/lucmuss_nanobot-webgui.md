@@ -13,7 +13,15 @@ tags:
   - agent
   - bot
   - mcp
+  - openclaw
+  - ui
   - web-app
+topics:
+  - nanobot
+  - nanobot-skill
+  - nanobot-webui
+  - openclaw
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # nanobot-webgui
@@ -31,4 +39,4 @@ tags:
 - **Stars:** 21
 - **Last Pushed:** 2026-04-05
 - **License:** MIT
-- **Tags:** agent, bot, mcp, web-app
+- **Tags:** agent, bot, mcp, openclaw, ui, web-app

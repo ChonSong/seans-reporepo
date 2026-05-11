@@ -11,6 +11,18 @@ last_pushed: '2024-09-02'
 license: MIT
 tags:
   - ai
+  - chat-ui
+  - css
+  - image-gen
+  - reliability
+  - tui
+  - ui
+topics:
+  - community
+  - css
+  - tailwind
+  - ui
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # galaxy
@@ -28,4 +40,4 @@ tags:
 - **Stars:** 10,671
 - **Last Pushed:** 2024-09-02
 - **License:** MIT
-- **Tags:** ai
+- **Tags:** ai, chat-ui, css, image-gen, reliability, tui, ui

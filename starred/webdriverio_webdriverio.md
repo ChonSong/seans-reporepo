@@ -15,6 +15,21 @@ tags:
   - framework
   - javascript
   - mobile
+  - testing
+topics:
+  - automation
+  - cucumber
+  - devtools
+  - jasmine
+  - javascript
+  - mocha
+  - node
+  - performance
+  - performance-test
+  - test
+  - webdriver
+  - webdriverio
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # webdriverio
@@ -32,4 +47,4 @@ tags:
 - **Stars:** 9,801
 - **Last Pushed:** 2026-05-05
 - **License:** MIT
-- **Tags:** automation, browser-automation, framework, javascript, mobile
+- **Tags:** automation, browser-automation, framework, javascript, mobile, testing

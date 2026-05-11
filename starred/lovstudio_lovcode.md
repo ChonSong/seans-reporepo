@@ -11,9 +11,20 @@ last_pushed: '2026-05-09'
 license: 'Apache-2.0'
 tags:
   - ai
+  - css
   - react
   - rust
   - typescript
+topics:
+  - ai-tools
+  - claude-code
+  - desktop-app
+  - react
+  - rust
+  - tailwindcss
+  - tauri
+  - typescript
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # lovcode
@@ -31,4 +42,4 @@ tags:
 - **Stars:** 329
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
-- **Tags:** ai, react, rust, typescript
+- **Tags:** ai, css, react, rust, typescript

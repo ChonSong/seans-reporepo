@@ -11,8 +11,39 @@ last_pushed: '2026-05-06'
 license: MIT
 tags:
   - agent
+  - ai
+  - cli
+  - coding-agent
+  - database
+  - embeddings
   - mcp
+  - multi-agent
+  - plugin
+  - rag
   - typescript
+  - vector-db
+topics:
+  - agent
+  - agentic-rag
+  - ai-coding
+  - claude-code
+  - code-generation
+  - code-search
+  - cursor
+  - embedding
+  - gemini-cli
+  - mcp
+  - merkle-tree
+  - nodejs
+  - openai
+  - rag
+  - semantic-search
+  - typescript
+  - vector-database
+  - vibe-coding
+  - voyage-ai
+  - vscode-extension
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # claude-context
@@ -30,4 +61,4 @@ tags:
 - **Stars:** 10,922
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
-- **Tags:** agent, mcp, typescript
+- **Tags:** agent, ai, cli, coding-agent, database, embeddings, mcp, multi-agent, plugin, rag, typescript, vector-db

@@ -10,10 +10,21 @@ stars: 100072
 last_pushed: '2026-05-09'
 license: MIT
 tags:
+  - design-system
+  - framework
   - ide
   - javascript
   - typescript
   - web-app
+topics:
+  - angular
+  - javascript
+  - pwa
+  - typescript
+  - web
+  - web-framework
+  - web-performance
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # angular
@@ -31,4 +42,4 @@ tags:
 - **Stars:** 100,072
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** ide, javascript, typescript, web-app
+- **Tags:** design-system, framework, ide, javascript, typescript, web-app

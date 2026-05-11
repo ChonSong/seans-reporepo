@@ -10,7 +10,23 @@ stars: 31866
 last_pushed: '2026-05-11'
 license: MIT
 tags:
+  - ai
   - docker
+  - paas
+  - ui
+topics:
+  - buildpack
+  - containers
+  - devops
+  - docker
+  - dokku
+  - heroku
+  - kubernetes
+  - nomad
+  - paas
+  - self-hosted
+  - selfhosted
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # dokku
@@ -28,4 +44,4 @@ tags:
 - **Stars:** 31,866
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** docker
+- **Tags:** ai, docker, paas, ui

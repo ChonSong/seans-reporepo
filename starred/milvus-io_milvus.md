@@ -7,12 +7,37 @@ status: active
 language: Go
 size_kb: 289779
 stars: 44223
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: 'Apache-2.0'
 tags:
+  - ai
+  - database
   - go
+  - infrastructure
   - llm
+  - rag
   - vector-db
+  - vector-search
+topics:
+  - anns
+  - cloud-native
+  - diskann
+  - distributed
+  - embedding-database
+  - embedding-similarity
+  - embedding-store
+  - faiss
+  - golang
+  - hnsw
+  - image-search
+  - llm
+  - nearest-neighbor-search
+  - rag
+  - vector-database
+  - vector-search
+  - vector-similarity
+  - vector-store
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # milvus
@@ -28,6 +53,6 @@ tags:
 - **Language:** Go
 - **Size:** 289,779 KB
 - **Stars:** 44,223
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
-- **Tags:** go, llm, vector-db
+- **Tags:** ai, database, go, infrastructure, llm, rag, vector-db, vector-search

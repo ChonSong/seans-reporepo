@@ -6,13 +6,43 @@ type: agent
 status: active
 language: Python
 size_kb: 26234
-stars: 1643
+stars: 1644
 last_pushed: '2026-05-09'
 license: MIT
 tags:
   - agent
   - ai
+  - cli
+  - coding-agent
+  - embeddings
+  - harness
+  - multi-agent
+  - openclaw
+  - plugin
+  - rag
   - vector-db
+topics:
+  - agent
+  - agent-memory
+  - ai-agents
+  - claude-code
+  - claude-code-plugin
+  - codex
+  - codex-cli
+  - embeddings
+  - harness
+  - hybrid-search
+  - long-term-memory
+  - memory
+  - milvus
+  - openclaw
+  - opencode
+  - progressive-disclosure
+  - rag
+  - reranker
+  - semantic-search
+  - skills
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # memsearch
@@ -27,7 +57,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 26,234 KB
-- **Stars:** 1,643
+- **Stars:** 1,644
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** agent, ai, vector-db
+- **Tags:** agent, ai, cli, coding-agent, embeddings, harness, multi-agent, openclaw, plugin, rag, vector-db

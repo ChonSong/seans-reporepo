@@ -9,7 +9,17 @@ size_kb: 10566
 stars: 23209
 last_pushed: '2026-05-08'
 license: MIT
-tags: []
+tags:
+  - ai
+  - education
+topics:
+  - assistant
+  - learning
+  - note-taking
+  - notebook
+  - notes-app
+  - self-learning
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # open-notebook
@@ -27,3 +37,4 @@ tags: []
 - **Stars:** 23,209
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
+- **Tags:** ai, education

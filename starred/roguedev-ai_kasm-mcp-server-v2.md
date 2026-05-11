@@ -12,6 +12,8 @@ license: MIT
 tags:
   - ai
   - mcp
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # kasm-mcp-server-v2

@@ -11,10 +11,39 @@ last_pushed: '2026-05-11'
 license: MIT
 tags:
   - ai
+  - aie
+  - bot
+  - chat-ui
   - code-packing
+  - docker
   - javascript
   - llm
+  - mcp
+  - sustainability
+  - training
   - typescript
+topics:
+  - ai
+  - anthropic
+  - artificial-intelligence
+  - chatbot
+  - chatgpt
+  - claude
+  - deepseek
+  - developer-tools
+  - gemini
+  - genai
+  - generative-ai
+  - gpt
+  - javascript
+  - language-model
+  - llama
+  - llm
+  - mcp
+  - nodejs
+  - openai
+  - typescript
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # repomix
@@ -32,4 +61,4 @@ tags:
 - **Stars:** 24,578
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** ai, code-packing, javascript, llm, typescript
+- **Tags:** ai, aie, bot, chat-ui, code-packing, docker, javascript, llm, mcp, sustainability, training, typescript

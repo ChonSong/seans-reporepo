@@ -11,8 +11,26 @@ last_pushed: '2026-05-10'
 license: MIT
 tags:
   - agent
+  - ai
+  - awesome-list
   - cli
   - multi-agent
+topics:
+  - agent-skills
+  - ai-agents
+  - antigravity-skills
+  - awesome
+  - awesome-list
+  - awesome-lists
+  - claude-code
+  - claude-code-skills
+  - claude-skills
+  - codex-skills
+  - cursor-skills
+  - gemini-skills
+  - opencode-skills
+  - skills
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # awesome-agent-skills
@@ -30,4 +48,4 @@ tags:
 - **Stars:** 21,134
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** agent, cli, multi-agent
+- **Tags:** agent, ai, awesome-list, cli, multi-agent

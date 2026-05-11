@@ -10,6 +10,14 @@ stars: 18751
 last_pushed: '2026-05-10'
 license: MIT
 tags: []
+topics:
+  - bookstack
+  - documentation
+  - laravel
+  - php
+  - selfhosted
+  - wiki
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # BookStack

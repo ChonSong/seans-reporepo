@@ -16,6 +16,9 @@ tags:
   - nginx
   - proxy
   - web-app
+topics:
+  - hacktoberfest
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # docker-swag

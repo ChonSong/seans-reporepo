@@ -6,15 +6,50 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 26199
-stars: 2581
+stars: 2580
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
   - ai
+  - aie
+  - chat-ui
+  - coding-agent
+  - docker
+  - image-gen
+  - mcp
   - multi-agent
   - react
+  - reliability
+  - sustainability
+  - svelte
+  - training
+  - tui
+  - ui
   - vector-db
+  - vue
+topics:
+  - agent
+  - agent-team
+  - ai
+  - claude
+  - claude-code
+  - codex
+  - fimga
+  - flutter
+  - html
+  - mcp
+  - opencode
+  - openpencil
+  - pencil
+  - react
+  - react-native
+  - svelte
+  - ui
+  - vibecoding
+  - vibedesign
+  - vue
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # openpencil
@@ -29,7 +64,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 26,199 KB
-- **Stars:** 2,581
+- **Stars:** 2,580
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** agent, ai, multi-agent, react, vector-db
+- **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, image-gen, mcp, multi-agent, react, reliability, sustainability, svelte, training, tui, ui, vector-db, vue

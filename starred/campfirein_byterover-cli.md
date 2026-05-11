@@ -12,9 +12,31 @@ license: NOASSERTION
 tags:
   - agent
   - ai
+  - aie
   - cli
+  - coding-agent
+  - docker
   - llm
+  - mcp
+  - multi-agent
+  - sustainability
+  - training
   - typescript
+topics:
+  - agent
+  - ai
+  - autonomous-agents
+  - cli
+  - coding-assistant
+  - context-memory
+  - developer-tools
+  - knowledge-management
+  - llm
+  - mcp
+  - memory
+  - typescript
+  - vibe-coding
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # byterover-cli
@@ -32,4 +54,4 @@ tags:
 - **Stars:** 4,719
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
-- **Tags:** agent, ai, cli, llm, typescript
+- **Tags:** agent, ai, aie, cli, coding-agent, docker, llm, mcp, multi-agent, sustainability, training, typescript

@@ -11,7 +11,13 @@ last_pushed: '2022-01-15'
 license: MIT
 tags:
   - automation
+  - infrastructure
   - web-app
+topics:
+  - ftp
+  - schedule
+  - server
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # davos
@@ -29,4 +35,4 @@ tags:
 - **Stars:** 184
 - **Last Pushed:** 2022-01-15
 - **License:** MIT
-- **Tags:** automation, web-app
+- **Tags:** automation, infrastructure, web-app

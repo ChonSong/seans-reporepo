@@ -7,7 +7,7 @@ status: active
 language: Python
 size_kb: 127
 stars: 0
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: unknown
 tags:
   - agent
@@ -22,6 +22,7 @@ tags:
   - cli
   - code-packing
   - energy
+  - framework
   - gaming
   - go
   - harness
@@ -35,6 +36,8 @@ tags:
   - typescript
   - voice
   - web-app
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # seans-reporepo
@@ -50,9 +53,9 @@ tags:
 - **Language:** Python
 - **Size:** 127 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** unknown
-- **Tags:** agent, ai, aie, api, automation, awesome-list, backup, bot, browser-automation, cli, code-packing, energy, gaming, go, harness, hermes-agent, ide, infrastructure, llm, mobile, python, transpilation, typescript, voice, web-app
+- **Tags:** agent, ai, aie, api, automation, awesome-list, backup, bot, browser-automation, cli, code-packing, energy, framework, gaming, go, harness, hermes-agent, ide, infrastructure, llm, mobile, python, transpilation, typescript, voice, web-app
 
 ## README Excerpt
 
@@ -64,19 +67,19 @@ tags:
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 35 | 117 | 152 |
-| Total Size | 2,137,995 KB | 13,958,435 KB | 16,096,430 KB (15,719 MB) |
-| Languages | 11 | 15 | 18 |
-| Tags | — | — | 65 |
+| Repos | 38 | 133 | 171 |
+| Total Size | 2,145,906 KB | 15,021,387 KB | 17,167,293 KB (16,764 MB) |
+| Languages | 11 | 16 | 19 |
+| Tags | — | — | 67 |
 
 ## Structure
 
 ```
-├── owned/           # My repositories (35)
+├── owned/           # My repositories (38)
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (117)
+├── starred/         # Repos I've starred (133)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
@@ -95,11 +98,11 @@ tags:
 | [hermes-agent](owned/ChonSong_hermes-agent.md) | Python | 172,173 KB | 0 | agent, ai, automation |
 | [nanobot](owned/ChonSong_nanobot.md) | Python | 39,921 KB | 0 | agent, ai, bot |
 | [claw-aie-harness](owned/ChonSong_claw-aie-harness.md) | Python | 10,759 KB | 0 | agent, ai, aie |
-| [repo-transmute](owned/ChonSong_repo-transmute.md) | Python | 3,975 KB | 0 | agent, ai, api |
+| [repo-transmute](owned/ChonSong_repo-transmute.md) | TypeScript | 4,220 KB | 0 | agent, ai, api |
 | [onefilellm](owned/ChonSong_onefilellm.md) | Python | 1,427 KB | 0 | agent, ai, api |
 | [Codeovertcp](owned/ChonSong_Codeovertcp.md) | other | 153 KB | 0 | agent, ide, voice |
 | [claw-aie](owned/ChonSong_claw-aie.md) | Python | 126 KB | 0 | agent, ai, aie |
 | [casaos-agent](owned/ChonSong_casaos-agent.md) | Go | 108 KB | 0 | agent, api, awesome-list |
 | [nanobot-workspace](owned/ChonSong_nanobot-workspace.md) | Shell | 101 KB | 0 | agent, bot |
 | [ecosystem](owned/ChonSong_ecosystem.md) | Shell | 93 KB | 0 | agent, ai, aie |
-| [casaos-webhook-emitter](owned/ChonSong_casaos-webhook-emitter.md) | Go | 21 KB | 0 | agent...
+| [casaos-webhook-emitter](owned/ChonSong_casaos-webhook-emitter.md) | Go | 21 KB | 0 | a...

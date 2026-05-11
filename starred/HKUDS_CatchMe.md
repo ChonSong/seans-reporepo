@@ -12,7 +12,18 @@ license: 'Apache-2.0'
 tags:
   - agent
   - ai
+  - bot
+  - database
   - llm
+  - plugin
+topics:
+  - ai-agent
+  - clawdbot-plugin
+  - llm
+  - recall-ai
+  - retrieval-systems
+  - screen-recorder
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # CatchMe
@@ -30,4 +41,4 @@ tags:
 - **Stars:** 391
 - **Last Pushed:** 2026-04-25
 - **License:** Apache-2.0
-- **Tags:** agent, ai, llm
+- **Tags:** agent, ai, bot, database, llm, plugin

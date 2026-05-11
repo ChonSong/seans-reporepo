@@ -10,7 +10,14 @@ stars: 46671
 last_pushed: '2024-05-21'
 license: unknown
 tags:
+  - awesome-list
   - web-app
+topics:
+  - awesome
+  - awesome-list
+  - frontend
+  - list
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # frontend-dev-bookmarks
@@ -28,4 +35,4 @@ tags:
 - **Stars:** 46,671
 - **Last Pushed:** 2024-05-21
 - **License:** unknown
-- **Tags:** web-app
+- **Tags:** awesome-list, web-app

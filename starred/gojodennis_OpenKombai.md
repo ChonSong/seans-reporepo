@@ -12,8 +12,25 @@ license: MIT
 tags:
   - ai
   - api
+  - css
   - llm
   - react
+  - ui
+topics:
+  - design-to-code
+  - developer-tools
+  - image-to-code
+  - llama-3-vision
+  - local-llm
+  - ollama
+  - open-source
+  - privacy-focused
+  - qwen-coder
+  - react
+  - screenshot-to-code
+  - tailwind-css
+  - ui-generator
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # OpenKombai
@@ -31,4 +48,4 @@ tags:
 - **Stars:** 12
 - **Last Pushed:** 2025-12-16
 - **License:** MIT
-- **Tags:** ai, api, llm, react
+- **Tags:** ai, api, css, llm, react, ui

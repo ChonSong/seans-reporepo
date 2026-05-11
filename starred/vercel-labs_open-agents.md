@@ -12,6 +12,18 @@ license: MIT
 tags:
   - agent
   - ai
+  - aie
+  - coding-agent
+  - docker
+  - multi-agent
+  - sustainability
+  - training
+topics:
+  - agent
+  - agents
+  - ai
+  - background-agents
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # open-agents
@@ -29,4 +41,4 @@ tags:
 - **Stars:** 5,311
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** agent, ai
+- **Tags:** agent, ai, aie, coding-agent, docker, multi-agent, sustainability, training

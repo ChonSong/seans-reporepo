@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Rust
 size_kb: 17031
-stars: 32575
+stars: 32576
 last_pushed: '2026-05-07'
 license: 'Apache-2.0'
 tags:
@@ -15,6 +15,8 @@ tags:
   - automation
   - browser-automation
   - cli
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # agent-browser
@@ -29,7 +31,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 17,031 KB
-- **Stars:** 32,575
+- **Stars:** 32,576
 - **Last Pushed:** 2026-05-07
 - **License:** Apache-2.0
 - **Tags:** agent, ai, automation, browser-automation, cli

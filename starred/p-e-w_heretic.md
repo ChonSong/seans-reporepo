@@ -11,6 +11,11 @@ last_pushed: '2026-05-09'
 license: 'AGPL-3.0'
 tags:
   - llm
+topics:
+  - abliteration
+  - llm
+  - transformer
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # heretic

@@ -12,6 +12,8 @@ license: 'Apache-2.0'
 tags:
   - agent
   - web-app
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # adk-web

@@ -12,8 +12,28 @@ license: MIT
 tags:
   - agent
   - ai
+  - aie
   - bot
+  - chat-ui
+  - docker
   - llm
+  - openclaw
+  - sustainability
+  - training
+topics:
+  - ai
+  - ai-agent
+  - ai-agents
+  - anthropic
+  - chatgpt
+  - claude
+  - claude-code
+  - codex
+  - llm
+  - nanobot
+  - openai
+  - openclaw
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # nanobot
@@ -31,4 +51,4 @@ tags:
 - **Stars:** 42,153
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** agent, ai, bot, llm
+- **Tags:** agent, ai, aie, bot, chat-ui, docker, llm, openclaw, sustainability, training

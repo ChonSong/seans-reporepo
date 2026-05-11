@@ -10,7 +10,32 @@ stars: 27970
 last_pushed: '2026-05-11'
 license: MIT
 tags:
+  - ai
+  - automation
   - docker
+  - security
+topics:
+  - alpine
+  - authentification
+  - container
+  - debian
+  - docker
+  - home-assistant
+  - home-automation
+  - homelab
+  - homelab-setup
+  - lxc
+  - network
+  - proxmox
+  - proxmox-ve
+  - scripts
+  - security
+  - self-hosted
+  - self-hosting
+  - smarthome
+  - ubuntu
+  - vm
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # ProxmoxVE
@@ -28,4 +53,4 @@ tags:
 - **Stars:** 27,970
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** docker
+- **Tags:** ai, automation, docker, security

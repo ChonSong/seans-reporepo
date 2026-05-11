@@ -11,7 +11,22 @@ last_pushed: '2026-02-27'
 license: 'Apache-2.0'
 tags:
   - agent
+  - ai
+  - coding-agent
   - llm
+  - multi-agent
+  - research
+topics:
+  - agent
+  - alibaba
+  - artificial-intelligence
+  - deep-research
+  - deepresearch
+  - information-seeking
+  - llm
+  - tongyi
+  - web-agent
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # DeepResearch
@@ -29,4 +44,4 @@ tags:
 - **Stars:** 18,838
 - **Last Pushed:** 2026-02-27
 - **License:** Apache-2.0
-- **Tags:** agent, llm
+- **Tags:** agent, ai, coding-agent, llm, multi-agent, research

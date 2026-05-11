@@ -11,7 +11,22 @@ last_pushed: '2025-01-21'
 license: unknown
 tags:
   - awesome-list
+  - education
   - react
+  - vue
+  - web-app
+topics:
+  - angular
+  - cheatsheet
+  - first-timers-only
+  - frontend
+  - need-help
+  - react
+  - react-native
+  - reactjs
+  - roadmap
+  - vue
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # awesome-frontend-resources
@@ -29,4 +44,4 @@ tags:
 - **Stars:** 327
 - **Last Pushed:** 2025-01-21
 - **License:** unknown
-- **Tags:** awesome-list, react
+- **Tags:** awesome-list, education, react, vue, web-app

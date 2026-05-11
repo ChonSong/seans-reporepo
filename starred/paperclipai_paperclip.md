@@ -6,11 +6,13 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 58518
-stars: 64042
+stars: 64043
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - orchestration
+topics: []
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # paperclip
@@ -25,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 58,518 KB
-- **Stars:** 64,042
+- **Stars:** 64,043
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** orchestration

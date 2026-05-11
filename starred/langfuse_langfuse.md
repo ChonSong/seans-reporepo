@@ -11,8 +11,32 @@ last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
   - ai
+  - analytics
   - llm
+  - monitoring
+  - observability
   - telemetry
+topics:
+  - analytics
+  - autogen
+  - evaluation
+  - langchain
+  - large-language-models
+  - llama-index
+  - llm
+  - llm-evaluation
+  - llm-observability
+  - llmops
+  - monitoring
+  - observability
+  - open-source
+  - openai
+  - playground
+  - prompt-engineering
+  - prompt-management
+  - self-hosted
+  - ycombinator
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # langfuse
@@ -30,4 +54,4 @@ tags:
 - **Stars:** 26,939
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
-- **Tags:** ai, llm, telemetry
+- **Tags:** ai, analytics, llm, monitoring, observability, telemetry

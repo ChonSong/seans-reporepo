@@ -11,6 +11,20 @@ last_pushed: '2026-05-09'
 license: MIT
 tags:
   - ai
+  - aie
+  - code-ingestion
+  - code-packing
+  - coding-agent
+  - docker
+  - ide
+  - sustainability
+  - training
+topics:
+  - ai
+  - code
+  - developer-tool
+  - ingestion
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # gitingest
@@ -28,4 +42,4 @@ tags:
 - **Stars:** 14,627
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
-- **Tags:** ai
+- **Tags:** ai, aie, code-ingestion, code-packing, coding-agent, docker, ide, sustainability, training

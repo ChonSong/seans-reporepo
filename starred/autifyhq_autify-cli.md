@@ -11,6 +11,10 @@ last_pushed: '2026-05-10'
 license: MIT
 tags:
   - cli
+topics:
+  - autify
+  - cli
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # autify-cli

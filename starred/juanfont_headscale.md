@@ -11,6 +11,14 @@ last_pushed: '2026-05-10'
 license: 'BSD-3-Clause'
 tags:
   - ai
+  - infrastructure
+  - vpn
+topics:
+  - tailscale
+  - tailscale-control-server
+  - tailscale-server
+  - wireguard
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # headscale
@@ -28,4 +36,4 @@ tags:
 - **Stars:** 38,232
 - **Last Pushed:** 2026-05-10
 - **License:** BSD-3-Clause
-- **Tags:** ai
+- **Tags:** ai, infrastructure, vpn

@@ -12,6 +12,11 @@ license: 'Apache-2.0'
 tags:
   - agent
   - multi-agent
+  - openclaw
+topics:
+  - agent-teams
+  - openclaw
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # HiClaw
@@ -29,4 +34,4 @@ tags:
 - **Stars:** 4,500
 - **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
-- **Tags:** agent, multi-agent
+- **Tags:** agent, multi-agent, openclaw

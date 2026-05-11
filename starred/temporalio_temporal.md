@@ -10,8 +10,29 @@ stars: 20153
 last_pushed: '2026-05-10'
 license: MIT
 tags:
+  - automation
+  - framework
   - go
+  - orchestration
   - workflow-engine
+topics:
+  - cronjob-scheduler
+  - distributed-cron
+  - distributed-systems
+  - durable-execution
+  - golang
+  - microservice-framework
+  - microservice-orchestration
+  - microservices-architecture
+  - orchestrator
+  - service-bus
+  - service-fabric
+  - workflow-automation
+  - workflow-engine
+  - workflow-management
+  - workflow-management-system
+  - workflows
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # temporal
@@ -29,4 +50,4 @@ tags:
 - **Stars:** 20,153
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** go, workflow-engine
+- **Tags:** automation, framework, go, orchestration, workflow-engine

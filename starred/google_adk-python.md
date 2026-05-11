@@ -12,8 +12,36 @@ license: 'Apache-2.0'
 tags:
   - agent
   - ai
+  - aie
+  - bot
+  - chat-ui
+  - coding-agent
+  - docker
+  - framework
+  - library
   - llm
+  - multi-agent
   - python
+  - sustainability
+  - training
+topics:
+  - agent
+  - agentic
+  - agentic-ai
+  - agents
+  - agents-sdk
+  - ai
+  - ai-agents
+  - aiagentframework
+  - genai
+  - genai-chatbot
+  - llm
+  - llms
+  - multi-agent
+  - multi-agent-systems
+  - multi-agents
+  - multi-agents-collaboration
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # adk-python
@@ -31,4 +59,4 @@ tags:
 - **Stars:** 19,561
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
-- **Tags:** agent, ai, llm, python
+- **Tags:** agent, ai, aie, bot, chat-ui, coding-agent, docker, framework, library, llm, multi-agent, python, sustainability, training

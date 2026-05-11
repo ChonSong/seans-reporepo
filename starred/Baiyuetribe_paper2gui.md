@@ -11,6 +11,26 @@ last_pushed: '2024-09-20'
 license: MIT
 tags:
   - ai
+  - image-gen
+  - ui
+topics:
+  - animegan2
+  - codeformer-gui
+  - dain
+  - dain-gui
+  - gfpgan
+  - huoshan-tts
+  - microsoft-tts
+  - ncnn
+  - ncnn-model
+  - noveria
+  - realcugan-gui
+  - realcugan-pro
+  - realesrganv2-gu
+  - rife-gui
+  - stable-diffusion
+  - waifu2x-gui
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # paper2gui
@@ -28,4 +48,4 @@ tags:
 - **Stars:** 10,725
 - **Last Pushed:** 2024-09-20
 - **License:** MIT
-- **Tags:** ai
+- **Tags:** ai, image-gen, ui

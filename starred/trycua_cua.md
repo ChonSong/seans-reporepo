@@ -12,8 +12,34 @@ license: MIT
 tags:
   - agent
   - ai
+  - automation
   - benchmarking
+  - coding-agent
+  - database
+  - docker
+  - framework
   - infrastructure
+  - multi-agent
+topics:
+  - agent
+  - ai-agent
+  - apple
+  - computer-use
+  - computer-use-agent
+  - containerization
+  - cua
+  - desktop-automation
+  - hacktoberfest
+  - lume
+  - macos
+  - manus
+  - operator
+  - swift
+  - virtualization
+  - virtualization-framework
+  - windows
+  - windows-sandbox
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # cua
@@ -31,4 +57,4 @@ tags:
 - **Stars:** 15,876
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** agent, ai, benchmarking, infrastructure
+- **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, infrastructure, multi-agent

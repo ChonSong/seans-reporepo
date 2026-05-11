@@ -11,8 +11,18 @@ last_pushed: '2026-05-06'
 license: NOASSERTION
 tags:
   - agent
+  - ai
   - awesome-list
   - hermes-agent
+  - research
+topics:
+  - ai-agents
+  - awesome
+  - awesome-list
+  - hermes-agent
+  - nous-research
+  - skills
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # awesome-hermes-agent
@@ -30,4 +40,4 @@ tags:
 - **Stars:** 2,799
 - **Last Pushed:** 2026-05-06
 - **License:** NOASSERTION
-- **Tags:** agent, awesome-list, hermes-agent
+- **Tags:** agent, ai, awesome-list, hermes-agent, research

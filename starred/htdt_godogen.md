@@ -10,8 +10,21 @@ stars: 3145
 last_pushed: '2026-05-10'
 license: MIT
 tags:
+  - cli
   - gaming
   - go
+topics:
+  - claude
+  - claude-code
+  - claude-code-skill
+  - codex
+  - codex-cli
+  - codex-skill
+  - game-development
+  - godot
+  - godot4
+  - skills
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # godogen
@@ -29,4 +42,4 @@ tags:
 - **Stars:** 3,145
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
-- **Tags:** gaming, go
+- **Tags:** cli, gaming, go

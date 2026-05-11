@@ -10,8 +10,24 @@ stars: 337
 last_pushed: '2026-04-12'
 license: unknown
 tags:
+  - agent
+  - ai
+  - llm
   - openclaw
   - plugin
+  - security
+topics:
+  - agentic-ai
+  - ai-agents
+  - ai-security
+  - llm-security
+  - openclaw
+  - openclaw-plugin
+  - openclaw-security
+  - openclaw-skills
+  - owasp
+  - owasp-llm-top-10
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # secureclaw
@@ -29,4 +45,4 @@ tags:
 - **Stars:** 337
 - **Last Pushed:** 2026-04-12
 - **License:** unknown
-- **Tags:** openclaw, plugin
+- **Tags:** agent, ai, llm, openclaw, plugin, security

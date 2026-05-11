@@ -12,8 +12,17 @@ license: unknown
 tags:
   - agent
   - ai
+  - aie
+  - docker
   - framework
   - react
+  - sustainability
+  - training
+topics:
+  - agents
+  - ai
+  - react
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # agent-native
@@ -31,4 +40,4 @@ tags:
 - **Stars:** 139
 - **Last Pushed:** 2026-05-11
 - **License:** unknown
-- **Tags:** agent, ai, framework, react
+- **Tags:** agent, ai, aie, docker, framework, react, sustainability, training

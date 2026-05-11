@@ -12,10 +12,34 @@ license: MIT
 tags:
   - agent
   - ai
+  - automation
+  - energy
+  - framework
   - llm
   - multi-agent
   - rag
+  - reliability
   - testing
+topics:
+  - ci
+  - ci-cd
+  - cicd
+  - evaluation
+  - evaluation-framework
+  - llm
+  - llm-eval
+  - llm-evaluation
+  - llm-evaluation-framework
+  - llmops
+  - pentesting
+  - prompt-engineering
+  - prompt-testing
+  - prompts
+  - rag
+  - red-teaming
+  - testing
+  - vulnerability-scanners
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # promptfoo
@@ -33,4 +57,4 @@ tags:
 - **Stars:** 21,107
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
-- **Tags:** agent, ai, llm, multi-agent, rag, testing
+- **Tags:** agent, ai, automation, energy, framework, llm, multi-agent, rag, reliability, testing

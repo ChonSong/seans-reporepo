@@ -10,8 +10,23 @@ stars: 33797
 last_pushed: '2025-08-06'
 license: 'Apache-2.0'
 tags:
+  - automation
   - docker
   - go
+  - infrastructure
+  - vue
+topics:
+  - casaos
+  - docker
+  - golang
+  - home-automation
+  - home-cloud
+  - home-server
+  - iot
+  - raspberry
+  - self-hosted
+  - vuejs
+refreshed_at: '2026-05-11 02:10 UTC'
 ---
 
 # CasaOS
@@ -29,4 +44,4 @@ tags:
 - **Stars:** 33,797
 - **Last Pushed:** 2025-08-06
 - **License:** Apache-2.0
-- **Tags:** docker, go
+- **Tags:** automation, docker, go, infrastructure, vue
