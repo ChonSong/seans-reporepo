@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 19278
-stars: 7114
+stars: 7121
 last_pushed: '2026-05-09'
 license: MIT
 tags:
@@ -32,7 +32,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 19,278 KB
-- **Stars:** 7,114
+- **Stars:** 7,121
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** agent, ai, cli, ide, openclaw, orchestration, terminal, web-app

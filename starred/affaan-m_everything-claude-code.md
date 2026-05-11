@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 31432
-stars: 177262
+stars: 178303
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -28,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 31,432 KB
-- **Stars:** 177,262
+- **Stars:** 178,303
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, coding-agent, harness, llm

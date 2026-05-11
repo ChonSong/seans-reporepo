@@ -4,8 +4,8 @@ url: 'https://github.com/ChonSong/repo-transmute'
 description: 'AI-powered code transpilation engine'
 type: agent
 status: active
-language: Python
-size_kb: 3975
+language: TypeScript
+size_kb: 4220
 stars: 0
 last_pushed: '2026-05-10'
 license: unknown
@@ -34,8 +34,8 @@ tags:
 
 - **Type:** agent
 - **Status:** active
-- **Language:** Python
-- **Size:** 3,975 KB
+- **Language:** TypeScript
+- **Size:** 4,220 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown

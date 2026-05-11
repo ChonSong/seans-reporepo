@@ -5,9 +5,9 @@ description: Custom GeForce Now Client Named OpenNOW
 type: cli
 status: active
 language: TypeScript
-size_kb: 25121
+size_kb: 25476
 stars: 2024
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - cli
@@ -24,8 +24,8 @@ tags:
 - **Type:** cli
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 25,121 KB
+- **Size:** 25,476 KB
 - **Stars:** 2,024
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** cli

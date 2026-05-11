@@ -5,9 +5,9 @@ description: 'A docker-powered PaaS that helps you build and manage the lifecycl
 type: infrastructure
 status: active
 language: Shell
-size_kb: 23584
-stars: 31865
-last_pushed: '2026-05-09'
+size_kb: 23629
+stars: 31866
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - docker
@@ -24,8 +24,8 @@ tags:
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Shell
-- **Size:** 23,584 KB
-- **Stars:** 31,865
-- **Last Pushed:** 2026-05-09
+- **Size:** 23,629 KB
+- **Stars:** 31,866
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** docker

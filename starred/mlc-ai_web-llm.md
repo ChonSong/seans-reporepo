@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 68772
-stars: 17947
+stars: 17949
 last_pushed: '2026-05-06'
 license: 'Apache-2.0'
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 68,772 KB
-- **Stars:** 17,947
+- **Stars:** 17,949
 - **Last Pushed:** 2026-05-06
 - **License:** Apache-2.0
 - **Tags:** browser-automation, llm

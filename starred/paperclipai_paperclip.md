@@ -5,9 +5,9 @@ description: 'Open-source orchestration for zero-human companies'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 58787
-stars: 63890
-last_pushed: '2026-05-10'
+size_kb: 58518
+stars: 64042
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - orchestration
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 58,787 KB
-- **Stars:** 63,890
-- **Last Pushed:** 2026-05-10
+- **Size:** 58,518 KB
+- **Stars:** 64,042
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** orchestration

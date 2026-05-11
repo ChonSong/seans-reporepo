@@ -6,7 +6,7 @@ type: library
 status: active
 language: TypeScript
 size_kb: 138557
-stars: 28239
+stars: 28242
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 138,557 KB
-- **Stars:** 28,239
+- **Stars:** 28,242
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** framework, typescript

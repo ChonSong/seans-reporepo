@@ -5,9 +5,9 @@ description: 'Hydra Launcher is an open-source gaming platform created to be the
 type: unknown
 status: active
 language: TypeScript
-size_kb: 125986
-stars: 15618
-last_pushed: '2026-05-09'
+size_kb: 125886
+stars: 15622
+last_pushed: '2026-05-10'
 license: MIT
 tags: []
 ---
@@ -23,7 +23,7 @@ tags: []
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 125,986 KB
-- **Stars:** 15,618
-- **Last Pushed:** 2026-05-09
+- **Size:** 125,886 KB
+- **Stars:** 15,622
+- **Last Pushed:** 2026-05-10
 - **License:** MIT

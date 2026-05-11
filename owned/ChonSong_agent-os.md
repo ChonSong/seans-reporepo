@@ -5,7 +5,7 @@ description: 'Agentic OS — monorepo for CasaOS + nanobot + everything-dashboar
 type: monorepo
 status: active
 language: Python
-size_kb: 10219
+size_kb: 10268
 stars: 0
 last_pushed: '2026-05-10'
 license: unknown
@@ -37,7 +37,7 @@ tags:
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 10,219 KB
+- **Size:** 10,268 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown

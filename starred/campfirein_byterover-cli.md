@@ -5,8 +5,8 @@ description: 'ByteRover CLI (brv) - The portable memory layer for  autonomous co
 type: agent
 status: active
 language: TypeScript
-size_kb: 21577
-stars: 4717
+size_kb: 21696
+stars: 4719
 last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
@@ -28,8 +28,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 21,577 KB
-- **Stars:** 4,717
+- **Size:** 21,696 KB
+- **Stars:** 4,719
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
 - **Tags:** agent, ai, cli, llm, typescript

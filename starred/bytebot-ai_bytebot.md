@@ -1,0 +1,35 @@
+---
+repo: 'bytebot-ai/bytebot'
+url: 'https://github.com/bytebot-ai/bytebot'
+description: 'Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.'
+type: agent
+status: archived
+language: TypeScript
+size_kb: 19011
+stars: 11007
+last_pushed: '2025-09-12'
+license: 'Apache-2.0'
+tags:
+  - agent
+  - ai
+  - bot
+  - docker
+  - llm
+---
+
+# bytebot
+
+> Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+
+**URL:** [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+
+## Metadata
+
+- **Type:** agent
+- **Status:** archived
+- **Language:** TypeScript
+- **Size:** 19,011 KB
+- **Stars:** 11,007
+- **Last Pushed:** 2025-09-12
+- **License:** Apache-2.0
+- **Tags:** agent, ai, bot, docker, llm

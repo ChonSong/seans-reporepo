@@ -5,9 +5,9 @@ description: 'Open Multi-Agent Interactive Classroom — Get an immersive, multi
 type: agent
 status: active
 language: TypeScript
-size_kb: 84372
-stars: 17209
-last_pushed: '2026-05-10'
+size_kb: 84401
+stars: 17255
+last_pushed: '2026-05-11'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 84,372 KB
-- **Stars:** 17,209
-- **Last Pushed:** 2026-05-10
+- **Size:** 84,401 KB
+- **Stars:** 17,255
+- **Last Pushed:** 2026-05-11
 - **License:** AGPL-3.0
 - **Tags:** agent, cli, multi-agent

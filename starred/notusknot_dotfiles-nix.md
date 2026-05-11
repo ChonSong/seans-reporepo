@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Nix
 size_kb: 22338
-stars: 599
+stars: 595
 last_pushed: '2022-07-26'
 license: MIT
 tags: []
@@ -24,6 +24,6 @@ tags: []
 - **Status:** active
 - **Language:** Nix
 - **Size:** 22,338 KB
-- **Stars:** 599
+- **Stars:** 595
 - **Last Pushed:** 2022-07-26
 - **License:** MIT

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 11529
-stars: 12271
+stars: 12301
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 11,529 KB
-- **Stars:** 12,271
+- **Stars:** 12,301
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** agent, harness

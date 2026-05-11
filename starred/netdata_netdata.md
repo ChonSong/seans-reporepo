@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: C
 size_kb: 270089
-stars: 78762
+stars: 78764
 last_pushed: '2026-05-10'
 license: 'GPL-3.0'
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** C
 - **Size:** 270,089 KB
-- **Stars:** 78,762
+- **Stars:** 78,764
 - **Last Pushed:** 2026-05-10
 - **License:** GPL-3.0
 - **Tags:** ai, docker, multi-agent

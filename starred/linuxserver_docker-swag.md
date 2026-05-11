@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Dockerfile
 size_kb: 1085
-stars: 3661
+stars: 3660
 last_pushed: '2026-05-09'
 license: 'GPL-3.0'
 tags:
@@ -30,7 +30,7 @@ tags:
 - **Status:** active
 - **Language:** Dockerfile
 - **Size:** 1,085 KB
-- **Stars:** 3,661
+- **Stars:** 3,660
 - **Last Pushed:** 2026-05-09
 - **License:** GPL-3.0
 - **Tags:** ai, bot, cli, nginx, proxy, web-app

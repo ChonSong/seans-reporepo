@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 26122
-stars: 8003
+stars: 8005
 last_pushed: '2026-05-08'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 26,122 KB
-- **Stars:** 8,003
+- **Stars:** 8,005
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** api, plugin

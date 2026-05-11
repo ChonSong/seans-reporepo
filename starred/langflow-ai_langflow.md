@@ -5,9 +5,9 @@ description: 'Langflow is a powerful tool for building and deploying AI-powered 
 type: agent
 status: active
 language: Python
-size_kb: 1264082
-stars: 147917
-last_pushed: '2026-05-10'
+size_kb: 1264959
+stars: 147934
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,264,082 KB
-- **Stars:** 147,917
-- **Last Pushed:** 2026-05-10
+- **Size:** 1,264,959 KB
+- **Stars:** 147,934
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai

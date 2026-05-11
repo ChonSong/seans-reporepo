@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 26106
-stars: 328
+stars: 329
 last_pushed: '2026-05-09'
 license: 'Apache-2.0'
 tags:
@@ -28,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 26,106 KB
-- **Stars:** 328
+- **Stars:** 329
 - **Last Pushed:** 2026-05-09
 - **License:** Apache-2.0
 - **Tags:** ai, react, rust, typescript

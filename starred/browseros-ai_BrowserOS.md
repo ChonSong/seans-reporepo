@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 241955
-stars: 10852
+stars: 10859
 last_pushed: '2026-05-09'
 license: 'AGPL-3.0'
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 241,955 KB
-- **Stars:** 10,852
+- **Stars:** 10,859
 - **Last Pushed:** 2026-05-09
 - **License:** AGPL-3.0
 - **Tags:** agent, browser-automation, llm

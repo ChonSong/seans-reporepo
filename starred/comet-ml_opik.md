@@ -5,9 +5,9 @@ description: 'Debug, evaluate, and monitor your LLM applications, RAG systems, a
 type: monorepo
 status: active
 language: Python
-size_kb: 631190
-stars: 19259
-last_pushed: '2026-05-10'
+size_kb: 631155
+stars: 19265
+last_pushed: '2026-05-11'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -28,8 +28,8 @@ tags:
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 631,190 KB
-- **Stars:** 19,259
-- **Last Pushed:** 2026-05-10
+- **Size:** 631,155 KB
+- **Stars:** 19,265
+- **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
 - **Tags:** agent, dashboard, llm, monitoring, rag

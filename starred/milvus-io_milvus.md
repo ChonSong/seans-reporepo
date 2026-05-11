@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Go
 size_kb: 289779
-stars: 44212
+stars: 44223
 last_pushed: '2026-05-10'
 license: 'Apache-2.0'
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Go
 - **Size:** 289,779 KB
-- **Stars:** 44,212
+- **Stars:** 44,223
 - **Last Pushed:** 2026-05-10
 - **License:** Apache-2.0
 - **Tags:** go, llm, vector-db

@@ -6,8 +6,8 @@ type: unknown
 status: active
 language: Rust
 size_kb: 11254
-stars: 190899
-last_pushed: '2026-05-09'
+stars: 190976
+last_pushed: '2026-05-11'
 license: unknown
 tags:
   - rust
@@ -25,7 +25,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 11,254 KB
-- **Stars:** 190,899
-- **Last Pushed:** 2026-05-09
+- **Stars:** 190,976
+- **Last Pushed:** 2026-05-11
 - **License:** unknown
 - **Tags:** rust

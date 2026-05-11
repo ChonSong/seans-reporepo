@@ -6,7 +6,7 @@ type: cli
 status: active
 language: Python
 size_kb: 35391
-stars: 2101
+stars: 2106
 last_pushed: '2026-05-10'
 license: MIT
 tags:
@@ -28,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 35,391 KB
-- **Stars:** 2,101
+- **Stars:** 2,106
 - **Last Pushed:** 2026-05-10
 - **License:** MIT
 - **Tags:** ai, api, cli, mcp

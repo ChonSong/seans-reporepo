@@ -2,10 +2,10 @@
 repo: 'ChonSong/seans-reporepo'
 url: 'https://github.com/ChonSong/seans-reporepo'
 description: Personal code catalog for ideation and combinatorial app design
-type: 'awesome-list'
+type: library
 status: active
 language: Python
-size_kb: 0
+size_kb: 127
 stars: 0
 last_pushed: '2026-05-10'
 license: unknown
@@ -21,6 +21,7 @@ tags:
   - browser-automation
   - cli
   - code-packing
+  - energy
   - gaming
   - go
   - harness
@@ -44,14 +45,14 @@ tags:
 
 ## Metadata
 
-- **Type:** awesome-list
+- **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 0 KB
+- **Size:** 127 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-10
 - **License:** unknown
-- **Tags:** agent, ai, aie, api, automation, awesome-list, backup, bot, browser-automation, cli, code-packing, gaming, go, harness, hermes-agent, ide, infrastructure, llm, mobile, python, transpilation, typescript, voice, web-app
+- **Tags:** agent, ai, aie, api, automation, awesome-list, backup, bot, browser-automation, cli, code-packing, energy, gaming, go, harness, hermes-agent, ide, infrastructure, llm, mobile, python, transpilation, typescript, voice, web-app
 
 ## README Excerpt
 
@@ -64,7 +65,7 @@ tags:
 | | Owned | Starred | Total |
 |---|---|---|---|
 | Repos | 35 | 117 | 152 |
-| Total Size | 2,137,995 KB | 13,958,233 KB | 16,096,228 KB (15,718 MB) |
+| Total Size | 2,137,995 KB | 13,958,435 KB | 16,096,430 KB (15,719 MB) |
 | Languages | 11 | 15 | 18 |
 | Tags | — | — | 65 |
 
@@ -80,21 +81,8 @@ tags:
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
 ├── scripts/         # Utility scripts for catalog management
-│   ├── generate-catalog.py  # Main catalog generation script
-│   ├── refresh.sh           # Wrapper: pull, generate, commit, push
-│   └── query.py             # CLI query tool
 └── README.md        # This file
 ```
-
-## Auto-Refresh
-
-Catalog regenerates automatically every Monday at 9:00 AM via cron job. The script:
-1. Pulls latest changes
-2. Fetches current owned/starred repos via `gh` CLI
-3. Regenerates all markdown files
-4. Commits and pushes if there are changes
-
-Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 
 ## Owned Repositories
 
@@ -109,4 +97,9 @@ Run manually: `cd /path/to/seans-reporepo && bash scripts/refresh.sh`
 | [claw-aie-harness](owned/ChonSong_claw-aie-harness.md) | Python | 10,759 KB | 0 | agent, ai, aie |
 | [repo-transmute](owned/ChonSong_repo-transmute.md) | Python | 3,975 KB | 0 | agent, ai, api |
 | [onefilellm](owned/ChonSong_onefilellm.md) | Python | 1,427 KB | 0 | agent, ai, api |
-| [Codeovertcp](owned/ChonSong_Code...
+| [Codeovertcp](owned/ChonSong_Codeovertcp.md) | other | 153 KB | 0 | agent, ide, voice |
+| [claw-aie](owned/ChonSong_claw-aie.md) | Python | 126 KB | 0 | agent, ai, aie |
+| [casaos-agent](owned/ChonSong_casaos-agent.md) | Go | 108 KB | 0 | agent, api, awesome-list |
+| [nanobot-workspace](owned/ChonSong_nanobot-workspace.md) | Shell | 101 KB | 0 | agent, bot |
+| [ecosystem](owned/ChonSong_ecosystem.md) | Shell | 93 KB | 0 | agent, ai, aie |
+| [casaos-webhook-emitter](owned/ChonSong_casaos-webhook-emitter.md) | Go | 21 KB | 0 | agent...

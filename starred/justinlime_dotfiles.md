@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Nix
 size_kb: 17705
-stars: 276
+stars: 275
 last_pushed: '2026-04-25'
 license: unknown
 tags:
@@ -25,7 +25,7 @@ tags:
 - **Status:** active
 - **Language:** Nix
 - **Size:** 17,705 KB
-- **Stars:** 276
+- **Stars:** 275
 - **Last Pushed:** 2026-04-25
 - **License:** unknown
 - **Tags:** dotfiles
