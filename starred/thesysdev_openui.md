@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 140953
-stars: 4545
+stars: 4546
 last_pushed: '2026-05-08'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ topics:
   - javascript
   - llm
   - looking-for-contributors
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # openui
@@ -45,7 +45,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 140,953 KB
-- **Stars:** 4,545
+- **Stars:** 4,546
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, docker, javascript, llm, multi-agent, sustainability, training, ui

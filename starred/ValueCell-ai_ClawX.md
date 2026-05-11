@@ -6,8 +6,8 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 19278
-stars: 7122
-last_pushed: '2026-05-09'
+stars: 7124
+last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
@@ -35,7 +35,7 @@ topics:
   - moltbot
   - openclaw
   - skill
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # ClawX
@@ -50,7 +50,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 19,278 KB
-- **Stars:** 7,122
-- **Last Pushed:** 2026-05-09
+- **Stars:** 7,124
+- **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, cli, coding-agent, database, docker, ide, multi-agent, openclaw, orchestration, sustainability, terminal, training, web-app

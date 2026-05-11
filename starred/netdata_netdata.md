@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: C
 size_kb: 270089
-stars: 78764
+stars: 78766
 last_pushed: '2026-05-10'
 license: 'GPL-3.0'
 tags:
@@ -45,7 +45,7 @@ topics:
   - observability
   - postgresql
   - prometheus
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # netdata
@@ -60,7 +60,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** C
 - **Size:** 270,089 KB
-- **Stars:** 78,764
+- **Stars:** 78,766
 - **Last Pushed:** 2026-05-10
 - **License:** GPL-3.0
 - **Tags:** ai, aie, database, docker, education, go, mcp, monitoring, multi-agent, observability, sustainability, training, ui, vector-db

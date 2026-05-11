@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 80576
-stars: 26939
+stars: 26941
 last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
@@ -36,7 +36,7 @@ topics:
   - prompt-management
   - self-hosted
   - ycombinator
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # langfuse
@@ -51,7 +51,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 80,576 KB
-- **Stars:** 26,939
+- **Stars:** 26,941
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
 - **Tags:** ai, analytics, llm, monitoring, observability, telemetry

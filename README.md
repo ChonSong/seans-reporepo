@@ -2,14 +2,14 @@
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-05-11 02:12 UTC
+> **Last refreshed:** 2026-05-11 02:46 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
 | Repos | 38 | 133 | 171 |
-| Total Size | 2,145,906 KB | 15,021,360 KB | 17,167,266 KB (16,764 MB) |
+| Total Size | 2,145,906 KB | 15,022,523 KB | 17,168,429 KB (16,766 MB) |
 | Languages | 11 | 16 | 19 |
 | Tags | — | — | 79 |
 
@@ -113,26 +113,26 @@
 
 | Repo | Type | Language | Stars | Tags |
 |---|---|---|---|---|
-| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 464,983 | awesome-list |
-| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,582 | ai, aie, docker |
-| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 354,539 | ai, database, education |
-| [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 190,976 | rust |
-| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,318 | agent, ai, coding-agent |
-| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,538 | audio, cli, ide |
-| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,393 | ai, paas |
-| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,022 | agent |
+| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 464,988 | awesome-list |
+| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 370,600 | ai, aie, docker |
+| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 354,540 | ai, database, education |
+| [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 190,979 | rust |
+| [everything-claude-code](starred/affaan-m_everything-claude-code.md) | agent | JavaScript | 178,362 | agent, ai, coding-agent |
+| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 161,546 | audio, cli, ide |
+| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 161,397 | ai, paas |
+| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 158,041 | agent |
 | [langflow](starred/langflow-ai_langflow.md) | agent | Python | 147,934 | agent, ai, chat-ui |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 142,657 | agent, ai, aie |
-| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,503 | ai, aie, api |
-| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 123,744 | llm, research |
-| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 117,977 | agent, ai, aie |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 142,720 | agent, ai, aie |
+| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 136,509 | ai, aie, api |
+| [andrej-karpathy-skills](starred/forrestchang_andrej-karpathy-skills.md) | unknown | other | 123,806 | llm, research |
+| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 117,989 | agent, ai, aie |
 | [angular](starred/angular_angular.md) | webapp | TypeScript | 100,072 | design-system, framework, ide |
-| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,855 | agent, ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,072 |  |
-| [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,230 | agent, ai, training |
-| [netdata](starred/netdata_netdata.md) | unknown | C | 78,764 | ai, aie, database |
+| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 95,863 | agent, ai |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 93,094 |  |
+| [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 80,236 | agent, ai, training |
+| [netdata](starred/netdata_netdata.md) | unknown | C | 78,766 | ai, aie, database |
 | [gpt4all](starred/nomic-ai_gpt4all.md) | unknown | C++ | 77,364 | ai, chat-ui, llm |
-| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,950 | agent, awesome-list, design-system |
+| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 74,985 | agent, awesome-list, design-system |
 
 *...and 113 more in `starred/`*
 
@@ -140,17 +140,17 @@
 
 | Tag | Count | Repos |
 |---|---|---|
-| `agent` | 84 | seans-reporepo, hermes-computer-planning, hermes-web-computer +81 more |
-| `ai` | 104 | seans-reporepo, hermes-computer-planning, hermes-web-computer +101 more |
+| `agent` | 84 | hermes-computer-planning, seans-reporepo, hermes-web-computer +81 more |
+| `ai` | 104 | hermes-computer-planning, seans-reporepo, hermes-web-computer +101 more |
 | `aie` | 30 | seans-reporepo, ecosystem, claw-aie +27 more |
 | `analytics` | 2 | features-list, langfuse |
-| `api` | 24 | seans-reporepo, hermes-computer-planning, features-list +21 more |
+| `api` | 24 | hermes-computer-planning, seans-reporepo, features-list +21 more |
 | `audio` | 3 | hermes-web-computer, Fun-Audio-Chat, yt-dlp |
-| `automation` | 18 | seans-reporepo, hermes-computer-planning, hermes-agent +15 more |
-| `awesome-list` | 18 | seans-reporepo, hermes-computer-planning, features-list +15 more |
+| `automation` | 18 | hermes-computer-planning, seans-reporepo, hermes-agent +15 more |
+| `awesome-list` | 18 | hermes-computer-planning, seans-reporepo, features-list +15 more |
 | `backup` | 8 | seans-reporepo, features-list, hermes-sync +5 more |
 | `benchmarking` | 3 | hermes-web-computer, llm-benchmark-platform, cua |
-| `bot` | 21 | seans-reporepo, hermes-computer-planning, hermes-web-computer +18 more |
+| `bot` | 21 | hermes-computer-planning, seans-reporepo, hermes-web-computer +18 more |
 | `browser-automation` | 14 | seans-reporepo, hermes-web-computer, starcraft-battlenet-web +11 more |
 | `chat-ui` | 12 | galaxy, repomix, gpt4all +9 more |
 | `cli` | 27 | seans-reporepo, repo-transmute, hermes-agent +24 more |
@@ -169,10 +169,10 @@
 | `express` | 2 | agent-os, everything-dashboard |
 | `framework` | 18 | hermes-computer-planning, circuit-breaker-framework, rasta-assistant +15 more |
 | `gaming` | 9 | seans-reporepo, starcraft-battlenet-web, sean-dotfiles +6 more |
-| `go` | 30 | seans-reporepo, hermes-computer-planning, hermes-web-computer +27 more |
+| `go` | 30 | hermes-computer-planning, seans-reporepo, hermes-web-computer +27 more |
 | `harness` | 9 | seans-reporepo, hermes-web-computer, claw-aie +6 more |
-| `hermes-agent` | 10 | seans-reporepo, hermes-computer-planning, hermes-web-computer +7 more |
-| `ide` | 23 | seans-reporepo, hermes-computer-planning, agent-os +20 more |
+| `hermes-agent` | 10 | hermes-computer-planning, seans-reporepo, hermes-web-computer +7 more |
+| `ide` | 23 | hermes-computer-planning, seans-reporepo, agent-os +20 more |
 | `image-gen` | 6 | circuit-breaker-framework, rasta-assistant, galaxy +3 more |
 | `infrastructure` | 15 | seans-reporepo, features-list, hermes-agent +12 more |
 | `javascript` | 6 | webdriverio, Front-End-Checklist, developer-roadmap +3 more |
@@ -190,7 +190,7 @@
 | `paas` | 3 | OpenNOW, dokku, FreeDomain |
 | `plugin` | 6 | CatchMe, secureclaw, memsearch +3 more |
 | `proxy` | 4 | starcraft-battlenet-web, linux-web-serving-infrastructure, mobile-codeovertcp.com +1 more |
-| `python` | 21 | seans-reporepo, hermes-computer-planning, hermes-web-computer +18 more |
+| `python` | 21 | hermes-computer-planning, seans-reporepo, hermes-web-computer +18 more |
 | `rag` | 14 | circuit-breaker-framework, casaos-agent, minsky-circuit +11 more |
 | `react` | 14 | agent-os, everything-dashboard, linux-web-serving-infrastructure +11 more |
 | `reliability` | 5 | circuit-breaker-framework, galaxy, openpencil +2 more |
@@ -208,7 +208,7 @@
 | `training` | 29 | energy-aware-task-router, bytebot, repomix +26 more |
 | `transpilation` | 4 | seans-reporepo, features-list, repo-transmute +1 more |
 | `tui` | 8 | hermes-agent, pokerkit, galaxy +5 more |
-| `typescript` | 14 | seans-reporepo, hermes-computer-planning, repo-transmute +11 more |
+| `typescript` | 14 | hermes-computer-planning, seans-reporepo, repo-transmute +11 more |
 | `ui` | 17 | Front-End-Checklist, galaxy, paper2gui +14 more |
 | `vector-db` | 7 | memsearch, claude-context, openpencil +4 more |
 | `vector-search` | 5 | repo-transmute, claw-aie-harness, txtai +2 more |
@@ -216,7 +216,7 @@
 | `voice` | 6 | seans-reporepo, hermes-web-computer, hermes-agent +3 more |
 | `vpn` | 2 | hermes-computer-planning, headscale |
 | `vue` | 4 | developer-roadmap, awesome-frontend-resources, openpencil +1 more |
-| `web-app` | 33 | seans-reporepo, hermes-computer-planning, hermes-web-computer +30 more |
+| `web-app` | 33 | hermes-computer-planning, seans-reporepo, hermes-web-computer +30 more |
 | `website` | 2 | features-list, sean-s-landing-page |
 | `workflow-engine` | 3 | hermes-web-computer, temporal, ralph-orchestrator |
 
@@ -224,13 +224,13 @@
 
 | Language | Count | Total Size |
 |---|---|---|
-| TypeScript | 56 | 8,809,311 KB |
+| TypeScript | 56 | 8,810,116 KB |
 | Python | 43 | 4,172,624 KB |
 | other | 17 | 152,032 KB |
 | Go | 10 | 739,624 KB |
-| Shell | 10 | 636,682 KB |
-| Rust | 8 | 265,361 KB |
-| HTML | 5 | 215,893 KB |
+| Shell | 10 | 636,710 KB |
+| Rust | 8 | 265,688 KB |
+| HTML | 5 | 215,896 KB |
 | JavaScript | 4 | 176,685 KB |
 | Nix | 4 | 295,047 KB |
 | C++ | 2 | 627,715 KB |
@@ -247,3 +247,18 @@
 ## Combinatorial Potential
 
 53 tags bridge owned and starred repos. See [COMBINATORIAL.md](COMBINATORIAL.md) for full analysis.
+
+## Migration Candidates
+
+Starred repos identified for extraction into hermes-web-computer tiles. See [candidates/](candidates/) for detailed plans.
+
+| Repo | Target Tile | Tier | Effort | Relevance |
+|---|---|---|---|---|
+| [bytebot-ai/bytebot](starred/bytebot-ai_bytebot.md) | Browser Tile | T1 | 3-5 days | 9/10 |
+| [trycua/cua](starred/trycua_cua.md) | Sandbox Tile | T1 | 3-4 days | 8/10 |
+| [ChonSong/agent-os](starred/ChonSong_agent-os.md) | Dashboard Tile | T1 | 2-3 days | 7/10 |
+| [sveltejs/ai-tools](starred/sveltejs_ai-tools.md) | AI Components | T2 | 1-2 days | 6/10 |
+| [upstash/context7](starred/upstash_context7.md) | Research Data | T2 | 1 day | 5/10 |
+| [sindresorhus/awesome](starred/sindresorhus_awesome.md) | Resource Index | T2 | 0.5 days | 4/10 |
+
+*6 candidates identified. [Full plans →](candidates/)*

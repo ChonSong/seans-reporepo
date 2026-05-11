@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 598291
-stars: 21107
+stars: 21110
 last_pushed: '2026-05-11'
 license: MIT
 tags:
@@ -39,7 +39,7 @@ topics:
   - red-teaming
   - testing
   - vulnerability-scanners
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # promptfoo
@@ -54,7 +54,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 598,291 KB
-- **Stars:** 21,107
+- **Stars:** 21,110
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent, ai, automation, energy, framework, llm, multi-agent, rag, reliability, testing

@@ -6,14 +6,14 @@ type: unknown
 status: active
 language: JavaScript
 size_kb: 30858
-stars: 26771
+stars: 26779
 last_pushed: '2026-05-04'
 license: 'Apache-2.0'
 tags:
   - ai
   - harness
 topics: []
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # impeccable
@@ -28,7 +28,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 30,858 KB
-- **Stars:** 26,771
+- **Stars:** 26,779
 - **Last Pushed:** 2026-05-04
 - **License:** Apache-2.0
 - **Tags:** ai, harness

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 360347
-stars: 354539
+stars: 354540
 last_pushed: '2026-05-09'
 license: NOASSERTION
 tags:
@@ -40,7 +40,7 @@ topics:
   - roadmap
   - software-architect-roadmap
   - vue-roadmap
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # developer-roadmap
@@ -55,7 +55,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 360,347 KB
-- **Stars:** 354,539
+- **Stars:** 354,540
 - **Last Pushed:** 2026-05-09
 - **License:** NOASSERTION
 - **Tags:** ai, database, education, go, ide, infrastructure, javascript, python, react, vue, web-app

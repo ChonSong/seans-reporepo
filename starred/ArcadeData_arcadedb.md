@@ -7,7 +7,7 @@ status: active
 language: Java
 size_kb: 51414
 stars: 862
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: 'Apache-2.0'
 tags:
   - api
@@ -36,7 +36,7 @@ topics:
   - time-series
   - vector-database
   - vector-search
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # arcadedb
@@ -52,6 +52,6 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Language:** Java
 - **Size:** 51,414 KB
 - **Stars:** 862
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
 - **Tags:** api, database, docker, embeddings, go, vector-db, vector-search

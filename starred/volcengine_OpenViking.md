@@ -7,7 +7,7 @@ status: active
 language: Python
 size_kb: 81823
 stars: 23741
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -33,7 +33,7 @@ topics:
   - opencode
   - rag
   - skill
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # OpenViking
@@ -49,6 +49,6 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Language:** Python
 - **Size:** 81,823 KB
 - **Stars:** 23,741
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, bot, coding-agent, database, llm, multi-agent, openclaw, rag

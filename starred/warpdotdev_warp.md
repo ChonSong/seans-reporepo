@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Rust
 size_kb: 181910
-stars: 57323
+stars: 57329
 last_pushed: '2026-05-11'
 license: 'AGPL-3.0'
 tags:
@@ -24,7 +24,7 @@ topics:
   - terminal
   - wasm
   - zsh
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # warp
@@ -39,7 +39,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 181,910 KB
-- **Stars:** 57,323
+- **Stars:** 57,329
 - **Last Pushed:** 2026-05-11
 - **License:** AGPL-3.0
 - **Tags:** agent, rust, terminal, tui, ui

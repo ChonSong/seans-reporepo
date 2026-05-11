@@ -5,15 +5,15 @@ description: 'OpenShell is the safe, private runtime for autonomous AI agents.'
 type: agent
 status: active
 language: Rust
-size_kb: 34605
-stars: 5737
+size_kb: 34607
+stars: 5738
 last_pushed: '2026-05-11'
 license: 'Apache-2.0'
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # OpenShell
@@ -27,8 +27,8 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 34,605 KB
-- **Stars:** 5,737
+- **Size:** 34,607 KB
+- **Stars:** 5,738
 - **Last Pushed:** 2026-05-11
 - **License:** Apache-2.0
 - **Tags:** agent, ai

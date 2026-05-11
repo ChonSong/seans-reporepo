@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Shell
 size_kb: 2694
-stars: 16618
+stars: 16628
 last_pushed: '2026-05-06'
 license: MIT
 tags:
@@ -35,7 +35,7 @@ topics:
   - skill
   - skills
   - vibecoding
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # taste-skill
@@ -50,7 +50,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 2,694 KB
-- **Stars:** 16,618
+- **Stars:** 16,628
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, design-system, docker, go, multi-agent, sustainability, training, web-app

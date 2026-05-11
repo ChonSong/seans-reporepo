@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 66464
-stars: 57025
+stars: 57036
 last_pushed: '2026-05-11'
 license: NOASSERTION
 tags:
@@ -42,7 +42,7 @@ topics:
   - orchestration
   - tui
   - typescript
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # oh-my-openagent
@@ -57,7 +57,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 66,464 KB
-- **Stars:** 57,025
+- **Stars:** 57,036
 - **Last Pushed:** 2026-05-11
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, harness, ide, orchestration, sustainability, training, tui, typescript, ui, video

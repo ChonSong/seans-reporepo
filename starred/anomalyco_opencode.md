@@ -5,14 +5,14 @@ description: The open source coding agent.
 type: agent
 status: active
 language: TypeScript
-size_kb: 256408
-stars: 158022
+size_kb: 256462
+stars: 158041
 last_pushed: '2026-05-11'
 license: MIT
 tags:
   - agent
 topics: []
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # opencode
@@ -26,8 +26,8 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 256,408 KB
-- **Stars:** 158,022
+- **Size:** 256,462 KB
+- **Stars:** 158,041
 - **Last Pushed:** 2026-05-11
 - **License:** MIT
 - **Tags:** agent

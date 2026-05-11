@@ -451,6 +451,23 @@ def generate_readme(owned: list, starred: list, refreshed_at: str) -> str:
     combo_tags = {k: v for k, v in tag_index.items() if v["owned"] and v["starred"]}
     readme += f"{len(combo_tags)} tags bridge owned and starred repos. See [COMBINATORIAL.md](COMBINATORIAL.md) for full analysis.\n"
 
+    # Migration Candidates
+    readme += "\n## Migration Candidates\n\n"
+    readme += "Starred repos identified for extraction into hermes-web-computer tiles. See [candidates/](candidates/) for detailed plans.\n\n"
+    candidates = [
+        ("bytebot-ai/bytebot", "Browser Tile", "T1", "3-5 days", "9/10"),
+        ("trycua/cua", "Sandbox Tile", "T1", "3-4 days", "8/10"),
+        ("ChonSong/agent-os", "Dashboard Tile", "T1", "2-3 days", "7/10"),
+        ("sveltejs/ai-tools", "AI Components", "T2", "1-2 days", "6/10"),
+        ("upstash/context7", "Research Data", "T2", "1 day", "5/10"),
+        ("sindresorhus/awesome", "Resource Index", "T2", "0.5 days", "4/10"),
+    ]
+    readme += "| Repo | Target Tile | Tier | Effort | Relevance |\n"
+    readme += "|---|---|---|---|---|\n"
+    for repo, tile, tier, effort, relevance in candidates:
+        readme += f"| [{repo}](starred/{repo.replace('/', '_')}.md) | {tile} | {tier} | {effort} | {relevance} |\n"
+    readme += f"\n*6 candidates identified. [Full plans →](candidates/)*\n"
+
     return readme
 
 

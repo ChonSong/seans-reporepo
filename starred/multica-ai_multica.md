@@ -6,14 +6,14 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 46632
-stars: 26915
+stars: 26924
 last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
   - agent
   - multi-agent
 topics: []
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # multica
@@ -28,7 +28,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 46,632 KB
-- **Stars:** 26,915
+- **Stars:** 26,924
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
 - **Tags:** agent, multi-agent

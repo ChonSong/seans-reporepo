@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 325377
-stars: 73096
+stars: 73100
 last_pushed: '2026-05-10'
 license: NOASSERTION
 tags:
@@ -27,7 +27,7 @@ topics:
   - gpt
   - llm
   - openai
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # OpenHands
@@ -42,7 +42,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 325,377 KB
-- **Stars:** 73,096
+- **Stars:** 73,100
 - **Last Pushed:** 2026-05-10
 - **License:** NOASSERTION
 - **Tags:** agent, ai, chat-ui, cli, coding-agent, llm, multi-agent

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 1495
-stars: 4049
+stars: 4050
 last_pushed: '2026-05-08'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
   - orchestration
   - typescript
 topics: []
-refreshed_at: '2026-05-11 02:12 UTC'
+refreshed_at: '2026-05-11 02:46 UTC'
 ---
 
 # sandcastle
@@ -29,7 +29,7 @@ refreshed_at: '2026-05-11 02:12 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 1,495 KB
-- **Stars:** 4,049
+- **Stars:** 4,050
 - **Last Pushed:** 2026-05-08
 - **License:** MIT
 - **Tags:** agent, orchestration, typescript
