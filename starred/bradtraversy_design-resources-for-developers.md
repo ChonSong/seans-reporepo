@@ -5,16 +5,14 @@ description: 'Curated list of design and UI resources from stock photos, web tem
 type: library
 status: active
 language: other
-size_kb: 5040
-stars: 65501
-last_pushed: '2026-04-13'
+size_kb: 4960
+stars: 65749
+last_pushed: '2026-05-24'
 license: MIT
 tags:
   - awesome-list
   - framework
   - web-app
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # design-resources-for-developers
@@ -28,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** other
-- **Size:** 5,040 KB
-- **Stars:** 65,501
-- **Last Pushed:** 2026-04-13
+- **Size:** 4,960 KB
+- **Stars:** 65,749
+- **Last Pushed:** 2026-05-24
 - **License:** MIT
 - **Tags:** awesome-list, framework, web-app

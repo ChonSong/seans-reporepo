@@ -6,13 +6,11 @@ type: unknown
 status: active
 language: other
 size_kb: 15598
-stars: 28
+stars: 31
 last_pushed: '2024-09-16'
 license: 'GPL-3.0'
 tags:
   - dotfiles
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # mod-illogical-impulse-dotfiles
@@ -27,7 +25,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 15,598 KB
-- **Stars:** 28
+- **Stars:** 31
 - **Last Pushed:** 2024-09-16
 - **License:** GPL-3.0
 - **Tags:** dotfiles

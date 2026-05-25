@@ -5,14 +5,12 @@ description: 'Your personal AI assistant at all-in 888KiB (~35KB in app code). R
 type: agent
 status: active
 language: C
-size_kb: 1778
-stars: 2125
-last_pushed: '2026-03-23'
+size_kb: 1520
+stars: 2149
+last_pushed: '2026-05-17'
 license: MIT
 tags:
   - ai
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # zclaw
@@ -26,8 +24,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** C
-- **Size:** 1,778 KB
-- **Stars:** 2,125
-- **Last Pushed:** 2026-03-23
+- **Size:** 1,520 KB
+- **Stars:** 2,149
+- **Last Pushed:** 2026-05-17
 - **License:** MIT
 - **Tags:** ai

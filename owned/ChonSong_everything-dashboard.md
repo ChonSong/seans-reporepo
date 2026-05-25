@@ -5,9 +5,9 @@ description: 'Lightweight monolithic dashboard: React + Express + Python Agent C
 type: monorepo
 status: active
 language: TypeScript
-size_kb: 76
+size_kb: 77
 stars: 0
-last_pushed: '2026-05-07'
+last_pushed: '2026-05-12'
 license: unknown
 tags:
   - agent
@@ -15,8 +15,6 @@ tags:
   - express
   - python
   - react
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # everything-dashboard
@@ -30,8 +28,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 76 KB
+- **Size:** 77 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-05-07
+- **Last Pushed:** 2026-05-12
 - **License:** unknown
 - **Tags:** agent, dashboard, express, python, react

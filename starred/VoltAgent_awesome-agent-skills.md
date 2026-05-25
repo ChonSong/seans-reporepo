@@ -5,32 +5,14 @@ description: 'A curated collection of 1000+ agent skills from official dev teams
 type: agent
 status: active
 language: other
-size_kb: 330
-stars: 21198
-last_pushed: '2026-05-10'
+size_kb: 750
+stars: 22969
+last_pushed: '2026-05-24'
 license: MIT
 tags:
   - agent
-  - ai
-  - awesome-list
   - cli
   - multi-agent
-topics:
-  - agent-skills
-  - ai-agents
-  - antigravity-skills
-  - awesome
-  - awesome-list
-  - awesome-lists
-  - claude-code
-  - claude-code-skills
-  - claude-skills
-  - codex-skills
-  - cursor-skills
-  - gemini-skills
-  - opencode-skills
-  - skills
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # awesome-agent-skills
@@ -44,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 330 KB
-- **Stars:** 21,198
-- **Last Pushed:** 2026-05-10
+- **Size:** 750 KB
+- **Stars:** 22,969
+- **Last Pushed:** 2026-05-24
 - **License:** MIT
-- **Tags:** agent, ai, awesome-list, cli, multi-agent
+- **Tags:** agent, cli, multi-agent

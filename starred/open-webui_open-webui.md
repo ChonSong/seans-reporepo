@@ -5,42 +5,14 @@ description: 'User-friendly AI Interface (Supports Ollama, OpenAI API, ...)'
 type: unknown
 status: active
 language: Python
-size_kb: 367673
-stars: 136559
-last_pushed: '2026-05-10'
+size_kb: 369912
+stars: 138514
+last_pushed: '2026-05-23'
 license: NOASSERTION
 tags:
   - ai
-  - aie
   - api
-  - chat-ui
-  - docker
-  - image-gen
   - llm
-  - mcp
-  - rag
-  - reliability
-  - sustainability
-  - training
-  - tui
-  - ui
-topics:
-  - ai
-  - llm
-  - llm-ui
-  - llm-webui
-  - llms
-  - mcp
-  - ollama
-  - ollama-webui
-  - open-webui
-  - openai
-  - openapi
-  - rag
-  - self-hosted
-  - ui
-  - webui
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # open-webui
@@ -54,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 367,673 KB
-- **Stars:** 136,559
-- **Last Pushed:** 2026-05-10
+- **Size:** 369,912 KB
+- **Stars:** 138,514
+- **Last Pushed:** 2026-05-23
 - **License:** NOASSERTION
-- **Tags:** ai, aie, api, chat-ui, docker, image-gen, llm, mcp, rag, reliability, sustainability, training, tui, ui
+- **Tags:** ai, api, llm

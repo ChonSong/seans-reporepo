@@ -6,24 +6,13 @@ type: agent
 status: active
 language: Python
 size_kb: 18671
-stars: 391
+stars: 402
 last_pushed: '2026-04-25'
 license: 'Apache-2.0'
 tags:
   - agent
   - ai
-  - bot
-  - database
   - llm
-  - plugin
-topics:
-  - ai-agent
-  - clawdbot-plugin
-  - llm
-  - recall-ai
-  - retrieval-systems
-  - screen-recorder
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # CatchMe
@@ -38,7 +27,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 18,671 KB
-- **Stars:** 391
+- **Stars:** 402
 - **Last Pushed:** 2026-04-25
 - **License:** Apache-2.0
-- **Tags:** agent, ai, bot, database, llm, plugin
+- **Tags:** agent, ai, llm

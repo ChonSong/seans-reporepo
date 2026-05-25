@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 41195
-stars: 130
+stars: 132
 last_pushed: '2026-04-01'
 license: 'Apache-2.0'
 tags:
@@ -16,8 +16,6 @@ tags:
   - llm
   - multi-agent
   - training
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # DrMAS
@@ -32,7 +30,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 41,195 KB
-- **Stars:** 130
+- **Stars:** 132
 - **Last Pushed:** 2026-04-01
 - **License:** Apache-2.0
 - **Tags:** agent, ai, framework, llm, multi-agent, training

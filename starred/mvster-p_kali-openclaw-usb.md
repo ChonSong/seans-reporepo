@@ -6,31 +6,14 @@ type: unknown
 status: active
 language: Shell
 size_kb: 28
-stars: 44
+stars: 52
 last_pushed: '2026-04-03'
 license: unknown
 tags:
   - ai
   - automation
-  - browser-automation
   - openclaw
-  - security
   - testing
-  - ui
-topics:
-  - automation
-  - cybersecurity
-  - ethical-hacking
-  - kali-linux
-  - offensive-security
-  - openclaw
-  - penetration-testing
-  - pentest
-  - portable
-  - red-team
-  - security-tools
-  - usb
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # kali-openclaw-usb
@@ -45,7 +28,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 28 KB
-- **Stars:** 44
+- **Stars:** 52
 - **Last Pushed:** 2026-04-03
 - **License:** unknown
-- **Tags:** ai, automation, browser-automation, openclaw, security, testing, ui
+- **Tags:** ai, automation, openclaw, testing

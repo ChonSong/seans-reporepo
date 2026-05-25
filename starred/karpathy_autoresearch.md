@@ -6,15 +6,13 @@ type: agent
 status: active
 language: Python
 size_kb: 530
-stars: 80336
+stars: 83168
 last_pushed: '2026-03-26'
 license: unknown
 tags:
   - agent
   - ai
   - training
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # autoresearch
@@ -29,7 +27,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 530 KB
-- **Stars:** 80,336
+- **Stars:** 83,168
 - **Last Pushed:** 2026-03-26
 - **License:** unknown
 - **Tags:** agent, ai, training

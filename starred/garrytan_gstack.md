@@ -5,13 +5,11 @@ description: 'Use Garry Tan's exact Claude Code setup: 23 opinionated tools that
 type: unknown
 status: active
 language: TypeScript
-size_kb: 97633
-stars: 93415
-last_pushed: '2026-05-10'
+size_kb: 100948
+stars: 101843
+last_pushed: '2026-05-24'
 license: MIT
 tags: []
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # gstack
@@ -25,7 +23,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 97,633 KB
-- **Stars:** 93,415
-- **Last Pushed:** 2026-05-10
+- **Size:** 100,948 KB
+- **Stars:** 101,843
+- **Last Pushed:** 2026-05-24
 - **License:** MIT

@@ -5,22 +5,15 @@ description: 'Multi-agent orchestration for AI coding agents — pluggable runti
 type: agent
 status: active
 language: TypeScript
-size_kb: 6108
-stars: 1287
-last_pushed: '2026-05-09'
+size_kb: 5256
+stars: 1303
+last_pushed: '2026-05-16'
 license: MIT
 tags:
   - agent
   - ai
   - multi-agent
   - orchestration
-  - ui
-topics:
-  - agent-swarms
-  - ai-agents
-  - claude-code
-  - tmux
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # overstory
@@ -34,8 +27,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 6,108 KB
-- **Stars:** 1,287
-- **Last Pushed:** 2026-05-09
+- **Size:** 5,256 KB
+- **Stars:** 1,303
+- **Last Pushed:** 2026-05-16
 - **License:** MIT
-- **Tags:** agent, ai, multi-agent, orchestration, ui
+- **Tags:** agent, ai, multi-agent, orchestration

@@ -5,38 +5,14 @@ description: '🪢 Open source LLM engineering platform: LLM Observability, metr
 type: unknown
 status: active
 language: TypeScript
-size_kb: 80599
-stars: 26964
-last_pushed: '2026-05-11'
+size_kb: 82934
+stars: 27850
+last_pushed: '2026-05-23'
 license: NOASSERTION
 tags:
   - ai
-  - analytics
   - llm
-  - monitoring
-  - observability
   - telemetry
-topics:
-  - analytics
-  - autogen
-  - evaluation
-  - langchain
-  - large-language-models
-  - llama-index
-  - llm
-  - llm-evaluation
-  - llm-observability
-  - llmops
-  - monitoring
-  - observability
-  - open-source
-  - openai
-  - playground
-  - prompt-engineering
-  - prompt-management
-  - self-hosted
-  - ycombinator
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # langfuse
@@ -50,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 80,599 KB
-- **Stars:** 26,964
-- **Last Pushed:** 2026-05-11
+- **Size:** 82,934 KB
+- **Stars:** 27,850
+- **Last Pushed:** 2026-05-23
 - **License:** NOASSERTION
-- **Tags:** ai, analytics, llm, monitoring, observability, telemetry
+- **Tags:** ai, llm, telemetry

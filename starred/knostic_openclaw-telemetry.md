@@ -5,26 +5,15 @@ description: 'Telemetry for OpenClaw - Captures tool calls, LLM usage, agent lif
 type: agent
 status: active
 language: TypeScript
-size_kb: 57
-stars: 82
-last_pushed: '2026-04-07'
+size_kb: 58
+stars: 86
+last_pushed: '2026-05-12'
 license: 'Apache-2.0'
 tags:
   - agent
-  - bot
-  - database
   - llm
-  - observability
   - openclaw
   - telemetry
-topics:
-  - clawdbot
-  - moltbot
-  - observability
-  - openclaw
-  - siem
-  - telemetry
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # openclaw-telemetry
@@ -38,8 +27,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 57 KB
-- **Stars:** 82
-- **Last Pushed:** 2026-04-07
+- **Size:** 58 KB
+- **Stars:** 86
+- **Last Pushed:** 2026-05-12
 - **License:** Apache-2.0
-- **Tags:** agent, bot, database, llm, observability, openclaw, telemetry
+- **Tags:** agent, llm, openclaw, telemetry

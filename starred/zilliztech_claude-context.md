@@ -5,45 +5,14 @@ description: Code search MCP for Claude Code. Make entire codebase the context f
 type: agent
 status: active
 language: TypeScript
-size_kb: 8171
-stars: 10933
-last_pushed: '2026-05-06'
+size_kb: 8168
+stars: 11556
+last_pushed: '2026-05-22'
 license: MIT
 tags:
   - agent
-  - ai
-  - cli
-  - coding-agent
-  - database
-  - embeddings
   - mcp
-  - multi-agent
-  - plugin
-  - rag
   - typescript
-  - vector-db
-topics:
-  - agent
-  - agentic-rag
-  - ai-coding
-  - claude-code
-  - code-generation
-  - code-search
-  - cursor
-  - embedding
-  - gemini-cli
-  - mcp
-  - merkle-tree
-  - nodejs
-  - openai
-  - rag
-  - semantic-search
-  - typescript
-  - vector-database
-  - vibe-coding
-  - voyage-ai
-  - vscode-extension
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # claude-context
@@ -57,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 8,171 KB
-- **Stars:** 10,933
-- **Last Pushed:** 2026-05-06
+- **Size:** 8,168 KB
+- **Stars:** 11,556
+- **Last Pushed:** 2026-05-22
 - **License:** MIT
-- **Tags:** agent, ai, cli, coding-agent, database, embeddings, mcp, multi-agent, plugin, rag, typescript, vector-db
+- **Tags:** agent, mcp, typescript

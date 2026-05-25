@@ -5,9 +5,9 @@ description: 'Agentic OS — monorepo for CasaOS + nanobot + everything-dashboar
 type: monorepo
 status: active
 language: Python
-size_kb: 10268
+size_kb: 10271
 stars: 0
-last_pushed: '2026-05-10'
+last_pushed: '2026-05-11'
 license: unknown
 tags:
   - agent
@@ -24,8 +24,6 @@ tags:
   - llm
   - react
   - web-app
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # agent-os
@@ -39,9 +37,9 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 10,268 KB
+- **Size:** 10,271 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-05-10
+- **Last Pushed:** 2026-05-11
 - **License:** unknown
 - **Tags:** agent, ai, api, bot, dashboard, database, docker, express, go, hermes-agent, ide, llm, react, web-app
 

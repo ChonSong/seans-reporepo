@@ -12,8 +12,6 @@ license: unknown
 tags:
   - agent
   - bot
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # nanobot-workspace

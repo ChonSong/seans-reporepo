@@ -5,38 +5,14 @@ description: An improved implementation of the Ralph Wiggum technique for autono
 type: agent
 status: active
 language: Rust
-size_kb: 14534
-stars: 2851
-last_pushed: '2026-05-08'
+size_kb: 13296
+stars: 2887
+last_pushed: '2026-05-20'
 license: MIT
 tags:
   - agent
   - ai
-  - aie
-  - cli
-  - docker
-  - framework
   - orchestration
-  - sustainability
-  - training
-  - workflow-engine
-topics:
-  - ai
-  - ai-agents
-  - ai-agents-framework
-  - ai-developer-tools
-  - claude-code
-  - claude-code-cli
-  - codex-cli
-  - development-tools
-  - development-workflow
-  - gemini-cli
-  - kiro
-  - kiro-cli
-  - opencode
-  - ralph-loop
-  - ralph-wiggum
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # ralph-orchestrator
@@ -50,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 14,534 KB
-- **Stars:** 2,851
-- **Last Pushed:** 2026-05-08
+- **Size:** 13,296 KB
+- **Stars:** 2,887
+- **Last Pushed:** 2026-05-20
 - **License:** MIT
-- **Tags:** agent, ai, aie, cli, docker, framework, orchestration, sustainability, training, workflow-engine
+- **Tags:** agent, ai, orchestration

@@ -5,21 +5,13 @@ description: 'Context7 Platform -- Up-to-date code documentation for LLMs and AI
 type: unknown
 status: active
 language: TypeScript
-size_kb: 27737
-stars: 54986
-last_pushed: '2026-05-11'
+size_kb: 27583
+stars: 56019
+last_pushed: '2026-05-22'
 license: MIT
 tags:
   - ai
-  - infrastructure
   - llm
-  - mcp
-topics:
-  - llm
-  - mcp
-  - mcp-server
-  - vibe-coding
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # context7
@@ -33,8 +25,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 27,737 KB
-- **Stars:** 54,986
-- **Last Pushed:** 2026-05-11
+- **Size:** 27,583 KB
+- **Stars:** 56,019
+- **Last Pushed:** 2026-05-22
 - **License:** MIT
-- **Tags:** ai, infrastructure, llm, mcp
+- **Tags:** ai, llm

@@ -5,27 +5,11 @@ description: 'A Simple and Universal Swarm Intelligence Engine, Predicting Anyth
 type: unknown
 status: active
 language: Python
-size_kb: 16197
-stars: 60044
-last_pushed: '2026-04-02'
+size_kb: 16526
+stars: 62292
+last_pushed: '2026-05-24'
 license: 'AGPL-3.0'
-tags:
-  - agent
-  - llm
-  - multi-agent
-  - python
-topics:
-  - agent-memory
-  - financial-forecasting
-  - future-prediction
-  - knowledge-graph
-  - llms
-  - multi-agent-simulation
-  - public-opinion-analysis
-  - python3
-  - social-prediction
-  - swarm-intelligence
-refreshed_at: '2026-05-11 09:24 UTC'
+tags: []
 ---
 
 # MiroFish
@@ -39,8 +23,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 16,197 KB
-- **Stars:** 60,044
-- **Last Pushed:** 2026-04-02
+- **Size:** 16,526 KB
+- **Stars:** 62,292
+- **Last Pushed:** 2026-05-24
 - **License:** AGPL-3.0
-- **Tags:** agent, llm, multi-agent, python

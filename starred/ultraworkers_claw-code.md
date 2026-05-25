@@ -5,14 +5,12 @@ description: 'The repo is finally unlocked. enjoy the party! The fastest repo in
 type: unknown
 status: active
 language: Rust
-size_kb: 12592
-stars: 191034
-last_pushed: '2026-05-11'
-license: unknown
+size_kb: 14912
+stars: 192430
+last_pushed: '2026-05-25'
+license: MIT
 tags:
   - rust
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # claw-code
@@ -26,8 +24,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Rust
-- **Size:** 12,592 KB
-- **Stars:** 191,034
-- **Last Pushed:** 2026-05-11
-- **License:** unknown
+- **Size:** 14,912 KB
+- **Stars:** 192,430
+- **Last Pushed:** 2026-05-25
+- **License:** MIT
 - **Tags:** rust

@@ -11,8 +11,6 @@ last_pushed: '2025-12-11'
 license: unknown
 tags:
   - backup
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # system-backup

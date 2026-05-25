@@ -1,46 +1,34 @@
 ---
-repo: 'affaan-m/everything-claude-code'
-url: 'https://github.com/affaan-m/everything-claude-code'
+repo: 'affaan-m/ECC'
+url: 'https://github.com/affaan-m/ECC'
 description: 'The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.'
 type: agent
 status: active
 language: JavaScript
-size_kb: 31697
-stars: 178892
-last_pushed: '2026-05-11'
+size_kb: 35732
+stars: 191141
+last_pushed: '2026-05-24'
 license: MIT
 tags:
   - agent
-  - ai
   - coding-agent
   - harness
   - llm
-  - mcp
-topics:
-  - ai-agents
-  - anthropic
-  - claude
-  - claude-code
-  - developer-tools
-  - llm
-  - mcp
-  - productivity
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
-# everything-claude-code
+# ECC
 
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-**URL:** [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+**URL:** [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 ## Metadata
 
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 31,697 KB
-- **Stars:** 178,892
-- **Last Pushed:** 2026-05-11
+- **Size:** 35,732 KB
+- **Stars:** 191,141
+- **Last Pushed:** 2026-05-24
 - **License:** MIT
-- **Tags:** agent, ai, coding-agent, harness, llm, mcp
+- **Tags:** agent, coding-agent, harness, llm

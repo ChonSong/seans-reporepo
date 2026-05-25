@@ -6,28 +6,12 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 814
-stars: 337
+stars: 342
 last_pushed: '2026-04-12'
 license: unknown
 tags:
-  - agent
-  - ai
-  - llm
   - openclaw
   - plugin
-  - security
-topics:
-  - agentic-ai
-  - ai-agents
-  - ai-security
-  - llm-security
-  - openclaw
-  - openclaw-plugin
-  - openclaw-security
-  - openclaw-skills
-  - owasp
-  - owasp-llm-top-10
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # secureclaw
@@ -42,7 +26,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 814 KB
-- **Stars:** 337
+- **Stars:** 342
 - **Last Pushed:** 2026-04-12
 - **License:** unknown
-- **Tags:** agent, ai, llm, openclaw, plugin, security
+- **Tags:** openclaw, plugin

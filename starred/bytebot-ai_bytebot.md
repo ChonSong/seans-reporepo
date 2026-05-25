@@ -6,44 +6,15 @@ type: agent
 status: archived
 language: TypeScript
 size_kb: 19011
-stars: 11008
+stars: 11033
 last_pushed: '2025-09-12'
 license: 'Apache-2.0'
 tags:
   - agent
   - ai
-  - aie
-  - automation
   - bot
-  - browser-automation
-  - coding-agent
   - docker
   - llm
-  - mcp
-  - multi-agent
-  - sustainability
-  - training
-topics:
-  - agent
-  - agentic-ai
-  - agents
-  - ai
-  - ai-agents
-  - ai-tools
-  - anthropic
-  - automation
-  - bytebot
-  - computer-use
-  - computer-use-agent
-  - cua
-  - desktop
-  - desktop-automation
-  - docker
-  - gemini
-  - llm
-  - mcp
-  - openai
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # bytebot
@@ -58,7 +29,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** archived
 - **Language:** TypeScript
 - **Size:** 19,011 KB
-- **Stars:** 11,008
+- **Stars:** 11,033
 - **Last Pushed:** 2025-09-12
 - **License:** Apache-2.0
-- **Tags:** agent, ai, aie, automation, bot, browser-automation, coding-agent, docker, llm, mcp, multi-agent, sustainability, training
+- **Tags:** agent, ai, bot, docker, llm

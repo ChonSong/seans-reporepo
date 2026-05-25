@@ -5,31 +5,25 @@ description: No description
 type: monorepo
 status: active
 language: HTML
-size_kb: 1711
+size_kb: 1706
 stars: 0
-last_pushed: '2026-05-11'
+last_pushed: '2026-05-12'
 license: unknown
 tags:
   - agent
   - ai
   - analytics
-  - api
   - awesome-list
-  - backup
+  - bot
   - dashboard
-  - docker
-  - go
   - hermes-agent
-  - infrastructure
+  - ide
+  - mcp
   - mobile
-  - monitoring
-  - sync
-  - terminal
+  - multi-agent
+  - orchestration
+  - react
   - transpilation
-  - web-app
-  - website
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # features-list
@@ -43,53 +37,59 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** HTML
-- **Size:** 1,711 KB
+- **Size:** 1,706 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-05-11
+- **Last Pushed:** 2026-05-12
 - **License:** unknown
-- **Tags:** agent, ai, analytics, api, awesome-list, backup, dashboard, docker, go, hermes-agent, infrastructure, mobile, monitoring, sync, terminal, transpilation, web-app, website
+- **Tags:** agent, ai, analytics, awesome-list, bot, dashboard, hermes-agent, ide, mcp, mobile, multi-agent, orchestration, react, transpilation
 
 ## README Excerpt
 
 # Hermes Workspace Features List
 
-> Complete feature catalog — hermes-workspace + agent-os + repo-transmute v2
+> Extracted from [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) via repo-transmute v2
 
-## Architecture Diagrams
+## Overview
 
-| Diagram | Description |
-|---------|-------------|
-| [Agent-OS Architecture](screenshots/agent-os-architecture.html) | **Complete picture** — hermes-workspace features + agent-os infrastructure + migration engine |
-| [System Architecture](screenshots/system-architecture.html) | hermes-workspace system architecture — Electron app, API routes, Hermes Agent, databases |
-| [Chat Architecture](screenshots/chat-architecture.html) | Chat feature architecture — streaming, sessions, message rendering |
-| [Dashboard Features](screenshots/dashboard-features.html) | Dashboard feature map — analytics, KPIs, operations intelligence |
+A comprehensive feature catalog of the hermes-workspace desktop application — a React + TanStack Start + Tailwind + Electron workspace for Hermes Agent with chat, orchestration, and multi-agent coding pipelines.
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| ![SciFi Theme](screenshots/SciFi.png) | SciFi theme variant |
-| ![Hermes World Landing](screenshots/hermes-world-landing-pass.png) | Hermes World landing page |
-| ![Accessibility Desktop](screenshots/hermesworld-accessibility-desktop.png) | Desktop accessibility view |
-| ![Accessibility Mobile](screenshots/hermesworld-accessibility-mobile.png) | Mobile accessibility view |
-| ![SciFi Theme](screenshots/scifi-theme.png) | SciFi theme variant |
+**Tech Stack:** React, TanStack Start, Tailwind CSS, Electron, @tanstack/react-query, @base-ui/react, @hugeicons/react
 
 ---
 
-## agent-os Additions
+## Chat Features
 
-### Infrastructure
+| Component | Size | Description |
+|-----------|------|-------------|
+| `chat-screen` | 84K | Main chat interface with streaming, session management, history, model picker |
+| `chat-composer` | 115K | Message input with model picker, file attachments, slash commands, workspace selection |
+| `chat-message-list` | 72K | Message rendering with streaming animation, tool calls, research cards, search |
+| `message-item` | 94K | Individual message display with markdown, code blocks, tool call rendering, status |
+| `chat-sidebar` | 39K | Session list with search, rename, delete, recent sessions grouping |
+| `chat-header` | 21K | Session header with model info, workspace context, mobile hamburger menu |
+| `chat-empty-state` | 4.2K | Welcome screen when no messages |
+| `context-bar` | 7.0K | Context indicator for file/memory attachments |
+| `context-meter` | - | Context usage meter |
+| `scroll-to-bottom-button` | 1.7K | Auto-scroll control |
 
-| Component | Description |
-|-----------|-------------|
-| **Docker Stack** | 4 containers: backend, postgres, cloudflared, webhook-emitter (all healthy) |
-| **Network** | agent-os_agent-net with host.docker.internal:8642 for Hermes |
-| **Cloudflare Tunnel** | Argo tunnel with QUIC protocol (syd05/mel01) |
-| **Webhook Emitter** | Go service subscribing to CasaOS MessageBus, Docker event fan-out |
-| **CI/CD** | GitHub Actions: test → build → SSH deploy to ghcr.io/chonsong/agent-os |
-| **Backup** | pg_dump daily at 3am → ~/.hermes/backups/postgres |
-| **Sync** | hermes-sync cron every 6 hours → GitHub private repo |
+### Chat Capabilities
+- ✅ SSE streaming responses
+- ✅ Optimistic message updates
+- ✅ Tool call visualization
+- ✅ Research card rendering
+- ✅ Multi-session management
+- ✅ Model switching per session
+- ✅ File/memory context attachments
+- ✅ Workspace selection
+- ✅ Slash commands
+- ✅ Connection status handling
+- ✅ Message search
+- ✅ Session rename/delete dialogs
 
-### Frontend (22 pages)
+---
 
-| Page | Route...
+## Dashboard Features
+
+| Component | Size | Description |
+|-----------|------|-------------|
+| `dashboard-screen` | 39K | Main dashboard with KPI cards, analytics gr...

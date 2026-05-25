@@ -6,27 +6,10 @@ type: unknown
 status: active
 language: Nix
 size_kb: 66542
-stars: 387
+stars: 392
 last_pushed: '2026-02-22'
 license: unknown
 tags: []
-topics:
-  - hyprland
-  - hyprland-config
-  - hyprland-rice
-  - nixos
-  - nixos-config
-  - rice
-  - rofi
-  - rofi-config
-  - rofi-menus
-  - rofi-theme
-  - rofi-wayland
-  - swww
-  - wallust
-  - waybar
-  - wayland
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # NixOS-Hyprland
@@ -41,6 +24,6 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 66,542 KB
-- **Stars:** 387
+- **Stars:** 392
 - **Last Pushed:** 2026-02-22
 - **License:** unknown

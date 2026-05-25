@@ -11,8 +11,6 @@ last_pushed: '2026-04-25'
 license: unknown
 tags:
   - dotfiles
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # dotfiles

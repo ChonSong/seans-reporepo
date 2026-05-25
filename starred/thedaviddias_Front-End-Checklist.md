@@ -6,30 +6,13 @@ type: unknown
 status: active
 language: other
 size_kb: 2926
-stars: 72576
+stars: 72702
 last_pushed: '2026-03-16'
 license: 'CC0-1.0'
 tags:
   - awesome-list
-  - css
-  - ide
   - javascript
-  - ui
   - web-app
-topics:
-  - checklist
-  - css
-  - front-end-developer-tool
-  - front-end-development
-  - frontend
-  - guidelines
-  - html
-  - javascript
-  - lists
-  - reference
-  - resources
-  - web-development
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # Front-End-Checklist
@@ -44,7 +27,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 2,926 KB
-- **Stars:** 72,576
+- **Stars:** 72,702
 - **Last Pushed:** 2026-03-16
 - **License:** CC0-1.0
-- **Tags:** awesome-list, css, ide, javascript, ui, web-app
+- **Tags:** awesome-list, javascript, web-app

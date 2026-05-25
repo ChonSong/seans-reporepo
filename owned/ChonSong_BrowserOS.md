@@ -18,8 +18,6 @@ tags:
   - go
   - ide
   - mcp
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # BrowserOS

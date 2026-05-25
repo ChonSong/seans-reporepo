@@ -1,33 +1,31 @@
 ---
 repo: paperclipai/paperclip
 url: 'https://github.com/paperclipai/paperclip'
-description: 'Open-source orchestration for zero-human companies'
-type: unknown
+description: 'The open-source app everyone uses to manage agents at work'
+type: agent
 status: active
 language: TypeScript
-size_kb: 58487
-stars: 64196
-last_pushed: '2026-05-11'
+size_kb: 91124
+stars: 67493
+last_pushed: '2026-05-24'
 license: MIT
 tags:
-  - orchestration
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
+  - agent
 ---
 
 # paperclip
 
-> Open-source orchestration for zero-human companies
+> The open-source app everyone uses to manage agents at work
 
 **URL:** [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 58,487 KB
-- **Stars:** 64,196
-- **Last Pushed:** 2026-05-11
+- **Size:** 91,124 KB
+- **Stars:** 67,493
+- **Last Pushed:** 2026-05-24
 - **License:** MIT
-- **Tags:** orchestration
+- **Tags:** agent

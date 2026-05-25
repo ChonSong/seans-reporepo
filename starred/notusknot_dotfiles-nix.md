@@ -6,22 +6,10 @@ type: unknown
 status: active
 language: Nix
 size_kb: 22338
-stars: 595
+stars: 600
 last_pushed: '2022-07-26'
 license: MIT
-tags:
-  - dotfiles
-topics:
-  - dotfiles
-  - eww
-  - hyprland
-  - neovim
-  - nix
-  - nixos
-  - rice
-  - unixporn
-  - zsh
-refreshed_at: '2026-05-11 09:24 UTC'
+tags: []
 ---
 
 # dotfiles-nix
@@ -36,7 +24,6 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 22,338 KB
-- **Stars:** 595
+- **Stars:** 600
 - **Last Pushed:** 2022-07-26
 - **License:** MIT
-- **Tags:** dotfiles

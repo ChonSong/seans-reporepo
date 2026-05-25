@@ -5,26 +5,15 @@ description: 'A desktop companion app for AI coding tools. Browse Claude Code ch
 type: unknown
 status: active
 language: TypeScript
-size_kb: 26106
-stars: 329
-last_pushed: '2026-05-09'
+size_kb: 23937
+stars: 338
+last_pushed: '2026-05-24'
 license: 'Apache-2.0'
 tags:
   - ai
-  - css
   - react
   - rust
   - typescript
-topics:
-  - ai-tools
-  - claude-code
-  - desktop-app
-  - react
-  - rust
-  - tailwindcss
-  - tauri
-  - typescript
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # lovcode
@@ -38,8 +27,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 26,106 KB
-- **Stars:** 329
-- **Last Pushed:** 2026-05-09
+- **Size:** 23,937 KB
+- **Stars:** 338
+- **Last Pushed:** 2026-05-24
 - **License:** Apache-2.0
-- **Tags:** ai, css, react, rust, typescript
+- **Tags:** ai, react, rust, typescript

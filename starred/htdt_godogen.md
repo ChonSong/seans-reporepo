@@ -5,26 +5,13 @@ description: Autonomous game development for Godot and Bevy with Claude Code and
 type: unknown
 status: active
 language: Python
-size_kb: 696
-stars: 3151
-last_pushed: '2026-05-10'
+size_kb: 732
+stars: 3272
+last_pushed: '2026-05-20'
 license: MIT
 tags:
-  - cli
   - gaming
   - go
-topics:
-  - claude
-  - claude-code
-  - claude-code-skill
-  - codex
-  - codex-cli
-  - codex-skill
-  - game-development
-  - godot
-  - godot4
-  - skills
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # godogen
@@ -38,8 +25,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 696 KB
-- **Stars:** 3,151
-- **Last Pushed:** 2026-05-10
+- **Size:** 732 KB
+- **Stars:** 3,272
+- **Last Pushed:** 2026-05-20
 - **License:** MIT
-- **Tags:** cli, gaming, go
+- **Tags:** gaming, go

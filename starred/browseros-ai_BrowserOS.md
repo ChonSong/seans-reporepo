@@ -5,30 +5,14 @@ description: '🌐 The open-source Agentic browser; alternative to ChatGPT Atlas
 type: agent
 status: active
 language: TypeScript
-size_kb: 241955
-stars: 10869
-last_pushed: '2026-05-09'
+size_kb: 241534
+stars: 11071
+last_pushed: '2026-05-22'
 license: 'AGPL-3.0'
 tags:
   - agent
   - browser-automation
-  - coding-agent
   - llm
-  - multi-agent
-  - ui
-topics:
-  - agent
-  - browser
-  - browseros
-  - chromium
-  - hacktoberfest
-  - linux
-  - llm
-  - lmstudio
-  - macos
-  - ollama
-  - windows
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # BrowserOS
@@ -42,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 241,955 KB
-- **Stars:** 10,869
-- **Last Pushed:** 2026-05-09
+- **Size:** 241,534 KB
+- **Stars:** 11,071
+- **Last Pushed:** 2026-05-22
 - **License:** AGPL-3.0
-- **Tags:** agent, browser-automation, coding-agent, llm, multi-agent, ui
+- **Tags:** agent, browser-automation, llm

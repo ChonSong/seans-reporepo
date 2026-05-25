@@ -6,36 +6,13 @@ type: unknown
 status: active
 language: Shell
 size_kb: 2694
-stars: 16711
+stars: 19023
 last_pushed: '2026-05-06'
 license: MIT
 tags:
   - agent
   - ai
-  - aie
-  - coding-agent
-  - design-system
-  - docker
   - go
-  - multi-agent
-  - sustainability
-  - training
-  - web-app
-topics:
-  - agent
-  - ai
-  - claude
-  - claude-code
-  - codex
-  - coding
-  - design
-  - frontend
-  - lowcode
-  - nocode
-  - skill
-  - skills
-  - vibecoding
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # taste-skill
@@ -50,7 +27,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 2,694 KB
-- **Stars:** 16,711
+- **Stars:** 19,023
 - **Last Pushed:** 2026-05-06
 - **License:** MIT
-- **Tags:** agent, ai, aie, coding-agent, design-system, docker, go, multi-agent, sustainability, training, web-app
+- **Tags:** agent, ai, go

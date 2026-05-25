@@ -5,7 +5,7 @@ description: Personal code catalog for ideation and combinatorial app design
 type: library
 status: active
 language: Python
-size_kb: 340
+size_kb: 389
 stars: 0
 last_pushed: '2026-05-11'
 license: unknown
@@ -35,8 +35,6 @@ tags:
   - typescript
   - voice
   - web-app
-topics: []
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # seans-reporepo
@@ -50,7 +48,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 340 KB
+- **Size:** 389 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-05-11
 - **License:** unknown
@@ -62,25 +60,25 @@ refreshed_at: '2026-05-11 09:24 UTC'
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-05-11 02:46 UTC
+> **Last refreshed:** 2026-05-11 09:24 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 38 | 133 | 171 |
-| Total Size | 2,145,906 KB | 15,022,523 KB | 17,168,429 KB (16,766 MB) |
+| Repos | 39 | 135 | 174 |
+| Total Size | 2,146,226 KB | 15,079,291 KB | 17,225,517 KB (16,821 MB) |
 | Languages | 11 | 16 | 19 |
 | Tags | — | — | 79 |
 
 ## Structure
 
 ```
-├── owned/           # My repositories (38)
+├── owned/           # My repositories (39)
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (133)
+├── starred/         # Repos I've starred (135)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...

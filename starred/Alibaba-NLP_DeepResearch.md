@@ -6,27 +6,12 @@ type: agent
 status: active
 language: Python
 size_kb: 309493
-stars: 18841
+stars: 18954
 last_pushed: '2026-02-27'
 license: 'Apache-2.0'
 tags:
   - agent
-  - ai
-  - coding-agent
   - llm
-  - multi-agent
-  - research
-topics:
-  - agent
-  - alibaba
-  - artificial-intelligence
-  - deep-research
-  - deepresearch
-  - information-seeking
-  - llm
-  - tongyi
-  - web-agent
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # DeepResearch
@@ -41,7 +26,7 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 309,493 KB
-- **Stars:** 18,841
+- **Stars:** 18,954
 - **Last Pushed:** 2026-02-27
 - **License:** Apache-2.0
-- **Tags:** agent, ai, coding-agent, llm, multi-agent, research
+- **Tags:** agent, llm

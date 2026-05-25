@@ -5,34 +5,13 @@ description: Temporal service
 type: unknown
 status: active
 language: Go
-size_kb: 136547
-stars: 20158
-last_pushed: '2026-05-11'
+size_kb: 138716
+stars: 20484
+last_pushed: '2026-05-25'
 license: MIT
 tags:
-  - automation
-  - framework
   - go
-  - orchestration
   - workflow-engine
-topics:
-  - cronjob-scheduler
-  - distributed-cron
-  - distributed-systems
-  - durable-execution
-  - golang
-  - microservice-framework
-  - microservice-orchestration
-  - microservices-architecture
-  - orchestrator
-  - service-bus
-  - service-fabric
-  - workflow-automation
-  - workflow-engine
-  - workflow-management
-  - workflow-management-system
-  - workflows
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # temporal
@@ -46,8 +25,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 136,547 KB
-- **Stars:** 20,158
-- **Last Pushed:** 2026-05-11
+- **Size:** 138,716 KB
+- **Stars:** 20,484
+- **Last Pushed:** 2026-05-25
 - **License:** MIT
-- **Tags:** automation, framework, go, orchestration, workflow-engine
+- **Tags:** go, workflow-engine

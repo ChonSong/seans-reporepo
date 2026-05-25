@@ -1,44 +1,23 @@
 ---
 repo: HKUDS/nanobot
 url: 'https://github.com/HKUDS/nanobot'
-description: '"🐈 nanobot: The Ultra-Lightweight Personal AI Agent"'
+description: 'Lightweight, open-source AI agent for your tools, chats, and workflows.'
 type: agent
 status: active
 language: Python
-size_kb: 41651
-stars: 42181
-last_pushed: '2026-05-11'
+size_kb: 43603
+stars: 43090
+last_pushed: '2026-05-25'
 license: MIT
 tags:
   - agent
   - ai
-  - aie
-  - bot
-  - chat-ui
-  - docker
   - llm
-  - openclaw
-  - sustainability
-  - training
-topics:
-  - ai
-  - ai-agent
-  - ai-agents
-  - anthropic
-  - chatgpt
-  - claude
-  - claude-code
-  - codex
-  - llm
-  - nanobot
-  - openai
-  - openclaw
-refreshed_at: '2026-05-11 09:24 UTC'
 ---
 
 # nanobot
 
-> "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+> Lightweight, open-source AI agent for your tools, chats, and workflows.
 
 **URL:** [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
@@ -47,8 +26,8 @@ refreshed_at: '2026-05-11 09:24 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 41,651 KB
-- **Stars:** 42,181
-- **Last Pushed:** 2026-05-11
+- **Size:** 43,603 KB
+- **Stars:** 43,090
+- **Last Pushed:** 2026-05-25
 - **License:** MIT
-- **Tags:** agent, ai, aie, bot, chat-ui, docker, llm, openclaw, sustainability, training
+- **Tags:** agent, ai, llm
