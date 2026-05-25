@@ -117,18 +117,18 @@
 | [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 374,464 | ai |
 | [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 355,399 | ide |
 | [claw-code](starred/ultraworkers_claw-code.md) | unknown | Rust | 192,430 | rust |
-| [ECC](starred/affaan-m_ECC.md) | agent | JavaScript | 191,141 | agent, coding-agent, harness |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 166,044 | agent, ai, llm |
+| [ECC](starred/affaan-m_ECC.md) | agent | JavaScript | 191,145 | agent, coding-agent, harness |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 166,046 | agent, ai, llm |
 | [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 165,420 | audio, ide, python |
 | [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 164,894 | agent |
 | [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | HTML | 164,764 | ai |
-| [andrej-karpathy-skills](starred/multica-ai_andrej-karpathy-skills.md) | unknown | other | 152,794 | llm, research |
+| [andrej-karpathy-skills](starred/multica-ai_andrej-karpathy-skills.md) | unknown | other | 152,795 | llm, research |
 | [langflow](starred/langflow-ai_langflow.md) | agent | Python | 148,729 | agent, ai |
 | [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 138,514 | ai, api, llm |
-| [firecrawl](starred/firecrawl_firecrawl.md) | agent | TypeScript | 123,886 | agent, ai, llm |
+| [firecrawl](starred/firecrawl_firecrawl.md) | agent | TypeScript | 123,887 | agent, ai, llm |
 | [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 104,836 | agent, ai |
 | [skills](starred/mattpocock_skills.md) | unknown | Shell | 103,989 | ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 101,843 |  |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 101,844 |  |
 | [angular](starred/angular_angular.md) | webapp | TypeScript | 100,135 | ide, javascript, typescript |
 | [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 83,696 | agent |
 | [autoresearch](starred/karpathy_autoresearch.md) | agent | Python | 83,168 | agent, ai, training |
@@ -140,19 +140,19 @@
 
 | Tag | Count | Repos |
 |---|---|---|
-| `agent` | 89 | hermes-web-computer, hermes-sync, repo-transmute +86 more |
-| `ai` | 96 | hermes-web-computer, hermes-sync, repo-transmute +93 more |
+| `agent` | 89 | seans-reporepo, hermes-web-computer, hermes-sync +86 more |
+| `ai` | 96 | seans-reporepo, hermes-web-computer, hermes-sync +93 more |
 | `aie` | 6 | seans-reporepo, seans, ecosystem +3 more |
 | `analytics` | 2 | features-list, seans |
-| `api` | 20 | hermes-sync, hermes-computer-planning, agent-os +17 more |
-| `audio` | 3 | hermes-web-computer, Fun-Audio-Chat, yt-dlp |
-| `automation` | 13 | hermes-computer-planning, seans-reporepo, hermes-agent +10 more |
-| `awesome-list` | 16 | hermes-computer-planning, features-list, seans-reporepo +13 more |
-| `backup` | 8 | hermes-sync, seans-reporepo, seans +5 more |
+| `api` | 20 | seans-reporepo, hermes-sync, hermes-computer-planning +17 more |
+| `audio` | 4 | seans-reporepo, hermes-web-computer, Fun-Audio-Chat +1 more |
+| `automation` | 13 | seans-reporepo, hermes-computer-planning, hermes-agent +10 more |
+| `awesome-list` | 16 | seans-reporepo, hermes-computer-planning, features-list +13 more |
+| `backup` | 8 | seans-reporepo, hermes-sync, seans +5 more |
 | `benchmarking` | 2 | llm-benchmark-platform, cua |
-| `bot` | 13 | hermes-webui, hermes-computer-planning, features-list +10 more |
-| `browser-automation` | 15 | hermes-web-computer, hermes-bootstrap, hermes-webui +12 more |
-| `cli` | 23 | hermes-web-computer, repo-transmute, hermes-webui +20 more |
+| `bot` | 13 | seans-reporepo, hermes-webui, hermes-computer-planning +10 more |
+| `browser-automation` | 15 | seans-reporepo, hermes-web-computer, hermes-bootstrap +12 more |
+| `cli` | 23 | seans-reporepo, hermes-web-computer, repo-transmute +20 more |
 | `code-packing` | 2 | seans-reporepo, repomix |
 | `coding-agent` | 3 | oh-my-openagent, ECC, OpenHands |
 | `dashboard` | 8 | hermes-sync, everything-dashboard, features-list +5 more |
@@ -164,17 +164,17 @@
 | `express` | 2 | everything-dashboard, agent-os |
 | `framework` | 15 | repo-transmute, hermes-webui, hermes-computer-planning +12 more |
 | `gaming` | 9 | seans-reporepo, seans, starcraft-battlenet-web +6 more |
-| `go` | 26 | hermes-web-computer, hermes-computer-planning, agent-os +23 more |
+| `go` | 26 | seans-reporepo, hermes-web-computer, hermes-computer-planning +23 more |
 | `harness` | 8 | seans-reporepo, seans, claw-aie +5 more |
-| `hermes-agent` | 13 | hermes-web-computer, hermes-sync, hermes-bootstrap +10 more |
-| `ide` | 22 | repo-transmute, hermes-webui, hermes-computer-planning +19 more |
+| `hermes-agent` | 13 | seans-reporepo, hermes-web-computer, hermes-sync +10 more |
+| `ide` | 22 | seans-reporepo, repo-transmute, hermes-webui +19 more |
 | `image-gen` | 2 | circuit-breaker-framework, rasta-assistant |
 | `infrastructure` | 8 | seans-reporepo, seans, hermes-agent +5 more |
 | `javascript` | 5 | webdriverio, Front-End-Checklist, repomix +2 more |
-| `llm` | 37 | repo-transmute, agent-os, seans-reporepo +34 more |
+| `llm` | 37 | seans-reporepo, repo-transmute, agent-os +34 more |
 | `logging` | 1 | linux-web-serving-infrastructure |
 | `mcp` | 10 | hermes-computer-planning, features-list, nanobot +7 more |
-| `mobile` | 5 | features-list, seans-reporepo, linux-web-serving-infrastructure +2 more |
+| `mobile` | 5 | seans-reporepo, features-list, linux-web-serving-infrastructure +2 more |
 | `monitoring` | 5 | hermes-computer-planning, circuit-breaker-framework, starcraft-battlenet-web +2 more |
 | `multi-agent` | 18 | repo-transmute, features-list, seans +15 more |
 | `nginx` | 5 | casaos-agent, starcraft-battlenet-web, linux-web-serving-infrastructure +2 more |
@@ -182,7 +182,7 @@
 | `orchestration` | 10 | features-list, seans, circuit-breaker-framework +7 more |
 | `plugin` | 3 | secureclaw, vinext, compound-engineering-plugin |
 | `proxy` | 4 | starcraft-battlenet-web, linux-web-serving-infrastructure, mobile-codeovertcp.com +1 more |
-| `python` | 20 | repo-transmute, hermes-webui, hermes-computer-planning +17 more |
+| `python` | 20 | seans-reporepo, repo-transmute, hermes-webui +17 more |
 | `rag` | 8 | circuit-breaker-framework, casaos-agent, minsky-circuit +5 more |
 | `react` | 14 | repo-transmute, everything-dashboard, features-list +11 more |
 | `reliability` | 2 | seans, circuit-breaker-framework |
@@ -196,15 +196,15 @@
 | `terminal` | 10 | hermes-web-computer, hermes-webui, seans +7 more |
 | `testing` | 3 | linux-web-serving-infrastructure, kali-openclaw-usb, promptfoo |
 | `training` | 4 | energy-aware-task-router, DrMAS, RustTraining +1 more |
-| `transpilation` | 5 | repo-transmute, features-list, seans-reporepo +2 more |
+| `transpilation` | 5 | seans-reporepo, repo-transmute, features-list +2 more |
 | `tui` | 4 | hermes-bootstrap, hermes-agent, pokerkit +1 more |
-| `typescript` | 15 | repo-transmute, hermes-computer-planning, seans-reporepo +12 more |
+| `typescript` | 15 | seans-reporepo, repo-transmute, hermes-computer-planning +12 more |
 | `vector-db` | 4 | memsearch, openpencil, arcadedb +1 more |
 | `vector-search` | 2 | repo-transmute, claw-aie-harness |
 | `video` | 1 | yt-dlp |
-| `voice` | 6 | hermes-web-computer, seans-reporepo, hermes-agent +3 more |
+| `voice` | 6 | seans-reporepo, hermes-web-computer, hermes-agent +3 more |
 | `vpn` | 1 | hermes-computer-planning |
-| `web-app` | 33 | hermes-web-computer, hermes-bootstrap, hermes-webui +30 more |
+| `web-app` | 33 | seans-reporepo, hermes-web-computer, hermes-bootstrap +30 more |
 | `website` | 1 | sean-s-landing-page |
 | `workflow-engine` | 2 | hermes-web-computer, temporal |
 
@@ -237,27 +237,27 @@
 Repos that share tags are candidates for combination:
 
 ### `agent`
-- Owned: hermes-web-computer, hermes-sync, repo-transmute
+- Owned: seans-reporepo, hermes-web-computer, hermes-sync
 - Starred: php-modernization-skill, skills, skills
 
 ### `ai`
-- Owned: hermes-web-computer, hermes-sync, repo-transmute
+- Owned: seans-reporepo, hermes-web-computer, hermes-sync
 - Starred: skills, skills, browser-agent-gepa
 
 ### `api`
-- Owned: hermes-sync, hermes-computer-planning, agent-os
+- Owned: seans-reporepo, hermes-sync, hermes-computer-planning
 - Starred: mcp2cli, open-webui, vinext
 
 ### `audio`
-- Owned: hermes-web-computer
+- Owned: seans-reporepo, hermes-web-computer
 - Starred: Fun-Audio-Chat, yt-dlp
 
 ### `automation`
-- Owned: hermes-computer-planning, seans-reporepo, hermes-agent
+- Owned: seans-reporepo, hermes-computer-planning, hermes-agent
 - Starred: browser-agent-gepa, kernel-images, webdriverio
 
 ### `awesome-list`
-- Owned: hermes-computer-planning, features-list, seans-reporepo
+- Owned: seans-reporepo, hermes-computer-planning, features-list
 - Starred: Front-End-Checklist, awesome, awesome-frontend-resources
 
 ### `benchmarking`
@@ -265,15 +265,15 @@ Repos that share tags are candidates for combination:
 - Starred: cua
 
 ### `bot`
-- Owned: hermes-webui, hermes-computer-planning, features-list
+- Owned: seans-reporepo, hermes-webui, hermes-computer-planning
 - Starred: bytebot, docker-swag, nanobot-webgui
 
 ### `browser-automation`
-- Owned: hermes-web-computer, hermes-bootstrap, hermes-webui
+- Owned: seans-reporepo, hermes-web-computer, hermes-bootstrap
 - Starred: browser-agent-gepa, kernel-images, webdriverio
 
 ### `cli`
-- Owned: hermes-web-computer, repo-transmute, hermes-webui
+- Owned: seans-reporepo, hermes-web-computer, repo-transmute
 - Starred: autify-cli, docker-swag, awesome-agent-skills
 
 ### `code-packing`
