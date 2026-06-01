@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Rust
 size_kb: 2676
-stars: 3465
+stars: 3464
 last_pushed: '2026-02-23'
 license: NOASSERTION
 tags:
@@ -25,7 +25,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 2,676 KB
-- **Stars:** 3,465
+- **Stars:** 3,464
 - **Last Pushed:** 2026-02-23
 - **License:** NOASSERTION
 - **Tags:** rust

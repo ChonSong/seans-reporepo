@@ -5,9 +5,9 @@ description: 'OpenViking is an open-source context database designed specificall
 type: agent
 status: active
 language: Python
-size_kb: 128967
-stars: 24621
-last_pushed: '2026-05-25'
+size_kb: 136199
+stars: 24990
+last_pushed: '2026-06-01'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -27,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 128,967 KB
-- **Stars:** 24,621
-- **Last Pushed:** 2026-05-25
+- **Size:** 136,199 KB
+- **Stars:** 24,990
+- **Last Pushed:** 2026-06-01
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, llm, openclaw

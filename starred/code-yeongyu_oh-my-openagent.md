@@ -5,9 +5,9 @@ description: 'omo; the best agent harness - previously oh-my-opencode'
 type: agent
 status: active
 language: TypeScript
-size_kb: 79019
-stars: 59301
-last_pushed: '2026-05-25'
+size_kb: 81587
+stars: 60531
+last_pushed: '2026-06-01'
 license: NOASSERTION
 tags:
   - agent
@@ -28,8 +28,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 79,019 KB
-- **Stars:** 59,301
-- **Last Pushed:** 2026-05-25
+- **Size:** 81,587 KB
+- **Stars:** 60,531
+- **Last Pushed:** 2026-06-01
 - **License:** NOASSERTION
 - **Tags:** agent, ai, coding-agent, harness, typescript

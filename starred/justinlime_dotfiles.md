@@ -5,9 +5,9 @@ description: My general config and dotfiles for linux
 type: unknown
 status: active
 language: Nix
-size_kb: 17705
-stars: 275
-last_pushed: '2026-04-25'
+size_kb: 17708
+stars: 274
+last_pushed: '2026-05-26'
 license: unknown
 tags:
   - dotfiles
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Nix
-- **Size:** 17,705 KB
-- **Stars:** 275
-- **Last Pushed:** 2026-04-25
+- **Size:** 17,708 KB
+- **Stars:** 274
+- **Last Pushed:** 2026-05-26
 - **License:** unknown
 - **Tags:** dotfiles

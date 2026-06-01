@@ -5,9 +5,9 @@ description: 'The awesome collection of OpenClaw skills. 5,400+ skills filtered 
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 2100
-stars: 49268
-last_pushed: '2026-05-23'
+size_kb: 1911
+stars: 49622
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - awesome-list
@@ -26,8 +26,8 @@ tags:
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 2,100 KB
-- **Stars:** 49,268
-- **Last Pushed:** 2026-05-23
+- **Size:** 1,911 KB
+- **Stars:** 49,622
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** awesome-list, go, openclaw

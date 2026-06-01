@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 112110
-stars: 4830
+stars: 5178
 last_pushed: '2026-05-24'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ tags:
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 112,110 KB
-- **Stars:** 4,830
+- **Stars:** 5,178
 - **Last Pushed:** 2026-05-24
 - **License:** MIT
 - **Tags:** agent, hermes-agent, react, terminal, typescript, web-app

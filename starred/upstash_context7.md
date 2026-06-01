@@ -5,9 +5,9 @@ description: 'Context7 Platform -- Up-to-date code documentation for LLMs and AI
 type: unknown
 status: active
 language: TypeScript
-size_kb: 27583
-stars: 56019
-last_pushed: '2026-05-22'
+size_kb: 28278
+stars: 56517
+last_pushed: '2026-05-26'
 license: MIT
 tags:
   - ai
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 27,583 KB
-- **Stars:** 56,019
-- **Last Pushed:** 2026-05-22
+- **Size:** 28,278 KB
+- **Stars:** 56,517
+- **Last Pushed:** 2026-05-26
 - **License:** MIT
 - **Tags:** ai, llm

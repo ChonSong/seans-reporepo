@@ -5,9 +5,9 @@ description: 'Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime
 type: cli
 status: active
 language: Python
-size_kb: 35391
-stars: 2160
-last_pushed: '2026-05-10'
+size_kb: 35494
+stars: 2191
+last_pushed: '2026-05-30'
 license: MIT
 tags:
   - ai
@@ -27,8 +27,8 @@ tags:
 - **Type:** cli
 - **Status:** active
 - **Language:** Python
-- **Size:** 35,391 KB
-- **Stars:** 2,160
-- **Last Pushed:** 2026-05-10
+- **Size:** 35,494 KB
+- **Stars:** 2,191
+- **Last Pushed:** 2026-05-30
 - **License:** MIT
 - **Tags:** ai, api, cli, mcp

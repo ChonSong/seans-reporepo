@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 41195
-stars: 132
+stars: 136
 last_pushed: '2026-04-01'
 license: 'Apache-2.0'
 tags:
@@ -30,7 +30,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 41,195 KB
-- **Stars:** 132
+- **Stars:** 136
 - **Last Pushed:** 2026-04-01
 - **License:** Apache-2.0
 - **Tags:** agent, ai, framework, llm, multi-agent, training

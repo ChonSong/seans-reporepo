@@ -5,9 +5,9 @@ description: 'A simple, high-quality voice conversion tool focused on ease of us
 type: unknown
 status: active
 language: Python
-size_kb: 52032
-stars: 3292
-last_pushed: '2026-05-23'
+size_kb: 52052
+stars: 3328
+last_pushed: '2026-05-30'
 license: MIT
 tags:
   - ai
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 52,032 KB
-- **Stars:** 3,292
-- **Last Pushed:** 2026-05-23
+- **Size:** 52,052 KB
+- **Stars:** 3,328
+- **Last Pushed:** 2026-05-30
 - **License:** MIT
 - **Tags:** ai, voice

@@ -5,9 +5,9 @@ description: 'An open-source, code-first Python toolkit for building, evaluating
 type: agent
 status: active
 language: Python
-size_kb: 63825
-stars: 19836
-last_pushed: '2026-05-23'
+size_kb: 63701
+stars: 19947
+last_pushed: '2026-05-30'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -27,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 63,825 KB
-- **Stars:** 19,836
-- **Last Pushed:** 2026-05-23
+- **Size:** 63,701 KB
+- **Stars:** 19,947
+- **Last Pushed:** 2026-05-30
 - **License:** Apache-2.0
 - **Tags:** agent, ai, llm, python

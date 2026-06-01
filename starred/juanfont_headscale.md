@@ -5,9 +5,9 @@ description: 'An open source, self-hosted implementation of the Tailscale contro
 type: infrastructure
 status: active
 language: Go
-size_kb: 52501
-stars: 38958
-last_pushed: '2026-05-24'
+size_kb: 52544
+stars: 39520
+last_pushed: '2026-05-31'
 license: 'BSD-3-Clause'
 tags:
   - ai
@@ -24,8 +24,8 @@ tags:
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Go
-- **Size:** 52,501 KB
-- **Stars:** 38,958
-- **Last Pushed:** 2026-05-24
+- **Size:** 52,544 KB
+- **Stars:** 39,520
+- **Last Pushed:** 2026-05-31
 - **License:** BSD-3-Clause
 - **Tags:** ai

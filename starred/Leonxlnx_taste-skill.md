@@ -5,9 +5,9 @@ description: 'Taste-Skill - gives your AI good taste. stops the AI from generati
 type: unknown
 status: active
 language: Shell
-size_kb: 2694
-stars: 19023
-last_pushed: '2026-05-06'
+size_kb: 2761
+stars: 30336
+last_pushed: '2026-05-26'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 2,694 KB
-- **Stars:** 19,023
-- **Last Pushed:** 2026-05-06
+- **Size:** 2,761 KB
+- **Stars:** 30,336
+- **Last Pushed:** 2026-05-26
 - **License:** MIT
 - **Tags:** agent, ai, go

@@ -5,9 +5,9 @@ description: 'Proxmox VE Helper-Scripts (Community Edition) '
 type: unknown
 status: active
 language: Shell
-size_kb: 40388
-stars: 28233
-last_pushed: '2026-05-25'
+size_kb: 40525
+stars: 28331
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - docker
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 40,388 KB
-- **Stars:** 28,233
-- **Last Pushed:** 2026-05-25
+- **Size:** 40,525 KB
+- **Stars:** 28,331
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** docker

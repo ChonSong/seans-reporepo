@@ -1,0 +1,29 @@
+---
+repo: 'vasturiano/force-graph'
+url: 'https://github.com/vasturiano/force-graph'
+description: 'Force-directed graph rendered on HTML5 canvas'
+type: unknown
+status: active
+language: JavaScript
+size_kb: 2732
+stars: 2030
+last_pushed: '2026-04-16'
+license: MIT
+tags: []
+---
+
+# force-graph
+
+> Force-directed graph rendered on HTML5 canvas
+
+**URL:** [vasturiano/force-graph](https://github.com/vasturiano/force-graph)
+
+## Metadata
+
+- **Type:** unknown
+- **Status:** active
+- **Language:** JavaScript
+- **Size:** 2,732 KB
+- **Stars:** 2,030
+- **Last Pushed:** 2026-04-16
+- **License:** MIT

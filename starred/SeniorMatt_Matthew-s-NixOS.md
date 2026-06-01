@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Nix
 size_kb: 188462
-stars: 56
+stars: 55
 last_pushed: '2025-12-21'
 license: unknown
 tags: []
@@ -24,6 +24,6 @@ tags: []
 - **Status:** active
 - **Language:** Nix
 - **Size:** 188,462 KB
-- **Stars:** 56
+- **Stars:** 55
 - **Last Pushed:** 2025-12-21
 - **License:** unknown

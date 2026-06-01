@@ -5,9 +5,9 @@ description: 'Test your prompts, agents, and RAGs. Red teaming/pentesting/vulner
 type: agent
 status: active
 language: TypeScript
-size_kb: 630441
-stars: 21565
-last_pushed: '2026-05-25'
+size_kb: 643049
+stars: 21764
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - agent
@@ -29,8 +29,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 630,441 KB
-- **Stars:** 21,565
-- **Last Pushed:** 2026-05-25
+- **Size:** 643,049 KB
+- **Stars:** 21,764
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** agent, ai, llm, multi-agent, rag, testing

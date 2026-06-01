@@ -5,9 +5,9 @@ description: 'Hermes WebUI: The best way to use Hermes Agent from the web or fro
 type: agent
 status: active
 language: Python
-size_kb: 32083
-stars: 8565
-last_pushed: '2026-05-25'
+size_kb: 33861
+stars: 10344
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 32,083 KB
-- **Stars:** 8,565
-- **Last Pushed:** 2026-05-25
+- **Size:** 33,861 KB
+- **Stars:** 10,344
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** agent, hermes-agent, web-app

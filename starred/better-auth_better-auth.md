@@ -5,9 +5,9 @@ description: The most comprehensive authentication framework
 type: library
 status: active
 language: TypeScript
-size_kb: 139368
-stars: 28434
-last_pushed: '2026-05-24'
+size_kb: 140521
+stars: 28542
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - framework
@@ -25,8 +25,8 @@ tags:
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 139,368 KB
-- **Stars:** 28,434
-- **Last Pushed:** 2026-05-24
+- **Size:** 140,521 KB
+- **Stars:** 28,542
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** framework, typescript

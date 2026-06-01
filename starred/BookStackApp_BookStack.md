@@ -5,9 +5,9 @@ description: NOW MANAGED ON CODEBERG
 type: unknown
 status: active
 language: PHP
-size_kb: 51161
-stars: 18778
-last_pushed: '2026-05-25'
+size_kb: 51868
+stars: 18796
+last_pushed: '2026-06-01'
 license: MIT
 tags: []
 ---
@@ -23,7 +23,7 @@ tags: []
 - **Type:** unknown
 - **Status:** active
 - **Language:** PHP
-- **Size:** 51,161 KB
-- **Stars:** 18,778
-- **Last Pushed:** 2026-05-25
+- **Size:** 51,868 KB
+- **Stars:** 18,796
+- **Last Pushed:** 2026-06-01
 - **License:** MIT

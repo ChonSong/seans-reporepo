@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 814
-stars: 342
+stars: 346
 last_pushed: '2026-04-12'
 license: unknown
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 814 KB
-- **Stars:** 342
+- **Stars:** 346
 - **Last Pushed:** 2026-04-12
 - **License:** unknown
 - **Tags:** openclaw, plugin

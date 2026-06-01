@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: C++
 size_kb: 44678
-stars: 77358
+stars: 77352
 last_pushed: '2025-05-27'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** C++
 - **Size:** 44,678 KB
-- **Stars:** 77,358
+- **Stars:** 77,352
 - **Last Pushed:** 2025-05-27
 - **License:** MIT
 - **Tags:** ai, llm

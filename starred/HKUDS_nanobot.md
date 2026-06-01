@@ -5,9 +5,9 @@ description: 'Lightweight, open-source AI agent for your tools, chats, and workf
 type: agent
 status: active
 language: Python
-size_kb: 43603
-stars: 43090
-last_pushed: '2026-05-25'
+size_kb: 44608
+stars: 43457
+last_pushed: '2026-06-01'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 43,603 KB
-- **Stars:** 43,090
-- **Last Pushed:** 2026-05-25
+- **Size:** 44,608 KB
+- **Stars:** 43,457
+- **Last Pushed:** 2026-06-01
 - **License:** MIT
 - **Tags:** agent, ai, llm

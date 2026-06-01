@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 8168
-stars: 11556
+stars: 11663
 last_pushed: '2026-05-22'
 license: MIT
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 8,168 KB
-- **Stars:** 11,556
+- **Stars:** 11,663
 - **Last Pushed:** 2026-05-22
 - **License:** MIT
 - **Tags:** agent, mcp, typescript

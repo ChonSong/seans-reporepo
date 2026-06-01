@@ -5,9 +5,9 @@ description: An Open Source implementation of Notebook LM with more flexibility 
 type: unknown
 status: active
 language: TypeScript
-size_kb: 10188
-stars: 23740
-last_pushed: '2026-05-22'
+size_kb: 9149
+stars: 23960
+last_pushed: '2026-05-31'
 license: MIT
 tags: []
 ---
@@ -23,7 +23,7 @@ tags: []
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 10,188 KB
-- **Stars:** 23,740
-- **Last Pushed:** 2026-05-22
+- **Size:** 9,149 KB
+- **Stars:** 23,960
+- **Last Pushed:** 2026-05-31
 - **License:** MIT

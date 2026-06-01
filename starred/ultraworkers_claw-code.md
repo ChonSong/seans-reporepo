@@ -5,9 +5,9 @@ description: 'The repo is finally unlocked. enjoy the party! The fastest repo in
 type: unknown
 status: active
 language: Rust
-size_kb: 14912
-stars: 192430
-last_pushed: '2026-05-25'
+size_kb: 18151
+stars: 193028
+last_pushed: '2026-05-29'
 license: MIT
 tags:
   - rust
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Rust
-- **Size:** 14,912 KB
-- **Stars:** 192,430
-- **Last Pushed:** 2026-05-25
+- **Size:** 18,151 KB
+- **Stars:** 193,028
+- **Last Pushed:** 2026-05-29
 - **License:** MIT
 - **Tags:** rust

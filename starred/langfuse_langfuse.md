@@ -5,9 +5,9 @@ description: '🪢 Open source LLM engineering platform: LLM Observability, metr
 type: unknown
 status: active
 language: TypeScript
-size_kb: 82934
-stars: 27850
-last_pushed: '2026-05-23'
+size_kb: 83934
+stars: 28299
+last_pushed: '2026-06-01'
 license: NOASSERTION
 tags:
   - ai
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 82,934 KB
-- **Stars:** 27,850
-- **Last Pushed:** 2026-05-23
+- **Size:** 83,934 KB
+- **Stars:** 28,299
+- **Last Pushed:** 2026-06-01
 - **License:** NOASSERTION
 - **Tags:** ai, llm, telemetry

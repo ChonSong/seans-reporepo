@@ -5,9 +5,9 @@ description: 'Beginner, advanced, expert level Rust training material'
 type: unknown
 status: active
 language: Rust
-size_kb: 1781
-stars: 14392
-last_pushed: '2026-05-01'
+size_kb: 1723
+stars: 14453
+last_pushed: '2026-05-25'
 license: MIT
 tags:
   - ai
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Rust
-- **Size:** 1,781 KB
-- **Stars:** 14,392
-- **Last Pushed:** 2026-05-01
+- **Size:** 1,723 KB
+- **Stars:** 14,453
+- **Last Pushed:** 2026-05-25
 - **License:** MIT
 - **Tags:** ai, rust, training

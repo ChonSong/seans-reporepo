@@ -6,7 +6,7 @@ type: monorepo
 status: active
 language: TypeScript
 size_kb: 31975
-stars: 3986
+stars: 4007
 last_pushed: '2026-04-06'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 31,975 KB
-- **Stars:** 3,986
+- **Stars:** 4,007
 - **Last Pushed:** 2026-04-06
 - **License:** MIT
 - **Tags:** agent, ai, dashboard, multi-agent, openclaw, orchestration

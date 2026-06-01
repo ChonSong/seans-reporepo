@@ -5,9 +5,9 @@ description: Orchestrate sandboxed coding agents in TypeScript with sandcastle.r
 type: agent
 status: active
 language: TypeScript
-size_kb: 1444
-stars: 5004
-last_pushed: '2026-05-20'
+size_kb: 2548
+stars: 5588
+last_pushed: '2026-05-30'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 1,444 KB
-- **Stars:** 5,004
-- **Last Pushed:** 2026-05-20
+- **Size:** 2,548 KB
+- **Stars:** 5,588
+- **Last Pushed:** 2026-05-30
 - **License:** MIT
 - **Tags:** agent, orchestration, typescript

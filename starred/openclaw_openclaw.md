@@ -5,10 +5,10 @@ description: Your own personal AI assistant. Any OS. Any Platform. The lobster w
 type: agent
 status: active
 language: TypeScript
-size_kb: 1372617
-stars: 374464
-last_pushed: '2026-05-25'
-license: MIT
+size_kb: 1479182
+stars: 375955
+last_pushed: '2026-06-01'
+license: NOASSERTION
 tags:
   - ai
 ---
@@ -24,8 +24,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 1,372,617 KB
-- **Stars:** 374,464
-- **Last Pushed:** 2026-05-25
-- **License:** MIT
+- **Size:** 1,479,182 KB
+- **Stars:** 375,955
+- **Last Pushed:** 2026-06-01
+- **License:** NOASSERTION
 - **Tags:** ai

@@ -4,10 +4,10 @@ url: 'https://github.com/ChonSong/hermes-web-computer'
 description: 'Agent-OS v1.2: browser-native collaborative dev environment with Hermes + Fun-Audio-Chat'
 type: agent
 status: active
-language: Go
-size_kb: 13870
+language: Svelte
+size_kb: 13884
 stars: 0
-last_pushed: '2026-05-25'
+last_pushed: '2026-06-01'
 license: unknown
 tags:
   - agent
@@ -36,10 +36,10 @@ tags:
 
 - **Type:** agent
 - **Status:** active
-- **Language:** Go
-- **Size:** 13,870 KB
+- **Language:** Svelte
+- **Size:** 13,884 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-05-25
+- **Last Pushed:** 2026-06-01
 - **License:** unknown
 - **Tags:** agent, ai, audio, browser-automation, cli, docker, go, hermes-agent, sync, telemetry, terminal, voice, web-app, workflow-engine
 

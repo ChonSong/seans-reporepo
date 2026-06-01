@@ -5,9 +5,9 @@ description: 'The fastest path to AI-powered full stack observability, even for 
 type: unknown
 status: active
 language: C
-size_kb: 272351
-stars: 78932
-last_pushed: '2026-05-24'
+size_kb: 272272
+stars: 79008
+last_pushed: '2026-06-01'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** C
-- **Size:** 272,351 KB
-- **Stars:** 78,932
-- **Last Pushed:** 2026-05-24
+- **Size:** 272,272 KB
+- **Stars:** 79,008
+- **Last Pushed:** 2026-06-01
 - **License:** GPL-3.0
 - **Tags:** ai, docker, multi-agent

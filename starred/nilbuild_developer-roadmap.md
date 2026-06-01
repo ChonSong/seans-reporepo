@@ -5,9 +5,9 @@ description: 'Interactive roadmaps, guides and other educational content to help
 type: unknown
 status: active
 language: TypeScript
-size_kb: 360902
-stars: 355399
-last_pushed: '2026-05-22'
+size_kb: 360785
+stars: 355840
+last_pushed: '2026-05-29'
 license: NOASSERTION
 tags:
   - ide
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 360,902 KB
-- **Stars:** 355,399
-- **Last Pushed:** 2026-05-22
+- **Size:** 360,785 KB
+- **Stars:** 355,840
+- **Last Pushed:** 2026-05-29
 - **License:** NOASSERTION
 - **Tags:** ide

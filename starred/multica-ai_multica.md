@@ -5,9 +5,9 @@ description: 'The open-source managed agents platform. Turn coding agents into r
 type: agent
 status: active
 language: TypeScript
-size_kb: 54438
-stars: 32676
-last_pushed: '2026-05-25'
+size_kb: 58339
+stars: 34503
+last_pushed: '2026-06-01'
 license: NOASSERTION
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 54,438 KB
-- **Stars:** 32,676
-- **Last Pushed:** 2026-05-25
+- **Size:** 58,339 KB
+- **Stars:** 34,503
+- **Last Pushed:** 2026-06-01
 - **License:** NOASSERTION
 - **Tags:** agent, multi-agent

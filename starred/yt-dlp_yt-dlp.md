@@ -5,9 +5,9 @@ description: 'A feature-rich command-line audio/video downloader'
 type: unknown
 status: active
 language: Python
-size_kb: 60623
-stars: 165420
-last_pushed: '2026-05-24'
+size_kb: 60654
+stars: 167018
+last_pushed: '2026-05-25'
 license: Unlicense
 tags:
   - audio
@@ -27,8 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 60,623 KB
-- **Stars:** 165,420
-- **Last Pushed:** 2026-05-24
+- **Size:** 60,654 KB
+- **Stars:** 167,018
+- **Last Pushed:** 2026-05-25
 - **License:** Unlicense
 - **Tags:** audio, ide, python, video

@@ -5,9 +5,9 @@ description: The design language that makes your AI harness better at design.
 type: unknown
 status: active
 language: JavaScript
-size_kb: 31317
-stars: 30033
-last_pushed: '2026-05-22'
+size_kb: 55719
+stars: 32172
+last_pushed: '2026-06-01'
 license: 'Apache-2.0'
 tags:
   - ai
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 31,317 KB
-- **Stars:** 30,033
-- **Last Pushed:** 2026-05-22
+- **Size:** 55,719 KB
+- **Stars:** 32,172
+- **Last Pushed:** 2026-06-01
 - **License:** Apache-2.0
 - **Tags:** ai, harness
