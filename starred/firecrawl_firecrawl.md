@@ -5,9 +5,9 @@ description: 'The API to search, scrape, and interact with the web at scale. ðŸ”
 type: unknown
 status: active
 language: TypeScript
-size_kb: 91230
-stars: 127039
-last_pushed: '2026-06-01'
+size_kb: 91781
+stars: 130079
+last_pushed: '2026-06-08'
 license: 'AGPL-3.0'
 tags:
   - ai
@@ -27,8 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 91,230 KB
-- **Stars:** 127,039
-- **Last Pushed:** 2026-06-01
+- **Size:** 91,781 KB
+- **Stars:** 130,079
+- **Last Pushed:** 2026-06-08
 - **License:** AGPL-3.0
 - **Tags:** ai, api, llm, web-app

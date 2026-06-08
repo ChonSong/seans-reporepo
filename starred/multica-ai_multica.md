@@ -4,10 +4,10 @@ url: 'https://github.com/multica-ai/multica'
 description: 'The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.'
 type: agent
 status: active
-language: TypeScript
-size_kb: 58339
-stars: 34503
-last_pushed: '2026-06-01'
+language: Go
+size_kb: 61453
+stars: 35806
+last_pushed: '2026-06-08'
 license: NOASSERTION
 tags:
   - agent
@@ -24,9 +24,9 @@ tags:
 
 - **Type:** agent
 - **Status:** active
-- **Language:** TypeScript
-- **Size:** 58,339 KB
-- **Stars:** 34,503
-- **Last Pushed:** 2026-06-01
+- **Language:** Go
+- **Size:** 61,453 KB
+- **Stars:** 35,806
+- **Last Pushed:** 2026-06-08
 - **License:** NOASSERTION
 - **Tags:** agent, multi-agent

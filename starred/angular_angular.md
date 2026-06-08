@@ -5,9 +5,9 @@ description: Deliver web apps with confidence 🚀
 type: webapp
 status: active
 language: TypeScript
-size_kb: 636728
-stars: 100136
-last_pushed: '2026-05-29'
+size_kb: 639685
+stars: 100324
+last_pushed: '2026-06-05'
 license: MIT
 tags:
   - ide
@@ -27,8 +27,8 @@ tags:
 - **Type:** webapp
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 636,728 KB
-- **Stars:** 100,136
-- **Last Pushed:** 2026-05-29
+- **Size:** 639,685 KB
+- **Stars:** 100,324
+- **Last Pushed:** 2026-06-05
 - **License:** MIT
 - **Tags:** ide, javascript, typescript, web-app

@@ -5,9 +5,9 @@ description: 'A desktop companion app for AI coding tools. Browse Claude Code ch
 type: unknown
 status: active
 language: TypeScript
-size_kb: 23937
-stars: 342
-last_pushed: '2026-05-24'
+size_kb: 24226
+stars: 344
+last_pushed: '2026-06-05'
 license: 'Apache-2.0'
 tags:
   - ai
@@ -27,8 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 23,937 KB
-- **Stars:** 342
-- **Last Pushed:** 2026-05-24
+- **Size:** 24,226 KB
+- **Stars:** 344
+- **Last Pushed:** 2026-06-05
 - **License:** Apache-2.0
 - **Tags:** ai, react, rust, typescript

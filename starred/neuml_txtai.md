@@ -5,9 +5,9 @@ description: '💡 All-in-one AI framework for semantic search, LLM orchestratio
 type: library
 status: active
 language: Python
-size_kb: 55478
-stars: 12622
-last_pushed: '2026-05-30'
+size_kb: 55482
+stars: 12639
+last_pushed: '2026-06-08'
 license: 'Apache-2.0'
 tags:
   - ai
@@ -28,8 +28,8 @@ tags:
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 55,478 KB
-- **Stars:** 12,622
-- **Last Pushed:** 2026-05-30
+- **Size:** 55,482 KB
+- **Stars:** 12,639
+- **Last Pushed:** 2026-06-08
 - **License:** Apache-2.0
 - **Tags:** ai, framework, llm, orchestration, python

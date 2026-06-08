@@ -5,9 +5,9 @@ description: 'An open-source, code-first Go toolkit for building, evaluating, an
 type: agent
 status: active
 language: Go
-size_kb: 10043
-stars: 8053
-last_pushed: '2026-06-01'
+size_kb: 10361
+stars: 8112
+last_pushed: '2026-06-08'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -27,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 10,043 KB
-- **Stars:** 8,053
-- **Last Pushed:** 2026-06-01
+- **Size:** 10,361 KB
+- **Stars:** 8,112
+- **Last Pushed:** 2026-06-08
 - **License:** Apache-2.0
 - **Tags:** agent, ai, go, llm

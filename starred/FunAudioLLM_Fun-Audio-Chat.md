@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 9592
-stars: 954
+stars: 961
 last_pushed: '2026-02-27'
 license: 'Apache-2.0'
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 9,592 KB
-- **Stars:** 954
+- **Stars:** 961
 - **Last Pushed:** 2026-02-27
 - **License:** Apache-2.0
 - **Tags:** audio, voice

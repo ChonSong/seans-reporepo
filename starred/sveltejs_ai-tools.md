@@ -5,9 +5,9 @@ description: The official svelte MCP for all your agentic needs.
 type: agent
 status: active
 language: TypeScript
-size_kb: 2280
-stars: 260
-last_pushed: '2026-05-29'
+size_kb: 2275
+stars: 266
+last_pushed: '2026-06-06'
 license: MIT
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 2,280 KB
-- **Stars:** 260
-- **Last Pushed:** 2026-05-29
+- **Size:** 2,275 KB
+- **Stars:** 266
+- **Last Pushed:** 2026-06-06
 - **License:** MIT
 - **Tags:** agent, mcp

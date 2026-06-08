@@ -5,9 +5,9 @@ description: Temporal service
 type: unknown
 status: active
 language: Go
-size_kb: 139804
-stars: 20673
-last_pushed: '2026-06-01'
+size_kb: 141470
+stars: 20827
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - go
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 139,804 KB
-- **Stars:** 20,673
-- **Last Pushed:** 2026-06-01
+- **Size:** 141,470 KB
+- **Stars:** 20,827
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** go, workflow-engine

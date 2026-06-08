@@ -5,9 +5,9 @@ description: Autonomous game development for Godot and Bevy with Claude Code and
 type: unknown
 status: active
 language: Python
-size_kb: 732
-stars: 3317
-last_pushed: '2026-05-20'
+size_kb: 749
+stars: 3355
+last_pushed: '2026-06-05'
 license: MIT
 tags:
   - gaming
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 732 KB
-- **Stars:** 3,317
-- **Last Pushed:** 2026-05-20
+- **Size:** 749 KB
+- **Stars:** 3,355
+- **Last Pushed:** 2026-06-05
 - **License:** MIT
 - **Tags:** gaming, go

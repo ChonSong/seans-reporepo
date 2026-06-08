@@ -5,9 +5,9 @@ description: 😎 Awesome lists about all kinds of interesting topics
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 1561
-stars: 471921
-last_pushed: '2026-05-05'
+size_kb: 1565
+stars: 473913
+last_pushed: '2026-06-02'
 license: 'CC0-1.0'
 tags:
   - awesome-list
@@ -24,8 +24,8 @@ tags:
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 1,561 KB
-- **Stars:** 471,921
-- **Last Pushed:** 2026-05-05
+- **Size:** 1,565 KB
+- **Stars:** 473,913
+- **Last Pushed:** 2026-06-02
 - **License:** CC0-1.0
 - **Tags:** awesome-list

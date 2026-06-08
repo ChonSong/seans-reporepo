@@ -5,9 +5,9 @@ description: 'The world's first open-source AI-native vector design tool and the
 type: agent
 status: active
 language: TypeScript
-size_kb: 32254
-stars: 3270
-last_pushed: '2026-05-31'
+size_kb: 33074
+stars: 3312
+last_pushed: '2026-06-07'
 license: MIT
 tags:
   - agent
@@ -28,8 +28,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 32,254 KB
-- **Stars:** 3,270
-- **Last Pushed:** 2026-05-31
+- **Size:** 33,074 KB
+- **Stars:** 3,312
+- **Last Pushed:** 2026-06-07
 - **License:** MIT
 - **Tags:** agent, ai, multi-agent, react, vector-db

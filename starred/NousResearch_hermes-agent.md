@@ -5,9 +5,9 @@ description: The agent that grows with you
 type: agent
 status: active
 language: Python
-size_kb: 279485
-stars: 175250
-last_pushed: '2026-06-01'
+size_kb: 313493
+stars: 186787
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 279,485 KB
-- **Stars:** 175,250
-- **Last Pushed:** 2026-06-01
+- **Size:** 313,493 KB
+- **Stars:** 186,787
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent, ai, llm

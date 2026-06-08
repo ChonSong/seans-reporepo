@@ -5,9 +5,9 @@ description: 'Open-source infrastructure for Computer-Use Agents. Sandboxes, SDK
 type: agent
 status: active
 language: HTML
-size_kb: 217078
-stars: 17406
-last_pushed: '2026-06-01'
+size_kb: 219160
+stars: 17752
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -27,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** HTML
-- **Size:** 217,078 KB
-- **Stars:** 17,406
-- **Last Pushed:** 2026-06-01
+- **Size:** 219,160 KB
+- **Stars:** 17,752
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent, ai, benchmarking, infrastructure

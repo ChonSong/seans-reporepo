@@ -5,9 +5,9 @@ description: 'ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher,
 type: unknown
 status: active
 language: Java
-size_kb: 56889
-stars: 909
-last_pushed: '2026-05-31'
+size_kb: 56957
+stars: 925
+last_pushed: '2026-06-08'
 license: 'Apache-2.0'
 tags:
   - docker
@@ -27,8 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Java
-- **Size:** 56,889 KB
-- **Stars:** 909
-- **Last Pushed:** 2026-05-31
+- **Size:** 56,957 KB
+- **Stars:** 925
+- **Last Pushed:** 2026-06-08
 - **License:** Apache-2.0
 - **Tags:** docker, embeddings, go, vector-db

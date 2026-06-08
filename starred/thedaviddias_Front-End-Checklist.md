@@ -5,9 +5,9 @@ description: '🗂 The essential checklist for modern web development, for human
 type: agent
 status: active
 language: MDX
-size_kb: 7376
-stars: 72770
-last_pushed: '2026-05-31'
+size_kb: 7665
+stars: 72868
+last_pushed: '2026-06-02'
 license: unknown
 tags:
   - agent
@@ -28,8 +28,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** MDX
-- **Size:** 7,376 KB
-- **Stars:** 72,770
-- **Last Pushed:** 2026-05-31
+- **Size:** 7,665 KB
+- **Stars:** 72,868
+- **Last Pushed:** 2026-06-02
 - **License:** unknown
 - **Tags:** agent, ai, awesome-list, javascript, web-app

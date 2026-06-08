@@ -5,9 +5,9 @@ description: 'User-friendly AI Interface (Supports Ollama, OpenAI API, ...)'
 type: unknown
 status: active
 language: Python
-size_kb: 371550
-stars: 139480
-last_pushed: '2026-06-01'
+size_kb: 374298
+stars: 140594
+last_pushed: '2026-06-06'
 license: NOASSERTION
 tags:
   - ai
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 371,550 KB
-- **Stars:** 139,480
-- **Last Pushed:** 2026-06-01
+- **Size:** 374,298 KB
+- **Stars:** 140,594
+- **Last Pushed:** 2026-06-06
 - **License:** NOASSERTION
 - **Tags:** ai, api, llm

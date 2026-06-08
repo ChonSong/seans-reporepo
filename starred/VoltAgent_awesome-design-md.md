@@ -5,9 +5,9 @@ description: A collection of DESIGN.md files analysis by popular brand design sy
 type: agent
 status: active
 language: other
-size_kb: 2183
-stars: 86298
-last_pushed: '2026-05-30'
+size_kb: 2198
+stars: 88407
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -24,8 +24,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 2,183 KB
-- **Stars:** 86,298
-- **Last Pushed:** 2026-05-30
+- **Size:** 2,198 KB
+- **Stars:** 88,407
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent

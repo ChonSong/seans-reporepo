@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 117
-stars: 3767
+stars: 3952
 last_pushed: '2026-03-29'
 license: unknown
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 117 KB
-- **Stars:** 3,767
+- **Stars:** 3,952
 - **Last Pushed:** 2026-03-29
 - **License:** unknown
 - **Tags:** agent, hermes-agent

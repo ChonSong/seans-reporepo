@@ -5,9 +5,9 @@ description: 'A multi-hypervisor VM runtime for OCI images, supporting Cloud Hyp
 type: library
 status: active
 language: Go
-size_kb: 18324
-stars: 116
-last_pushed: '2026-06-01'
+size_kb: 18876
+stars: 163
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - framework
@@ -24,8 +24,8 @@ tags:
 - **Type:** library
 - **Status:** active
 - **Language:** Go
-- **Size:** 18,324 KB
-- **Stars:** 116
-- **Last Pushed:** 2026-06-01
+- **Size:** 18,876 KB
+- **Stars:** 163
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** framework

@@ -5,7 +5,7 @@ description: 'Agent-OS v1.2: browser-native collaborative dev environment with H
 type: agent
 status: active
 language: Svelte
-size_kb: 13884
+size_kb: 13903
 stars: 0
 last_pushed: '2026-06-01'
 license: unknown
@@ -37,7 +37,7 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Svelte
-- **Size:** 13,884 KB
+- **Size:** 13,903 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-06-01
 - **License:** unknown

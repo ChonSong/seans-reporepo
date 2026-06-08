@@ -1,31 +1,33 @@
 ---
 repo: 'ultraworkers/claw-code'
 url: 'https://github.com/ultraworkers/claw-code'
-description: 'The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.'
-type: unknown
+description: 'An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.'
+type: agent
 status: active
 language: Rust
-size_kb: 18151
-stars: 193028
-last_pushed: '2026-05-29'
+size_kb: 24138
+stars: 193472
+last_pushed: '2026-06-08'
 license: MIT
 tags:
+  - agent
+  - ai
   - rust
 ---
 
 # claw-code
 
-> The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+> An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 
 **URL:** [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 18,151 KB
-- **Stars:** 193,028
-- **Last Pushed:** 2026-05-29
+- **Size:** 24,138 KB
+- **Stars:** 193,472
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
-- **Tags:** rust
+- **Tags:** agent, ai, rust

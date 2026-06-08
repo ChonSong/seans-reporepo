@@ -5,9 +5,9 @@ description: 'A curated collection of 1000+ agent skills from official dev teams
 type: agent
 status: active
 language: other
-size_kb: 616
-stars: 23822
-last_pushed: '2026-05-27'
+size_kb: 813
+stars: 24632
+last_pushed: '2026-06-05'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 616 KB
-- **Stars:** 23,822
-- **Last Pushed:** 2026-05-27
+- **Size:** 813 KB
+- **Stars:** 24,632
+- **Last Pushed:** 2026-06-05
 - **License:** MIT
 - **Tags:** agent, cli, multi-agent

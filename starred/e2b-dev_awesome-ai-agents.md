@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 117748
-stars: 28100
+stars: 28209
 last_pushed: '2025-02-26'
 license: NOASSERTION
 tags:
@@ -28,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 117,748 KB
-- **Stars:** 28,100
+- **Stars:** 28,209
 - **Last Pushed:** 2025-02-26
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, python

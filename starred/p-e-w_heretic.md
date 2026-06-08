@@ -5,9 +5,9 @@ description: Fully automatic censorship removal for language models
 type: unknown
 status: active
 language: Python
-size_kb: 809
-stars: 22833
-last_pushed: '2026-05-31'
+size_kb: 1231
+stars: 23981
+last_pushed: '2026-06-07'
 license: 'AGPL-3.0'
 tags:
   - llm
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 809 KB
-- **Stars:** 22,833
-- **Last Pushed:** 2026-05-31
+- **Size:** 1,231 KB
+- **Stars:** 23,981
+- **Last Pushed:** 2026-06-07
 - **License:** AGPL-3.0
 - **Tags:** llm

@@ -5,9 +5,9 @@ description: The Open Standard for Generative UI
 type: unknown
 status: active
 language: TypeScript
-size_kb: 155091
-stars: 6548
-last_pushed: '2026-05-31'
+size_kb: 154776
+stars: 6773
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -27,8 +27,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 155,091 KB
-- **Stars:** 6,548
-- **Last Pushed:** 2026-05-31
+- **Size:** 154,776 KB
+- **Stars:** 6,773
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent, ai, javascript, llm

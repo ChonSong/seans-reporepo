@@ -5,9 +5,9 @@ description: '"OpenHarness: Open Agent Harness with a Built-in Personal Agent--O
 type: agent
 status: active
 language: Python
-size_kb: 11069
-stars: 13369
-last_pushed: '2026-05-27'
+size_kb: 11137
+stars: 13640
+last_pushed: '2026-06-04'
 license: MIT
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 11,069 KB
-- **Stars:** 13,369
-- **Last Pushed:** 2026-05-27
+- **Size:** 11,137 KB
+- **Stars:** 13,640
+- **Last Pushed:** 2026-06-04
 - **License:** MIT
 - **Tags:** agent, harness

@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 33
-stars: 3620
+stars: 3806
 last_pushed: '2026-05-16'
 license: NOASSERTION
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 33 KB
-- **Stars:** 3,620
+- **Stars:** 3,806
 - **Last Pushed:** 2026-05-16
 - **License:** NOASSERTION
 - **Tags:** agent, awesome-list, hermes-agent

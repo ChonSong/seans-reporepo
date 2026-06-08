@@ -5,9 +5,9 @@ description: Code search MCP for Claude Code. Make entire codebase the context f
 type: agent
 status: active
 language: TypeScript
-size_kb: 8168
-stars: 11663
-last_pushed: '2026-05-22'
+size_kb: 8205
+stars: 11791
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -26,8 +26,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 8,168 KB
-- **Stars:** 11,663
-- **Last Pushed:** 2026-05-22
+- **Size:** 8,205 KB
+- **Stars:** 11,791
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent, mcp, typescript

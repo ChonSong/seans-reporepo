@@ -5,9 +5,9 @@ description: 'The open-source app everyone uses to manage agents at work'
 type: agent
 status: active
 language: TypeScript
-size_kb: 90398
-stars: 68561
-last_pushed: '2026-06-01'
+size_kb: 98989
+stars: 69585
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
@@ -24,8 +24,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 90,398 KB
-- **Stars:** 68,561
-- **Last Pushed:** 2026-06-01
+- **Size:** 98,989 KB
+- **Stars:** 69,585
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent

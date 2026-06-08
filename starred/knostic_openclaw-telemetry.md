@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 58
-stars: 87
+stars: 86
 last_pushed: '2026-05-12'
 license: 'Apache-2.0'
 tags:
@@ -28,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 58 KB
-- **Stars:** 87
+- **Stars:** 86
 - **Last Pushed:** 2026-05-12
 - **License:** Apache-2.0
 - **Tags:** agent, llm, openclaw, telemetry

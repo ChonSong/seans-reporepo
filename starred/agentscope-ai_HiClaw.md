@@ -5,9 +5,9 @@ description: 'An open-source Collaborative Multi-Agent OS for transparent, human
 type: agent
 status: active
 language: Go
-size_kb: 15550
-stars: 4713
-last_pushed: '2026-06-01'
+size_kb: 15379
+stars: 4760
+last_pushed: '2026-06-07'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 15,550 KB
-- **Stars:** 4,713
-- **Last Pushed:** 2026-06-01
+- **Size:** 15,379 KB
+- **Stars:** 4,760
+- **Last Pushed:** 2026-06-07
 - **License:** Apache-2.0
 - **Tags:** agent, multi-agent

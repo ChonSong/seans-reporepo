@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Shell
 size_kb: 542
-stars: 201
+stars: 223
 last_pushed: '2026-03-15'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ tags:
 - **Status:** active
 - **Language:** Shell
 - **Size:** 542 KB
-- **Stars:** 201
+- **Stars:** 223
 - **Last Pushed:** 2026-03-15
 - **License:** MIT
 - **Tags:** agent, hermes-agent

@@ -5,9 +5,9 @@ description: Vite plugin that reimplements the Next.js API surface — deploy an
 type: unknown
 status: active
 language: TypeScript
-size_kb: 29425
-stars: 8118
-last_pushed: '2026-06-01'
+size_kb: 30110
+stars: 8166
+last_pushed: '2026-06-08'
 license: MIT
 tags:
   - api
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 29,425 KB
-- **Stars:** 8,118
-- **Last Pushed:** 2026-06-01
+- **Size:** 30,110 KB
+- **Stars:** 8,166
+- **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** api, plugin

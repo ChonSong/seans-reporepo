@@ -5,9 +5,9 @@ description: 'OpenClaw Supermemory lets to have long-term memory and recall for 
 type: agent
 status: active
 language: TypeScript
-size_kb: 225
-stars: 781
-last_pushed: '2026-05-25'
+size_kb: 238
+stars: 789
+last_pushed: '2026-06-08'
 license: unknown
 tags:
   - agent
@@ -25,8 +25,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 225 KB
-- **Stars:** 781
-- **Last Pushed:** 2026-05-25
+- **Size:** 238 KB
+- **Stars:** 789
+- **Last Pushed:** 2026-06-08
 - **License:** unknown
 - **Tags:** agent, openclaw

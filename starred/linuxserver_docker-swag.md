@@ -5,9 +5,9 @@ description: 'Nginx webserver and reverse proxy with php support and a built-in 
 type: agent
 status: active
 language: Dockerfile
-size_kb: 1104
-stars: 3673
-last_pushed: '2026-05-30'
+size_kb: 1112
+stars: 3678
+last_pushed: '2026-06-06'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -29,8 +29,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Dockerfile
-- **Size:** 1,104 KB
-- **Stars:** 3,673
-- **Last Pushed:** 2026-05-30
+- **Size:** 1,112 KB
+- **Stars:** 3,678
+- **Last Pushed:** 2026-06-06
 - **License:** GPL-3.0
 - **Tags:** ai, bot, cli, nginx, proxy, web-app

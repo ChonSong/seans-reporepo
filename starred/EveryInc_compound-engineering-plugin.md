@@ -5,9 +5,9 @@ description: 'Official Compound Engineering plugin for Claude Code, Codex, Curso
 type: unknown
 status: active
 language: TypeScript
-size_kb: 20176
-stars: 18877
-last_pushed: '2026-06-01'
+size_kb: 20566
+stars: 20524
+last_pushed: '2026-06-07'
 license: MIT
 tags:
   - plugin
@@ -24,8 +24,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 20,176 KB
-- **Stars:** 18,877
-- **Last Pushed:** 2026-06-01
+- **Size:** 20,566 KB
+- **Stars:** 20,524
+- **Last Pushed:** 2026-06-07
 - **License:** MIT
 - **Tags:** plugin

@@ -5,9 +5,9 @@ description: 'Milvus is a high-performance, cloud-native vector database built f
 type: unknown
 status: active
 language: Go
-size_kb: 296499
-stars: 44567
-last_pushed: '2026-06-01'
+size_kb: 297985
+stars: 44677
+last_pushed: '2026-06-08'
 license: 'Apache-2.0'
 tags:
   - go
@@ -26,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 296,499 KB
-- **Stars:** 44,567
-- **Last Pushed:** 2026-06-01
+- **Size:** 297,985 KB
+- **Stars:** 44,677
+- **Last Pushed:** 2026-06-08
 - **License:** Apache-2.0
 - **Tags:** go, llm, vector-db

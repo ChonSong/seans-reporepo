@@ -5,9 +5,9 @@ description: 'High-performance In-browser LLM Inference Engine '
 type: unknown
 status: active
 language: TypeScript
-size_kb: 68798
-stars: 18097
-last_pushed: '2026-05-27'
+size_kb: 68822
+stars: 18147
+last_pushed: '2026-06-08'
 license: 'Apache-2.0'
 tags:
   - browser-automation
@@ -25,8 +25,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 68,798 KB
-- **Stars:** 18,097
-- **Last Pushed:** 2026-05-27
+- **Size:** 68,822 KB
+- **Stars:** 18,147
+- **Last Pushed:** 2026-06-08
 - **License:** Apache-2.0
 - **Tags:** browser-automation, llm

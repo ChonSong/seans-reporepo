@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Rust
 size_kb: 13297
-stars: 2908
+stars: 2927
 last_pushed: '2026-05-26'
 license: MIT
 tags:
@@ -27,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 13,297 KB
-- **Stars:** 2,908
+- **Stars:** 2,927
 - **Last Pushed:** 2026-05-26
 - **License:** MIT
 - **Tags:** agent, ai, orchestration
