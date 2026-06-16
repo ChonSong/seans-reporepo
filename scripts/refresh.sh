@@ -4,6 +4,17 @@ set -e
 
 REPO_DIR="/home/sean/.hermes/cache/seans-reporepo"
 SCRIPT_DIR="/home/sean/.hermes/scripts"
+RUN_QUERY=false
+QUERY_ARGS=()
+
+# Parse arguments
+for arg in "$@"; do
+    if [ "$arg" = "--query" ]; then
+        RUN_QUERY=true
+    else
+        QUERY_ARGS+=("$arg")
+    fi
+done
 
 cd "$REPO_DIR" || { echo "Repo not found at $REPO_DIR"; exit 1; }
 
@@ -22,4 +33,11 @@ else
     git commit -m "Auto-refresh: $(date '+%Y-%m-%d %H:%M UTC')"
     git push
     echo "Catalog updated and pushed."
+fi
+
+# Optional: run query after refresh
+if [ "$RUN_QUERY" = true ]; then
+    echo ""
+    echo "=== Running query after refresh ==="
+    python3 "$(dirname "$0")/query.py" "${QUERY_ARGS[@]}"
 fi

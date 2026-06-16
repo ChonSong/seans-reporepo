@@ -26,6 +26,19 @@
 └── README.md        # This file
 ```
 
+## Working with This Repo
+
+| Action | Command |
+|--------|---------|
+| Update stats | `scripts/refresh.sh` (pulls → generates → commits → pushes) |
+| Update stats then query | `scripts/refresh.sh --query --tags agent,voice` |
+| Query by tags (intersection) | `python3 scripts/query.py --tags agent,voice` |
+| Query by tags (union) | `python3 scripts/query.py --tags agent,voice --any` |
+| Show overlapping tags | `python3 scripts/query.py --overlap` |
+| Show owned repos only | `python3 scripts/query.py --owned` |
+| Show starred repos only | `python3 scripts/query.py --starred` |
+| Search by language | `python3 scripts/query.py --tags python --owned` |
+
 ## Owned Repositories
 
 ### Agent (15)
