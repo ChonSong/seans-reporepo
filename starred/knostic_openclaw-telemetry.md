@@ -11,9 +11,20 @@ last_pushed: '2026-05-12'
 license: 'Apache-2.0'
 tags:
   - agent
+  - bot
+  - database
   - llm
+  - observability
   - openclaw
   - telemetry
+topics:
+  - clawdbot
+  - moltbot
+  - observability
+  - openclaw
+  - siem
+  - telemetry
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # openclaw-telemetry
@@ -31,4 +42,4 @@ tags:
 - **Stars:** 86
 - **Last Pushed:** 2026-05-12
 - **License:** Apache-2.0
-- **Tags:** agent, llm, openclaw, telemetry
+- **Tags:** agent, bot, database, llm, observability, openclaw, telemetry

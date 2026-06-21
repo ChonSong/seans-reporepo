@@ -6,15 +6,37 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 26471
-stars: 4832
-last_pushed: '2026-06-03'
+stars: 4873
+last_pushed: '2026-06-17'
 license: NOASSERTION
 tags:
   - agent
   - ai
+  - aie
   - cli
+  - coding-agent
+  - docker
   - llm
+  - mcp
+  - multi-agent
+  - sustainability
+  - training
   - typescript
+topics:
+  - agent
+  - ai
+  - autonomous-agents
+  - cli
+  - coding-assistant
+  - context-memory
+  - developer-tools
+  - knowledge-management
+  - llm
+  - mcp
+  - memory
+  - typescript
+  - vibe-coding
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # byterover-cli
@@ -29,7 +51,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 26,471 KB
-- **Stars:** 4,832
-- **Last Pushed:** 2026-06-03
+- **Stars:** 4,873
+- **Last Pushed:** 2026-06-17
 - **License:** NOASSERTION
-- **Tags:** agent, ai, cli, llm, typescript
+- **Tags:** agent, ai, aie, cli, coding-agent, docker, llm, mcp, multi-agent, sustainability, training, typescript

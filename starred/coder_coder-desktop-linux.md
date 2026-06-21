@@ -10,6 +10,8 @@ stars: 6
 last_pushed: '2026-03-05'
 license: 'AGPL-3.0'
 tags: []
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # coder-desktop-linux

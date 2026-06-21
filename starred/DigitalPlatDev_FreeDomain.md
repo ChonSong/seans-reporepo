@@ -6,11 +6,21 @@ type: unknown
 status: active
 language: HTML
 size_kb: 972
-stars: 175600
+stars: 179460
 last_pushed: '2026-04-24'
 license: 'AGPL-3.0'
 tags:
   - ai
+  - paas
+topics:
+  - digitalplat
+  - domain
+  - domain-platform
+  - domainname
+  - domains
+  - free
+  - freedomain
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # FreeDomain
@@ -25,7 +35,7 @@ tags:
 - **Status:** active
 - **Language:** HTML
 - **Size:** 972 KB
-- **Stars:** 175,600
+- **Stars:** 179,460
 - **Last Pushed:** 2026-04-24
 - **License:** AGPL-3.0
-- **Tags:** ai
+- **Tags:** ai, paas

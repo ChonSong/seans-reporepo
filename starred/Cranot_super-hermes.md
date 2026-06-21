@@ -6,12 +6,14 @@ type: agent
 status: active
 language: Shell
 size_kb: 542
-stars: 223
+stars: 248
 last_pushed: '2026-03-15'
 license: MIT
 tags:
   - agent
   - hermes-agent
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # super-hermes
@@ -26,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** Shell
 - **Size:** 542 KB
-- **Stars:** 223
+- **Stars:** 248
 - **Last Pushed:** 2026-03-15
 - **License:** MIT
 - **Tags:** agent, hermes-agent

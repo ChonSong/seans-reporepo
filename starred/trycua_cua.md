@@ -5,15 +5,41 @@ description: 'Open-source infrastructure for Computer-Use Agents. Sandboxes, SDK
 type: agent
 status: active
 language: HTML
-size_kb: 219160
-stars: 17752
-last_pushed: '2026-06-08'
+size_kb: 261158
+stars: 18566
+last_pushed: '2026-06-21'
 license: MIT
 tags:
   - agent
   - ai
+  - automation
   - benchmarking
+  - coding-agent
+  - database
+  - docker
+  - framework
   - infrastructure
+  - multi-agent
+topics:
+  - agent
+  - ai-agent
+  - apple
+  - computer-use
+  - computer-use-agent
+  - containerization
+  - cua
+  - desktop-automation
+  - hacktoberfest
+  - lume
+  - macos
+  - manus
+  - operator
+  - swift
+  - virtualization
+  - virtualization-framework
+  - windows
+  - windows-sandbox
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # cua
@@ -27,8 +53,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** HTML
-- **Size:** 219,160 KB
-- **Stars:** 17,752
-- **Last Pushed:** 2026-06-08
+- **Size:** 261,158 KB
+- **Stars:** 18,566
+- **Last Pushed:** 2026-06-21
 - **License:** MIT
-- **Tags:** agent, ai, benchmarking, infrastructure
+- **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, infrastructure, multi-agent

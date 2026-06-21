@@ -20,9 +20,12 @@ tags:
   - python
   - react
   - solver
+  - svelte
   - transpilation
   - typescript
   - vector-search
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # repo-transmute
@@ -40,7 +43,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-05-24
 - **License:** unknown
-- **Tags:** agent, ai, cli, framework, ide, llm, multi-agent, python, react, solver, transpilation, typescript, vector-search
+- **Tags:** agent, ai, cli, framework, ide, llm, multi-agent, python, react, solver, svelte, transpilation, typescript, vector-search
 
 ## README Excerpt
 

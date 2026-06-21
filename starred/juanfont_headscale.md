@@ -5,12 +5,20 @@ description: 'An open source, self-hosted implementation of the Tailscale contro
 type: infrastructure
 status: active
 language: Go
-size_kb: 53005
-stars: 39806
-last_pushed: '2026-06-08'
+size_kb: 54246
+stars: 40254
+last_pushed: '2026-06-21'
 license: 'BSD-3-Clause'
 tags:
   - ai
+  - infrastructure
+  - vpn
+topics:
+  - tailscale
+  - tailscale-control-server
+  - tailscale-server
+  - wireguard
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # headscale
@@ -24,8 +32,8 @@ tags:
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Go
-- **Size:** 53,005 KB
-- **Stars:** 39,806
-- **Last Pushed:** 2026-06-08
+- **Size:** 54,246 KB
+- **Stars:** 40,254
+- **Last Pushed:** 2026-06-21
 - **License:** BSD-3-Clause
-- **Tags:** ai
+- **Tags:** ai, infrastructure, vpn

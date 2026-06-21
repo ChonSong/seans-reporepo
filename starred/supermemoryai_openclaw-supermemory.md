@@ -5,13 +5,25 @@ description: 'OpenClaw Supermemory lets to have long-term memory and recall for 
 type: agent
 status: active
 language: TypeScript
-size_kb: 238
-stars: 789
-last_pushed: '2026-06-08'
+size_kb: 250
+stars: 792
+last_pushed: '2026-06-21'
 license: unknown
 tags:
   - agent
+  - ai
+  - bot
+  - database
   - openclaw
+topics:
+  - ai-memory
+  - clawd
+  - clawdbot
+  - memory
+  - moltbot
+  - openai
+  - openclaw
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # openclaw-supermemory
@@ -25,8 +37,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 238 KB
-- **Stars:** 789
-- **Last Pushed:** 2026-06-08
+- **Size:** 250 KB
+- **Stars:** 792
+- **Last Pushed:** 2026-06-21
 - **License:** unknown
-- **Tags:** agent, openclaw
+- **Tags:** agent, ai, bot, database, openclaw

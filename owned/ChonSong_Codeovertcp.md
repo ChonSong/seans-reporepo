@@ -1,7 +1,7 @@
 ---
 repo: ChonSong/Codeovertcp
 url: 'https://github.com/ChonSong/Codeovertcp'
-description: Voice first agentic packed web based IDE
+description: 'Self-hosted cloud IDE — VS Code-compatible editor served over Cloudflare Tunnel'
 type: agent
 status: active
 language: other
@@ -14,11 +14,13 @@ tags:
   - ide
   - voice
   - web-app
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # Codeovertcp
 
-> Voice first agentic packed web based IDE
+> Self-hosted cloud IDE — VS Code-compatible editor served over Cloudflare Tunnel
 
 **URL:** [ChonSong/Codeovertcp](https://github.com/ChonSong/Codeovertcp)
 

@@ -6,13 +6,15 @@ type: agent
 status: active
 language: Rust
 size_kb: 24138
-stars: 193472
+stars: 194105
 last_pushed: '2026-06-08'
 license: MIT
 tags:
   - agent
   - ai
   - rust
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # claw-code
@@ -27,7 +29,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 24,138 KB
-- **Stars:** 193,472
+- **Stars:** 194,105
 - **Last Pushed:** 2026-06-08
 - **License:** MIT
 - **Tags:** agent, ai, rust

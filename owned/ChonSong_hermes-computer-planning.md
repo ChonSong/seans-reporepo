@@ -23,10 +23,13 @@ tags:
   - mcp
   - monitoring
   - python
+  - svelte
   - sync
   - typescript
   - vpn
   - web-app
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-computer-planning
@@ -44,7 +47,7 @@ tags:
 - **Stars:** 0
 - **Last Pushed:** 2026-05-15
 - **License:** unknown
-- **Tags:** agent, ai, api, automation, awesome-list, bot, framework, go, hermes-agent, ide, mcp, monitoring, python, sync, typescript, vpn, web-app
+- **Tags:** agent, ai, api, automation, awesome-list, bot, framework, go, hermes-agent, ide, mcp, monitoring, python, svelte, sync, typescript, vpn, web-app
 
 ## README Excerpt
 

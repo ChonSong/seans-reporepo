@@ -5,13 +5,25 @@ description: 'High-performance In-browser LLM Inference Engine '
 type: unknown
 status: active
 language: TypeScript
-size_kb: 68822
-stars: 18147
-last_pushed: '2026-06-08'
+size_kb: 68915
+stars: 18236
+last_pushed: '2026-06-09'
 license: 'Apache-2.0'
 tags:
+  - ai
   - browser-automation
+  - chat-ui
+  - education
   - llm
+topics:
+  - chatgpt
+  - deep-learning
+  - language-model
+  - llm
+  - tvm
+  - webgpu
+  - webml
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # web-llm
@@ -25,8 +37,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 68,822 KB
-- **Stars:** 18,147
-- **Last Pushed:** 2026-06-08
+- **Size:** 68,915 KB
+- **Stars:** 18,236
+- **Last Pushed:** 2026-06-09
 - **License:** Apache-2.0
-- **Tags:** browser-automation, llm
+- **Tags:** ai, browser-automation, chat-ui, education, llm

@@ -6,11 +6,13 @@ type: agent
 status: active
 language: Python
 size_kb: 5884
-stars: 19507
+stars: 19515
 last_pushed: '2025-09-25'
 license: MIT
 tags:
   - agent
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # devika
@@ -25,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 5,884 KB
-- **Stars:** 19,507
+- **Stars:** 19,515
 - **Last Pushed:** 2025-09-25
 - **License:** MIT
 - **Tags:** agent

@@ -10,6 +10,23 @@ stars: 391
 last_pushed: '2026-02-22'
 license: unknown
 tags: []
+topics:
+  - hyprland
+  - hyprland-config
+  - hyprland-rice
+  - nixos
+  - nixos-config
+  - rice
+  - rofi
+  - rofi-config
+  - rofi-menus
+  - rofi-theme
+  - rofi-wayland
+  - swww
+  - wallust
+  - waybar
+  - wayland
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # NixOS-Hyprland

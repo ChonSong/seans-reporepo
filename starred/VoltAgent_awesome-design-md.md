@@ -5,12 +5,27 @@ description: A collection of DESIGN.md files analysis by popular brand design sy
 type: agent
 status: active
 language: other
-size_kb: 2198
-stars: 88407
-last_pushed: '2026-06-08'
+size_kb: 2203
+stars: 91918
+last_pushed: '2026-06-16'
 license: MIT
 tags:
   - agent
+  - awesome-list
+  - design-system
+  - go
+topics:
+  - awesome-list
+  - design-md
+  - design-system
+  - design-tokens
+  - figma
+  - google-stitch
+  - landing-page
+  - vibe-coding
+  - vibe-design
+  - vibecoding
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # awesome-design-md
@@ -24,8 +39,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 2,198 KB
-- **Stars:** 88,407
-- **Last Pushed:** 2026-06-08
+- **Size:** 2,203 KB
+- **Stars:** 91,918
+- **Last Pushed:** 2026-06-16
 - **License:** MIT
-- **Tags:** agent
+- **Tags:** agent, awesome-list, design-system, go

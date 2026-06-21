@@ -5,12 +5,42 @@ description: 'Interactive roadmaps, guides and other educational content to help
 type: unknown
 status: active
 language: TypeScript
-size_kb: 360861
-stars: 356521
-last_pushed: '2026-06-08'
+size_kb: 361305
+stars: 357846
+last_pushed: '2026-06-18'
 license: NOASSERTION
 tags:
+  - ai
+  - database
+  - education
+  - go
   - ide
+  - infrastructure
+  - javascript
+  - python
+  - react
+  - vue
+  - web-app
+topics:
+  - angular-roadmap
+  - backend-roadmap
+  - blockchain-roadmap
+  - computer-science
+  - dba-roadmap
+  - developer-roadmap
+  - devops-roadmap
+  - frontend-roadmap
+  - go-roadmap
+  - java-roadmap
+  - javascript-roadmap
+  - nodejs-roadmap
+  - python-roadmap
+  - qa-roadmap
+  - react-roadmap
+  - roadmap
+  - software-architect-roadmap
+  - vue-roadmap
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # developer-roadmap
@@ -24,8 +54,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 360,861 KB
-- **Stars:** 356,521
-- **Last Pushed:** 2026-06-08
+- **Size:** 361,305 KB
+- **Stars:** 357,846
+- **Last Pushed:** 2026-06-18
 - **License:** NOASSERTION
-- **Tags:** ide
+- **Tags:** ai, database, education, go, ide, infrastructure, javascript, python, react, vue, web-app

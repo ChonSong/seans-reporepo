@@ -9,7 +9,13 @@ size_kb: 1
 stars: 7
 last_pushed: '2024-11-27'
 license: unknown
-tags: []
+tags:
+  - mobile
+topics:
+  - phoenix-os
+  - phoenix-os-zeronetfix-mod
+  - real-android-on-your-computer
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # phoenix_os
@@ -27,3 +33,4 @@ tags: []
 - **Stars:** 7
 - **Last Pushed:** 2024-11-27
 - **License:** unknown
+- **Tags:** mobile

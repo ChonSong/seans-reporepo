@@ -6,10 +6,26 @@ type: unknown
 status: active
 language: Python
 size_kb: 16526
-stars: 65345
+stars: 66889
 last_pushed: '2026-05-24'
 license: 'AGPL-3.0'
-tags: []
+tags:
+  - agent
+  - llm
+  - multi-agent
+  - python
+topics:
+  - agent-memory
+  - financial-forecasting
+  - future-prediction
+  - knowledge-graph
+  - llms
+  - multi-agent-simulation
+  - public-opinion-analysis
+  - python3
+  - social-prediction
+  - swarm-intelligence
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # MiroFish
@@ -24,6 +40,7 @@ tags: []
 - **Status:** active
 - **Language:** Python
 - **Size:** 16,526 KB
-- **Stars:** 65,345
+- **Stars:** 66,889
 - **Last Pushed:** 2026-05-24
 - **License:** AGPL-3.0
+- **Tags:** agent, llm, multi-agent, python

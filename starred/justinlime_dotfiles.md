@@ -5,12 +5,14 @@ description: My general config and dotfiles for linux
 type: unknown
 status: active
 language: Nix
-size_kb: 17716
-stars: 274
-last_pushed: '2026-06-01'
+size_kb: 17717
+stars: 273
+last_pushed: '2026-06-09'
 license: unknown
 tags:
   - dotfiles
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # dotfiles
@@ -24,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Nix
-- **Size:** 17,716 KB
-- **Stars:** 274
-- **Last Pushed:** 2026-06-01
+- **Size:** 17,717 KB
+- **Stars:** 273
+- **Last Pushed:** 2026-06-09
 - **License:** unknown
 - **Tags:** dotfiles

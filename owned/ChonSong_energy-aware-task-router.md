@@ -5,9 +5,9 @@ description: 'A task routing system that queries real-time carbon intensity of t
 type: infrastructure
 status: active
 language: Python
-size_kb: 3
+size_kb: 64
 stars: 0
-last_pushed: '2026-03-29'
+last_pushed: '2026-06-20'
 license: unknown
 tags:
   - ai
@@ -17,6 +17,8 @@ tags:
   - python
   - sustainability
   - training
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # energy-aware-task-router
@@ -30,9 +32,9 @@ tags:
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Python
-- **Size:** 3 KB
+- **Size:** 64 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-03-29
+- **Last Pushed:** 2026-06-20
 - **License:** unknown
 - **Tags:** ai, api, energy, infrastructure, python, sustainability, training
 

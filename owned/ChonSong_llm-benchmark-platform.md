@@ -5,9 +5,9 @@ description: 'Web-based LLM benchmarking platform for comparing coding models ac
 type: monorepo
 status: active
 language: Python
-size_kb: 73
+size_kb: 96
 stars: 0
-last_pushed: '2025-12-22'
+last_pushed: '2026-06-14'
 license: unknown
 tags:
   - ai
@@ -23,6 +23,8 @@ tags:
   - python
   - typescript
   - web-app
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # llm-benchmark-platform
@@ -36,9 +38,9 @@ tags:
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 73 KB
+- **Size:** 96 KB
 - **Stars:** 0
-- **Last Pushed:** 2025-12-22
+- **Last Pushed:** 2026-06-14
 - **License:** unknown
 - **Tags:** ai, api, awesome-list, benchmarking, cli, dashboard, docker, go, ide, llm, python, typescript, web-app
 

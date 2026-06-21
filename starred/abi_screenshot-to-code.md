@@ -4,14 +4,16 @@ url: 'https://github.com/abi/screenshot-to-code'
 description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 type: unknown
 status: active
-language: TypeScript
-size_kb: 8416
-stars: 72835
-last_pushed: '2026-06-05'
+language: Python
+size_kb: 10331
+stars: 72998
+last_pushed: '2026-06-20'
 license: MIT
 tags:
   - ai
   - react
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # screenshot-to-code
@@ -24,9 +26,9 @@ tags:
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** TypeScript
-- **Size:** 8,416 KB
-- **Stars:** 72,835
-- **Last Pushed:** 2026-06-05
+- **Language:** Python
+- **Size:** 10,331 KB
+- **Stars:** 72,998
+- **Last Pushed:** 2026-06-20
 - **License:** MIT
 - **Tags:** ai, react

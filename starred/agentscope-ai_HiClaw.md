@@ -5,13 +5,18 @@ description: 'An open-source Collaborative Multi-Agent OS for transparent, human
 type: agent
 status: active
 language: Go
-size_kb: 15379
-stars: 4760
-last_pushed: '2026-06-07'
+size_kb: 16568
+stars: 4887
+last_pushed: '2026-06-21'
 license: 'Apache-2.0'
 tags:
   - agent
   - multi-agent
+  - openclaw
+topics:
+  - agent-teams
+  - openclaw
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # HiClaw
@@ -25,8 +30,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 15,379 KB
-- **Stars:** 4,760
-- **Last Pushed:** 2026-06-07
+- **Size:** 16,568 KB
+- **Stars:** 4,887
+- **Last Pushed:** 2026-06-21
 - **License:** Apache-2.0
-- **Tags:** agent, multi-agent
+- **Tags:** agent, multi-agent, openclaw

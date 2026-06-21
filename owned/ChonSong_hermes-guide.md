@@ -1,7 +1,7 @@
 ---
 repo: 'ChonSong/hermes-guide'
 url: 'https://github.com/ChonSong/hermes-guide'
-description: No description
+description: Community documentation and setup guide for Hermes Agent
 type: agent
 status: active
 language: other
@@ -15,11 +15,13 @@ tags:
   - hermes-agent
   - ide
   - web-app
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-guide
 
-> No description
+> Community documentation and setup guide for Hermes Agent
 
 **URL:** [ChonSong/hermes-guide](https://github.com/ChonSong/hermes-guide)
 

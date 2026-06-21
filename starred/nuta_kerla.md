@@ -11,6 +11,11 @@ last_pushed: '2026-02-23'
 license: NOASSERTION
 tags:
   - rust
+topics:
+  - operating-system
+  - operating-system-kernel
+  - rust
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # kerla

@@ -5,12 +5,37 @@ description: 'Proxmox VE Helper-Scripts (Community Edition) '
 type: unknown
 status: active
 language: Shell
-size_kb: 40628
-stars: 28441
-last_pushed: '2026-06-08'
+size_kb: 41800
+stars: 28642
+last_pushed: '2026-06-21'
 license: MIT
 tags:
+  - ai
+  - automation
   - docker
+  - security
+topics:
+  - alpine
+  - authentification
+  - container
+  - debian
+  - docker
+  - home-assistant
+  - home-automation
+  - homelab
+  - homelab-setup
+  - lxc
+  - network
+  - proxmox
+  - proxmox-ve
+  - scripts
+  - security
+  - self-hosted
+  - self-hosting
+  - smarthome
+  - ubuntu
+  - vm
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # ProxmoxVE
@@ -24,8 +49,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 40,628 KB
-- **Stars:** 28,441
-- **Last Pushed:** 2026-06-08
+- **Size:** 41,800 KB
+- **Stars:** 28,642
+- **Last Pushed:** 2026-06-21
 - **License:** MIT
-- **Tags:** docker
+- **Tags:** ai, automation, docker, security

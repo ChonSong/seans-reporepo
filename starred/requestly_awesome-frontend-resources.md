@@ -6,12 +6,27 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 33
-stars: 328
+stars: 329
 last_pushed: '2025-01-21'
 license: unknown
 tags:
   - awesome-list
+  - education
   - react
+  - vue
+  - web-app
+topics:
+  - angular
+  - cheatsheet
+  - first-timers-only
+  - frontend
+  - need-help
+  - react
+  - react-native
+  - reactjs
+  - roadmap
+  - vue
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # awesome-frontend-resources
@@ -26,7 +41,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 33 KB
-- **Stars:** 328
+- **Stars:** 329
 - **Last Pushed:** 2025-01-21
 - **License:** unknown
-- **Tags:** awesome-list, react
+- **Tags:** awesome-list, education, react, vue, web-app

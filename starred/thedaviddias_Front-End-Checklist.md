@@ -5,16 +5,36 @@ description: '🗂 The essential checklist for modern web development, for human
 type: agent
 status: active
 language: MDX
-size_kb: 7665
-stars: 72868
-last_pushed: '2026-06-02'
+size_kb: 7709
+stars: 72987
+last_pushed: '2026-06-18'
 license: unknown
 tags:
   - agent
   - ai
   - awesome-list
+  - css
+  - ide
   - javascript
+  - ui
   - web-app
+topics:
+  - ai-agent
+  - ai-agents
+  - checklist
+  - css
+  - front-end-developer-tool
+  - front-end-development
+  - frontend
+  - guidelines
+  - html
+  - javascript
+  - lists
+  - reference
+  - resources
+  - rules
+  - web-development
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # Front-End-Checklist
@@ -28,8 +48,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** MDX
-- **Size:** 7,665 KB
-- **Stars:** 72,868
-- **Last Pushed:** 2026-06-02
+- **Size:** 7,709 KB
+- **Stars:** 72,987
+- **Last Pushed:** 2026-06-18
 - **License:** unknown
-- **Tags:** agent, ai, awesome-list, javascript, web-app
+- **Tags:** agent, ai, awesome-list, css, ide, javascript, ui, web-app

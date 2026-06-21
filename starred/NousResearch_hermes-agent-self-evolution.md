@@ -5,13 +5,15 @@ description: '⚒ Evolutionary self-improvement for Hermes Agent — optimize sk
 type: agent
 status: active
 language: Python
-size_kb: 117
-stars: 3952
-last_pushed: '2026-03-29'
+size_kb: 32
+stars: 4225
+last_pushed: '2026-06-17'
 license: unknown
 tags:
   - agent
   - hermes-agent
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-agent-self-evolution
@@ -25,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 117 KB
-- **Stars:** 3,952
-- **Last Pushed:** 2026-03-29
+- **Size:** 32 KB
+- **Stars:** 4,225
+- **Last Pushed:** 2026-06-17
 - **License:** unknown
 - **Tags:** agent, hermes-agent

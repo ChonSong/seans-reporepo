@@ -6,13 +6,15 @@ type: infrastructure
 status: active
 language: TypeScript
 size_kb: 367
-stars: 463
+stars: 467
 last_pushed: '2026-01-19'
 license: MIT
 tags:
   - ai
   - docker
   - web-app
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # TostUI
@@ -27,7 +29,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 367 KB
-- **Stars:** 463
+- **Stars:** 467
 - **Last Pushed:** 2026-01-19
 - **License:** MIT
 - **Tags:** ai, docker, web-app

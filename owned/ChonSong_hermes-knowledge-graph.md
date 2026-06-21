@@ -5,12 +5,14 @@ description: 'Force-graph visualization of Hermes skills, memory, and architectu
 type: unknown
 status: active
 language: HTML
-size_kb: 1175
+size_kb: 1178
 stars: 0
-last_pushed: '2026-06-08'
+last_pushed: '2026-06-10'
 license: unknown
 tags:
   - hermes-agent
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-knowledge-graph
@@ -24,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** HTML
-- **Size:** 1,175 KB
+- **Size:** 1,178 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-06-08
+- **Last Pushed:** 2026-06-10
 - **License:** unknown
 - **Tags:** hermes-agent

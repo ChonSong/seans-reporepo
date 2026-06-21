@@ -4,15 +4,38 @@ url: 'https://github.com/Leonxlnx/taste-skill'
 description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
 type: unknown
 status: active
-language: Shell
-size_kb: 2761
-stars: 37960
-last_pushed: '2026-05-26'
+language: JavaScript
+size_kb: 4799
+stars: 47994
+last_pushed: '2026-06-20'
 license: MIT
 tags:
   - agent
   - ai
+  - aie
+  - coding-agent
+  - design-system
+  - docker
   - go
+  - multi-agent
+  - sustainability
+  - training
+  - web-app
+topics:
+  - agent
+  - ai
+  - claude
+  - claude-code
+  - codex
+  - coding
+  - design
+  - frontend
+  - lowcode
+  - nocode
+  - skill
+  - skills
+  - vibecoding
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # taste-skill
@@ -25,9 +48,9 @@ tags:
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** Shell
-- **Size:** 2,761 KB
-- **Stars:** 37,960
-- **Last Pushed:** 2026-05-26
+- **Language:** JavaScript
+- **Size:** 4,799 KB
+- **Stars:** 47,994
+- **Last Pushed:** 2026-06-20
 - **License:** MIT
-- **Tags:** agent, ai, go
+- **Tags:** agent, ai, aie, coding-agent, design-system, docker, go, multi-agent, sustainability, training, web-app

@@ -6,11 +6,20 @@ type: unknown
 status: active
 language: HTML
 size_kb: 2498
-stars: 6112
+stars: 6138
 last_pushed: '2026-04-05'
 license: MIT
 tags:
   - web-app
+topics:
+  - 3d
+  - 3d-force-graph
+  - d3js
+  - data-visualization
+  - force-directed-graphs
+  - threejs
+  - webgl
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # 3d-force-graph
@@ -25,7 +34,7 @@ tags:
 - **Status:** active
 - **Language:** HTML
 - **Size:** 2,498 KB
-- **Stars:** 6,112
+- **Stars:** 6,138
 - **Last Pushed:** 2026-04-05
 - **License:** MIT
 - **Tags:** web-app

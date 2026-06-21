@@ -1,23 +1,47 @@
 ---
 repo: langfuse/langfuse
 url: 'https://github.com/langfuse/langfuse'
-description: '🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 '
+description: '🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 '
 type: unknown
 status: active
 language: TypeScript
-size_kb: 85922
-stars: 28678
-last_pushed: '2026-06-08'
+size_kb: 88322
+stars: 29444
+last_pushed: '2026-06-20'
 license: NOASSERTION
 tags:
   - ai
+  - analytics
   - llm
+  - monitoring
+  - observability
   - telemetry
+topics:
+  - analytics
+  - autogen
+  - evaluation
+  - langchain
+  - large-language-models
+  - llama-index
+  - llm
+  - llm-evaluation
+  - llm-observability
+  - llmops
+  - monitoring
+  - observability
+  - open-source
+  - openai
+  - playground
+  - prompt-engineering
+  - prompt-management
+  - self-hosted
+  - ycombinator
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # langfuse
 
-> 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+> 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 
 **URL:** [langfuse/langfuse](https://github.com/langfuse/langfuse)
 
@@ -26,8 +50,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 85,922 KB
-- **Stars:** 28,678
-- **Last Pushed:** 2026-06-08
+- **Size:** 88,322 KB
+- **Stars:** 29,444
+- **Last Pushed:** 2026-06-20
 - **License:** NOASSERTION
-- **Tags:** ai, llm, telemetry
+- **Tags:** ai, analytics, llm, monitoring, observability, telemetry

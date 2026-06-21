@@ -5,13 +5,15 @@ description: 'The open-source managed agents platform. Turn coding agents into r
 type: agent
 status: active
 language: Go
-size_kb: 61453
-stars: 35806
-last_pushed: '2026-06-08'
+size_kb: 64386
+stars: 37314
+last_pushed: '2026-06-20'
 license: NOASSERTION
 tags:
   - agent
   - multi-agent
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # multica
@@ -25,8 +27,8 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 61,453 KB
-- **Stars:** 35,806
-- **Last Pushed:** 2026-06-08
+- **Size:** 64,386 KB
+- **Stars:** 37,314
+- **Last Pushed:** 2026-06-20
 - **License:** NOASSERTION
 - **Tags:** agent, multi-agent

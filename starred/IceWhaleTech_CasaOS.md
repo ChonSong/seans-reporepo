@@ -6,12 +6,27 @@ type: unknown
 status: active
 language: Go
 size_kb: 182856
-stars: 34038
+stars: 34111
 last_pushed: '2025-08-06'
 license: 'Apache-2.0'
 tags:
+  - automation
   - docker
   - go
+  - infrastructure
+  - vue
+topics:
+  - casaos
+  - docker
+  - golang
+  - home-automation
+  - home-cloud
+  - home-server
+  - iot
+  - raspberry
+  - self-hosted
+  - vuejs
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # CasaOS
@@ -26,7 +41,7 @@ tags:
 - **Status:** active
 - **Language:** Go
 - **Size:** 182,856 KB
-- **Stars:** 34,038
+- **Stars:** 34,111
 - **Last Pushed:** 2025-08-06
 - **License:** Apache-2.0
-- **Tags:** docker, go
+- **Tags:** automation, docker, go, infrastructure, vue

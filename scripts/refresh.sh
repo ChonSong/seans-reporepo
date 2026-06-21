@@ -2,8 +2,8 @@
 # Refresh the seans-reporepo catalog
 set -e
 
-REPO_DIR="/home/sean/.hermes/cache/seans-reporepo"
-SCRIPT_DIR="/home/sean/.hermes/scripts"
+REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 RUN_QUERY=false
 QUERY_ARGS=()
 

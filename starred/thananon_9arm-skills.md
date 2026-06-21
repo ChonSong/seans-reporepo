@@ -5,11 +5,13 @@ description: No description
 type: unknown
 status: active
 language: Shell
-size_kb: 22
-stars: 2692
-last_pushed: '2026-05-26'
+size_kb: 27
+stars: 2855
+last_pushed: '2026-06-14'
 license: unknown
 tags: []
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # 9arm-skills
@@ -23,7 +25,7 @@ tags: []
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 22 KB
-- **Stars:** 2,692
-- **Last Pushed:** 2026-05-26
+- **Size:** 27 KB
+- **Stars:** 2,855
+- **Last Pushed:** 2026-06-14
 - **License:** unknown

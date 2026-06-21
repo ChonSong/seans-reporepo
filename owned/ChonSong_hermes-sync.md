@@ -5,9 +5,9 @@ description: Hermes Agent state backup
 type: monorepo
 status: active
 language: Python
-size_kb: 54000
+size_kb: 72040
 stars: 0
-last_pushed: '2026-06-07'
+last_pushed: '2026-06-19'
 license: unknown
 tags:
   - agent
@@ -18,6 +18,8 @@ tags:
   - docker
   - hermes-agent
   - sync
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-sync
@@ -31,9 +33,9 @@ tags:
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 54,000 KB
+- **Size:** 72,040 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-06-07
+- **Last Pushed:** 2026-06-19
 - **License:** unknown
 - **Tags:** agent, ai, api, backup, dashboard, docker, hermes-agent, sync
 

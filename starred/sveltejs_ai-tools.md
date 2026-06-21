@@ -6,12 +6,15 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 2275
-stars: 266
-last_pushed: '2026-06-06'
+stars: 278
+last_pushed: '2026-06-19'
 license: MIT
 tags:
   - agent
   - mcp
+  - svelte
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # ai-tools
@@ -26,7 +29,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 2,275 KB
-- **Stars:** 266
-- **Last Pushed:** 2026-06-06
+- **Stars:** 278
+- **Last Pushed:** 2026-06-19
 - **License:** MIT
-- **Tags:** agent, mcp
+- **Tags:** agent, mcp, svelte

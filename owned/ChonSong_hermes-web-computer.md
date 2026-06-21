@@ -5,9 +5,9 @@ description: 'Agent-OS v1.2: browser-native collaborative dev environment with H
 type: agent
 status: active
 language: Svelte
-size_kb: 13903
+size_kb: 13955
 stars: 0
-last_pushed: '2026-06-01'
+last_pushed: '2026-06-10'
 license: unknown
 tags:
   - agent
@@ -18,12 +18,15 @@ tags:
   - docker
   - go
   - hermes-agent
+  - svelte
   - sync
   - telemetry
   - terminal
   - voice
   - web-app
   - workflow-engine
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # hermes-web-computer
@@ -37,11 +40,11 @@ tags:
 - **Type:** agent
 - **Status:** active
 - **Language:** Svelte
-- **Size:** 13,903 KB
+- **Size:** 13,955 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-06-01
+- **Last Pushed:** 2026-06-10
 - **License:** unknown
-- **Tags:** agent, ai, audio, browser-automation, cli, docker, go, hermes-agent, sync, telemetry, terminal, voice, web-app, workflow-engine
+- **Tags:** agent, ai, audio, browser-automation, cli, docker, go, hermes-agent, svelte, sync, telemetry, terminal, voice, web-app, workflow-engine
 
 ## README Excerpt
 

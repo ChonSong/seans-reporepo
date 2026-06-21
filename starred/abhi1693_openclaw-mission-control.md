@@ -6,16 +6,24 @@ type: monorepo
 status: active
 language: TypeScript
 size_kb: 31975
-stars: 4028
+stars: 4062
 last_pushed: '2026-04-06'
 license: MIT
 tags:
   - agent
   - ai
+  - automation
+  - browser-automation
   - dashboard
   - multi-agent
   - openclaw
   - orchestration
+topics:
+  - ai-agents
+  - automation
+  - openclaw
+  - orchestration
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # openclaw-mission-control
@@ -30,7 +38,7 @@ tags:
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 31,975 KB
-- **Stars:** 4,028
+- **Stars:** 4,062
 - **Last Pushed:** 2026-04-06
 - **License:** MIT
-- **Tags:** agent, ai, dashboard, multi-agent, openclaw, orchestration
+- **Tags:** agent, ai, automation, browser-automation, dashboard, multi-agent, openclaw, orchestration

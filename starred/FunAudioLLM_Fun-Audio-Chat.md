@@ -6,12 +6,14 @@ type: unknown
 status: active
 language: Python
 size_kb: 9592
-stars: 961
+stars: 971
 last_pushed: '2026-02-27'
 license: 'Apache-2.0'
 tags:
   - audio
   - voice
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # Fun-Audio-Chat
@@ -26,7 +28,7 @@ tags:
 - **Status:** active
 - **Language:** Python
 - **Size:** 9,592 KB
-- **Stars:** 961
+- **Stars:** 971
 - **Last Pushed:** 2026-02-27
 - **License:** Apache-2.0
 - **Tags:** audio, voice

@@ -6,11 +6,13 @@ type: unknown
 status: active
 language: Rust
 size_kb: 3699
-stars: 510
+stars: 515
 last_pushed: '2026-05-02'
 license: unknown
 tags:
   - go
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # g3
@@ -25,7 +27,7 @@ tags:
 - **Status:** active
 - **Language:** Rust
 - **Size:** 3,699 KB
-- **Stars:** 510
+- **Stars:** 515
 - **Last Pushed:** 2026-05-02
 - **License:** unknown
 - **Tags:** go

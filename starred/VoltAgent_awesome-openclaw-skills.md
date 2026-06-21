@@ -5,14 +5,31 @@ description: 'The awesome collection of OpenClaw skills. 5,400+ skills filtered 
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 2102
-stars: 49991
-last_pushed: '2026-06-08'
+size_kb: 1991
+stars: 50446
+last_pushed: '2026-06-16'
 license: MIT
 tags:
+  - agent
   - awesome-list
+  - bot
+  - database
   - go
   - openclaw
+topics:
+  - agent-skills
+  - awesome
+  - awesome-list
+  - awesome-lists
+  - clawd
+  - clawdbot
+  - clawdbot-skill
+  - clawdhub
+  - moltbot
+  - moltbot-skills
+  - openclaw
+  - openclaw-skills
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # awesome-openclaw-skills
@@ -26,8 +43,8 @@ tags:
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 2,102 KB
-- **Stars:** 49,991
-- **Last Pushed:** 2026-06-08
+- **Size:** 1,991 KB
+- **Stars:** 50,446
+- **Last Pushed:** 2026-06-16
 - **License:** MIT
-- **Tags:** awesome-list, go, openclaw
+- **Tags:** agent, awesome-list, bot, database, go, openclaw

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: other
 size_kb: 38
-stars: 159
+stars: 161
 last_pushed: '2025-10-15'
 license: unknown
 tags:
@@ -14,6 +14,8 @@ tags:
   - ai
   - benchmarking
   - go
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # ai-agent-benchmark-compendium
@@ -28,7 +30,7 @@ tags:
 - **Status:** active
 - **Language:** other
 - **Size:** 38 KB
-- **Stars:** 159
+- **Stars:** 161
 - **Last Pushed:** 2025-10-15
 - **License:** unknown
 - **Tags:** agent, ai, benchmarking, go

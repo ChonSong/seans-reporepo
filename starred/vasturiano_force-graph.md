@@ -6,10 +6,17 @@ type: unknown
 status: active
 language: JavaScript
 size_kb: 2732
-stars: 2035
+stars: 2049
 last_pushed: '2026-04-16'
 license: MIT
 tags: []
+topics:
+  - canvas
+  - d3js
+  - force
+  - force-directed-graph
+  - simulation
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # force-graph
@@ -24,6 +31,6 @@ tags: []
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 2,732 KB
-- **Stars:** 2,035
+- **Stars:** 2,049
 - **Last Pushed:** 2026-04-16
 - **License:** MIT

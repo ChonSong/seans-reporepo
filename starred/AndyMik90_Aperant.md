@@ -5,12 +5,14 @@ description: 'Autonomous multi-session AI coding'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 58828
-stars: 14331
-last_pushed: '2026-03-23'
+size_kb: 58831
+stars: 14359
+last_pushed: '2026-06-14'
 license: 'AGPL-3.0'
 tags:
   - ai
+topics: []
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # Aperant
@@ -24,8 +26,8 @@ tags:
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 58,828 KB
-- **Stars:** 14,331
-- **Last Pushed:** 2026-03-23
+- **Size:** 58,831 KB
+- **Stars:** 14,359
+- **Last Pushed:** 2026-06-14
 - **License:** AGPL-3.0
 - **Tags:** ai

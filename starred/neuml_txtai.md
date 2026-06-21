@@ -5,16 +5,49 @@ description: '💡 All-in-one AI framework for semantic search, LLM orchestratio
 type: library
 status: active
 language: Python
-size_kb: 55482
-stars: 12639
-last_pushed: '2026-06-08'
+size_kb: 55547
+stars: 12673
+last_pushed: '2026-06-19'
 license: 'Apache-2.0'
 tags:
+  - agent
   - ai
+  - aie
+  - database
+  - docker
+  - embeddings
   - framework
   - llm
   - orchestration
   - python
+  - rag
+  - research
+  - sustainability
+  - training
+  - vector-db
+  - vector-search
+topics:
+  - agents
+  - ai
+  - ai-agents
+  - embeddings
+  - information-retrieval
+  - language-model
+  - large-language-models
+  - llm
+  - nlp
+  - python
+  - rag
+  - retrieval-augmented-generation
+  - search
+  - search-engine
+  - semantic-search
+  - sentence-embeddings
+  - transformers
+  - txtai
+  - vector-database
+  - vector-search
+refreshed_at: '2026-06-21 07:46 UTC'
 ---
 
 # txtai
@@ -28,8 +61,8 @@ tags:
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 55,482 KB
-- **Stars:** 12,639
-- **Last Pushed:** 2026-06-08
+- **Size:** 55,547 KB
+- **Stars:** 12,673
+- **Last Pushed:** 2026-06-19
 - **License:** Apache-2.0
-- **Tags:** ai, framework, llm, orchestration, python
+- **Tags:** agent, ai, aie, database, docker, embeddings, framework, llm, orchestration, python, rag, research, sustainability, training, vector-db, vector-search
