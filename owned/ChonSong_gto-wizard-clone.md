@@ -4,10 +4,10 @@ url: 'https://github.com/ChonSong/gto-wizard-clone'
 description: 'Open-source GTO poker training platform — equity calculator, CFR solver, training modes, hand history analysis, ICM calculator'
 type: monorepo
 status: active
-language: Python
-size_kb: 3043
+language: TypeScript
+size_kb: 120076
 stars: 2
-last_pushed: '2026-06-21'
+last_pushed: '2026-07-02'
 license: unknown
 tags:
   - ai
@@ -24,7 +24,7 @@ tags:
   - typescript
   - web-app
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # gto-wizard-clone
@@ -37,10 +37,10 @@ refreshed_at: '2026-06-21 07:46 UTC'
 
 - **Type:** monorepo
 - **Status:** active
-- **Language:** Python
-- **Size:** 3,043 KB
+- **Language:** TypeScript
+- **Size:** 120,076 KB
 - **Stars:** 2
-- **Last Pushed:** 2026-06-21
+- **Last Pushed:** 2026-07-02
 - **License:** unknown
 - **Tags:** ai, api, database, docker, gaming, python, react, solver, testing, training, transpilation, typescript, web-app
 

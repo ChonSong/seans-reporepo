@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 44374
-stars: 11014
+stars: 11106
 last_pushed: '2026-01-27'
 license: 'Apache-2.0'
 tags:
@@ -14,7 +14,7 @@ tags:
   - research
 topics:
   - research
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # UI-TARS
@@ -29,7 +29,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 44,374 KB
-- **Stars:** 11,014
+- **Stars:** 11,106
 - **Last Pushed:** 2026-01-27
 - **License:** Apache-2.0
 - **Tags:** agent, research

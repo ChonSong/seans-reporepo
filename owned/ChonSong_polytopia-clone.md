@@ -5,15 +5,15 @@ description: 'Open-source Polytopia clone built with Phaser 3 + TypeScript + Vit
 type: unknown
 status: active
 language: TypeScript
-size_kb: 523
-stars: 0
-last_pushed: '2026-06-20'
+size_kb: 740
+stars: 1
+last_pushed: '2026-07-01'
 license: unknown
 tags:
   - ai
   - typescript
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # polytopia-clone
@@ -27,8 +27,13 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 523 KB
-- **Stars:** 0
-- **Last Pushed:** 2026-06-20
+- **Size:** 740 KB
+- **Stars:** 1
+- **Last Pushed:** 2026-07-01
 - **License:** unknown
 - **Tags:** ai, typescript
+
+## README Excerpt
+
+# test
+...

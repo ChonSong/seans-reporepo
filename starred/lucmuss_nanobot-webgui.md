@@ -5,9 +5,9 @@ description: 'Production-focused web GUI for HKUDS/nanobot with setup wizard, MC
 type: agent
 status: active
 language: Python
-size_kb: 52941
+size_kb: 52943
 stars: 21
-last_pushed: '2026-04-05'
+last_pushed: '2026-06-24'
 license: MIT
 tags:
   - agent
@@ -21,7 +21,7 @@ topics:
   - nanobot-skill
   - nanobot-webui
   - openclaw
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # nanobot-webgui
@@ -35,8 +35,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 52,941 KB
+- **Size:** 52,943 KB
 - **Stars:** 21
-- **Last Pushed:** 2026-04-05
+- **Last Pushed:** 2026-06-24
 - **License:** MIT
 - **Tags:** agent, bot, mcp, openclaw, ui, web-app

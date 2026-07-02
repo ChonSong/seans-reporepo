@@ -5,9 +5,9 @@ description: 'A feature-rich command-line audio/video downloader'
 type: unknown
 status: active
 language: Python
-size_kb: 61035
-stars: 172166
-last_pushed: '2026-06-20'
+size_kb: 61248
+stars: 174677
+last_pushed: '2026-07-02'
 license: Unlicense
 tags:
   - audio
@@ -23,7 +23,7 @@ topics:
   - youtube-dl
   - youtube-downloader
   - yt-dlp
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # yt-dlp
@@ -37,8 +37,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 61,035 KB
-- **Stars:** 172,166
-- **Last Pushed:** 2026-06-20
+- **Size:** 61,248 KB
+- **Stars:** 174,677
+- **Last Pushed:** 2026-07-02
 - **License:** Unlicense
 - **Tags:** audio, cli, ide, python, video

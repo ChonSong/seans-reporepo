@@ -5,9 +5,9 @@ description: 'Web UI & dashboard for Hermes Agent — chat, memory, skills, term
 type: monorepo
 status: active
 language: TypeScript
-size_kb: 14089
-stars: 213
-last_pushed: '2026-04-27'
+size_kb: 13790
+stars: 244
+last_pushed: '2026-07-01'
 license: NOASSERTION
 tags:
   - agent
@@ -48,7 +48,7 @@ topics:
   - typescript
   - web-ui
   - webui
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # Hermes-Studio
@@ -62,8 +62,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 14,089 KB
-- **Stars:** 213
-- **Last Pushed:** 2026-04-27
+- **Size:** 13,790 KB
+- **Stars:** 244
+- **Last Pushed:** 2026-07-01
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, dashboard, docker, hermes-agent, llm, mcp, multi-agent, openclaw, orchestration, react, research, sustainability, terminal, training, typescript, ui, web-app

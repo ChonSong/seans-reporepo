@@ -5,9 +5,9 @@ description: NOW MANAGED ON CODEBERG
 type: unknown
 status: active
 language: PHP
-size_kb: 52209
-stars: 18843
-last_pushed: '2026-06-21'
+size_kb: 52471
+stars: 18874
+last_pushed: '2026-07-02'
 license: MIT
 tags: []
 topics:
@@ -17,7 +17,7 @@ topics:
   - php
   - selfhosted
   - wiki
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # BookStack
@@ -31,7 +31,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** PHP
-- **Size:** 52,209 KB
-- **Stars:** 18,843
-- **Last Pushed:** 2026-06-21
+- **Size:** 52,471 KB
+- **Stars:** 18,874
+- **Last Pushed:** 2026-07-02
 - **License:** MIT

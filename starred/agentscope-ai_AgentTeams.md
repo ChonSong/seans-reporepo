@@ -1,13 +1,13 @@
 ---
-repo: 'agentscope-ai/HiClaw'
-url: 'https://github.com/agentscope-ai/HiClaw'
+repo: 'agentscope-ai/AgentTeams'
+url: 'https://github.com/agentscope-ai/AgentTeams'
 description: 'An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.'
 type: agent
 status: active
 language: Go
-size_kb: 16568
-stars: 4887
-last_pushed: '2026-06-21'
+size_kb: 16677
+stars: 4981
+last_pushed: '2026-07-02'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -16,22 +16,22 @@ tags:
 topics:
   - agent-teams
   - openclaw
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
-# HiClaw
+# AgentTeams
 
 > An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 
-**URL:** [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw)
+**URL:** [agentscope-ai/AgentTeams](https://github.com/agentscope-ai/AgentTeams)
 
 ## Metadata
 
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 16,568 KB
-- **Stars:** 4,887
-- **Last Pushed:** 2026-06-21
+- **Size:** 16,677 KB
+- **Stars:** 4,981
+- **Last Pushed:** 2026-07-02
 - **License:** Apache-2.0
 - **Tags:** agent, multi-agent, openclaw

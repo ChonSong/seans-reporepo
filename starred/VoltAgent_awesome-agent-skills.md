@@ -5,9 +5,9 @@ description: 'A curated collection of 1000+ agent skills from official dev teams
 type: agent
 status: active
 language: other
-size_kb: 418
-stars: 25977
-last_pushed: '2026-06-20'
+size_kb: 630
+stars: 27088
+last_pushed: '2026-06-30'
 license: MIT
 tags:
   - agent
@@ -30,7 +30,7 @@ topics:
   - gemini-skills
   - opencode-skills
   - skills
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # awesome-agent-skills
@@ -44,8 +44,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 418 KB
-- **Stars:** 25,977
-- **Last Pushed:** 2026-06-20
+- **Size:** 630 KB
+- **Stars:** 27,088
+- **Last Pushed:** 2026-06-30
 - **License:** MIT
 - **Tags:** agent, ai, awesome-list, cli, multi-agent

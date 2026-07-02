@@ -5,9 +5,9 @@ description: The SDK For Browser Agents
 type: agent
 status: active
 language: TypeScript
-size_kb: 99575
-stars: 23185
-last_pushed: '2026-06-19'
+size_kb: 100582
+stars: 23310
+last_pushed: '2026-07-02'
 license: MIT
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - playwright
   - puppeteer
   - selenium
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # stagehand
@@ -39,8 +39,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 99,575 KB
-- **Stars:** 23,185
-- **Last Pushed:** 2026-06-19
+- **Size:** 100,582 KB
+- **Stars:** 23,310
+- **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** agent, ai, aie, browser-automation, docker, llm, sustainability, training

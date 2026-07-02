@@ -1,44 +1,32 @@
 ---
 repo: volcengine/OpenViking
 url: 'https://github.com/volcengine/OpenViking'
-description: 'OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.'
+description: 'Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.'
 type: agent
 status: active
 language: Python
-size_kb: 191149
-stars: 25856
-last_pushed: '2026-06-20'
+size_kb: 195503
+stars: 26254
+last_pushed: '2026-07-02'
 license: 'AGPL-3.0'
 tags:
   - agent
   - ai
-  - bot
-  - coding-agent
   - database
-  - llm
-  - multi-agent
-  - openclaw
+  - plugin
   - rag
 topics:
-  - agent
+  - agent-memory
+  - agent-plugins
   - agentic-rag
-  - ai-agents
-  - clawbot
   - context-database
-  - context-engineering
-  - filesystem
-  - llm
-  - memory
-  - openclaw
-  - opencode
-  - rag
-  - skill
-refreshed_at: '2026-06-21 07:46 UTC'
+  - self-evolving
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # OpenViking
 
-> OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+> Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 **URL:** [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
@@ -47,8 +35,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 191,149 KB
-- **Stars:** 25,856
-- **Last Pushed:** 2026-06-20
+- **Size:** 195,503 KB
+- **Stars:** 26,254
+- **Last Pushed:** 2026-07-02
 - **License:** AGPL-3.0
-- **Tags:** agent, ai, bot, coding-agent, database, llm, multi-agent, openclaw, rag
+- **Tags:** agent, ai, database, plugin, rag

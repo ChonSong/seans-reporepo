@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Rust
 size_kb: 2676
-stars: 3464
+stars: 3466
 last_pushed: '2026-02-23'
 license: NOASSERTION
 tags:
@@ -15,7 +15,7 @@ topics:
   - operating-system
   - operating-system-kernel
   - rust
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # kerla
@@ -30,7 +30,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 2,676 KB
-- **Stars:** 3,464
+- **Stars:** 3,466
 - **Last Pushed:** 2026-02-23
 - **License:** NOASSERTION
 - **Tags:** rust

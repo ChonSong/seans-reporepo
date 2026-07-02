@@ -5,16 +5,16 @@ description: 'Open Multi-Agent Interactive Classroom — Get an immersive, multi
 type: agent
 status: active
 language: TypeScript
-size_kb: 133731
-stars: 18734
-last_pushed: '2026-06-21'
+size_kb: 134571
+stars: 19237
+last_pushed: '2026-07-02'
 license: MIT
 tags:
   - agent
   - cli
   - multi-agent
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # OpenMAIC
@@ -28,8 +28,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 133,731 KB
-- **Stars:** 18,734
-- **Last Pushed:** 2026-06-21
+- **Size:** 134,571 KB
+- **Stars:** 19,237
+- **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** agent, cli, multi-agent

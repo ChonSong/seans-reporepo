@@ -5,9 +5,9 @@ description: 'Lightweight, open-source AI agent for your tools, chats, and workf
 type: agent
 status: active
 language: Python
-size_kb: 47276
-stars: 44496
-last_pushed: '2026-06-21'
+size_kb: 48512
+stars: 44953
+last_pushed: '2026-07-02'
 license: MIT
 tags:
   - agent
@@ -35,7 +35,7 @@ topics:
   - nanobot
   - openai
   - openclaw
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # nanobot
@@ -49,8 +49,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 47,276 KB
-- **Stars:** 44,496
-- **Last Pushed:** 2026-06-21
+- **Size:** 48,512 KB
+- **Stars:** 44,953
+- **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, chat-ui, cli, docker, llm, openclaw, sustainability, training

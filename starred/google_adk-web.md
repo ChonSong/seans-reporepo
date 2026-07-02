@@ -5,15 +5,15 @@ description: 'Agent Development Kit Web (adk web) is the built-in developer UI t
 type: agent
 status: active
 language: TypeScript
-size_kb: 2569
-stars: 981
-last_pushed: '2026-06-09'
+size_kb: 2646
+stars: 990
+last_pushed: '2026-06-26'
 license: 'Apache-2.0'
 tags:
   - agent
   - web-app
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # adk-web
@@ -27,8 +27,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 2,569 KB
-- **Stars:** 981
-- **Last Pushed:** 2026-06-09
+- **Size:** 2,646 KB
+- **Stars:** 990
+- **Last Pushed:** 2026-06-26
 - **License:** Apache-2.0
 - **Tags:** agent, web-app

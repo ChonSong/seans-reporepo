@@ -5,9 +5,9 @@ description: '🙌 OpenHands: AI-Driven Development'
 type: unknown
 status: active
 language: Python
-size_kb: 345526
-stars: 77878
-last_pushed: '2026-06-20'
+size_kb: 351325
+stars: 79101
+last_pushed: '2026-07-02'
 license: NOASSERTION
 tags:
   - agent
@@ -27,7 +27,7 @@ topics:
   - gpt
   - llm
   - openai
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # OpenHands
@@ -41,8 +41,8 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 345,526 KB
-- **Stars:** 77,878
-- **Last Pushed:** 2026-06-20
+- **Size:** 351,325 KB
+- **Stars:** 79,101
+- **Last Pushed:** 2026-07-02
 - **License:** NOASSERTION
 - **Tags:** agent, ai, chat-ui, cli, coding-agent, llm, multi-agent

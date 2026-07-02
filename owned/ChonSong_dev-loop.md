@@ -4,22 +4,22 @@ url: 'https://github.com/ChonSong/dev-loop'
 description: 'Autonomous coach/player development loop — AGENTS.md standard, checkpoint schema, cron config, scoring model, and project onboarding'
 type: agent
 status: active
-language: other
-size_kb: 19
+language: Python
+size_kb: 20354
 stars: 0
-last_pushed: '2026-06-17'
+last_pushed: '2026-06-30'
 license: unknown
 tags:
   - agent
   - ai
-  - awesome-list
   - bot
-  - browser-automation
   - hermes-agent
   - ide
+  - rag
+  - reliability
   - rust
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # dev-loop
@@ -32,41 +32,48 @@ refreshed_at: '2026-06-21 07:46 UTC'
 
 - **Type:** agent
 - **Status:** active
-- **Language:** other
-- **Size:** 19 KB
+- **Language:** Python
+- **Size:** 20,354 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-06-17
+- **Last Pushed:** 2026-06-30
 - **License:** unknown
-- **Tags:** agent, ai, awesome-list, bot, browser-automation, hermes-agent, ide, rust
+- **Tags:** agent, ai, bot, hermes-agent, ide, rag, reliability, rust
 
 ## README Excerpt
 
-# Dev Loop — Autonomous Coach/Player Development System
+# Dev Loop — Autonomous Development System
 
-A structured autonomous development loop where **Player** agents implement tasks from a backlog and **Coach** agents adversarially review each commit. Inspired by g3's dialectical autocoding (Block AI Research, Dec 2025) and built by composing patterns from 10+ existing agent skills.
+A multi-loop autonomous development system:
+- **Grand SIE** (Strategic Intelligence Engine) — the top-layer brain. Scans the external world weekly (GitHub trending, arXiv, competitors, HN), decides what's worth building, and produces requirements specs. See [`docs/grand-sie-architecture.md`](docs/grand-sie-architecture.md).
+- **Player** agents implement tasks from a backlog
+- **Coach** agents adversarially review each commit, probe for gaps, and generate the next batch of tasks
+- **Observation Memory** (`coach_memory.py`) — persistent, self-correcting behavioral knowledge store for the Coach. FTS5 query, trust-scored observations, circuit breaker for safety. Ported from agent-qa's A.U.D.N. curator pattern.
+- **Self-Improvement Engine** (SIE) scans every 48h for coverage blind spots, processes learnings, and authors skills. Extended by Grand SIE for outward-facing strategic intelligence.
+
+Inspired by g3's dialectical autocoding (Block AI Research, Dec 2025) and built by composing patterns from 10+ existing agent skills.
 
 ## Core Concept
 
-```
-AGENTS.md (tasks + criteria)  ──→  Player (implements, tests, commits)
-         ↑                              │
-         │                              ▼
-    Coach (reviews, approves,       Checkpoint.json
-    generates next tasks)         (state tracking)
-```
+Four autonomous loops with increasing cycle times:
 
-Each repo describes itself via `AGENTS.md` + `.checkpoint.json`. The loop discovers repos by scanning for these files.
+```mermaid
+flowchart TB
+    subgraph GRAND_SIE["GRAND SIE — STRATEGIC INTELLIGENCE (weekly/biweekly)"]
+        direction LR
+        RADAR[Opportunity Radar] -->|external signals| SYNTH[Synthesis Engine]
+        AUDIT[Self-Audit Engine] -->|internal waste| SYNTH
+        SYNTH -->|strategic brief| REQ[Requirements Engine]
+        REQ -->|specs + tasks| PLAYER_COACH
+    end
 
-## How the Agents Were Designed
+    subgraph PLAYER_COACH["PLAYER/COACH LOOP (every 30m)"]
+        AGENTS[AGENTS.md] -->|tasks + criteria| Player
+        Player -->|implemented code| Checkpoint
+        Checkpoint -->|review request| Coach
+        Coach -->|reviews, approves, probes gaps| AGENTS
+        Coach -->|generates tasks| AGENTS
 
-Both the Player and Coach agents were designed by studying ~12 existing skills in the Hermes ecosystem and extracting their most effective patterns. Here's what inspired each design decision:
-
-### Coach-Agent Inspirations
-
-| Skill | Pattern Borrowed | How It's Used |
-|-------|-----------------|---------------|
-| **self-improvement-engine** | Weighted scoring formula (`priority × area × recency`) | Adapted to `blocking_weight × confidence` for ranking what task gaps to address first when backlog runs out |
-| **parallel-investigation** | Spawn 2-3 subagents, each probing an independent dimension | Used when the Coach needs to check 3+ endpoints/services simultaneously to find what's broken before generating tasks |
-| **writing-plans** | 2-5 minute task granularity, exact file paths, verification steps | Each generated task must fit one tick — prevents oversized tasks like "seed strategies" that should be 3-5 smaller ones |
-| **planning/blueprint** | "Brainstorm before investigating" — name 2-3 candidates before running probes | Prevents aimless investigation: the Coach already has context from the review and should hypothesize before curling endpoints |
-| **planning/product-lens** | ICE scoring (Impact ...
+        subgraph Memory["Observation Memory Layer (coach_memory.py)"]
+            direction LR
+            BRKR[Circuit Breaker] -->|if not tripped| INDEX[Memory Index]
+...

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 31941
-stars: 2971
+stars: 2972
 last_pushed: '2026-02-23'
 license: MIT
 tags:
@@ -23,7 +23,7 @@ topics:
   - svgo
   - toolbox
   - webworkers
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # omatsuri
@@ -38,7 +38,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 31,941 KB
-- **Stars:** 2,971
+- **Stars:** 2,972
 - **Last Pushed:** 2026-02-23
 - **License:** MIT
 - **Tags:** css, go, react, web-app

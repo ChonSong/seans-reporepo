@@ -5,13 +5,13 @@ description: Coder Desktop application for Linux (experimental)
 type: unknown
 status: active
 language: 'C#'
-size_kb: 723
+size_kb: 728
 stars: 6
-last_pushed: '2026-03-05'
+last_pushed: '2026-06-26'
 license: 'AGPL-3.0'
 tags: []
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # coder-desktop-linux
@@ -25,7 +25,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** C#
-- **Size:** 723 KB
+- **Size:** 728 KB
 - **Stars:** 6
-- **Last Pushed:** 2026-03-05
+- **Last Pushed:** 2026-06-26
 - **License:** AGPL-3.0

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 8509
-stars: 559
+stars: 563
 last_pushed: '2026-06-20'
 license: MIT
 tags:
@@ -28,7 +28,7 @@ topics:
   - local-first
   - openclaw
   - typescript
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # tandem-browser
@@ -43,7 +43,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 8,509 KB
-- **Stars:** 559
+- **Stars:** 563
 - **Last Pushed:** 2026-06-20
 - **License:** MIT
 - **Tags:** ai, aie, browser-automation, docker, openclaw, sustainability, training, typescript, web-app

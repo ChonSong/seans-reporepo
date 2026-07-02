@@ -5,13 +5,13 @@ description: The best ChatGPT that $100 can buy.
 type: unknown
 status: active
 language: Python
-size_kb: 1965
-stars: 55275
-last_pushed: '2026-05-05'
+size_kb: 1968
+stars: 55690
+last_pushed: '2026-07-02'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-06-21 07:46 UTC'
+refreshed_at: '2026-07-02 10:28 UTC'
 ---
 
 # nanochat
@@ -25,7 +25,7 @@ refreshed_at: '2026-06-21 07:46 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,965 KB
-- **Stars:** 55,275
-- **Last Pushed:** 2026-05-05
+- **Size:** 1,968 KB
+- **Stars:** 55,690
+- **Last Pushed:** 2026-07-02
 - **License:** MIT
