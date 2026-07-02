@@ -6,13 +6,13 @@ type: agent
 status: active
 language: PDDL
 size_kb: 884148
-stars: 1420
+stars: 1422
 last_pushed: '2026-07-02'
 license: 'Apache-2.0'
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # skillsbench
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** PDDL
 - **Size:** 884,148 KB
-- **Stars:** 1,420
+- **Stars:** 1,422
 - **Last Pushed:** 2026-07-02
 - **License:** Apache-2.0
 - **Tags:** agent

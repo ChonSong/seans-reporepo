@@ -5,7 +5,7 @@ description: QEMU in a Docker container.
 type: infrastructure
 status: active
 language: Shell
-size_kb: 1374
+size_kb: 1333
 stars: 1882
 last_pushed: '2026-07-02'
 license: MIT
@@ -21,7 +21,7 @@ topics:
   - qemu-kvm
   - virtual-machine
   - virtualization
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # qemu
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Shell
-- **Size:** 1,374 KB
+- **Size:** 1,333 KB
 - **Stars:** 1,882
 - **Last Pushed:** 2026-07-02
 - **License:** MIT

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 94512
-stars: 142956
+stars: 143046
 last_pushed: '2026-07-02'
 license: 'AGPL-3.0'
 tags:
@@ -40,7 +40,7 @@ topics:
   - web-scraping
   - web-search
   - webscraping
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # firecrawl
@@ -55,7 +55,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 94,512 KB
-- **Stars:** 142,956
+- **Stars:** 143,046
 - **Last Pushed:** 2026-07-02
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, aie, api, browser-automation, docker, llm, sustainability, training, web-app

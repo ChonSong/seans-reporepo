@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Go
 size_kb: 16677
-stars: 4981
+stars: 4983
 last_pushed: '2026-07-02'
 license: 'Apache-2.0'
 tags:
@@ -16,7 +16,7 @@ tags:
 topics:
   - agent-teams
   - openclaw
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # AgentTeams
@@ -31,7 +31,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 16,677 KB
-- **Stars:** 4,981
+- **Stars:** 4,983
 - **Last Pushed:** 2026-07-02
 - **License:** Apache-2.0
 - **Tags:** agent, multi-agent, openclaw

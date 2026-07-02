@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 267755
-stars: 54753
+stars: 54763
 last_pushed: '2026-07-01'
 license: MIT
 tags:
@@ -25,7 +25,7 @@ topics:
   - ai-agents
   - aiagentframework
   - llms
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # crewAI
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 267,755 KB
-- **Stars:** 54,753
+- **Stars:** 54,763
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** agent, ai, aie, docker, framework, llm, orchestration, sustainability, training

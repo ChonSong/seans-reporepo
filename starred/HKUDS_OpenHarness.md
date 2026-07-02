@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Python
 size_kb: 11137
-stars: 14362
+stars: 14370
 last_pushed: '2026-06-04'
 license: MIT
 tags:
   - agent
   - harness
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # OpenHarness
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 11,137 KB
-- **Stars:** 14,362
+- **Stars:** 14,370
 - **Last Pushed:** 2026-06-04
 - **License:** MIT
 - **Tags:** agent, harness

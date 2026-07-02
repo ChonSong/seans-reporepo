@@ -6,14 +6,14 @@ type: unknown
 status: active
 language: Python
 size_kb: 10452
-stars: 73137
+stars: 73140
 last_pushed: '2026-07-01'
 license: MIT
 tags:
   - ai
   - react
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # screenshot-to-code
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 10,452 KB
-- **Stars:** 73,137
+- **Stars:** 73,140
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** ai, react

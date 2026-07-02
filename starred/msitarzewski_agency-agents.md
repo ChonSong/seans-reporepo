@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Shell
 size_kb: 3651
-stars: 124839
+stars: 125042
 last_pushed: '2026-07-01'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # agency-agents
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 3,651 KB
-- **Stars:** 124,839
+- **Stars:** 125,042
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** agent, ai

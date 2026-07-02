@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 53159
-stars: 67115
+stars: 67152
 last_pushed: '2026-07-02'
 license: MIT
 tags:
@@ -17,7 +17,7 @@ tags:
   - llm
   - tui
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # pi
@@ -32,7 +32,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 53,159 KB
-- **Stars:** 67,115
+- **Stars:** 67,152
 - **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** agent, ai, api, cli, llm, tui

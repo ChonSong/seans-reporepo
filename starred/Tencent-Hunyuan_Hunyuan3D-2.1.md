@@ -22,7 +22,7 @@ topics:
   - shape-generation
   - text-to-3d
   - texture-genertaion
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # Hunyuan3D-2.1

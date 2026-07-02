@@ -5,14 +5,14 @@ description: Skills for Real Engineers. Straight from my .claude directory.
 type: unknown
 status: active
 language: Shell
-size_kb: 477
-stars: 153767
+size_kb: 513
+stars: 153935
 last_pushed: '2026-07-02'
 license: MIT
 tags:
   - ai
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # skills
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 477 KB
-- **Stars:** 153,767
+- **Size:** 513 KB
+- **Stars:** 153,935
 - **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** ai

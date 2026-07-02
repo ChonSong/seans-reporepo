@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Go
 size_kb: 29922
-stars: 8325
+stars: 8330
 last_pushed: '2026-07-02'
 license: 'Apache-2.0'
 tags:
@@ -37,7 +37,7 @@ topics:
   - multi-agent-systems
   - sdk
   - vertex-ai
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # adk-go
@@ -52,7 +52,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 29,922 KB
-- **Stars:** 8,325
+- **Stars:** 8,330
 - **Last Pushed:** 2026-07-02
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, docker, framework, go, library, llm, mcp, multi-agent, sustainability, training

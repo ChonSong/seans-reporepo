@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 1312
-stars: 25726
+stars: 25730
 last_pushed: '2026-07-01'
 license: 'AGPL-3.0'
 tags:
@@ -15,7 +15,7 @@ topics:
   - abliteration
   - llm
   - transformer
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # heretic
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 1,312 KB
-- **Stars:** 25,726
+- **Stars:** 25,730
 - **Last Pushed:** 2026-07-01
 - **License:** AGPL-3.0
 - **Tags:** llm

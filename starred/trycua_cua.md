@@ -6,7 +6,7 @@ type: agent
 status: active
 language: HTML
 size_kb: 264258
-stars: 19300
+stars: 19307
 last_pushed: '2026-07-01'
 license: MIT
 tags:
@@ -39,7 +39,7 @@ topics:
   - virtualization-framework
   - windows
   - windows-sandbox
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # cua
@@ -54,7 +54,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 264,258 KB
-- **Stars:** 19,300
+- **Stars:** 19,307
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, infrastructure, multi-agent

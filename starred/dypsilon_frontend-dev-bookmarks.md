@@ -17,7 +17,7 @@ topics:
   - awesome-list
   - frontend
   - list
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # frontend-dev-bookmarks

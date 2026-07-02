@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: Shell
 size_kb: 116558
-stars: 685
+stars: 688
 last_pushed: '2026-07-02'
 license: unknown
 tags: []
 topics: []
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # fugu
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 116,558 KB
-- **Stars:** 685
+- **Stars:** 688
 - **Last Pushed:** 2026-07-02
 - **License:** unknown

@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 58063
-stars: 18306
+stars: 18310
 last_pushed: '2026-07-01'
 license: NOASSERTION
 tags:
@@ -27,7 +27,7 @@ topics:
   - autonomous
   - linux
   - zero
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # agent-zero
@@ -42,7 +42,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 58,063 KB
-- **Stars:** 18,306
+- **Stars:** 18,310
 - **Last Pushed:** 2026-07-01
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, coding-agent, docker, framework, multi-agent, sustainability, training, ui

@@ -6,7 +6,7 @@ type: cli
 status: active
 language: TypeScript
 size_kb: 85652
-stars: 2100
+stars: 2102
 last_pushed: '2026-07-01'
 license: MIT
 tags:
@@ -21,7 +21,7 @@ topics:
   - geforce-now
   - gfn
   - nvidia
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # OpenNOW
@@ -36,7 +36,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 85,652 KB
-- **Stars:** 2,100
+- **Stars:** 2,102
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** cli, gaming, infrastructure, paas

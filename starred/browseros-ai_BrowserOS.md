@@ -5,7 +5,7 @@ description: '🌐 The open-source Agentic browser; alternative to ChatGPT Atlas
 type: agent
 status: active
 language: TypeScript
-size_kb: 187031
+size_kb: 187120
 stars: 11617
 last_pushed: '2026-07-02'
 license: 'AGPL-3.0'
@@ -28,7 +28,7 @@ topics:
   - macos
   - ollama
   - windows
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # BrowserOS
@@ -42,7 +42,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 187,031 KB
+- **Size:** 187,120 KB
 - **Stars:** 11,617
 - **Last Pushed:** 2026-07-02
 - **License:** AGPL-3.0

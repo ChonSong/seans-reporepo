@@ -5,8 +5,8 @@ description: 'omo/lazycodex: The coding agent for tokenmaxxers;the one and only 
 type: agent
 status: active
 language: TypeScript
-size_kb: 94183
-stars: 64557
+size_kb: 94186
+stars: 64576
 last_pushed: '2026-07-02'
 license: NOASSERTION
 tags:
@@ -41,7 +41,7 @@ topics:
   - orchestration
   - tui
   - typescript
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # oh-my-openagent
@@ -55,8 +55,8 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 94,183 KB
-- **Stars:** 64,557
+- **Size:** 94,186 KB
+- **Stars:** 64,576
 - **Last Pushed:** 2026-07-02
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, harness, ide, orchestration, sustainability, training, tui, typescript, ui, video

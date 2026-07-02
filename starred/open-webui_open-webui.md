@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 384111
-stars: 143783
+stars: 143808
 last_pushed: '2026-07-01'
 license: NOASSERTION
 tags:
@@ -40,7 +40,7 @@ topics:
   - self-hosted
   - ui
   - webui
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # open-webui
@@ -55,7 +55,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 384,111 KB
-- **Stars:** 143,783
+- **Stars:** 143,808
 - **Last Pushed:** 2026-07-01
 - **License:** NOASSERTION
 - **Tags:** ai, aie, api, chat-ui, docker, image-gen, llm, mcp, rag, reliability, sustainability, training, tui, ui

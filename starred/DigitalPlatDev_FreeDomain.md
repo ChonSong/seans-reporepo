@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: HTML
 size_kb: 972
-stars: 182125
+stars: 182166
 last_pushed: '2026-04-24'
 license: 'AGPL-3.0'
 tags:
@@ -20,7 +20,7 @@ topics:
   - domains
   - free
   - freedomain
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # FreeDomain
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 972 KB
-- **Stars:** 182,125
+- **Stars:** 182,166
 - **Last Pushed:** 2026-04-24
 - **License:** AGPL-3.0
 - **Tags:** ai, paas

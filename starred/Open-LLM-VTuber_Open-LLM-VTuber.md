@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 46740
-stars: 12255
+stars: 12262
 last_pushed: '2026-05-15'
 license: NOASSERTION
 tags:
@@ -30,7 +30,7 @@ topics:
   - llm
   - neuro-sama
   - ollama
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # Open-LLM-VTuber
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 46,740 KB
-- **Stars:** 12,255
+- **Stars:** 12,262
 - **Last Pushed:** 2026-05-15
 - **License:** NOASSERTION
 - **Tags:** ai, aie, bot, chat-ui, docker, llm, sustainability, training, voice

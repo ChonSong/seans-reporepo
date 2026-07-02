@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: HTML
 size_kb: 2498
-stars: 6172
+stars: 6173
 last_pushed: '2026-04-05'
 license: MIT
 tags:
@@ -19,7 +19,7 @@ topics:
   - force-directed-graphs
   - threejs
   - webgl
-refreshed_at: '2026-07-02 10:28 UTC'
+refreshed_at: '2026-07-02 13:30 UTC'
 ---
 
 # 3d-force-graph
@@ -34,7 +34,7 @@ refreshed_at: '2026-07-02 10:28 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 2,498 KB
-- **Stars:** 6,172
+- **Stars:** 6,173
 - **Last Pushed:** 2026-04-05
 - **License:** MIT
 - **Tags:** web-app
