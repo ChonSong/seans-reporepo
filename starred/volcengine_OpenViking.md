@@ -5,9 +5,9 @@ description: 'Self-evolving Context Database for AI Agents. Unify Agent Memory, 
 type: agent
 status: active
 language: Python
-size_kb: 197183
-stars: 26259
-last_pushed: '2026-07-02'
+size_kb: 195907
+stars: 26318
+last_pushed: '2026-07-04'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -21,7 +21,7 @@ topics:
   - agentic-rag
   - context-database
   - self-evolving
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # OpenViking
@@ -35,8 +35,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 197,183 KB
-- **Stars:** 26,259
-- **Last Pushed:** 2026-07-02
+- **Size:** 195,907 KB
+- **Stars:** 26,318
+- **Last Pushed:** 2026-07-04
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, database, plugin, rag

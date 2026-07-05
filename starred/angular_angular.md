@@ -6,7 +6,7 @@ type: webapp
 status: active
 language: TypeScript
 size_kb: 644821
-stars: 100395
+stars: 100479
 last_pushed: '2026-07-01'
 license: MIT
 tags:
@@ -24,7 +24,7 @@ topics:
   - web
   - web-framework
   - web-performance
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # angular
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 644,821 KB
-- **Stars:** 100,395
+- **Stars:** 100,479
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** design-system, framework, ide, javascript, typescript, web-app

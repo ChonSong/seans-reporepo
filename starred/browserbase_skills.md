@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 7490
-stars: 3617
+stars: 3622
 last_pushed: '2026-06-27'
 license: unknown
 tags:
@@ -14,7 +14,7 @@ tags:
   - browser-automation
   - web-app
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # skills
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 7,490 KB
-- **Stars:** 3,617
+- **Stars:** 3,622
 - **Last Pushed:** 2026-06-27
 - **License:** unknown
 - **Tags:** agent, browser-automation, web-app

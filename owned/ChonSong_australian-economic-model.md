@@ -5,9 +5,9 @@ description: 'Interactive Streamlit app modelling the Australian economy using S
 type: library
 status: active
 language: Python
-size_kb: 258810
+size_kb: 258823
 stars: 0
-last_pushed: '2026-07-02'
+last_pushed: '2026-07-04'
 license: unknown
 tags:
   - ai
@@ -19,7 +19,7 @@ tags:
   - python
   - solver
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # australian-economic-model
@@ -33,9 +33,9 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 258,810 KB
+- **Size:** 258,823 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-02
+- **Last Pushed:** 2026-07-04
 - **License:** unknown
 - **Tags:** ai, api, browser-automation, energy, framework, go, python, solver
 

@@ -6,14 +6,14 @@ type: unknown
 status: active
 language: Python
 size_kb: 845
-stars: 23402
+stars: 23487
 last_pushed: '2026-06-11'
 license: MIT
 tags:
   - llm
   - mcp
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # blender-mcp
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 845 KB
-- **Stars:** 23,402
+- **Stars:** 23,487
 - **Last Pushed:** 2026-06-11
 - **License:** MIT
 - **Tags:** llm, mcp

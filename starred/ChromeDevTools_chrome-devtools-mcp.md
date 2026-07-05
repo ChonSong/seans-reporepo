@@ -5,9 +5,9 @@ description: Chrome DevTools for coding agents
 type: agent
 status: active
 language: TypeScript
-size_kb: 9439
-stars: 44947
-last_pushed: '2026-07-02'
+size_kb: 9746
+stars: 45810
+last_pushed: '2026-07-05'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -23,7 +23,7 @@ topics:
   - mcp
   - mcp-server
   - puppeteer
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # chrome-devtools-mcp
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 9,439 KB
-- **Stars:** 44,947
-- **Last Pushed:** 2026-07-02
+- **Size:** 9,746 KB
+- **Stars:** 45,810
+- **Last Pushed:** 2026-07-05
 - **License:** Apache-2.0
 - **Tags:** agent, browser-automation, infrastructure, mcp

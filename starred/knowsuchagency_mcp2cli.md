@@ -6,7 +6,7 @@ type: cli
 status: active
 language: Python
 size_kb: 35604
-stars: 2269
+stars: 2276
 last_pushed: '2026-06-30'
 license: MIT
 tags:
@@ -24,7 +24,7 @@ topics:
   - graphql
   - mcp
   - openapi
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # mcp2cli
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 35,604 KB
-- **Stars:** 2,269
+- **Stars:** 2,276
 - **Last Pushed:** 2026-06-30
 - **License:** MIT
 - **Tags:** ai, aie, api, cli, docker, mcp, sustainability, training

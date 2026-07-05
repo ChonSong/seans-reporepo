@@ -5,9 +5,9 @@ description: Your own personal AI assistant. Any OS. Any Platform. The lobster w
 type: agent
 status: active
 language: TypeScript
-size_kb: 1627510
-stars: 381423
-last_pushed: '2026-07-02'
+size_kb: 1654473
+stars: 381746
+last_pushed: '2026-07-05'
 license: NOASSERTION
 tags:
   - ai
@@ -25,7 +25,7 @@ topics:
   - openclaw
   - own-your-data
   - personal
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # openclaw
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 1,627,510 KB
-- **Stars:** 381,423
-- **Last Pushed:** 2026-07-02
+- **Size:** 1,654,473 KB
+- **Stars:** 381,746
+- **Last Pushed:** 2026-07-05
 - **License:** NOASSERTION
 - **Tags:** ai, aie, docker, openclaw, rust, sustainability, training

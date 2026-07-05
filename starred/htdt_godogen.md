@@ -1,12 +1,12 @@
 ---
 repo: htdt/godogen
 url: 'https://github.com/htdt/godogen'
-description: Autonomous game development for Godot and Bevy with Claude Code and Codex
+description: 'Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex'
 type: unknown
 status: active
 language: Python
-size_kb: 775
-stars: 4222
+size_kb: 784
+stars: 4257
 last_pushed: '2026-07-02'
 license: MIT
 tags:
@@ -24,12 +24,12 @@ topics:
   - godot
   - godot4
   - skills
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # godogen
 
-> Autonomous game development for Godot and Bevy with Claude Code and Codex
+> Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
 
 **URL:** [htdt/godogen](https://github.com/htdt/godogen)
 
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 775 KB
-- **Stars:** 4,222
+- **Size:** 784 KB
+- **Stars:** 4,257
 - **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** cli, gaming, go

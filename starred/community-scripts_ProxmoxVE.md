@@ -5,9 +5,9 @@ description: 'Proxmox VE Helper-Scripts (Community Edition) '
 type: unknown
 status: active
 language: Shell
-size_kb: 42332
-stars: 28769
-last_pushed: '2026-07-02'
+size_kb: 42227
+stars: 28810
+last_pushed: '2026-07-05'
 license: MIT
 tags:
   - ai
@@ -35,7 +35,7 @@ topics:
   - smarthome
   - ubuntu
   - vm
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # ProxmoxVE
@@ -49,8 +49,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 42,332 KB
-- **Stars:** 28,769
-- **Last Pushed:** 2026-07-02
+- **Size:** 42,227 KB
+- **Stars:** 28,810
+- **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** ai, automation, docker, security

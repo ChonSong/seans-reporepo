@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 309493
-stars: 19598
+stars: 19605
 last_pushed: '2026-02-27'
 license: 'Apache-2.0'
 tags:
@@ -26,7 +26,7 @@ topics:
   - llm
   - tongyi
   - web-agent
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # DeepResearch
@@ -41,7 +41,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 309,493 KB
-- **Stars:** 19,598
+- **Stars:** 19,605
 - **Last Pushed:** 2026-02-27
 - **License:** Apache-2.0
 - **Tags:** agent, ai, coding-agent, llm, multi-agent, research

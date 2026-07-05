@@ -6,7 +6,7 @@ type: agent
 status: active
 language: MDX
 size_kb: 7709
-stars: 73096
+stars: 73123
 last_pushed: '2026-06-18'
 license: unknown
 tags:
@@ -34,7 +34,7 @@ topics:
   - resources
   - rules
   - web-development
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # Front-End-Checklist
@@ -49,7 +49,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** MDX
 - **Size:** 7,709 KB
-- **Stars:** 73,096
+- **Stars:** 73,123
 - **Last Pushed:** 2026-06-18
 - **License:** unknown
 - **Tags:** agent, ai, awesome-list, css, ide, javascript, ui, web-app

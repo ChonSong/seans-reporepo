@@ -5,9 +5,9 @@ description: 🐻 Bear necessities for state management in React
 type: unknown
 status: active
 language: TypeScript
-size_kb: 7923
-stars: 58372
-last_pushed: '2026-07-01'
+size_kb: 7926
+stars: 58422
+last_pushed: '2026-07-04'
 license: MIT
 tags:
   - react
@@ -20,7 +20,7 @@ topics:
   - reactjs
   - redux
   - state-management
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # zustand
@@ -34,8 +34,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 7,923 KB
-- **Stars:** 58,372
-- **Last Pushed:** 2026-07-01
+- **Size:** 7,926 KB
+- **Stars:** 58,422
+- **Last Pushed:** 2026-07-04
 - **License:** MIT
 - **Tags:** react, ui

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 26472
-stars: 4897
+stars: 4902
 last_pushed: '2026-06-25'
 license: NOASSERTION
 tags:
@@ -36,7 +36,7 @@ topics:
   - memory
   - typescript
   - vibe-coding
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # byterover-cli
@@ -51,7 +51,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 26,472 KB
-- **Stars:** 4,897
+- **Stars:** 4,902
 - **Last Pushed:** 2026-06-25
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, cli, coding-agent, docker, llm, mcp, multi-agent, sustainability, training, typescript

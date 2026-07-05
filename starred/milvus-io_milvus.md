@@ -5,9 +5,9 @@ description: 'Milvus is a high-performance, cloud-native vector database built f
 type: unknown
 status: active
 language: Go
-size_kb: 307091
-stars: 45044
-last_pushed: '2026-07-02'
+size_kb: 304228
+stars: 45073
+last_pushed: '2026-07-04'
 license: 'Apache-2.0'
 tags:
   - ai
@@ -37,7 +37,7 @@ topics:
   - vector-search
   - vector-similarity
   - vector-store
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # milvus
@@ -51,8 +51,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 307,091 KB
-- **Stars:** 45,044
-- **Last Pushed:** 2026-07-02
+- **Size:** 304,228 KB
+- **Stars:** 45,073
+- **Last Pushed:** 2026-07-04
 - **License:** Apache-2.0
 - **Tags:** ai, database, go, infrastructure, llm, rag, vector-db, vector-search

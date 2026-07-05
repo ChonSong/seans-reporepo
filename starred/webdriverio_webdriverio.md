@@ -6,7 +6,7 @@ type: library
 status: active
 language: TypeScript
 size_kb: 382186
-stars: 9798
+stars: 9800
 last_pushed: '2026-07-02'
 license: MIT
 tags:
@@ -29,7 +29,7 @@ topics:
   - test
   - webdriver
   - webdriverio
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # webdriverio
@@ -44,7 +44,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 382,186 KB
-- **Stars:** 9,798
+- **Stars:** 9,800
 - **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** automation, browser-automation, framework, javascript, mobile, testing

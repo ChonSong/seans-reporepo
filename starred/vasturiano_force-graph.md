@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: JavaScript
 size_kb: 2732
-stars: 2055
+stars: 2056
 last_pushed: '2026-04-16'
 license: MIT
 tags: []
@@ -16,7 +16,7 @@ topics:
   - force
   - force-directed-graph
   - simulation
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # force-graph
@@ -31,6 +31,6 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 2,732 KB
-- **Stars:** 2,055
+- **Stars:** 2,056
 - **Last Pushed:** 2026-04-16
 - **License:** MIT

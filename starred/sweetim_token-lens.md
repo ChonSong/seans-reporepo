@@ -5,9 +5,9 @@ description: Master your LLM spend with usage insights tailored to your coding s
 type: unknown
 status: active
 language: TypeScript
-size_kb: 2419
-stars: 12
-last_pushed: '2026-05-16'
+size_kb: 2480
+stars: 13
+last_pushed: '2026-07-04'
 license: MIT
 tags:
   - ai
@@ -22,7 +22,7 @@ topics:
   - quota
   - token
   - usage
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # token-lens
@@ -36,8 +36,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 2,419 KB
-- **Stars:** 12
-- **Last Pushed:** 2026-05-16
+- **Size:** 2,480 KB
+- **Stars:** 13
+- **Last Pushed:** 2026-07-04
 - **License:** MIT
 - **Tags:** ai, analytics, dashboard, llm, monitoring

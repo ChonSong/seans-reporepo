@@ -5,9 +5,9 @@ description: '🪢 Open source AI engineering platform: LLM evals, observability
 type: unknown
 status: active
 language: TypeScript
-size_kb: 92996
-stars: 30298
-last_pushed: '2026-07-02'
+size_kb: 93648
+stars: 30423
+last_pushed: '2026-07-04'
 license: NOASSERTION
 tags:
   - ai
@@ -36,7 +36,7 @@ topics:
   - prompt-management
   - self-hosted
   - ycombinator
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # langfuse
@@ -50,8 +50,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 92,996 KB
-- **Stars:** 30,298
-- **Last Pushed:** 2026-07-02
+- **Size:** 93,648 KB
+- **Stars:** 30,423
+- **Last Pushed:** 2026-07-04
 - **License:** NOASSERTION
 - **Tags:** ai, analytics, llm, monitoring, observability, telemetry

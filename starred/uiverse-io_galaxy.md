@@ -6,7 +6,7 @@ type: library
 status: active
 language: HTML
 size_kb: 5373
-stars: 11240
+stars: 11254
 last_pushed: '2024-09-02'
 license: MIT
 tags:
@@ -22,7 +22,7 @@ topics:
   - css
   - tailwind
   - ui
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # galaxy
@@ -37,7 +37,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 5,373 KB
-- **Stars:** 11,240
+- **Stars:** 11,254
 - **Last Pushed:** 2024-09-02
 - **License:** MIT
 - **Tags:** ai, chat-ui, css, image-gen, reliability, tui, ui

@@ -5,9 +5,9 @@ description: 'The API to search, scrape, and interact with the web at scale. ðŸ”
 type: unknown
 status: active
 language: TypeScript
-size_kb: 94512
-stars: 143046
-last_pushed: '2026-07-02'
+size_kb: 94370
+stars: 144459
+last_pushed: '2026-07-04'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -40,7 +40,7 @@ topics:
   - web-scraping
   - web-search
   - webscraping
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # firecrawl
@@ -54,8 +54,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 94,512 KB
-- **Stars:** 143,046
-- **Last Pushed:** 2026-07-02
+- **Size:** 94,370 KB
+- **Stars:** 144,459
+- **Last Pushed:** 2026-07-04
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, aie, api, browser-automation, docker, llm, sustainability, training, web-app

@@ -5,9 +5,9 @@ description: 'An open-source, code-first Go toolkit for building, evaluating, an
 type: agent
 status: active
 language: Go
-size_kb: 29922
-stars: 8330
-last_pushed: '2026-07-02'
+size_kb: 29960
+stars: 8372
+last_pushed: '2026-07-04'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -37,7 +37,7 @@ topics:
   - multi-agent-systems
   - sdk
   - vertex-ai
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # adk-go
@@ -51,8 +51,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 29,922 KB
-- **Stars:** 8,330
-- **Last Pushed:** 2026-07-02
+- **Size:** 29,960 KB
+- **Stars:** 8,372
+- **Last Pushed:** 2026-07-04
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, docker, framework, go, library, llm, mcp, multi-agent, sustainability, training

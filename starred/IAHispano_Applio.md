@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 52097
-stars: 3431
+stars: 3439
 last_pushed: '2026-07-02'
 license: MIT
 tags:
@@ -31,7 +31,7 @@ topics:
   - voice-clone
   - voice-cloning
   - voice-conversion
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # Applio
@@ -46,7 +46,7 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 52,097 KB
-- **Stars:** 3,431
+- **Stars:** 3,439
 - **Last Pushed:** 2026-07-02
 - **License:** MIT
 - **Tags:** ai, aie, docker, sustainability, training, voice

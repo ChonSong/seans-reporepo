@@ -5,9 +5,9 @@ description: 'Open-source GTO poker training platform — equity calculator, CFR
 type: monorepo
 status: active
 language: TypeScript
-size_kb: 120090
+size_kb: 120120
 stars: 2
-last_pushed: '2026-07-02'
+last_pushed: '2026-07-04'
 license: unknown
 tags:
   - ai
@@ -24,7 +24,7 @@ tags:
   - typescript
   - web-app
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # gto-wizard-clone
@@ -38,9 +38,9 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 120,090 KB
+- **Size:** 120,120 KB
 - **Stars:** 2
-- **Last Pushed:** 2026-07-02
+- **Last Pushed:** 2026-07-04
 - **License:** unknown
 - **Tags:** ai, api, database, docker, gaming, python, react, solver, testing, training, transpilation, typescript, web-app
 

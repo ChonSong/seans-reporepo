@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: Shell
 size_kb: 27
-stars: 2918
+stars: 2937
 last_pushed: '2026-06-14'
 license: unknown
 tags: []
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # 9arm-skills
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 27 KB
-- **Stars:** 2,918
+- **Stars:** 2,937
 - **Last Pushed:** 2026-06-14
 - **License:** unknown

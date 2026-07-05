@@ -1,7 +1,7 @@
 ---
 repo: 'vostride/agent-qa'
 url: 'https://github.com/vostride/agent-qa'
-description: 'The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.'
+description: 'The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.'
 type: agent
 status: active
 language: TypeScript
@@ -20,6 +20,8 @@ tags:
   - harness
   - llm
   - mcp
+  - mobile
+  - multi-agent
   - openclaw
   - sustainability
   - testing
@@ -46,12 +48,12 @@ topics:
   - playwright
   - testing
   - webdriverio
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # agent-qa
 
-> The self-improving Agentic QA harness with Memory. Write tests in natural language.  Catch regressions before releases ship.
+> The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.
 
 **URL:** [vostride/agent-qa](https://github.com/vostride/agent-qa)
 
@@ -64,4 +66,4 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Stars:** 152
 - **Last Pushed:** 2026-06-14
 - **License:** NOASSERTION
-- **Tags:** agent, ai, aie, bot, chat-ui, database, docker, harness, llm, mcp, openclaw, sustainability, testing, training, web-app
+- **Tags:** agent, ai, aie, bot, chat-ui, database, docker, harness, llm, mcp, mobile, multi-agent, openclaw, sustainability, testing, training, web-app

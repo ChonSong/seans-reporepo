@@ -5,9 +5,9 @@ description: 'A curated list of awesome skills, tools, integrations, and resourc
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 42
-stars: 4377
-last_pushed: '2026-06-23'
+size_kb: 41
+stars: 4418
+last_pushed: '2026-07-04'
 license: NOASSERTION
 tags:
   - agent
@@ -22,7 +22,7 @@ topics:
   - hermes-agent
   - nous-research
   - skills
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # awesome-hermes-agent
@@ -36,8 +36,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 42 KB
-- **Stars:** 4,377
-- **Last Pushed:** 2026-06-23
+- **Size:** 41 KB
+- **Stars:** 4,418
+- **Last Pushed:** 2026-07-04
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, hermes-agent, research

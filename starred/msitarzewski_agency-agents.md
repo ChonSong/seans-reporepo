@@ -5,15 +5,15 @@ description: 'A complete AI agency at your fingertips - From frontend wizards to
 type: agent
 status: active
 language: Shell
-size_kb: 3651
-stars: 125042
-last_pushed: '2026-07-01'
+size_kb: 3653
+stars: 127082
+last_pushed: '2026-07-04'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-02 13:30 UTC'
+refreshed_at: '2026-07-05 03:43 UTC'
 ---
 
 # agency-agents
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-02 13:30 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Shell
-- **Size:** 3,651 KB
-- **Stars:** 125,042
-- **Last Pushed:** 2026-07-01
+- **Size:** 3,653 KB
+- **Stars:** 127,082
+- **Last Pushed:** 2026-07-04
 - **License:** MIT
 - **Tags:** agent, ai
