@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: Python
 size_kb: 6569
-stars: 253
+stars: 254
 last_pushed: '2026-04-07'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # Lingxi
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 6,569 KB
-- **Stars:** 253
+- **Stars:** 254
 - **Last Pushed:** 2026-04-07
 - **License:** MIT

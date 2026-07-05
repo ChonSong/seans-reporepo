@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 137622
-stars: 16328
+stars: 16337
 last_pushed: '2026-07-03'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # hydra
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 137,622 KB
-- **Stars:** 16,328
+- **Stars:** 16,337
 - **Last Pushed:** 2026-07-03
 - **License:** MIT

@@ -6,13 +6,13 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 1028
-stars: 25043
+stars: 25122
 last_pushed: '2026-06-29'
 license: unknown
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # skills
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 1,028 KB
-- **Stars:** 25,043
+- **Stars:** 25,122
 - **Last Pushed:** 2026-06-29
 - **License:** unknown
 - **Tags:** agent

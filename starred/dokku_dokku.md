@@ -6,7 +6,7 @@ type: infrastructure
 status: active
 language: Shell
 size_kb: 24666
-stars: 31974
+stars: 31983
 last_pushed: '2026-07-03'
 license: MIT
 tags:
@@ -26,7 +26,7 @@ topics:
   - paas
   - self-hosted
   - selfhosted
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # dokku
@@ -41,7 +41,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 24,666 KB
-- **Stars:** 31,974
+- **Stars:** 31,983
 - **Last Pushed:** 2026-07-03
 - **License:** MIT
 - **Tags:** ai, docker, paas, ui

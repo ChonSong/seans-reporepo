@@ -5,9 +5,9 @@ description: 'Agent Skill: PHP 8.x modernization patterns - typing, attributes, 
 type: agent
 status: active
 language: Python
-size_kb: 441
+size_kb: 447
 stars: 33
-last_pushed: '2026-07-04'
+last_pushed: '2026-07-05'
 license: NOASSERTION
 tags:
   - agent
@@ -16,7 +16,7 @@ topics:
   - agent-skills
   - ai-agent
   - open-standard
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # php-modernization-skill
@@ -30,8 +30,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 441 KB
+- **Size:** 447 KB
 - **Stars:** 33
-- **Last Pushed:** 2026-07-04
+- **Last Pushed:** 2026-07-05
 - **License:** NOASSERTION
 - **Tags:** agent, ai

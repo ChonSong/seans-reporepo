@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 41
-stars: 4418
+stars: 4481
 last_pushed: '2026-07-04'
 license: NOASSERTION
 tags:
@@ -22,7 +22,7 @@ topics:
   - hermes-agent
   - nous-research
   - skills
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # awesome-hermes-agent
@@ -37,7 +37,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 41 KB
-- **Stars:** 4,418
+- **Stars:** 4,481
 - **Last Pushed:** 2026-07-04
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, hermes-agent, research

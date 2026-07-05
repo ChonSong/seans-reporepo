@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 38575
-stars: 8910
+stars: 8916
 last_pushed: '2026-07-01'
 license: MIT
 tags:
@@ -25,7 +25,7 @@ topics:
   - sveltejs
   - sveltekit
   - tailwindcss
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # shadcn-svelte
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 38,575 KB
-- **Stars:** 8,910
+- **Stars:** 8,916
 - **Last Pushed:** 2026-07-01
 - **License:** MIT
 - **Tags:** ai, css, svelte, ui

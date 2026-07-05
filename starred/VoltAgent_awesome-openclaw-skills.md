@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 2225
-stars: 50928
+stars: 50949
 last_pushed: '2026-06-24'
 license: MIT
 tags:
@@ -29,7 +29,7 @@ topics:
   - moltbot-skills
   - openclaw
   - openclaw-skills
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # awesome-openclaw-skills
@@ -44,7 +44,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 2,225 KB
-- **Stars:** 50,928
+- **Stars:** 50,949
 - **Last Pushed:** 2026-06-24
 - **License:** MIT
 - **Tags:** agent, awesome-list, bot, database, go, openclaw

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 7750
-stars: 12055
+stars: 12061
 last_pushed: '2026-06-22'
 license: MIT
 tags:
@@ -43,7 +43,7 @@ topics:
   - vibe-coding
   - voyage-ai
   - vscode-extension
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # claude-context
@@ -58,7 +58,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 7,750 KB
-- **Stars:** 12,055
+- **Stars:** 12,061
 - **Last Pushed:** 2026-06-22
 - **License:** MIT
 - **Tags:** agent, ai, cli, coding-agent, database, embeddings, mcp, multi-agent, plugin, rag, typescript, vector-db

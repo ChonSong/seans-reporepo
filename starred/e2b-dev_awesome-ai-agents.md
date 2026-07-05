@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 117748
-stars: 28610
+stars: 28620
 last_pushed: '2025-02-26'
 license: NOASSERTION
 tags:
@@ -34,7 +34,7 @@ topics:
   - gpt-engineer
   - openai
   - python
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # awesome-ai-agents
@@ -49,7 +49,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 117,748 KB
-- **Stars:** 28,610
+- **Stars:** 28,620
 - **Last Pushed:** 2025-02-26
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, awesome-list, coding-agent, docker, multi-agent, python, sustainability, training

@@ -6,8 +6,8 @@ type: unknown
 status: active
 language: PHP
 size_kb: 52475
-stars: 18875
-last_pushed: '2026-07-04'
+stars: 18872
+last_pushed: '2026-07-05'
 license: MIT
 tags: []
 topics:
@@ -17,7 +17,7 @@ topics:
   - php
   - selfhosted
   - wiki
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # BookStack
@@ -32,6 +32,6 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** PHP
 - **Size:** 52,475 KB
-- **Stars:** 18,875
-- **Last Pushed:** 2026-07-04
+- **Stars:** 18,872
+- **Last Pushed:** 2026-07-05
 - **License:** MIT

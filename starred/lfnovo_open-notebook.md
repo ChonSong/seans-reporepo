@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 11952
-stars: 34839
+stars: 34956
 last_pushed: '2026-07-03'
 license: MIT
 tags:
@@ -19,7 +19,7 @@ topics:
   - notebook
   - notes-app
   - self-learning
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # open-notebook
@@ -34,7 +34,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 11,952 KB
-- **Stars:** 34,839
+- **Stars:** 34,956
 - **Last Pushed:** 2026-07-03
 - **License:** MIT
 - **Tags:** ai, education

@@ -6,7 +6,7 @@ type: infrastructure
 status: active
 language: Go
 size_kb: 54491
-stars: 41015
+stars: 41059
 last_pushed: '2026-07-03'
 license: 'BSD-3-Clause'
 tags:
@@ -18,7 +18,7 @@ topics:
   - tailscale-control-server
   - tailscale-server
   - wireguard
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # headscale
@@ -33,7 +33,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 54,491 KB
-- **Stars:** 41,015
+- **Stars:** 41,059
 - **Last Pushed:** 2026-07-03
 - **License:** BSD-3-Clause
 - **Tags:** ai, infrastructure, vpn

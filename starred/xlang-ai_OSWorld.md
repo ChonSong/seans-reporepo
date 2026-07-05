@@ -5,9 +5,9 @@ description: '[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-En
 type: agent
 status: active
 language: Python
-size_kb: 124520
-stars: 2990
-last_pushed: '2026-07-04'
+size_kb: 124521
+stars: 2992
+last_pushed: '2026-07-05'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -34,7 +34,7 @@ topics:
   - reinforcement-learning
   - rpa
   - vlm
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # OSWorld
@@ -48,8 +48,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 124,520 KB
-- **Stars:** 2,990
-- **Last Pushed:** 2026-07-04
+- **Size:** 124,521 KB
+- **Stars:** 2,992
+- **Last Pushed:** 2026-07-05
 - **License:** Apache-2.0
 - **Tags:** agent, ai, benchmarking, cli, coding-agent, education, llm, multi-agent, ui

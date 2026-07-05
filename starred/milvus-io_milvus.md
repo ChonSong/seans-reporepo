@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Go
 size_kb: 304228
-stars: 45073
+stars: 45081
 last_pushed: '2026-07-04'
 license: 'Apache-2.0'
 tags:
@@ -37,7 +37,7 @@ topics:
   - vector-search
   - vector-similarity
   - vector-store
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # milvus
@@ -52,7 +52,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 304,228 KB
-- **Stars:** 45,073
+- **Stars:** 45,081
 - **Last Pushed:** 2026-07-04
 - **License:** Apache-2.0
 - **Tags:** ai, database, go, infrastructure, llm, rag, vector-db, vector-search

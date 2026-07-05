@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 8365
-stars: 176
+stars: 179
 last_pushed: '2026-06-04'
 license: NOASSERTION
 tags:
@@ -59,7 +59,7 @@ topics:
   - robotics
   - sensor
   - simulation
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # ovrtx
@@ -74,7 +74,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 8,365 KB
-- **Stars:** 176
+- **Stars:** 179
 - **Last Pushed:** 2026-06-04
 - **License:** NOASSERTION
 - **Tags:** ai, analytics, audio, automation, awesome-list, backup, benchmarking, bot, browser-automation, chat-ui, cli, code-ingestion, code-packing, coding-agent, css, docker, education, energy, ide, image-gen, infrastructure, javascript, mcp, openclaw, orchestration, python, react, reliability, research, security, sustainability, sync, typescript, vector-db, vector-search, voice, web-app

@@ -5,8 +5,8 @@ description: '📦 Repomix is a powerful tool that packs your entire repository 
 type: unknown
 status: active
 language: TypeScript
-size_kb: 26102
-stars: 26842
+size_kb: 26196
+stars: 26869
 last_pushed: '2026-07-05'
 license: MIT
 tags:
@@ -43,7 +43,7 @@ topics:
   - nodejs
   - openai
   - typescript
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # repomix
@@ -57,8 +57,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 26,102 KB
-- **Stars:** 26,842
+- **Size:** 26,196 KB
+- **Stars:** 26,869
 - **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** ai, aie, bot, chat-ui, code-packing, docker, javascript, llm, mcp, sustainability, training, typescript

@@ -5,16 +5,16 @@ description: 'An open-source framework for making universal native apps with Rea
 type: library
 status: active
 language: TypeScript
-size_kb: 3226553
+size_kb: 3226330
 stars: 7
-last_pushed: '2026-07-03'
+last_pushed: '2026-07-05'
 license: MIT
 tags:
   - framework
   - react
   - web-app
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # expo
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 3,226,553 KB
+- **Size:** 3,226,330 KB
 - **Stars:** 7
-- **Last Pushed:** 2026-07-03
+- **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** framework, react, web-app

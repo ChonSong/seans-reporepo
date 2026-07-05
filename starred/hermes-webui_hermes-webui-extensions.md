@@ -6,14 +6,14 @@ type: library
 status: active
 language: JavaScript
 size_kb: 4295
-stars: 8
+stars: 10
 last_pushed: '2026-07-04'
 license: unknown
 tags:
   - hermes-agent
   - web-app
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # hermes-webui-extensions
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 4,295 KB
-- **Stars:** 8
+- **Stars:** 10
 - **Last Pushed:** 2026-07-04
 - **License:** unknown
 - **Tags:** hermes-agent, web-app

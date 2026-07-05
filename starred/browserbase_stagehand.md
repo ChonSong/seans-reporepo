@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 100555
-stars: 23334
+stars: 23367
 last_pushed: '2026-07-03'
 license: MIT
 tags:
@@ -25,7 +25,7 @@ topics:
   - playwright
   - puppeteer
   - selenium
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # stagehand
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 100,555 KB
-- **Stars:** 23,334
+- **Stars:** 23,367
 - **Last Pushed:** 2026-07-03
 - **License:** MIT
 - **Tags:** agent, ai, aie, browser-automation, docker, llm, sustainability, training

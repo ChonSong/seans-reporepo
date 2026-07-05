@@ -5,9 +5,9 @@ description: 'Native web workspace for Hermes Agent — chat, terminal, memory, 
 type: agent
 status: active
 language: JavaScript
-size_kb: 104371
-stars: 5958
-last_pushed: '2026-06-19'
+size_kb: 104811
+stars: 5966
+last_pushed: '2026-07-05'
 license: MIT
 tags:
   - agent
@@ -27,7 +27,7 @@ topics:
   - nous-research
   - react
   - typescript
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # hermes-workspace
@@ -41,8 +41,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 104,371 KB
-- **Stars:** 5,958
-- **Last Pushed:** 2026-06-19
+- **Size:** 104,811 KB
+- **Stars:** 5,966
+- **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** agent, ai, hermes-agent, react, research, terminal, typescript, ui, web-app

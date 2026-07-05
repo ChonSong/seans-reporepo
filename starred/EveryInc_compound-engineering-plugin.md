@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 22518
-stars: 22631
+stars: 22667
 last_pushed: '2026-07-03'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
 topics:
   - compound
   - engineering
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # compound-engineering-plugin
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 22,518 KB
-- **Stars:** 22,631
+- **Stars:** 22,667
 - **Last Pushed:** 2026-07-03
 - **License:** MIT
 - **Tags:** plugin

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Nix
 size_kb: 22338
-stars: 606
+stars: 607
 last_pushed: '2022-07-26'
 license: MIT
 tags:
@@ -21,7 +21,7 @@ topics:
   - rice
   - unixporn
   - zsh
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # dotfiles-nix
@@ -36,7 +36,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 22,338 KB
-- **Stars:** 606
+- **Stars:** 607
 - **Last Pushed:** 2022-07-26
 - **License:** MIT
 - **Tags:** dotfiles

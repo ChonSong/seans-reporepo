@@ -5,13 +5,14 @@ description: 'Extensions library for Hermes WebUI! Marketplace of ways to enhanc
 type: library
 status: active
 language: JavaScript
-size_kb: 6126
+size_kb: 6129
 stars: 0
 last_pushed: '2026-07-05'
 license: unknown
 tags:
   - ai
   - api
+  - cli
   - go
   - hermes-agent
   - ide
@@ -19,7 +20,7 @@ tags:
   - testing
   - web-app
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # hermes-webui-extensions
@@ -33,11 +34,11 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 6,126 KB
+- **Size:** 6,129 KB
 - **Stars:** 0
 - **Last Pushed:** 2026-07-05
 - **License:** unknown
-- **Tags:** ai, api, go, hermes-agent, ide, rust, testing, web-app
+- **Tags:** ai, api, cli, go, hermes-agent, ide, rust, testing, web-app
 
 ## README Excerpt
 
@@ -51,12 +52,15 @@ Hermes WebUI core code.
 
 ## Status
 
-This repository is intentionally early. The WebUI extension APIs and backend
-support are still evolving, so the conventions here should be treated as a
-foundation for review rather than a locked marketplace contract.
+This repository is young but the core loop is live: the registry, CI safety
+gates, and the one-click install/uninstall UI in WebUI (Settings → Extensions)
+have all shipped. The WebUI extension APIs are still growing, so the conventions
+here are a maintained foundation rather than a locked marketplace contract.
 
-For the current WebUI-side loading contract, see `docs/EXTENSIONS.md` in the
-main Hermes WebUI repository.
+For the current WebUI-side loading contract, see
+[`docs/EXTENSIONS.md`](https://github.com/nesquena/hermes-webui/blob/main/docs/EXTENSIONS.md)
+in the main Hermes WebUI repository. For authoring an entry in this repo, see
+[`docs/extension-entry.md`](docs/extension-entry.md).
 
 ## What Belongs Here
 
@@ -85,13 +89,4 @@ the WebUI origin and can interact with the authenticated WebUI session. That
 means extensions should be reviewed like application code, not like passive
 themes.
 
-Extension PRs should disclose:
-
-- what APIs or DOM surfaces they use
-- whether they start or talk to a local sidecar process
-- whether they access the network, filesystem, native host, or OS APIs
-- how a user can install, disable, and remove the extension
-
-## Repository Layout
-
-```t...
+Extension PRs should...

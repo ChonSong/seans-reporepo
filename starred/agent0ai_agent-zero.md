@@ -5,9 +5,9 @@ description: Agent Zero AI framework
 type: library
 status: active
 language: Python
-size_kb: 58552
-stars: 18333
-last_pushed: '2026-07-02'
+size_kb: 58732
+stars: 18339
+last_pushed: '2026-07-05'
 license: NOASSERTION
 tags:
   - agent
@@ -27,7 +27,7 @@ topics:
   - autonomous
   - linux
   - zero
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # agent-zero
@@ -41,8 +41,8 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 58,552 KB
-- **Stars:** 18,333
-- **Last Pushed:** 2026-07-02
+- **Size:** 58,732 KB
+- **Stars:** 18,339
+- **Last Pushed:** 2026-07-05
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, coding-agent, docker, framework, multi-agent, sustainability, training, ui

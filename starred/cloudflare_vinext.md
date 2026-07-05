@@ -6,14 +6,14 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 36533
-stars: 8316
+stars: 8330
 last_pushed: '2026-07-05'
 license: MIT
 tags:
   - api
   - plugin
 topics: []
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # vinext
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 36,533 KB
-- **Stars:** 8,316
+- **Stars:** 8,330
 - **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** api, plugin

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 38331
-stars: 226068
+stars: 226320
 last_pushed: '2026-07-04'
 license: MIT
 tags:
@@ -25,7 +25,7 @@ topics:
   - llm
   - mcp
   - productivity
-refreshed_at: '2026-07-05 03:43 UTC'
+refreshed_at: '2026-07-05 23:53 UTC'
 ---
 
 # ECC
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-05 03:43 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 38,331 KB
-- **Stars:** 226,068
+- **Stars:** 226,320
 - **Last Pushed:** 2026-07-04
 - **License:** MIT
 - **Tags:** agent, ai, coding-agent, harness, llm, mcp
