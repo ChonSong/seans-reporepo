@@ -6,7 +6,7 @@ type: monorepo
 status: active
 language: Python
 size_kb: 3
-stars: 0
+stars: 1
 last_pushed: '2026-05-30'
 license: unknown
 tags:
@@ -15,7 +15,7 @@ tags:
   - hermes-agent
   - telemetry
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-telemetry
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 3 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-05-30
 - **License:** unknown
 - **Tags:** agent, dashboard, hermes-agent, telemetry

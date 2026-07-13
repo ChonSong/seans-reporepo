@@ -5,15 +5,15 @@ description: Vite plugin that reimplements the Next.js API surface — deploy an
 type: unknown
 status: active
 language: TypeScript
-size_kb: 36533
-stars: 8330
-last_pushed: '2026-07-05'
+size_kb: 38501
+stars: 8389
+last_pushed: '2026-07-12'
 license: MIT
 tags:
   - api
   - plugin
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # vinext
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 36,533 KB
-- **Stars:** 8,330
-- **Last Pushed:** 2026-07-05
+- **Size:** 38,501 KB
+- **Stars:** 8,389
+- **Last Pushed:** 2026-07-12
 - **License:** MIT
 - **Tags:** api, plugin

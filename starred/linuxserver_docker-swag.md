@@ -5,9 +5,9 @@ description: 'Nginx webserver and reverse proxy with php support and a built-in 
 type: agent
 status: active
 language: Dockerfile
-size_kb: 1116
-stars: 3685
-last_pushed: '2026-07-04'
+size_kb: 1131
+stars: 3690
+last_pushed: '2026-07-12'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -18,7 +18,7 @@ tags:
   - web-app
 topics:
   - hacktoberfest
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # docker-swag
@@ -32,8 +32,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Dockerfile
-- **Size:** 1,116 KB
-- **Stars:** 3,685
-- **Last Pushed:** 2026-07-04
+- **Size:** 1,131 KB
+- **Stars:** 3,690
+- **Last Pushed:** 2026-07-12
 - **License:** GPL-3.0
 - **Tags:** ai, bot, cli, nginx, proxy, web-app

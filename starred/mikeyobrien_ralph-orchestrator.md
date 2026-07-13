@@ -5,9 +5,9 @@ description: An improved implementation of the Ralph Wiggum technique for autono
 type: agent
 status: active
 language: Rust
-size_kb: 14069
-stars: 2985
-last_pushed: '2026-06-23'
+size_kb: 13752
+stars: 2997
+last_pushed: '2026-07-10'
 license: MIT
 tags:
   - agent
@@ -36,7 +36,7 @@ topics:
   - opencode
   - ralph-loop
   - ralph-wiggum
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # ralph-orchestrator
@@ -50,8 +50,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 14,069 KB
-- **Stars:** 2,985
-- **Last Pushed:** 2026-06-23
+- **Size:** 13,752 KB
+- **Stars:** 2,997
+- **Last Pushed:** 2026-07-10
 - **License:** MIT
 - **Tags:** agent, ai, aie, cli, docker, framework, orchestration, sustainability, training, workflow-engine

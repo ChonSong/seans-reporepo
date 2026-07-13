@@ -2,12 +2,12 @@
 repo: ChonSong/ChonSong
 url: 'https://github.com/ChonSong/ChonSong'
 description: Profile README for github.com/ChonSong
-type: monorepo
+type: library
 status: active
 language: other
-size_kb: 2
+size_kb: 6
 stars: 0
-last_pushed: '2026-06-15'
+last_pushed: '2026-07-08'
 license: unknown
 tags:
   - agent
@@ -15,26 +15,20 @@ tags:
   - api
   - database
   - docker
-  - energy
-  - express
-  - framework
   - gaming
   - go
   - hermes-agent
   - infrastructure
-  - multi-agent
   - python
+  - rag
   - react
-  - reliability
   - solver
   - svelte
-  - sync
   - training
-  - transpilation
   - typescript
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # ChonSong
@@ -45,14 +39,14 @@ refreshed_at: '2026-07-05 23:53 UTC'
 
 ## Metadata
 
-- **Type:** monorepo
+- **Type:** library
 - **Status:** active
 - **Language:** other
-- **Size:** 2 KB
+- **Size:** 6 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-06-15
+- **Last Pushed:** 2026-07-08
 - **License:** unknown
-- **Tags:** agent, ai, api, database, docker, energy, express, framework, gaming, go, hermes-agent, infrastructure, multi-agent, python, react, reliability, solver, svelte, sync, training, transpilation, typescript, web-app
+- **Tags:** agent, ai, api, database, docker, gaming, go, hermes-agent, infrastructure, python, rag, react, solver, svelte, training, typescript, web-app
 
 ## README Excerpt
 
@@ -64,31 +58,23 @@ refreshed_at: '2026-07-05 23:53 UTC'
 
 ---
 
-### What I Build
+### Works
 
 | Focus | Projects |
 |-------|----------|
-| **Full-stack platforms** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone) — poker training platform with 589 passing tests, Next.js/FastAPI/Python solver, PWA, monorepo |
-| **Agent infrastructure** | [Hermes Web Computer](https://github.com/ChonSong/hermes-web-computer) — Go/Svelte/WebSocket agent platform |
-| **Green computing** | [Energy-Aware Task Router](https://github.com/ChonSong/energy-aware-task-router) — energy optimisation with Redis/SQLite, async Python, CI/CD |
-| **AI/ML tooling** | [Repo Transmute](https://github.com/ChonSong/repo-transmute) — multi-agent code migration with AST extraction, vision verification |
-| **Reliability** | [Circuit Breaker Framework](https://github.com/ChonSong/circuit-breaker-framework) — human-in-the-loop reliability library |
-| **Production ops** | [Agent OS](https://github.com/ChonSong/agent-os) — React/Express/PostgreSQL/Cloudflare, GitHub Actions CI/CD to GHCR |
+| **WebUI extensions** | [Hermes WebUI Extensions](https://github.com/ChonSong/hermes-webui-extensions) — extensions library for Hermes WebUI |
+| **GTO training** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone) — open-source poker training platform with equity calculator, CFR solver, training modes |
+| **Skill retrieval** | [Skill Retriever](https://github.com/ChonSong/skill-retriever) — AgentSkillOS-powered semantic skill retrieval for Hermes Agent |
 
 ### Stack
 
-**Languages:** Python, Go, TypeScript, JavaScript, SQL  
-**Backend:** FastAPI, REST, gRPC, PostgreSQL, SQL Server, Redis, Docker  
-**Frontend:** React, Next.js, Vue.js, Svelte, Tailwind CSS  
+**Languages:** Python, TypeScript, JavaScript, Go, SQL  
+**Backend:** FastAPI, gRPC, PostgreSQL, Redis, Docker  
+**Frontend:** Next.js, React, Svelte, Tailwind CSS  
 **Infrastructure:** Docker Compose, Cloudflare, GitHub Actions, Linux, systemd  
-**Data/ML:** NumPy, Numba, MCCFR, DPO, RL, statistical modelling
+**Data/ML:** NumPy, MCCFR, RL, statistical modelling
 
-### Currently
-
-🎓 Completing Bachelor of Data Science — Western Sydney University  
 ⚡ Building autonomous agent systems and shipping open-source infrastructure  
-🔍 Looking for backend / platform / data engineering roles where I can own features end-to-end
 
----
-
-*"The best way to learn is to bui...
+*"The best way to learn is to build something that matters."*
+...

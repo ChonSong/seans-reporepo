@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Nix
 size_kb: 66542
-stars: 391
+stars: 392
 last_pushed: '2026-02-22'
 license: unknown
 tags: []
@@ -26,7 +26,7 @@ topics:
   - wallust
   - waybar
   - wayland
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # NixOS-Hyprland
@@ -41,6 +41,6 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 66,542 KB
-- **Stars:** 391
+- **Stars:** 392
 - **Last Pushed:** 2026-02-22
 - **License:** unknown

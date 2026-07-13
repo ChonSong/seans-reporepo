@@ -5,9 +5,9 @@ description: 'Hermes WebUI: The best way to use Hermes Agent from the web or fro
 type: library
 status: active
 language: Python
-size_kb: 120973
+size_kb: 134116
 stars: 0
-last_pushed: '2026-07-04'
+last_pushed: '2026-07-12'
 license: unknown
 tags:
   - agent
@@ -15,7 +15,6 @@ tags:
   - bot
   - browser-automation
   - cli
-  - docker
   - framework
   - hermes-agent
   - ide
@@ -25,7 +24,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-webui
@@ -39,11 +38,11 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 120,973 KB
+- **Size:** 134,116 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-04
+- **Last Pushed:** 2026-07-12
 - **License:** unknown
-- **Tags:** agent, ai, bot, browser-automation, cli, docker, framework, hermes-agent, ide, mobile, python, terminal, voice, web-app
+- **Tags:** agent, ai, bot, browser-automation, cli, framework, hermes-agent, ide, mobile, python, terminal, voice, web-app
 
 ## README Excerpt
 
@@ -52,9 +51,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 [Hermes Agent](https://hermes-agent.nousresearch.com/) is a sophisticated autonomous agent that lives on your server, accessed via a terminal or messaging apps, that remembers what it learns and gets more capable the longer it runs.
 
 Hermes WebUI is a lightweight, dark-themed web app interface in your browser for [Hermes Agent](https://hermes-agent.nousresearch.com/).
-Full parity with the CLI experience - everything you can do from a terminal,
-you can do from this UI. No build step, no framework, no bundler. Just Python
-and vanilla JS.
+Full parity with the CLI experience - everything you can do from a terminal, you can do from this UI. No build step, no framework, no bundler. Just Python and vanilla JS.
 
 Layout: three-panel. Left sidebar for sessions and navigation, center for chat,
 right for workspace file browsing. Model, profile, and workspace controls live in
@@ -62,7 +59,9 @@ the **composer footer** — always visible while composing. A circular context r
 shows token usage at a glance. All settings and session tools are in the
 **Hermes Control Center** (launcher at the sidebar bottom).
 
-<img width="2448" height="1748" alt="Hermes Web UI — three-panel layout" src="https://github.com/user-attachments/assets/6bf8af4c-209d-441e-8b92-6515d7a0c369" />
+Setup Hermes so you can access it natively on every device:
+
+<img width="1467" height="881" alt="image" src="https://github.com/user-attachments/assets/9a72cdf3-a5b4-45ed-a836-a715ce46287e" />
 
 <table>
   <tr>
@@ -84,4 +83,4 @@ shows token usage at a glance. All settings and session tools are in the
       <br /><sub>Workspace file browser with inline preview</sub>
     </td>
     <td width="50%" align="center">
-      <img alt="Session projects, tags, and tool call cards" s...
+      <img alt="Session project...

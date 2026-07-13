@@ -5,9 +5,9 @@ description: 'shadcn/ui, but for Svelte. ✨'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 38575
-stars: 8916
-last_pushed: '2026-07-01'
+size_kb: 38786
+stars: 8939
+last_pushed: '2026-07-09'
 license: MIT
 tags:
   - ai
@@ -25,7 +25,7 @@ topics:
   - sveltejs
   - sveltekit
   - tailwindcss
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # shadcn-svelte
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 38,575 KB
-- **Stars:** 8,916
-- **Last Pushed:** 2026-07-01
+- **Size:** 38,786 KB
+- **Stars:** 8,939
+- **Last Pushed:** 2026-07-09
 - **License:** MIT
 - **Tags:** ai, css, svelte, ui

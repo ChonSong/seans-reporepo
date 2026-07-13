@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 10442
-stars: 3640
+stars: 3646
 last_pushed: '2025-07-25'
 license: MIT
 tags:
@@ -18,7 +18,7 @@ topics:
   - large-language-models
   - prompt-optimization
   - textual-gradients
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # textgrad
@@ -33,7 +33,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 10,442 KB
-- **Stars:** 3,640
+- **Stars:** 3,646
 - **Last Pushed:** 2025-07-25
 - **License:** MIT
 - **Tags:** ai, llm

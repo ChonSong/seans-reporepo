@@ -6,7 +6,7 @@ type: agent
 status: active
 language: other
 size_kb: 3529
-stars: 0
+stars: 1
 last_pushed: '2026-05-27'
 license: unknown
 tags:
@@ -16,7 +16,7 @@ tags:
   - ide
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-guide
@@ -31,7 +31,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 3,529 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-05-27
 - **License:** unknown
 - **Tags:** agent, browser-automation, hermes-agent, ide, web-app

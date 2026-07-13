@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 6
-stars: 0
+stars: 1
 last_pushed: '2026-07-01'
 license: unknown
 tags:
@@ -25,7 +25,7 @@ tags:
   - terminal
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-desktop
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 6 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-07-01
 - **License:** unknown
 - **Tags:** agent, ai, api, automation, browser-automation, cli, docker, hermes-agent, ide, plugin, python, sync, terminal, web-app

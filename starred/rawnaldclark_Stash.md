@@ -5,9 +5,9 @@ description: 'Your Spotify + YouTube Music library & daily mixes. Stream or down
 type: library
 status: active
 language: Kotlin
-size_kb: 20786
-stars: 650
-last_pushed: '2026-07-05'
+size_kb: 20766
+stars: 705
+last_pushed: '2026-07-12'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -32,7 +32,7 @@ topics:
   - youtube
   - youtube-music
   - yt-dlp
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # Stash
@@ -46,8 +46,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Kotlin
-- **Size:** 20,786 KB
-- **Stars:** 650
-- **Last Pushed:** 2026-07-05
+- **Size:** 20,766 KB
+- **Stars:** 705
+- **Last Pushed:** 2026-07-12
 - **License:** GPL-3.0
 - **Tags:** ai, audio, mobile

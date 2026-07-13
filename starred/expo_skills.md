@@ -5,15 +5,15 @@ description: A collection of AI agent skills for working with Expo projects and 
 type: agent
 status: active
 language: Shell
-size_kb: 3431
-stars: 2160
-last_pushed: '2026-07-04'
+size_kb: 3354
+stars: 2195
+last_pushed: '2026-07-08'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # skills
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Shell
-- **Size:** 3,431 KB
-- **Stars:** 2,160
-- **Last Pushed:** 2026-07-04
+- **Size:** 3,354 KB
+- **Stars:** 2,195
+- **Last Pushed:** 2026-07-08
 - **License:** MIT
 - **Tags:** agent, ai

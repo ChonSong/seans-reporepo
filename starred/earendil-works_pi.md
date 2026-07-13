@@ -5,9 +5,9 @@ description: 'AI agent toolkit: unified LLM API, agent loop, TUI, coding agent C
 type: agent
 status: active
 language: TypeScript
-size_kb: 53056
-stars: 67829
-last_pushed: '2026-07-05'
+size_kb: 53706
+stars: 70029
+last_pushed: '2026-07-11'
 license: MIT
 tags:
   - agent
@@ -17,7 +17,7 @@ tags:
   - llm
   - tui
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # pi
@@ -31,8 +31,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 53,056 KB
-- **Stars:** 67,829
-- **Last Pushed:** 2026-07-05
+- **Size:** 53,706 KB
+- **Stars:** 70,029
+- **Last Pushed:** 2026-07-11
 - **License:** MIT
 - **Tags:** agent, ai, api, cli, llm, tui

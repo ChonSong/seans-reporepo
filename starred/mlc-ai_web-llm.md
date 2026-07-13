@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 68915
-stars: 18311
+stars: 18345
 last_pushed: '2026-06-09'
 license: 'Apache-2.0'
 tags:
@@ -23,7 +23,7 @@ topics:
   - tvm
   - webgpu
   - webml
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # web-llm
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 68,915 KB
-- **Stars:** 18,311
+- **Stars:** 18,345
 - **Last Pushed:** 2026-06-09
 - **License:** Apache-2.0
 - **Tags:** ai, browser-automation, chat-ui, education, llm

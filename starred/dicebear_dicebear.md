@@ -6,7 +6,7 @@ type: library
 status: active
 language: Vue
 size_kb: 26410
-stars: 8987
+stars: 9037
 last_pushed: '2026-07-05'
 license: MIT
 tags:
@@ -23,7 +23,7 @@ topics:
   - dicebear
   - figma
   - pixel-art
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # dicebear
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Vue
 - **Size:** 26,410 KB
-- **Stars:** 8,987
+- **Stars:** 9,037
 - **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** api, bot, browser-automation

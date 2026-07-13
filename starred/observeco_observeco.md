@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 9250
-stars: 4
+stars: 7
 last_pushed: '2026-06-27'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ topics:
   - python
   - runtime-integrity
   - self-healing
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # observeco
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 9,250 KB
-- **Stars:** 4
+- **Stars:** 7
 - **Last Pushed:** 2026-06-27
 - **License:** MIT
 - **Tags:** agent, ai, llm, monitoring, multi-agent, observability, python

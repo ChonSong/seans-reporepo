@@ -5,9 +5,9 @@ description: 'AI-Human symbiotic browser — browse the web as one entity'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 8509
-stars: 563
-last_pushed: '2026-06-20'
+size_kb: 8603
+stars: 565
+last_pushed: '2026-07-10'
 license: MIT
 tags:
   - ai
@@ -28,7 +28,7 @@ topics:
   - local-first
   - openclaw
   - typescript
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # tandem-browser
@@ -42,8 +42,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 8,509 KB
-- **Stars:** 563
-- **Last Pushed:** 2026-06-20
+- **Size:** 8,603 KB
+- **Stars:** 565
+- **Last Pushed:** 2026-07-10
 - **License:** MIT
 - **Tags:** ai, aie, browser-automation, docker, openclaw, sustainability, training, typescript, web-app

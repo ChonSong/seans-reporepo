@@ -5,9 +5,9 @@ description: Temporal service
 type: unknown
 status: active
 language: Go
-size_kb: 145689
-stars: 21426
-last_pushed: '2026-07-05'
+size_kb: 147039
+stars: 21601
+last_pushed: '2026-07-12'
 license: MIT
 tags:
   - automation
@@ -32,7 +32,7 @@ topics:
   - workflow-management
   - workflow-management-system
   - workflows
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # temporal
@@ -46,8 +46,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 145,689 KB
-- **Stars:** 21,426
-- **Last Pushed:** 2026-07-05
+- **Size:** 147,039 KB
+- **Stars:** 21,601
+- **Last Pushed:** 2026-07-12
 - **License:** MIT
 - **Tags:** automation, framework, go, orchestration, workflow-engine

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 404884
-stars: 1009
+stars: 1010
 last_pushed: '2026-04-14'
 license: 'Apache-2.0'
 tags:
@@ -20,7 +20,7 @@ topics:
   - aicloud
   - aim
   - zte
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # Co-Sight
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 404,884 KB
-- **Stars:** 1,009
+- **Stars:** 1,010
 - **Last Pushed:** 2026-04-14
 - **License:** Apache-2.0
 - **Tags:** agent, ai, coding-agent, infrastructure, multi-agent

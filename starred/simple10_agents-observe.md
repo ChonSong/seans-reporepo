@@ -6,14 +6,14 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 31508
-stars: 608
+stars: 620
 last_pushed: '2026-06-29'
 license: MIT
 tags:
   - agent
   - multi-agent
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # agents-observe
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 31,508 KB
-- **Stars:** 608
+- **Stars:** 620
 - **Last Pushed:** 2026-06-29
 - **License:** MIT
 - **Tags:** agent, multi-agent

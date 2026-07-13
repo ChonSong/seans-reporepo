@@ -5,9 +5,9 @@ description: The Open Standard for Generative UI
 type: unknown
 status: active
 language: TypeScript
-size_kb: 247925
-stars: 7765
-last_pushed: '2026-07-04'
+size_kb: 248243
+stars: 7966
+last_pushed: '2026-07-12'
 license: MIT
 tags:
   - agent
@@ -30,7 +30,7 @@ topics:
   - javascript
   - llm
   - looking-for-contributors
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # openui
@@ -44,8 +44,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 247,925 KB
-- **Stars:** 7,765
-- **Last Pushed:** 2026-07-04
+- **Size:** 248,243 KB
+- **Stars:** 7,966
+- **Last Pushed:** 2026-07-12
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, docker, javascript, llm, multi-agent, sustainability, training, ui

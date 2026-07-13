@@ -6,13 +6,13 @@ type: unknown
 status: active
 language: Nix
 size_kb: 17717
-stars: 273
+stars: 274
 last_pushed: '2026-06-09'
 license: unknown
 tags:
   - dotfiles
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # dotfiles
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 17,717 KB
-- **Stars:** 273
+- **Stars:** 274
 - **Last Pushed:** 2026-06-09
 - **License:** unknown
 - **Tags:** dotfiles

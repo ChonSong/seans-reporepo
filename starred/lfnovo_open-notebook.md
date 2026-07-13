@@ -5,9 +5,9 @@ description: An Open Source implementation of Notebook LM with more flexibility 
 type: unknown
 status: active
 language: TypeScript
-size_kb: 11952
-stars: 34956
-last_pushed: '2026-07-03'
+size_kb: 13612
+stars: 35536
+last_pushed: '2026-07-12'
 license: MIT
 tags:
   - ai
@@ -19,7 +19,7 @@ topics:
   - notebook
   - notes-app
   - self-learning
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # open-notebook
@@ -33,8 +33,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 11,952 KB
-- **Stars:** 34,956
-- **Last Pushed:** 2026-07-03
+- **Size:** 13,612 KB
+- **Stars:** 35,536
+- **Last Pushed:** 2026-07-12
 - **License:** MIT
 - **Tags:** ai, education

@@ -5,15 +5,15 @@ description: The design language that makes your AI harness better at design.
 type: unknown
 status: active
 language: JavaScript
-size_kb: 56652
-stars: 43695
-last_pushed: '2026-07-04'
+size_kb: 57246
+stars: 46033
+last_pushed: '2026-07-10'
 license: 'Apache-2.0'
 tags:
   - ai
   - harness
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # impeccable
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 56,652 KB
-- **Stars:** 43,695
-- **Last Pushed:** 2026-07-04
+- **Size:** 57,246 KB
+- **Stars:** 46,033
+- **Last Pushed:** 2026-07-10
 - **License:** Apache-2.0
 - **Tags:** ai, harness

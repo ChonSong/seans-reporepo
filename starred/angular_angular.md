@@ -5,9 +5,9 @@ description: Deliver web apps with confidence 🚀
 type: webapp
 status: active
 language: TypeScript
-size_kb: 644821
-stars: 100483
-last_pushed: '2026-07-01'
+size_kb: 647201
+stars: 100623
+last_pushed: '2026-07-10'
 license: MIT
 tags:
   - design-system
@@ -24,7 +24,7 @@ topics:
   - web
   - web-framework
   - web-performance
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # angular
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** webapp
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 644,821 KB
-- **Stars:** 100,483
-- **Last Pushed:** 2026-07-01
+- **Size:** 647,201 KB
+- **Stars:** 100,623
+- **Last Pushed:** 2026-07-10
 - **License:** MIT
 - **Tags:** design-system, framework, ide, javascript, typescript, web-app

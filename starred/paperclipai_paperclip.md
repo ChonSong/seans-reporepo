@@ -5,14 +5,14 @@ description: 'The open-source app everyone uses to manage agents at work'
 type: agent
 status: active
 language: TypeScript
-size_kb: 114291
-stars: 72797
-last_pushed: '2026-07-05'
+size_kb: 126766
+stars: 73471
+last_pushed: '2026-07-13'
 license: MIT
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # paperclip
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 114,291 KB
-- **Stars:** 72,797
-- **Last Pushed:** 2026-07-05
+- **Size:** 126,766 KB
+- **Stars:** 73,471
+- **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** agent

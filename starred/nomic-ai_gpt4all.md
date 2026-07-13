@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: C++
 size_kb: 44678
-stars: 77387
+stars: 77391
 last_pushed: '2025-05-27'
 license: MIT
 tags:
@@ -16,7 +16,7 @@ tags:
 topics:
   - ai-chat
   - llm-inference
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # gpt4all
@@ -31,7 +31,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** C++
 - **Size:** 44,678 KB
-- **Stars:** 77,387
+- **Stars:** 77,391
 - **Last Pushed:** 2025-05-27
 - **License:** MIT
 - **Tags:** ai, chat-ui, llm

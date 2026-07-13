@@ -5,13 +5,13 @@ description: No description
 type: unknown
 status: active
 language: Shell
-size_kb: 116558
-stars: 742
-last_pushed: '2026-07-02'
+size_kb: 128995
+stars: 813
+last_pushed: '2026-07-11'
 license: unknown
 tags: []
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # fugu
@@ -25,7 +25,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Shell
-- **Size:** 116,558 KB
-- **Stars:** 742
-- **Last Pushed:** 2026-07-02
+- **Size:** 128,995 KB
+- **Stars:** 813
+- **Last Pushed:** 2026-07-11
 - **License:** unknown

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 24226
-stars: 346
+stars: 347
 last_pushed: '2026-06-05'
 license: 'Apache-2.0'
 tags:
@@ -24,7 +24,7 @@ topics:
   - tailwindcss
   - tauri
   - typescript
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # lovcode
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 24,226 KB
-- **Stars:** 346
+- **Stars:** 347
 - **Last Pushed:** 2026-06-05
 - **License:** Apache-2.0
 - **Tags:** ai, css, react, rust, typescript

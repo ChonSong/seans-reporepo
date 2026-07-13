@@ -6,7 +6,7 @@ type: monorepo
 status: active
 language: TypeScript
 size_kb: 13825
-stars: 251
+stars: 263
 last_pushed: '2026-07-03'
 license: NOASSERTION
 tags:
@@ -48,7 +48,7 @@ topics:
   - typescript
   - web-ui
   - webui
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # Hermes-Studio
@@ -63,7 +63,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 13,825 KB
-- **Stars:** 251
+- **Stars:** 263
 - **Last Pushed:** 2026-07-03
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, dashboard, docker, hermes-agent, llm, mcp, multi-agent, openclaw, orchestration, react, research, sustainability, terminal, training, typescript, ui, web-app

@@ -5,9 +5,9 @@ description: 'Extensions library for Hermes WebUI! Marketplace of ways to enhanc
 type: library
 status: active
 language: JavaScript
-size_kb: 6129
+size_kb: 8541
 stars: 0
-last_pushed: '2026-07-05'
+last_pushed: '2026-07-08'
 license: unknown
 tags:
   - ai
@@ -20,7 +20,7 @@ tags:
   - testing
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-webui-extensions
@@ -34,15 +34,18 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 6,129 KB
+- **Size:** 8,541 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-05
+- **Last Pushed:** 2026-07-08
 - **License:** unknown
 - **Tags:** ai, api, cli, go, hermes-agent, ide, rust, testing, web-app
 
 ## README Excerpt
 
 # Hermes WebUI Extensions
+
+[![CI](https://github.com/hermes-webui/hermes-webui-extensions/actions/workflows/extensions.yml/badge.svg)](https://github.com/hermes-webui/hermes-webui-extensions/actions/workflows/extensions.yml)
+[![Pages](https://img.shields.io/github/deployments/hermes-webui/hermes-webui-extensions/github-pages?label=pages)](https://hermes-webui.github.io/hermes-webui-extensions/)
 
 This repository is the community extension library for Hermes WebUI.
 
@@ -79,14 +82,4 @@ in the main Hermes WebUI repository. For authoring an entry in this repo, see
 - Core bug fixes or required WebUI behavior.
 - Remote third-party script loaders.
 - Secrets, tokens, credentials, or machine-specific configuration.
-- Unreviewed binaries or installers.
-- Extensions that require broad WebUI core changes before they can run.
-
-## Trust Model
-
-Hermes WebUI extensions are trusted local code. Extension JavaScript runs in
-the WebUI origin and can interact with the authenticated WebUI session. That
-means extensions should be reviewed like application code, not like passive
-themes.
-
-Extension PRs should...
+- Unreviewed ...

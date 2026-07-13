@@ -1,22 +1,22 @@
 ---
 repo: 'Shaf2665/Hermes-router'
 url: 'https://github.com/Shaf2665/Hermes-router'
-description: 'Free-tier AI load balancer — auto-rotates 28+ keys across 9 providers (Gemini, Groq, Mistral & more). OpenAI-compatible drop-in. Works with any agent framework.'
-type: library
+description: 'OpenAI/Anthropic-compatible AI router that keeps apps online with provider failover, key rotation, caching, analytics, and local-model fallback.'
+type: unknown
 status: active
 language: Python
-size_kb: 4016
-stars: 46
-last_pushed: '2026-07-05'
+size_kb: 5322
+stars: 76
+last_pushed: '2026-07-08'
 license: MIT
 tags:
   - agent
   - ai
   - aie
+  - analytics
   - api
   - coding-agent
   - docker
-  - framework
   - ide
   - llm
   - multi-agent
@@ -34,22 +34,22 @@ topics:
   - load-balancer
   - openai
   - python
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # Hermes-router
 
-> Free-tier AI load balancer — auto-rotates 28+ keys across 9 providers (Gemini, Groq, Mistral & more). OpenAI-compatible drop-in. Works with any agent framework.
+> OpenAI/Anthropic-compatible AI router that keeps apps online with provider failover, key rotation, caching, analytics, and local-model fallback.
 
 **URL:** [Shaf2665/Hermes-router](https://github.com/Shaf2665/Hermes-router)
 
 ## Metadata
 
-- **Type:** library
+- **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 4,016 KB
-- **Stars:** 46
-- **Last Pushed:** 2026-07-05
+- **Size:** 5,322 KB
+- **Stars:** 76
+- **Last Pushed:** 2026-07-08
 - **License:** MIT
-- **Tags:** agent, ai, aie, api, coding-agent, docker, framework, ide, llm, multi-agent, proxy, python, sustainability, training
+- **Tags:** agent, ai, aie, analytics, api, coding-agent, docker, ide, llm, multi-agent, proxy, python, sustainability, training

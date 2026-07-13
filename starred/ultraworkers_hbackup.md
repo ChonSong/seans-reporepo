@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Rust
 size_kb: 89
-stars: 44
+stars: 47
 last_pushed: '2026-06-07'
 license: unknown
 tags:
@@ -15,7 +15,7 @@ tags:
   - hermes-agent
   - openclaw
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hbackup
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 89 KB
-- **Stars:** 44
+- **Stars:** 47
 - **Last Pushed:** 2026-06-07
 - **License:** unknown
 - **Tags:** agent, backup, hermes-agent, openclaw

@@ -6,13 +6,13 @@ type: unknown
 status: active
 language: HTML
 size_kb: 1178
-stars: 0
+stars: 1
 last_pushed: '2026-06-10'
 license: unknown
 tags:
   - hermes-agent
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-knowledge-graph
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 1,178 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-06-10
 - **License:** unknown
 - **Tags:** hermes-agent

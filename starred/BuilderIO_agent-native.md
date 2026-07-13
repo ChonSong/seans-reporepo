@@ -5,9 +5,9 @@ description: 'A framework for building agent-native applications.'
 type: library
 status: active
 language: TypeScript
-size_kb: 149365
-stars: 3474
-last_pushed: '2026-07-05'
+size_kb: 168558
+stars: 3592
+last_pushed: '2026-07-13'
 license: unknown
 tags:
   - agent
@@ -22,7 +22,7 @@ topics:
   - agents
   - ai
   - react
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # agent-native
@@ -36,8 +36,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 149,365 KB
-- **Stars:** 3,474
-- **Last Pushed:** 2026-07-05
+- **Size:** 168,558 KB
+- **Stars:** 3,592
+- **Last Pushed:** 2026-07-13
 - **License:** unknown
 - **Tags:** agent, ai, aie, docker, framework, react, sustainability, training

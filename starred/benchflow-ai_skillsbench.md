@@ -5,14 +5,14 @@ description: SkillsBench evaluates how well skills work and how effective agents
 type: agent
 status: active
 language: PDDL
-size_kb: 884153
-stars: 1440
-last_pushed: '2026-07-05'
+size_kb: 884257
+stars: 1481
+last_pushed: '2026-07-12'
 license: 'Apache-2.0'
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # skillsbench
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** PDDL
-- **Size:** 884,153 KB
-- **Stars:** 1,440
-- **Last Pushed:** 2026-07-05
+- **Size:** 884,257 KB
+- **Stars:** 1,481
+- **Last Pushed:** 2026-07-12
 - **License:** Apache-2.0
 - **Tags:** agent

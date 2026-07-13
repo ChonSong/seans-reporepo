@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Shell
 size_kb: 6
-stars: 0
+stars: 1
 last_pushed: '2026-05-19'
 license: unknown
 tags:
@@ -19,7 +19,7 @@ tags:
   - tui
   - web-app
 topics: []
-refreshed_at: '2026-07-05 23:53 UTC'
+refreshed_at: '2026-07-13 03:44 UTC'
 ---
 
 # hermes-bootstrap
@@ -34,7 +34,7 @@ refreshed_at: '2026-07-05 23:53 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 6 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-05-19
 - **License:** unknown
 - **Tags:** agent, ai, browser-automation, docker, hermes-agent, sync, tui, web-app
