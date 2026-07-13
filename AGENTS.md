@@ -1,7 +1,7 @@
 # AGENTS.md — seans-reporepo
 
 ## About
-Personal GitHub repo catalog: 38 owned + 133 starred repos with tag-based combinatorial analysis.
+Personal GitHub repo catalog: 59 owned + 213 starred repos with tag-based combinatorial analysis.
 Feeds into repo-transmute for code migration planning.
 
 ## Key Files
