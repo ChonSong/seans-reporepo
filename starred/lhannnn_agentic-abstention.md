@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: Python
 size_kb: 3212
-stars: 41
+stars: 40
 last_pushed: '2026-06-30'
 license: 'Apache-2.0'
 tags: []
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # agentic-abstention
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 3,212 KB
-- **Stars:** 41
+- **Stars:** 40
 - **Last Pushed:** 2026-06-30
 - **License:** Apache-2.0

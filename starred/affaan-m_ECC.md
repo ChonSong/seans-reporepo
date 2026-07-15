@@ -5,9 +5,9 @@ description: 'The agent harness performance optimization system. Skills, instinc
 type: agent
 status: active
 language: JavaScript
-size_kb: 39538
-stars: 228988
-last_pushed: '2026-07-09'
+size_kb: 39505
+stars: 229722
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - llm
   - mcp
   - productivity
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # ECC
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 39,538 KB
-- **Stars:** 228,988
-- **Last Pushed:** 2026-07-09
+- **Size:** 39,505 KB
+- **Stars:** 229,722
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** agent, ai, coding-agent, harness, llm, mcp

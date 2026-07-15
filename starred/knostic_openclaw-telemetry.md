@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 58
-stars: 89
+stars: 90
 last_pushed: '2026-05-12'
 license: 'Apache-2.0'
 tags:
@@ -24,7 +24,7 @@ topics:
   - openclaw
   - siem
   - telemetry
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # openclaw-telemetry
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 58 KB
-- **Stars:** 89
+- **Stars:** 90
 - **Last Pushed:** 2026-05-12
 - **License:** Apache-2.0
 - **Tags:** agent, bot, database, llm, observability, openclaw, telemetry

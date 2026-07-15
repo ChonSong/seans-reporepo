@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Dockerfile
 size_kb: 1131
-stars: 3690
+stars: 3693
 last_pushed: '2026-07-12'
 license: 'GPL-3.0'
 tags:
@@ -18,7 +18,7 @@ tags:
   - web-app
 topics:
   - hacktoberfest
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # docker-swag
@@ -33,7 +33,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Dockerfile
 - **Size:** 1,131 KB
-- **Stars:** 3,690
+- **Stars:** 3,693
 - **Last Pushed:** 2026-07-12
 - **License:** GPL-3.0
 - **Tags:** ai, bot, cli, nginx, proxy, web-app

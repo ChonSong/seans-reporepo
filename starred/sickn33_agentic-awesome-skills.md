@@ -5,9 +5,9 @@ description: 'Installable GitHub library of 1,900+ agentic skills for Claude Cod
 type: library
 status: active
 language: Python
-size_kb: 76134
-stars: 43025
-last_pushed: '2026-07-12'
+size_kb: 79238
+stars: 43239
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - agent
@@ -38,7 +38,7 @@ topics:
   - kiro
   - mcp
   - skill-library
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # agentic-awesome-skills
@@ -52,8 +52,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 76,134 KB
-- **Stars:** 43,025
-- **Last Pushed:** 2026-07-12
+- **Size:** 79,238 KB
+- **Stars:** 43,239
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** agent, ai, cli, library, mcp, plugin, workflow-engine

@@ -6,8 +6,8 @@ type: unknown
 status: active
 language: Go
 size_kb: 147039
-stars: 21601
-last_pushed: '2026-07-12'
+stars: 21642
+last_pushed: '2026-07-15'
 license: MIT
 tags:
   - automation
@@ -32,7 +32,7 @@ topics:
   - workflow-management
   - workflow-management-system
   - workflows
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # temporal
@@ -47,7 +47,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 147,039 KB
-- **Stars:** 21,601
-- **Last Pushed:** 2026-07-12
+- **Stars:** 21,642
+- **Last Pushed:** 2026-07-15
 - **License:** MIT
 - **Tags:** automation, framework, go, orchestration, workflow-engine

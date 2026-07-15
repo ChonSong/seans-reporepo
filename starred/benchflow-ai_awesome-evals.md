@@ -6,7 +6,7 @@ type: library
 status: active
 language: other
 size_kb: 1404
-stars: 711
+stars: 722
 last_pushed: '2026-07-01'
 license: NOASSERTION
 tags:
@@ -25,7 +25,7 @@ topics:
   - llm
   - llm-evaluation
   - rl-environments
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # awesome-evals
@@ -40,7 +40,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1,404 KB
-- **Stars:** 711
+- **Stars:** 722
 - **Last Pushed:** 2026-07-01
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, benchmarking, llm

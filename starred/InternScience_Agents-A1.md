@@ -5,13 +5,13 @@ description: 'Scaling the Horizon, Not the Parameters'
 type: unknown
 status: active
 language: Python
-size_kb: 26226
-stars: 450
-last_pushed: '2026-07-09'
+size_kb: 26231
+stars: 464
+last_pushed: '2026-07-14'
 license: 'Apache-2.0'
 tags: []
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # Agents-A1
@@ -25,7 +25,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 26,226 KB
-- **Stars:** 450
-- **Last Pushed:** 2026-07-09
+- **Size:** 26,231 KB
+- **Stars:** 464
+- **Last Pushed:** 2026-07-14
 - **License:** Apache-2.0

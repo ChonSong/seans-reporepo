@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 27331
-stars: 27084
+stars: 27123
 last_pushed: '2026-07-12'
 license: MIT
 tags:
@@ -43,7 +43,7 @@ topics:
   - nodejs
   - openai
   - typescript
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # repomix
@@ -58,7 +58,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 27,331 KB
-- **Stars:** 27,084
+- **Stars:** 27,123
 - **Last Pushed:** 2026-07-12
 - **License:** MIT
 - **Tags:** ai, aie, bot, chat-ui, code-packing, docker, javascript, llm, mcp, sustainability, training, typescript

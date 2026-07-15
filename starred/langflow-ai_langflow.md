@@ -5,9 +5,9 @@ description: 'Langflow is a powerful tool for building and deploying AI-powered 
 type: agent
 status: active
 language: Python
-size_kb: 1387153
-stars: 151787
-last_pushed: '2026-07-13'
+size_kb: 1410228
+stars: 151879
+last_pushed: '2026-07-15'
 license: MIT
 tags:
   - agent
@@ -23,7 +23,7 @@ topics:
   - large-language-models
   - multiagent
   - react-flow
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # langflow
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,387,153 KB
-- **Stars:** 151,787
-- **Last Pushed:** 2026-07-13
+- **Size:** 1,410,228 KB
+- **Stars:** 151,879
+- **Last Pushed:** 2026-07-15
 - **License:** MIT
 - **Tags:** agent, ai, chat-ui, llm, multi-agent, react

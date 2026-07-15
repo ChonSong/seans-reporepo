@@ -6,13 +6,13 @@ type: library
 status: active
 language: Go
 size_kb: 19136
-stars: 196
+stars: 197
 last_pushed: '2026-07-08'
 license: MIT
 tags:
   - framework
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # hypeman
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 19,136 KB
-- **Stars:** 196
+- **Stars:** 197
 - **Last Pushed:** 2026-07-08
 - **License:** MIT
 - **Tags:** framework

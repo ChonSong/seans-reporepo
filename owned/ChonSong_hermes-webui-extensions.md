@@ -5,9 +5,9 @@ description: 'Extensions library for Hermes WebUI! Marketplace of ways to enhanc
 type: library
 status: active
 language: JavaScript
-size_kb: 8541
+size_kb: 8546
 stars: 0
-last_pushed: '2026-07-08'
+last_pushed: '2026-07-14'
 license: unknown
 tags:
   - ai
@@ -20,7 +20,7 @@ tags:
   - testing
   - web-app
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # hermes-webui-extensions
@@ -34,9 +34,9 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 8,541 KB
+- **Size:** 8,546 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-08
+- **Last Pushed:** 2026-07-14
 - **License:** unknown
 - **Tags:** ai, api, cli, go, hermes-agent, ide, rust, testing, web-app
 

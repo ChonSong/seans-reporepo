@@ -6,7 +6,7 @@ type: agent
 status: active
 language: HTML
 size_kb: 141883
-stars: 549
+stars: 550
 last_pushed: '2026-03-07'
 license: unknown
 tags:
@@ -14,7 +14,7 @@ tags:
   - orchestration
   - rag
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # AgentSkillOS
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 141,883 KB
-- **Stars:** 549
+- **Stars:** 550
 - **Last Pushed:** 2026-03-07
 - **License:** unknown
 - **Tags:** agent, orchestration, rag

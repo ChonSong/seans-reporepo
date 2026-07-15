@@ -5,9 +5,9 @@ description: Code search MCP for Claude Code. Make entire codebase the context f
 type: agent
 status: active
 language: TypeScript
-size_kb: 7750
-stars: 12121
-last_pushed: '2026-06-22'
+size_kb: 7758
+stars: 12136
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - agent
@@ -43,7 +43,7 @@ topics:
   - vibe-coding
   - voyage-ai
   - vscode-extension
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # claude-context
@@ -57,8 +57,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 7,750 KB
-- **Stars:** 12,121
-- **Last Pushed:** 2026-06-22
+- **Size:** 7,758 KB
+- **Stars:** 12,136
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** agent, ai, cli, coding-agent, database, embeddings, mcp, multi-agent, plugin, rag, typescript, vector-db

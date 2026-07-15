@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 9536
-stars: 59481
+stars: 59968
 last_pushed: '2026-07-13'
 license: MIT
 tags:
@@ -15,7 +15,7 @@ tags:
   - hermes-agent
   - sync
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # codegraph
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 9,536 KB
-- **Stars:** 59,481
+- **Stars:** 59,968
 - **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** agent, coding-agent, hermes-agent, sync

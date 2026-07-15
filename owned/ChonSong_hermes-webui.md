@@ -5,9 +5,9 @@ description: 'Hermes WebUI: The best way to use Hermes Agent from the web or fro
 type: library
 status: active
 language: Python
-size_kb: 134116
+size_kb: 152212
 stars: 0
-last_pushed: '2026-07-12'
+last_pushed: '2026-07-15'
 license: unknown
 tags:
   - agent
@@ -24,7 +24,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # hermes-webui
@@ -38,9 +38,9 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 134,116 KB
+- **Size:** 152,212 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-12
+- **Last Pushed:** 2026-07-15
 - **License:** unknown
 - **Tags:** agent, ai, bot, browser-automation, cli, framework, hermes-agent, ide, mobile, python, terminal, voice, web-app
 

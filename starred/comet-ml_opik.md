@@ -5,9 +5,9 @@ description: 'Debug, evaluate, and monitor your LLM applications, RAG systems, a
 type: monorepo
 status: active
 language: Python
-size_kb: 684575
-stars: 20573
-last_pushed: '2026-07-13'
+size_kb: 686674
+stars: 20598
+last_pushed: '2026-07-14'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -31,7 +31,7 @@ topics:
   - openai
   - playground
   - prompt-engineering
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # opik
@@ -45,8 +45,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 684,575 KB
-- **Stars:** 20,573
-- **Last Pushed:** 2026-07-13
+- **Size:** 686,674 KB
+- **Stars:** 20,598
+- **Last Pushed:** 2026-07-14
 - **License:** Apache-2.0
 - **Tags:** agent, ai, dashboard, llm, monitoring, observability, rag

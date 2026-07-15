@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 124566
-stars: 3004
+stars: 3010
 last_pushed: '2026-07-07'
 license: 'Apache-2.0'
 tags:
@@ -34,7 +34,7 @@ topics:
   - reinforcement-learning
   - rpa
   - vlm
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # OSWorld
@@ -49,7 +49,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 124,566 KB
-- **Stars:** 3,004
+- **Stars:** 3,010
 - **Last Pushed:** 2026-07-07
 - **License:** Apache-2.0
 - **Tags:** agent, ai, benchmarking, cli, coding-agent, education, llm, multi-agent, ui

@@ -5,9 +5,9 @@ description: 'Next-gen browser and mobile automation test framework for Node.js'
 type: library
 status: active
 language: TypeScript
-size_kb: 380412
-stars: 9805
-last_pushed: '2026-07-11'
+size_kb: 379877
+stars: 9806
+last_pushed: '2026-07-13'
 license: MIT
 tags:
   - automation
@@ -29,7 +29,7 @@ topics:
   - test
   - webdriver
   - webdriverio
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # webdriverio
@@ -43,8 +43,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 380,412 KB
-- **Stars:** 9,805
-- **Last Pushed:** 2026-07-11
+- **Size:** 379,877 KB
+- **Stars:** 9,806
+- **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** automation, browser-automation, framework, javascript, mobile, testing

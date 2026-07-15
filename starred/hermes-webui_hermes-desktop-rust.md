@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Rust
 size_kb: 4728
-stars: 20
+stars: 21
 last_pushed: '2026-07-11'
 license: MIT
 tags:
   - agent
   - hermes-agent
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # hermes-desktop-rust
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 4,728 KB
-- **Stars:** 20
+- **Stars:** 21
 - **Last Pushed:** 2026-07-11
 - **License:** MIT
 - **Tags:** agent, hermes-agent

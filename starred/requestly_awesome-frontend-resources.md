@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 33
-stars: 329
+stars: 330
 last_pushed: '2025-01-21'
 license: unknown
 tags:
@@ -26,7 +26,7 @@ topics:
   - reactjs
   - roadmap
   - vue
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # awesome-frontend-resources
@@ -41,7 +41,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 33 KB
-- **Stars:** 329
+- **Stars:** 330
 - **Last Pushed:** 2025-01-21
 - **License:** unknown
 - **Tags:** awesome-list, education, react, vue, web-app

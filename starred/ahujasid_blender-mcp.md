@@ -5,15 +5,15 @@ description: 'Open-source MCP to use Blender with any LLM'
 type: unknown
 status: active
 language: Python
-size_kb: 845
-stars: 23791
-last_pushed: '2026-06-11'
+size_kb: 799
+stars: 24109
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - llm
   - mcp
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # blender-mcp
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 845 KB
-- **Stars:** 23,791
-- **Last Pushed:** 2026-06-11
+- **Size:** 799 KB
+- **Stars:** 24,109
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** llm, mcp

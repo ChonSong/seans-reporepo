@@ -5,9 +5,9 @@ description: 'Build, deploy, and orchestrate AI agents. Sim is the central intel
 type: agent
 status: active
 language: TypeScript
-size_kb: 511306
-stars: 29074
-last_pushed: '2026-07-13'
+size_kb: 514298
+stars: 29109
+last_pushed: '2026-07-15'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -44,7 +44,7 @@ topics:
   - rag
   - react
   - typescript
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # sim
@@ -58,8 +58,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 511,306 KB
-- **Stars:** 29,074
-- **Last Pushed:** 2026-07-13
+- **Size:** 514,298 KB
+- **Stars:** 29,109
+- **Last Pushed:** 2026-07-15
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, automation, bot, browser-automation, chat-ui, docker, orchestration, rag, react, sustainability, training, typescript, workflow-engine

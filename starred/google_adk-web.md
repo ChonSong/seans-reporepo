@@ -6,14 +6,14 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 2646
-stars: 992
-last_pushed: '2026-06-26'
+stars: 993
+last_pushed: '2026-07-15'
 license: 'Apache-2.0'
 tags:
   - agent
   - web-app
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # adk-web
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 2,646 KB
-- **Stars:** 992
-- **Last Pushed:** 2026-06-26
+- **Stars:** 993
+- **Last Pushed:** 2026-07-15
 - **License:** Apache-2.0
 - **Tags:** agent, web-app

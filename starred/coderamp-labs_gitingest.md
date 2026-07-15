@@ -6,8 +6,8 @@ type: unknown
 status: active
 language: Python
 size_kb: 1484
-stars: 15046
-last_pushed: '2026-07-08'
+stars: 15054
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - ai
@@ -24,7 +24,7 @@ topics:
   - code
   - developer-tool
   - ingestion
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # gitingest
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 1,484 KB
-- **Stars:** 15,046
-- **Last Pushed:** 2026-07-08
+- **Stars:** 15,054
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** ai, aie, code-ingestion, code-packing, coding-agent, docker, ide, sustainability, training

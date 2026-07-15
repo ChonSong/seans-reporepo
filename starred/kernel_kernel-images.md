@@ -5,9 +5,9 @@ description: 'Browsers-as-a-service for automations and web agents'
 type: agent
 status: active
 language: Go
-size_kb: 34396
+size_kb: 34196
 stars: 981
-last_pushed: '2026-07-10'
+last_pushed: '2026-07-14'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -28,7 +28,7 @@ topics:
   - infrastructure
   - unikernel
   - vm
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # kernel-images
@@ -42,8 +42,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 34,396 KB
+- **Size:** 34,196 KB
 - **Stars:** 981
-- **Last Pushed:** 2026-07-10
+- **Last Pushed:** 2026-07-14
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, automation, browser-automation, docker, infrastructure, sustainability, training, web-app

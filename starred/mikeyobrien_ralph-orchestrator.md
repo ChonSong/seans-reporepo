@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Rust
 size_kb: 13752
-stars: 2997
+stars: 3004
 last_pushed: '2026-07-10'
 license: MIT
 tags:
@@ -36,7 +36,7 @@ topics:
   - opencode
   - ralph-loop
   - ralph-wiggum
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # ralph-orchestrator
@@ -51,7 +51,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Rust
 - **Size:** 13,752 KB
-- **Stars:** 2,997
+- **Stars:** 3,004
 - **Last Pushed:** 2026-07-10
 - **License:** MIT
 - **Tags:** agent, ai, aie, cli, docker, framework, orchestration, sustainability, training, workflow-engine

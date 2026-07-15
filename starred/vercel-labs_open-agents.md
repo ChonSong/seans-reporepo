@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 10603
-stars: 5717
+stars: 5727
 last_pushed: '2026-06-17'
 license: MIT
 tags:
@@ -23,7 +23,7 @@ topics:
   - agents
   - ai
   - background-agents
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # open-agents
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 10,603 KB
-- **Stars:** 5,717
+- **Stars:** 5,727
 - **Last Pushed:** 2026-06-17
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, docker, multi-agent, sustainability, training

@@ -5,9 +5,9 @@ description: 'GTO Wizard Clone v2 — rebuilt poker training platform with corre
 type: monorepo
 status: active
 language: Python
-size_kb: 1043
+size_kb: 1117
 stars: 0
-last_pushed: '2026-07-09'
+last_pushed: '2026-07-14'
 license: unknown
 tags:
   - ai
@@ -24,7 +24,7 @@ tags:
   - typescript
   - web-app
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # gto-wizard-clone-v2
@@ -38,9 +38,9 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,043 KB
+- **Size:** 1,117 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-09
+- **Last Pushed:** 2026-07-14
 - **License:** unknown
 - **Tags:** ai, api, browser-automation, dashboard, database, docker, gaming, python, react, solver, training, typescript, web-app
 

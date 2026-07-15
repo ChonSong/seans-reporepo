@@ -5,9 +5,9 @@ description: 'A cross-platform desktop All-in-One assistant for Claude Code, Cod
 type: agent
 status: active
 language: Rust
-size_kb: 62173
-stars: 116401
-last_pushed: '2026-07-12'
+size_kb: 64711
+stars: 117196
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - agent
@@ -43,7 +43,7 @@ topics:
   - tauri
   - typescript
   - wsl-support
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # cc-switch
@@ -57,8 +57,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 62,173 KB
-- **Stars:** 116,401
-- **Last Pushed:** 2026-07-12
+- **Size:** 64,711 KB
+- **Stars:** 117,196
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** agent, ai, cli, coding-agent, hermes-agent, ide, mcp, openclaw, rust, typescript, ui, web-app

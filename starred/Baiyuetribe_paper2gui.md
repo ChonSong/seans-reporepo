@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Jupyter Notebook
 size_kb: 138744
-stars: 10715
+stars: 10714
 last_pushed: '2024-09-20'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ topics:
   - rife-gui
   - stable-diffusion
   - waifu2x-gui
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # paper2gui
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Jupyter Notebook
 - **Size:** 138,744 KB
-- **Stars:** 10,715
+- **Stars:** 10,714
 - **Last Pushed:** 2024-09-20
 - **License:** MIT
 - **Tags:** ai, image-gen, ui

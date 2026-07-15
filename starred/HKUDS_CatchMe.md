@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 18677
-stars: 423
+stars: 424
 last_pushed: '2026-06-16'
 license: 'Apache-2.0'
 tags:
@@ -23,7 +23,7 @@ topics:
   - recall-ai
   - retrieval-systems
   - screen-recorder
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # CatchMe
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 18,677 KB
-- **Stars:** 423
+- **Stars:** 424
 - **Last Pushed:** 2026-06-16
 - **License:** Apache-2.0
 - **Tags:** agent, ai, bot, database, llm, plugin

@@ -5,14 +5,14 @@ description: '[ICLR 2026] Agentic Reinforced Policy Optimization (ARPO)'
 type: agent
 status: active
 language: Python
-size_kb: 20317
-stars: 1082
-last_pushed: '2026-04-13'
+size_kb: 19581
+stars: 1083
+last_pushed: '2026-07-13'
 license: unknown
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # ARPO
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 20,317 KB
-- **Stars:** 1,082
-- **Last Pushed:** 2026-04-13
+- **Size:** 19,581 KB
+- **Stars:** 1,083
+- **Last Pushed:** 2026-07-13
 - **License:** unknown
 - **Tags:** agent

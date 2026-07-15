@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 250
-stars: 788
+stars: 790
 last_pushed: '2026-06-21'
 license: unknown
 tags:
@@ -23,7 +23,7 @@ topics:
   - moltbot
   - openai
   - openclaw
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # openclaw-supermemory
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 250 KB
-- **Stars:** 788
+- **Stars:** 790
 - **Last Pushed:** 2026-06-21
 - **License:** unknown
 - **Tags:** agent, ai, bot, database, openclaw

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 95630
-stars: 439
+stars: 443
 last_pushed: '2026-07-11'
 license: NOASSERTION
 tags: []
@@ -15,7 +15,7 @@ topics:
   - animation
   - rigging
   - skin
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # AniGen
@@ -30,6 +30,6 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 95,630 KB
-- **Stars:** 439
+- **Stars:** 443
 - **Last Pushed:** 2026-07-11
 - **License:** NOASSERTION

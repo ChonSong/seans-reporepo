@@ -5,9 +5,9 @@ description: The agent that grows with you
 type: agent
 status: active
 language: Python
-size_kb: 486748
-stars: 213812
-last_pushed: '2026-07-13'
+size_kb: 498482
+stars: 214883
+last_pushed: '2026-07-14'
 license: MIT
 tags:
   - agent
@@ -40,7 +40,7 @@ topics:
   - nous-research
   - openai
   - openclaw
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # hermes-agent
@@ -54,8 +54,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 486,748 KB
-- **Stars:** 213,812
-- **Last Pushed:** 2026-07-13
+- **Size:** 498,482 KB
+- **Stars:** 214,883
+- **Last Pushed:** 2026-07-14
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, chat-ui, database, docker, hermes-agent, llm, openclaw, research, sustainability, training

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: 'C#'
 size_kb: 74108
-stars: 1318
+stars: 1320
 last_pushed: '2026-05-20'
 license: unknown
 tags:
@@ -26,7 +26,7 @@ topics:
   - chatbot
   - live2d
   - vtuber
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # handcrafted-persona-engine
@@ -41,7 +41,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** C#
 - **Size:** 74,108 KB
-- **Stars:** 1,318
+- **Stars:** 1,320
 - **Last Pushed:** 2026-05-20
 - **License:** unknown
 - **Tags:** ai, aie, bot, chat-ui, docker, ide, llm, sustainability, training

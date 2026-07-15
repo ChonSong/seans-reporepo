@@ -5,9 +5,9 @@ description: 'For developers, who are building real-time data-driven application
 type: infrastructure
 status: active
 language: C
-size_kb: 214472
-stars: 75439
-last_pushed: '2026-07-10'
+size_kb: 214563
+stars: 75456
+last_pushed: '2026-07-14'
 license: NOASSERTION
 tags:
   - database
@@ -34,7 +34,7 @@ topics:
   - time-series
   - vector-databases
   - vector-search
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # redis
@@ -48,8 +48,8 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** C
-- **Size:** 214,472 KB
-- **Stars:** 75,439
-- **Last Pushed:** 2026-07-10
+- **Size:** 214,563 KB
+- **Stars:** 75,456
+- **Last Pushed:** 2026-07-14
 - **License:** NOASSERTION
 - **Tags:** database, vector-db, vector-search

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: JavaScript
 size_kb: 4677
-stars: 62545
+stars: 63484
 last_pushed: '2026-07-04'
 license: MIT
 tags:
@@ -35,7 +35,7 @@ topics:
   - skill
   - skills
   - vibecoding
-refreshed_at: '2026-07-13 03:44 UTC'
+refreshed_at: '2026-07-15 00:23 UTC'
 ---
 
 # taste-skill
@@ -50,7 +50,7 @@ refreshed_at: '2026-07-13 03:44 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 4,677 KB
-- **Stars:** 62,545
+- **Stars:** 63,484
 - **Last Pushed:** 2026-07-04
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, design-system, docker, go, multi-agent, sustainability, training, web-app
