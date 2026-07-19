@@ -5,9 +5,9 @@ description: 'Self-healing observability for AI agents. Discover, monitor, and a
 type: agent
 status: active
 language: Python
-size_kb: 9250
+size_kb: 9255
 stars: 8
-last_pushed: '2026-06-27'
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
@@ -30,7 +30,7 @@ topics:
   - python
   - runtime-integrity
   - self-healing
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # observeco
@@ -44,8 +44,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 9,250 KB
+- **Size:** 9,255 KB
 - **Stars:** 8
-- **Last Pushed:** 2026-06-27
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** agent, ai, llm, monitoring, multi-agent, observability, python

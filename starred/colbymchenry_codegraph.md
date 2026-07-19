@@ -5,9 +5,9 @@ description: 'Pre-indexed code knowledge graph, auto syncs on code changes, for 
 type: agent
 status: active
 language: TypeScript
-size_kb: 9536
-stars: 59968
-last_pushed: '2026-07-13'
+size_kb: 11362
+stars: 60932
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
@@ -15,7 +15,7 @@ tags:
   - hermes-agent
   - sync
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # codegraph
@@ -29,8 +29,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 9,536 KB
-- **Stars:** 59,968
-- **Last Pushed:** 2026-07-13
+- **Size:** 11,362 KB
+- **Stars:** 60,932
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** agent, coding-agent, hermes-agent, sync

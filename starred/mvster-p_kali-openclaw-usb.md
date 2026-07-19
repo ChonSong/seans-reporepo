@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Shell
 size_kb: 28
-stars: 57
+stars: 59
 last_pushed: '2026-04-03'
 license: unknown
 tags:
@@ -30,7 +30,7 @@ topics:
   - red-team
   - security-tools
   - usb
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # kali-openclaw-usb
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Shell
 - **Size:** 28 KB
-- **Stars:** 57
+- **Stars:** 59
 - **Last Pushed:** 2026-04-03
 - **License:** unknown
 - **Tags:** ai, automation, browser-automation, openclaw, security, testing, ui

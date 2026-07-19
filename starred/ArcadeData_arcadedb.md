@@ -5,9 +5,9 @@ description: 'ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher,
 type: unknown
 status: active
 language: Java
-size_kb: 61459
-stars: 1020
-last_pushed: '2026-07-14'
+size_kb: 62712
+stars: 1030
+last_pushed: '2026-07-19'
 license: 'Apache-2.0'
 tags:
   - api
@@ -36,7 +36,7 @@ topics:
   - time-series
   - vector-database
   - vector-search
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # arcadedb
@@ -50,8 +50,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Java
-- **Size:** 61,459 KB
-- **Stars:** 1,020
-- **Last Pushed:** 2026-07-14
+- **Size:** 62,712 KB
+- **Stars:** 1,030
+- **Last Pushed:** 2026-07-19
 - **License:** Apache-2.0
 - **Tags:** api, database, docker, embeddings, go, vector-db, vector-search

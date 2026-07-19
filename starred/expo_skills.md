@@ -5,15 +5,15 @@ description: A collection of AI agent skills for working with Expo projects and 
 type: agent
 status: active
 language: JavaScript
-size_kb: 3162
-stars: 2209
-last_pushed: '2026-07-14'
+size_kb: 3142
+stars: 2229
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # skills
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 3,162 KB
-- **Stars:** 2,209
-- **Last Pushed:** 2026-07-14
+- **Size:** 3,142 KB
+- **Stars:** 2,229
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** agent, ai

@@ -5,16 +5,16 @@ description: 'web development, streamlined'
 type: unknown
 status: active
 language: JavaScript
-size_kb: 38737
-stars: 20671
-last_pushed: '2026-07-14'
+size_kb: 38851
+stars: 20677
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - svelte
   - web-app
 topics:
   - svelte
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # kit
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 38,737 KB
-- **Stars:** 20,671
-- **Last Pushed:** 2026-07-14
+- **Size:** 38,851 KB
+- **Stars:** 20,677
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** svelte, web-app

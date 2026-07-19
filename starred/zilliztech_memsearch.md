@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 26600
-stars: 2243
+stars: 2257
 last_pushed: '2026-07-13'
 license: MIT
 tags:
@@ -42,7 +42,7 @@ topics:
   - reranker
   - semantic-search
   - skills
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # memsearch
@@ -57,7 +57,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 26,600 KB
-- **Stars:** 2,243
+- **Stars:** 2,257
 - **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** agent, ai, cli, coding-agent, embeddings, harness, multi-agent, openclaw, plugin, rag, vector-db

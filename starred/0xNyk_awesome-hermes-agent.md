@@ -1,43 +1,50 @@
 ---
 repo: '0xNyk/awesome-hermes-agent'
 url: 'https://github.com/0xNyk/awesome-hermes-agent'
-description: 'A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research'
-type: 'awesome-list'
+description: 'Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.'
+type: agent
 status: active
 language: other
-size_kb: 105
-stars: 4699
-last_pushed: '2026-07-13'
+size_kb: 2496
+stars: 4783
+last_pushed: '2026-07-17'
 license: NOASSERTION
 tags:
   - agent
   - ai
   - awesome-list
   - hermes-agent
+  - ide
+  - mcp
+  - plugin
   - research
 topics:
+  - agent-skills
   - ai-agents
+  - ai-tools
   - awesome
   - awesome-list
   - hermes-agent
+  - mcp
+  - memory
   - nous-research
   - skills
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # awesome-hermes-agent
 
-> A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
+> Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 
 **URL:** [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
 
 ## Metadata
 
-- **Type:** awesome-list
+- **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 105 KB
-- **Stars:** 4,699
-- **Last Pushed:** 2026-07-13
+- **Size:** 2,496 KB
+- **Stars:** 4,783
+- **Last Pushed:** 2026-07-17
 - **License:** NOASSERTION
-- **Tags:** agent, ai, awesome-list, hermes-agent, research
+- **Tags:** agent, ai, awesome-list, hermes-agent, ide, mcp, plugin, research

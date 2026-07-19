@@ -6,14 +6,14 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 22439
-stars: 2703
+stars: 2721
 last_pushed: '2026-04-22'
 license: 'Apache-2.0'
 tags:
   - agent
   - gaming
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # OpenGame
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 22,439 KB
-- **Stars:** 2,703
+- **Stars:** 2,721
 - **Last Pushed:** 2026-04-22
 - **License:** Apache-2.0
 - **Tags:** agent, gaming

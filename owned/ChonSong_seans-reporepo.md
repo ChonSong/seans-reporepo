@@ -5,9 +5,9 @@ description: Personal code catalog for ideation and combinatorial app design
 type: 'awesome-list'
 status: active
 language: Python
-size_kb: 1128
+size_kb: 1209
 stars: 0
-last_pushed: '2026-07-14'
+last_pushed: '2026-07-15'
 license: unknown
 tags:
   - agent
@@ -35,7 +35,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # seans-reporepo
@@ -49,9 +49,9 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,128 KB
+- **Size:** 1,209 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-14
+- **Last Pushed:** 2026-07-15
 - **License:** unknown
 - **Tags:** agent, ai, aie, api, audio, automation, awesome-list, bot, browser-automation, cli, code-packing, go, harness, hermes-agent, ide, llm, orchestration, plugin, python, svelte, transpilation, typescript, voice, web-app
 
@@ -61,14 +61,14 @@ refreshed_at: '2026-07-15 00:23 UTC'
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-07-13 03:44 UTC
+> **Last refreshed:** 2026-07-15 00:23 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 59 | 213 | 272 |
-| Total Size | 2,933,797 KB | 29,472,013 KB | 32,405,810 KB (31,646 MB) |
+| Repos | 59 | 218 | 277 |
+| Total Size | 2,952,073 KB | 30,295,605 KB | 33,247,678 KB (32,468 MB) |
 | Languages | 13 | 20 | 23 |
 | Tags | — | — | 79 |
 
@@ -79,7 +79,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (213)
+├── starred/         # Repos I've starred (218)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...

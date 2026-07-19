@@ -6,13 +6,13 @@ type: unknown
 status: active
 language: Jupyter Notebook
 size_kb: 510882
-stars: 2853
+stars: 2857
 last_pushed: '2025-11-15'
 license: 'Apache-2.0'
 tags:
   - ai
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # pythia
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Jupyter Notebook
 - **Size:** 510,882 KB
-- **Stars:** 2,853
+- **Stars:** 2,857
 - **Last Pushed:** 2025-11-15
 - **License:** Apache-2.0
 - **Tags:** ai

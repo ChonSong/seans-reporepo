@@ -5,14 +5,14 @@ description: 'The open agent skills tool - npx skills'
 type: agent
 status: active
 language: TypeScript
-size_kb: 923
-stars: 26140
-last_pushed: '2026-07-14'
+size_kb: 984
+stars: 26621
+last_pushed: '2026-07-16'
 license: unknown
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # skills
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 923 KB
-- **Stars:** 26,140
-- **Last Pushed:** 2026-07-14
+- **Size:** 984 KB
+- **Stars:** 26,621
+- **Last Pushed:** 2026-07-16
 - **License:** unknown
 - **Tags:** agent

@@ -5,16 +5,16 @@ description: The official svelte MCP for all your agentic needs.
 type: agent
 status: active
 language: TypeScript
-size_kb: 2427
-stars: 291
-last_pushed: '2026-07-14'
+size_kb: 2415
+stars: 296
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
   - mcp
   - svelte
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # ai-tools
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 2,427 KB
-- **Stars:** 291
-- **Last Pushed:** 2026-07-14
+- **Size:** 2,415 KB
+- **Stars:** 296
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** agent, mcp, svelte

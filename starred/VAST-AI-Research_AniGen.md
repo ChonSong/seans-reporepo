@@ -5,9 +5,9 @@ description: '[SIGGRAPH 2026] AniGen: Unified S^3 Fields for Animatable 3D Asset
 type: unknown
 status: active
 language: Python
-size_kb: 95630
-stars: 443
-last_pushed: '2026-07-11'
+size_kb: 99510
+stars: 450
+last_pushed: '2026-07-15'
 license: NOASSERTION
 tags: []
 topics:
@@ -15,7 +15,7 @@ topics:
   - animation
   - rigging
   - skin
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # AniGen
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 95,630 KB
-- **Stars:** 443
-- **Last Pushed:** 2026-07-11
+- **Size:** 99,510 KB
+- **Stars:** 450
+- **Last Pushed:** 2026-07-15
 - **License:** NOASSERTION

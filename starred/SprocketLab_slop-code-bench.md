@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: Python
 size_kb: 59502
-stars: 87
+stars: 89
 last_pushed: '2026-06-11'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # slop-code-bench
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 59,502 KB
-- **Stars:** 87
+- **Stars:** 89
 - **Last Pushed:** 2026-06-11
 - **License:** MIT

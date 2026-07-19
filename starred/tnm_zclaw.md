@@ -6,13 +6,13 @@ type: agent
 status: active
 language: C
 size_kb: 1520
-stars: 2189
+stars: 2193
 last_pushed: '2026-05-17'
 license: MIT
 tags:
   - ai
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # zclaw
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** C
 - **Size:** 1,520 KB
-- **Stars:** 2,189
+- **Stars:** 2,193
 - **Last Pushed:** 2026-05-17
 - **License:** MIT
 - **Tags:** ai

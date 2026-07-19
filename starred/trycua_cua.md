@@ -1,13 +1,13 @@
 ---
 repo: trycua/cua
 url: 'https://github.com/trycua/cua'
-description: 'Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).'
-type: agent
+description: 'Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.'
+type: unknown
 status: active
 language: HTML
-size_kb: 267120
-stars: 19668
-last_pushed: '2026-07-15'
+size_kb: 276483
+stars: 20227
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
@@ -18,8 +18,8 @@ tags:
   - database
   - docker
   - framework
-  - infrastructure
   - multi-agent
+  - training
 topics:
   - agent
   - ai-agent
@@ -39,22 +39,22 @@ topics:
   - virtualization-framework
   - windows
   - windows-sandbox
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # cua
 
-> Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+> Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 
 **URL:** [trycua/cua](https://github.com/trycua/cua)
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** unknown
 - **Status:** active
 - **Language:** HTML
-- **Size:** 267,120 KB
-- **Stars:** 19,668
-- **Last Pushed:** 2026-07-15
+- **Size:** 276,483 KB
+- **Stars:** 20,227
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
-- **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, infrastructure, multi-agent
+- **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, multi-agent, training

@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 11103
-stars: 16
+stars: 17
 last_pushed: '2025-12-16'
 license: MIT
 tags:
@@ -30,7 +30,7 @@ topics:
   - screenshot-to-code
   - tailwind-css
   - ui-generator
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # OpenKombai
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 11,103 KB
-- **Stars:** 16
+- **Stars:** 17
 - **Last Pushed:** 2025-12-16
 - **License:** MIT
 - **Tags:** ai, api, css, llm, react, ui

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 72781
-stars: 187
+stars: 190
 last_pushed: '2026-07-13'
 license: MIT
 tags:
@@ -36,7 +36,7 @@ topics:
   - tool-making
   - windows
   - workflow-automation
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # portable-hermes-agent
@@ -51,7 +51,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 72,781 KB
-- **Stars:** 187
+- **Stars:** 190
 - **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** agent, ai, aie, audio, automation, docker, hermes-agent, image-gen, sustainability, training, workflow-engine

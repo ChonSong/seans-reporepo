@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 780
-stars: 4717
+stars: 4839
 last_pushed: '2026-07-13'
 license: MIT
 tags:
@@ -24,7 +24,7 @@ topics:
   - godot
   - godot4
   - skills
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # godogen
@@ -39,7 +39,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 780 KB
-- **Stars:** 4,717
+- **Stars:** 4,839
 - **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** cli, gaming, go

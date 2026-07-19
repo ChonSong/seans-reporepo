@@ -5,9 +5,9 @@ description: Fully automatic censorship removal for language models
 type: unknown
 status: active
 language: Python
-size_kb: 1323
-stars: 26302
-last_pushed: '2026-07-07'
+size_kb: 1922
+stars: 26500
+last_pushed: '2026-07-17'
 license: 'AGPL-3.0'
 tags:
   - llm
@@ -15,7 +15,7 @@ topics:
   - abliteration
   - llm
   - transformer
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # heretic
@@ -29,8 +29,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,323 KB
-- **Stars:** 26,302
-- **Last Pushed:** 2026-07-07
+- **Size:** 1,922 KB
+- **Stars:** 26,500
+- **Last Pushed:** 2026-07-17
 - **License:** AGPL-3.0
 - **Tags:** llm

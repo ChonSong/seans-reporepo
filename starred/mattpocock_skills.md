@@ -1,33 +1,34 @@
 ---
 repo: mattpocock/skills
 url: 'https://github.com/mattpocock/skills'
-description: Skills for Real Engineers. Straight from my .claude directory.
-type: unknown
+description: Skills for Real Engineers. Straight from my .agents directory.
+type: agent
 status: active
 language: Shell
-size_kb: 777
-stars: 170203
-last_pushed: '2026-07-14'
+size_kb: 782
+stars: 177443
+last_pushed: '2026-07-17'
 license: MIT
 tags:
+  - agent
   - ai
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # skills
 
-> Skills for Real Engineers. Straight from my .claude directory.
+> Skills for Real Engineers. Straight from my .agents directory.
 
 **URL:** [mattpocock/skills](https://github.com/mattpocock/skills)
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** Shell
-- **Size:** 777 KB
-- **Stars:** 170,203
-- **Last Pushed:** 2026-07-14
+- **Size:** 782 KB
+- **Stars:** 177,443
+- **Last Pushed:** 2026-07-17
 - **License:** MIT
-- **Tags:** ai
+- **Tags:** agent, ai

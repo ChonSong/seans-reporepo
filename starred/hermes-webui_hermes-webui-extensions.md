@@ -5,15 +5,15 @@ description: 'Extensions library for Hermes WebUI! Marketplace of ways to enhanc
 type: library
 status: active
 language: JavaScript
-size_kb: 6154
-stars: 13
-last_pushed: '2026-07-11'
+size_kb: 6151
+stars: 16
+last_pushed: '2026-07-19'
 license: unknown
 tags:
   - hermes-agent
   - web-app
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # hermes-webui-extensions
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 6,154 KB
-- **Stars:** 13
-- **Last Pushed:** 2026-07-11
+- **Size:** 6,151 KB
+- **Stars:** 16
+- **Last Pushed:** 2026-07-19
 - **License:** unknown
 - **Tags:** hermes-agent, web-app

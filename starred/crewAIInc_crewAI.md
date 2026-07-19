@@ -5,9 +5,9 @@ description: 'Framework for orchestrating role-playing, autonomous AI agents. By
 type: library
 status: active
 language: Python
-size_kb: 269447
-stars: 55533
-last_pushed: '2026-07-14'
+size_kb: 284932
+stars: 55791
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - ai-agents
   - aiagentframework
   - llms
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # crewAI
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 269,447 KB
-- **Stars:** 55,533
-- **Last Pushed:** 2026-07-14
+- **Size:** 284,932 KB
+- **Stars:** 55,791
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** agent, ai, aie, docker, framework, llm, orchestration, sustainability, training

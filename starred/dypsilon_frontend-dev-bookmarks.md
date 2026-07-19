@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: other
 size_kb: 1048
-stars: 47155
+stars: 47197
 last_pushed: '2024-05-21'
 license: unknown
 tags:
@@ -17,7 +17,7 @@ topics:
   - awesome-list
   - frontend
   - list
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # frontend-dev-bookmarks
@@ -32,7 +32,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1,048 KB
-- **Stars:** 47,155
+- **Stars:** 47,197
 - **Last Pushed:** 2024-05-21
 - **License:** unknown
 - **Tags:** awesome-list, web-app

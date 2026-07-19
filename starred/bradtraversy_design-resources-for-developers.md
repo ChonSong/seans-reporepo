@@ -6,7 +6,7 @@ type: library
 status: active
 language: other
 size_kb: 4960
-stars: 66406
+stars: 66445
 last_pushed: '2026-05-24'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
   - framework
   - web-app
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # design-resources-for-developers
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 4,960 KB
-- **Stars:** 66,406
+- **Stars:** 66,445
 - **Last Pushed:** 2026-05-24
 - **License:** MIT
 - **Tags:** awesome-list, framework, web-app

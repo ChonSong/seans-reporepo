@@ -5,9 +5,9 @@ description: '🎨 The open-source Claude Design alternative. 🖥️ Local-firs
 type: monorepo
 status: active
 language: TypeScript
-size_kb: 1671644
-stars: 78177
-last_pushed: '2026-07-15'
+size_kb: 1688307
+stars: 79719
+last_pushed: '2026-07-19'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -42,7 +42,7 @@ topics:
   - prototyping
   - ui-generator
   - vibe-coding
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # open-design
@@ -56,8 +56,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 1,671,644 KB
-- **Stars:** 78,177
-- **Last Pushed:** 2026-07-15
+- **Size:** 1,688,307 KB
+- **Stars:** 79,719
+- **Last Pushed:** 2026-07-19
 - **License:** Apache-2.0
 - **Tags:** agent, ai, cli, coding-agent, dashboard, design-system, hermes-agent, ide, ui, video, website

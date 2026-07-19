@@ -6,7 +6,7 @@ type: library
 status: active
 language: Python
 size_kb: 55613
-stars: 12722
+stars: 12734
 last_pushed: '2026-07-14'
 license: 'Apache-2.0'
 tags:
@@ -47,7 +47,7 @@ topics:
   - txtai
   - vector-database
   - vector-search
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # txtai
@@ -62,7 +62,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 55,613 KB
-- **Stars:** 12,722
+- **Stars:** 12,734
 - **Last Pushed:** 2026-07-14
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, database, docker, embeddings, framework, llm, orchestration, python, rag, research, sustainability, training, vector-db, vector-search

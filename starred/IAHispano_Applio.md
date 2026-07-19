@@ -5,9 +5,9 @@ description: 'A simple, high-quality voice conversion tool focused on ease of us
 type: unknown
 status: active
 language: Python
-size_kb: 52114
-stars: 3477
-last_pushed: '2026-07-13'
+size_kb: 51438
+stars: 3491
+last_pushed: '2026-07-19'
 license: MIT
 tags:
   - ai
@@ -31,7 +31,7 @@ topics:
   - voice-clone
   - voice-cloning
   - voice-conversion
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # Applio
@@ -45,8 +45,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 52,114 KB
-- **Stars:** 3,477
-- **Last Pushed:** 2026-07-13
+- **Size:** 51,438 KB
+- **Stars:** 3,491
+- **Last Pushed:** 2026-07-19
 - **License:** MIT
 - **Tags:** ai, aie, docker, sustainability, training, voice

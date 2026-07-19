@@ -5,9 +5,9 @@ description: 'Web dashboard for Hermes Agent — multi-platform AI chat, session
 type: monorepo
 status: active
 language: TypeScript
-size_kb: 118372
-stars: 9114
-last_pushed: '2026-07-14'
+size_kb: 123466
+stars: 9306
+last_pushed: '2026-07-19'
 license: NOASSERTION
 tags:
   - agent
@@ -39,7 +39,7 @@ topics:
   - typescript
   - vue3
   - web-ui
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # hermes-studio
@@ -53,8 +53,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** monorepo
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 118,372 KB
-- **Stars:** 9,114
-- **Last Pushed:** 2026-07-14
+- **Size:** 123,466 KB
+- **Stars:** 9,306
+- **Last Pushed:** 2026-07-19
 - **License:** NOASSERTION
 - **Tags:** agent, ai, analytics, chat-ui, coding-agent, dashboard, hermes-agent, llm, multi-agent, paas, typescript, ui, vue, web-app

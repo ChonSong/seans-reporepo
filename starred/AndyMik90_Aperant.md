@@ -6,13 +6,13 @@ type: unknown
 status: active
 language: TypeScript
 size_kb: 58831
-stars: 14451
+stars: 14469
 last_pushed: '2026-06-14'
 license: 'AGPL-3.0'
 tags:
   - ai
 topics: []
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # Aperant
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 58,831 KB
-- **Stars:** 14,451
+- **Stars:** 14,469
 - **Last Pushed:** 2026-06-14
 - **License:** AGPL-3.0
 - **Tags:** ai

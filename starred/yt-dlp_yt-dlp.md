@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 61482
-stars: 178019
+stars: 178936
 last_pushed: '2026-07-14'
 license: Unlicense
 tags:
@@ -23,7 +23,7 @@ topics:
   - youtube-dl
   - youtube-downloader
   - yt-dlp
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # yt-dlp
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 61,482 KB
-- **Stars:** 178,019
+- **Stars:** 178,936
 - **Last Pushed:** 2026-07-14
 - **License:** Unlicense
 - **Tags:** audio, cli, ide, python, video

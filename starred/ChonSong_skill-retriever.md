@@ -5,9 +5,9 @@ description: 'AgentSkillOS-powered semantic skill retrieval for Hermes Agent.'
 type: agent
 status: active
 language: HTML
-size_kb: 34462
+size_kb: 35506
 stars: 6
-last_pushed: '2026-07-12'
+last_pushed: '2026-07-18'
 license: unknown
 tags:
   - agent
@@ -16,7 +16,7 @@ tags:
 topics:
   - hermes-agent
   - skills
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # skill-retriever
@@ -30,8 +30,8 @@ refreshed_at: '2026-07-15 00:23 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** HTML
-- **Size:** 34,462 KB
+- **Size:** 35,506 KB
 - **Stars:** 6
-- **Last Pushed:** 2026-07-12
+- **Last Pushed:** 2026-07-18
 - **License:** unknown
 - **Tags:** agent, hermes-agent, rag

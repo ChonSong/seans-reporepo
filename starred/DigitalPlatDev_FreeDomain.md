@@ -4,10 +4,10 @@ url: 'https://github.com/DigitalPlatDev/FreeDomain'
 description: 'DigitalPlat FreeDomain: Free Domain For Everyone'
 type: unknown
 status: active
-language: HTML
-size_kb: 972
-stars: 185716
-last_pushed: '2026-04-24'
+language: other
+size_kb: 1139
+stars: 186870
+last_pushed: '2026-07-16'
 license: 'AGPL-3.0'
 tags:
   - ai
@@ -20,7 +20,7 @@ topics:
   - domains
   - free
   - freedomain
-refreshed_at: '2026-07-15 00:23 UTC'
+refreshed_at: '2026-07-19 23:34 UTC'
 ---
 
 # FreeDomain
@@ -33,9 +33,9 @@ refreshed_at: '2026-07-15 00:23 UTC'
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** HTML
-- **Size:** 972 KB
-- **Stars:** 185,716
-- **Last Pushed:** 2026-04-24
+- **Language:** other
+- **Size:** 1,139 KB
+- **Stars:** 186,870
+- **Last Pushed:** 2026-07-16
 - **License:** AGPL-3.0
 - **Tags:** ai, paas
