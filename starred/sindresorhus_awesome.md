@@ -6,7 +6,7 @@ type: 'awesome-list'
 status: active
 language: other
 size_kb: 1565
-stars: 486741
+stars: 489338
 last_pushed: '2026-06-30'
 license: 'CC0-1.0'
 tags:
@@ -17,7 +17,7 @@ topics:
   - lists
   - resources
   - unicorns
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # awesome
@@ -32,7 +32,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1,565 KB
-- **Stars:** 486,741
+- **Stars:** 489,338
 - **Last Pushed:** 2026-06-30
 - **License:** CC0-1.0
 - **Tags:** awesome-list

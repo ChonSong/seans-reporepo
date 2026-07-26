@@ -5,15 +5,15 @@ description: Skills for Real Engineers. Straight from my .agents directory.
 type: agent
 status: active
 language: Shell
-size_kb: 782
-stars: 177443
-last_pushed: '2026-07-17'
+size_kb: 893
+stars: 189508
+last_pushed: '2026-07-23'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # skills
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Shell
-- **Size:** 782 KB
-- **Stars:** 177,443
-- **Last Pushed:** 2026-07-17
+- **Size:** 893 KB
+- **Stars:** 189,508
+- **Last Pushed:** 2026-07-23
 - **License:** MIT
 - **Tags:** agent, ai

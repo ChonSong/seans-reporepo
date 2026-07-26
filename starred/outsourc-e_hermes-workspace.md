@@ -6,7 +6,7 @@ type: agent
 status: active
 language: JavaScript
 size_kb: 104811
-stars: 6183
+stars: 6254
 last_pushed: '2026-07-05'
 license: MIT
 tags:
@@ -27,7 +27,7 @@ topics:
   - nous-research
   - react
   - typescript
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # hermes-workspace
@@ -42,7 +42,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** JavaScript
 - **Size:** 104,811 KB
-- **Stars:** 6,183
+- **Stars:** 6,254
 - **Last Pushed:** 2026-07-05
 - **License:** MIT
 - **Tags:** agent, ai, hermes-agent, react, research, terminal, typescript, ui, web-app

@@ -6,7 +6,7 @@ type: library
 status: active
 language: Go
 size_kb: 1039
-stars: 1215
+stars: 1217
 last_pushed: '2026-04-18'
 license: 'Apache-2.0'
 tags:
@@ -37,7 +37,7 @@ topics:
   - web-application
   - web-development
   - webapp
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # gowebly
@@ -52,7 +52,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Go
 - **Size:** 1,039 KB
-- **Stars:** 1,215
+- **Stars:** 1,217
 - **Last Pushed:** 2026-04-18
 - **License:** Apache-2.0
 - **Tags:** ai, cli, css, framework, go, web-app

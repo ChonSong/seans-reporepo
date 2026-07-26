@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 5529
-stars: 76
+stars: 77
 last_pushed: '2026-07-13'
 license: MIT
 tags:
@@ -34,7 +34,7 @@ topics:
   - load-balancer
   - openai
   - python
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # Hermes-router
@@ -49,7 +49,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 5,529 KB
-- **Stars:** 76
+- **Stars:** 77
 - **Last Pushed:** 2026-07-13
 - **License:** MIT
 - **Tags:** agent, ai, aie, analytics, api, coding-agent, docker, ide, llm, multi-agent, proxy, python, sustainability, training

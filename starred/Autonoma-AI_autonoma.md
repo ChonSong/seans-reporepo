@@ -5,16 +5,16 @@ description: 'Open-source testing platform where AI agents navigate your app end
 type: agent
 status: active
 language: TypeScript
-size_kb: 11615
-stars: 152
-last_pushed: '2026-07-16'
+size_kb: 8859
+stars: 158
+last_pushed: '2026-07-24'
 license: NOASSERTION
 tags:
   - agent
   - ai
   - testing
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # autonoma
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 11,615 KB
-- **Stars:** 152
-- **Last Pushed:** 2026-07-16
+- **Size:** 8,859 KB
+- **Stars:** 158
+- **Last Pushed:** 2026-07-24
 - **License:** NOASSERTION
 - **Tags:** agent, ai, testing

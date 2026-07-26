@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: other
 size_kb: 1
-stars: 7
+stars: 8
 last_pushed: '2024-11-27'
 license: unknown
 tags:
@@ -15,7 +15,7 @@ topics:
   - phoenix-os
   - phoenix-os-zeronetfix-mod
   - real-android-on-your-computer
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # phoenix_os
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1 KB
-- **Stars:** 7
+- **Stars:** 8
 - **Last Pushed:** 2024-11-27
 - **License:** unknown
 - **Tags:** mobile

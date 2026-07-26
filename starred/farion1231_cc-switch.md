@@ -1,18 +1,17 @@
 ---
 repo: 'farion1231/cc-switch'
 url: 'https://github.com/farion1231/cc-switch'
-description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io'
+description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io'
 type: agent
 status: active
 language: Rust
-size_kb: 64993
-stars: 118944
-last_pushed: '2026-07-19'
+size_kb: 66759
+stars: 121382
+last_pushed: '2026-07-26'
 license: MIT
 tags:
   - agent
   - ai
-  - cli
   - coding-agent
   - hermes-agent
   - ide
@@ -27,11 +26,11 @@ topics:
   - claude-code
   - codex
   - desktop-app
+  - grok
+  - grokbuild
   - hermes
   - hermes-agent
   - mcp
-  - minimax
-  - omo
   - open-source
   - openclaw
   - openclaw-ui
@@ -43,12 +42,12 @@ topics:
   - tauri
   - typescript
   - wsl-support
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # cc-switch
 
-> A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+> A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
 **URL:** [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 
@@ -57,8 +56,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 64,993 KB
-- **Stars:** 118,944
-- **Last Pushed:** 2026-07-19
+- **Size:** 66,759 KB
+- **Stars:** 121,382
+- **Last Pushed:** 2026-07-26
 - **License:** MIT
-- **Tags:** agent, ai, cli, coding-agent, hermes-agent, ide, mcp, openclaw, rust, typescript, ui, web-app
+- **Tags:** agent, ai, coding-agent, hermes-agent, ide, mcp, openclaw, rust, typescript, ui, web-app

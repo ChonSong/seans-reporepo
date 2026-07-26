@@ -2,25 +2,25 @@
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-07-19 23:34 UTC
+> **Last refreshed:** 2026-07-26 23:00 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 60 | 224 | 284 |
-| Total Size | 2,952,253 KB | 30,715,407 KB | 33,667,660 KB (32,878 MB) |
+| Repos | 62 | 229 | 291 |
+| Total Size | 2,972,165 KB | 32,130,451 KB | 35,102,616 KB (34,279 MB) |
 | Languages | 13 | 20 | 23 |
 | Tags | — | — | 79 |
 
 ## Structure
 
 ```
-├── owned/           # My repositories (60)
+├── owned/           # My repositories (62)
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (224)
+├── starred/         # Repos I've starred (229)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
@@ -31,7 +31,7 @@
 
 ## Owned Repositories
 
-### Agent (19)
+### Agent (21)
 
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
@@ -42,9 +42,10 @@
 | [dev-loop](owned/ChonSong_dev-loop.md) | Python | 20,354 KB | 1 | agent, ai, bot |
 | [hermes-web-computer](owned/ChonSong_hermes-web-computer.md) | Svelte | 13,955 KB | 1 | agent, ai, audio |
 | [claw-aie-harness](owned/ChonSong_claw-aie-harness.md) | Python | 10,759 KB | 0 | agent, ai, aie |
+| [proofshot](owned/ChonSong_proofshot.md) | TypeScript | 4,961 KB | 0 | agent, ai, browser-automation |
 | [hermes-guide](owned/ChonSong_hermes-guide.md) | other | 3,529 KB | 1 | agent, browser-automation, hermes-agent |
 | [onefilellm](owned/ChonSong_onefilellm.md) | Python | 1,427 KB | 0 | agent, ai, api |
-| [intermediary-agent](owned/ChonSong_intermediary-agent.md) | Python | 299 KB | 1 | agent, ai, api |
+| [intermediary-agent](owned/ChonSong_intermediary-agent.md) | Python | 341 KB | 1 | agent, ai, api |
 | [Codeovertcp](owned/ChonSong_Codeovertcp.md) | other | 153 KB | 0 | agent, ide, voice |
 | [claw-aie](owned/ChonSong_claw-aie.md) | Python | 126 KB | 0 | agent, ai, aie |
 | [casaos-agent](owned/ChonSong_casaos-agent.md) | Go | 108 KB | 0 | agent, api, awesome-list |
@@ -52,6 +53,7 @@
 | [fac-s2s-plugin](owned/ChonSong_fac-s2s-plugin.md) | Python | 25 KB | 1 | agent, audio, cli |
 | [casaos-webhook-emitter](owned/ChonSong_casaos-webhook-emitter.md) | Go | 21 KB | 0 | agent, ai, api |
 | [refqa](owned/ChonSong_refqa.md) | Python | 16 KB | 0 | agent, ai, automation |
+| [docker-tunnel-sidecar](owned/ChonSong_docker-tunnel-sidecar.md) | Python | 8 KB | 0 | ai, api, awesome-list |
 | [hermes-desktop](owned/ChonSong_hermes-desktop.md) | Python | 6 KB | 1 | agent, ai, api |
 | [hermes-bootstrap](owned/ChonSong_hermes-bootstrap.md) | Shell | 6 KB | 1 | agent, ai, browser-automation |
 
@@ -59,7 +61,7 @@
 
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
-| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 1,209 KB | 0 | agent, ai, aie |
+| [seans-reporepo](owned/ChonSong_seans-reporepo.md) | Python | 1,260 KB | 0 | agent, ai, aie |
 
 ### Cli (2)
 
@@ -83,9 +85,9 @@
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
 | [australian-economic-model](owned/ChonSong_australian-economic-model.md) | Python | 258,823 KB | 0 | ai, api, browser-automation |
-| [hermes-webui](owned/ChonSong_hermes-webui.md) | Python | 150,956 KB | 0 | agent, ai, bot |
+| [hermes-webui](owned/ChonSong_hermes-webui.md) | Python | 166,736 KB | 0 | agent, ai, bot |
 | [rasta-assistant](owned/ChonSong_rasta-assistant.md) | TypeScript | 37,004 KB | 0 | agent, ai, framework |
-| [hermes-webui-extensions](owned/ChonSong_hermes-webui-extensions.md) | JavaScript | 8,558 KB | 0 | ai, api, cli |
+| [hermes-webui-extensions](owned/ChonSong_hermes-webui-extensions.md) | JavaScript | 7,589 KB | 0 | ai, api, cli |
 | [pokerkit](owned/ChonSong_pokerkit.md) | Python | 6,067 KB | 0 | ai, api, automation |
 | [repo-transmute](owned/ChonSong_repo-transmute.md) | TypeScript | 4,032 KB | 1 | agent, ai, cli |
 | [postflop-solver](owned/ChonSong_postflop-solver.md) | Rust | 547 KB | 0 | ai, gaming, go |
@@ -103,7 +105,7 @@
 | [forrest-plan-and-track](owned/ChonSong_forrest-plan-and-track.md) | Python | 84,300 KB | 0 | ai, api, cli |
 | [hermes-sync](owned/ChonSong_hermes-sync.md) | Python | 72,040 KB | 0 | agent, ai, api |
 | [agent-os](owned/ChonSong_agent-os.md) | Python | 10,271 KB | 0 | agent, ai, api |
-| [open-lovable](owned/ChonSong_open-lovable.md) | TypeScript | 1,334 KB | 0 | ai, api, dashboard |
+| [open-lovable](owned/ChonSong_open-lovable.md) | TypeScript | 1,334 KB | 1 | ai, api, dashboard |
 | [gto-wizard-clone-v2](owned/ChonSong_gto-wizard-clone-v2.md) | Python | 1,117 KB | 0 | ai, api, browser-automation |
 | [llm-benchmark-platform](owned/ChonSong_llm-benchmark-platform.md) | Python | 96 KB | 0 | ai, api, awesome-list |
 | [pipeline-dashboard](owned/ChonSong_pipeline-dashboard.md) | Python | 80 KB | 0 | dashboard |
@@ -120,7 +122,7 @@
 | [sean-dotfiles](owned/ChonSong_sean-dotfiles.md) | QML | 998 KB | 0 | ai, dotfiles, gaming |
 | [polytopia-clone](owned/ChonSong_polytopia-clone.md) | TypeScript | 785 KB | 1 | ai, typescript |
 | [sean-s-landing-page](owned/ChonSong_sean-s-landing-page.md) | TypeScript | 96 KB | 0 | ai, api, website |
-| [riptide](owned/ChonSong_riptide.md) | Python | 24 KB | 0 |  |
+| [riptide](owned/ChonSong_riptide.md) | Python | 63 KB | 0 |  |
 | [ytz](owned/ChonSong_ytz.md) | TypeScript | 19 KB | 0 | ai, api, go |
 | [Riptile](owned/ChonSong_Riptile.md) | Python | 17 KB | 0 |  |
 
@@ -140,84 +142,84 @@
 
 | Repo | Type | Language | Stars | Tags |
 |---|---|---|---|---|
-| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 486,741 | awesome-list |
-| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 383,487 | ai, aie, docker |
-| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 361,782 | ai, database, education |
-| [superpowers](starred/obra_superpowers.md) | library | Shell | 257,543 | agent, ai, aie |
-| [ECC](starred/affaan-m_ECC.md) | agent | JavaScript | 231,219 | agent, ai, coding-agent |
-| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 217,237 | agent, ai, aie |
-| [claw-code](starred/ultraworkers_claw-code.md) | agent | Rust | 194,826 | agent, ai, rust |
-| [andrej-karpathy-skills](starred/multica-ai_andrej-karpathy-skills.md) | unknown | other | 194,360 | llm, research |
-| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 187,515 | agent |
-| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | other | 186,870 | ai, paas |
-| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 178,936 | audio, cli, ide |
-| [skills](starred/mattpocock_skills.md) | agent | Shell | 177,443 | agent, ai |
-| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 153,145 | agent, ai, aie |
-| [langflow](starred/langflow-ai_langflow.md) | agent | Python | 152,042 | agent, ai, chat-ui |
-| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 145,982 | ai, aie, api |
-| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 133,884 | agent, ai |
-| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 122,988 |  |
-| [cc-switch](starred/farion1231_cc-switch.md) | agent | Rust | 118,944 | agent, ai, cli |
-| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 103,137 | agent, awesome-list, design-system |
-| [angular](starred/angular_angular.md) | webapp | TypeScript | 100,599 | design-system, framework, ide |
+| [awesome](starred/sindresorhus_awesome.md) | awesome-list | other | 489,338 | awesome-list |
+| [openclaw](starred/openclaw_openclaw.md) | agent | TypeScript | 384,229 | ai, aie, docker |
+| [developer-roadmap](starred/nilbuild_developer-roadmap.md) | unknown | TypeScript | 362,770 | ai, database, education |
+| [superpowers](starred/obra_superpowers.md) | library | Shell | 261,567 | agent, ai, aie |
+| [ECC](starred/affaan-m_ECC.md) | agent | JavaScript | 233,640 | agent, ai, coding-agent |
+| [hermes-agent](starred/NousResearch_hermes-agent.md) | agent | Python | 220,904 | agent, ai, aie |
+| [andrej-karpathy-skills](starred/multica-ai_andrej-karpathy-skills.md) | unknown | other | 196,546 | llm, research |
+| [claw-code](starred/ultraworkers_claw-code.md) | agent | Rust | 194,927 | agent, ai, rust |
+| [opencode](starred/anomalyco_opencode.md) | agent | TypeScript | 189,918 | agent |
+| [skills](starred/mattpocock_skills.md) | agent | Shell | 189,508 | agent, ai |
+| [FreeDomain](starred/DigitalPlatDev_FreeDomain.md) | unknown | other | 188,781 | ai, paas |
+| [yt-dlp](starred/yt-dlp_yt-dlp.md) | unknown | Python | 180,238 | audio, cli, ide |
+| [firecrawl](starred/firecrawl_firecrawl.md) | unknown | TypeScript | 156,427 | agent, ai, aie |
+| [langflow](starred/langflow-ai_langflow.md) | agent | Python | 152,442 | agent, ai, chat-ui |
+| [open-webui](starred/open-webui_open-webui.md) | unknown | Python | 146,819 | ai, aie, api |
+| [agency-agents](starred/msitarzewski_agency-agents.md) | agent | Shell | 136,870 | agent, ai |
+| [gstack](starred/garrytan_gstack.md) | unknown | TypeScript | 124,546 |  |
+| [cc-switch](starred/farion1231_cc-switch.md) | agent | Rust | 121,382 | agent, ai, coding-agent |
+| [awesome-design-md](starred/VoltAgent_awesome-design-md.md) | agent | other | 104,691 | agent, awesome-list, design-system |
+| [angular](starred/angular_angular.md) | webapp | TypeScript | 100,620 | design-system, framework, ide |
 
-*...and 204 more in `starred/`*
+*...and 209 more in `starred/`*
 
 ## Tag Index
 
 | Tag | Count | Repos |
 |---|---|---|
-| `agent` | 144 | intermediary-agent, hermes-webui, skill-retriever +141 more |
-| `ai` | 173 | intermediary-agent, hermes-webui-extensions, hermes-webui +170 more |
-| `aie` | 49 | seans-reporepo, ecosystem, claw-aie +46 more |
+| `agent` | 148 | hermes-webui, proofshot, intermediary-agent +145 more |
+| `ai` | 177 | hermes-webui, hermes-webui-extensions, proofshot +174 more |
+| `aie` | 50 | seans-reporepo, ecosystem, claw-aie +47 more |
 | `analytics` | 6 | Hermes-router, ovrtx, hermes-studio +3 more |
-| `api` | 41 | intermediary-agent, hermes-webui-extensions, skill-retriever +38 more |
+| `api` | 42 | hermes-webui-extensions, docker-tunnel-sidecar, intermediary-agent +39 more |
 | `audio` | 10 | intermediary-agent, seans-reporepo, fac-s2s-plugin +7 more |
 | `automation` | 26 | seans-reporepo, hermes-agent, hermes-desktop +23 more |
-| `awesome-list` | 22 | seans-reporepo, cron-review, llm-benchmark-platform +19 more |
+| `awesome-list` | 24 | docker-tunnel-sidecar, seans-reporepo, cron-review +21 more |
 | `backup` | 8 | hermes-agent, hermes-sync, linux-web-serving-infrastructure +5 more |
-| `benchmarking` | 7 | llm-benchmark-platform, ovrtx, skillsbench +4 more |
-| `bot` | 28 | intermediary-agent, hermes-webui, seans-reporepo +25 more |
-| `browser-automation` | 33 | intermediary-agent, hermes-webui, seans-reporepo +30 more |
+| `benchmarking` | 8 | llm-benchmark-platform, Awesome-Self-Evolving-Agents, ovrtx +5 more |
+| `bot` | 29 | hermes-webui, docker-tunnel-sidecar, intermediary-agent +26 more |
+| `browser-automation` | 35 | hermes-webui, proofshot, intermediary-agent +32 more |
 | `chat-ui` | 20 | sim, CopilotKit, ovrtx +17 more |
-| `cli` | 47 | intermediary-agent, hermes-webui-extensions, hermes-webui +44 more |
+| `cli` | 47 | hermes-webui, hermes-webui-extensions, proofshot +44 more |
 | `code-ingestion` | 3 | ovrtx, exectos, gitingest |
 | `code-packing` | 5 | seans-reporepo, ovrtx, exectos +2 more |
-| `coding-agent` | 33 | awesome-agent-orchestrators, superpowers, codegraph +30 more |
+| `coding-agent` | 36 | proofshot, omnigent, Awesome-Self-Evolving-Agents +33 more |
 | `css` | 9 | gowebly, shadcn-svelte, ovrtx +6 more |
 | `dashboard` | 17 | gto-wizard-clone-v2, pipeline-dashboard, hermes-workspace +14 more |
-| `database` | 22 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +19 more |
+| `database` | 23 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +20 more |
 | `design-system` | 4 | open-design, awesome-design-md, angular +1 more |
-| `docker` | 69 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +66 more |
+| `docker` | 71 | docker-tunnel-sidecar, gto-wizard-clone-v2, gto-wizard-clone +68 more |
 | `dotfiles` | 5 | sean-dotfiles, exectos, mod-illogical-impulse-dotfiles +2 more |
 | `education` | 8 | ovrtx, OSWorld, exectos +5 more |
 | `embeddings` | 5 | vexor, memsearch, claude-context +2 more |
 | `energy` | 5 | australian-economic-model, energy-aware-task-router, ovrtx +2 more |
-| `express` | 3 | everything-dashboard, agent-os, MyTube |
-| `framework` | 28 | hermes-webui, australian-economic-model, repo-transmute +25 more |
+| `express` | 4 | everything-dashboard, agent-os, Qwen3-TTS +1 more |
+| `framework` | 29 | hermes-webui, australian-economic-model, repo-transmute +26 more |
 | `gaming` | 11 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +8 more |
-| `go` | 41 | intermediary-agent, hermes-webui-extensions, skill-retriever +38 more |
-| `harness` | 10 | seans-reporepo, claw-aie, claw-aie-harness +7 more |
-| `hermes-agent` | 38 | intermediary-agent, hermes-webui-extensions, hermes-webui +35 more |
-| `ide` | 42 | intermediary-agent, hermes-webui-extensions, hermes-webui +39 more |
-| `image-gen` | 10 | circuit-breaker-framework, rasta-assistant, AI-Horde +7 more |
-| `infrastructure` | 24 | skill-retriever, hermes-agent, ChonSong +21 more |
+| `go` | 42 | hermes-webui-extensions, intermediary-agent, seans-reporepo +39 more |
+| `harness` | 11 | seans-reporepo, claw-aie, claw-aie-harness +8 more |
+| `hermes-agent` | 39 | hermes-webui, hermes-webui-extensions, docker-tunnel-sidecar +36 more |
+| `ide` | 44 | hermes-webui, hermes-webui-extensions, proofshot +41 more |
+| `image-gen` | 11 | circuit-breaker-framework, rasta-assistant, Qwen3-TTS +8 more |
+| `infrastructure` | 25 | skill-retriever, hermes-agent, ChonSong +22 more |
 | `javascript` | 8 | ovrtx, exectos, webdriverio +5 more |
 | `library` | 3 | agentic-awesome-skills, adk-go, adk-python |
-| `llm` | 58 | intermediary-agent, skill-retriever, seans-reporepo +55 more |
+| `llm` | 59 | intermediary-agent, seans-reporepo, skill-retriever +56 more |
 | `logging` | 1 | linux-web-serving-infrastructure |
-| `mcp` | 30 | hermes-workspace, hermes-computer-planning, g3kilocode +27 more |
+| `mcp` | 31 | proofshot, hermes-workspace, hermes-computer-planning +28 more |
 | `mobile` | 9 | hermes-webui, linux-web-serving-infrastructure, mobile-codeovertcp.com +6 more |
 | `monitoring` | 10 | hermes-computer-planning, circuit-breaker-framework, starcraft-battlenet-web +7 more |
-| `multi-agent` | 50 | intermediary-agent, hermes-workspace, open-lovable +47 more |
+| `multi-agent` | 53 | intermediary-agent, hermes-workspace, open-lovable +50 more |
 | `nginx` | 5 | casaos-agent, starcraft-battlenet-web, linux-web-serving-infrastructure +2 more |
 | `observability` | 5 | observeco, langfuse, openclaw-telemetry +2 more |
 | `openclaw` | 21 | OfficeCLI, cc-switch, ovrtx +18 more |
-| `orchestration` | 20 | seans-reporepo, hermes-workspace, bim-to-print +17 more |
+| `orchestration` | 20 | hermes-workspace, bim-to-print, circuit-breaker-framework +17 more |
 | `paas` | 4 | hermes-studio, OpenNOW, dokku +1 more |
-| `plugin` | 15 | skill-retriever, seans-reporepo, fac-s2s-plugin +12 more |
-| `proxy` | 5 | starcraft-battlenet-web, linux-web-serving-infrastructure, mobile-codeovertcp.com +2 more |
-| `python` | 33 | intermediary-agent, hermes-webui, skill-retriever +30 more |
+| `plugin` | 15 | seans-reporepo, skill-retriever, fac-s2s-plugin +12 more |
+| `proxy` | 6 | docker-tunnel-sidecar, starcraft-battlenet-web, linux-web-serving-infrastructure +3 more |
+| `python` | 35 | hermes-webui, docker-tunnel-sidecar, intermediary-agent +32 more |
 | `rag` | 22 | skill-retriever, ChonSong, dev-loop +19 more |
 | `react` | 27 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +24 more |
 | `reliability` | 8 | dev-loop, circuit-breaker-framework, ovrtx +5 more |
@@ -225,25 +227,25 @@
 | `research` | 13 | vexor, hermes-ecosystem, ovrtx +10 more |
 | `rust` | 12 | hermes-webui-extensions, dev-loop, g3kilocode +9 more |
 | `security` | 6 | ovrtx, exectos, secureclaw +3 more |
-| `solver` | 11 | gto-wizard-clone-v2, gto-wizard-clone, hermes-agent +8 more |
-| `sustainability` | 47 | energy-aware-task-router, AI-Horde, superpowers +44 more |
+| `solver` | 13 | proofshot, docker-tunnel-sidecar, gto-wizard-clone-v2 +10 more |
+| `sustainability` | 48 | energy-aware-task-router, omnigent, AI-Horde +45 more |
 | `svelte` | 8 | seans-reporepo, ChonSong, hermes-web-computer +5 more |
-| `sync` | 10 | hermes-desktop, hermes-sync, hermes-web-computer +7 more |
+| `sync` | 11 | proofshot, hermes-desktop, hermes-sync +8 more |
 | `telemetry` | 4 | hermes-web-computer, hermes-telemetry, langfuse +1 more |
-| `terminal` | 14 | intermediary-agent, hermes-webui, hermes-agent +11 more |
+| `terminal` | 14 | hermes-webui, intermediary-agent, hermes-agent +11 more |
 | `testing` | 9 | hermes-webui-extensions, gto-wizard-clone, linux-web-serving-infrastructure +6 more |
-| `training` | 52 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +49 more |
+| `training` | 53 | gto-wizard-clone-v2, gto-wizard-clone, ChonSong +50 more |
 | `transpilation` | 4 | seans-reporepo, gto-wizard-clone, repo-transmute +1 more |
 | `tui` | 11 | hermes-agent, hermes-workspace, hermes-bootstrap +8 more |
 | `typescript` | 30 | seans-reporepo, gto-wizard-clone-v2, gto-wizard-clone +27 more |
 | `ui` | 27 | MyTube, open-design, cc-switch +24 more |
 | `vector-db` | 11 | vexor, ovrtx, redis +8 more |
 | `vector-search` | 9 | repo-transmute, claw-aie-harness, vexor +6 more |
-| `video` | 6 | livekit, MyTube, hyperframes +3 more |
-| `voice` | 13 | intermediary-agent, hermes-webui, seans-reporepo +10 more |
+| `video` | 7 | proofshot, livekit, MyTube +4 more |
+| `voice` | 14 | hermes-webui, intermediary-agent, seans-reporepo +11 more |
 | `vpn` | 2 | hermes-computer-planning, headscale |
 | `vue` | 7 | frontend-craft, lucide, hermes-studio +4 more |
-| `web-app` | 56 | intermediary-agent, hermes-webui-extensions, hermes-webui +53 more |
+| `web-app` | 57 | hermes-webui, hermes-webui-extensions, docker-tunnel-sidecar +54 more |
 | `website` | 2 | sean-s-landing-page, open-design |
 | `workflow-engine` | 7 | hermes-web-computer, ruflo, portable-hermes-agent +4 more |
 
@@ -251,33 +253,33 @@
 
 | Language | Count | Total Size |
 |---|---|---|
-| Python | 88 | 7,164,188 KB |
-| TypeScript | 77 | 15,162,927 KB |
-| other | 21 | 159,689 KB |
-| Go | 16 | 1,301,001 KB |
-| JavaScript | 14 | 389,835 KB |
-| Shell | 14 | 774,609 KB |
-| Rust | 13 | 542,231 KB |
-| HTML | 11 | 851,098 KB |
-| C++ | 5 | 4,629,770 KB |
-| C | 4 | 239,493 KB |
-| Nix | 4 | 295,059 KB |
-| C# | 3 | 387,747 KB |
-| Vue | 2 | 30,860 KB |
+| Python | 92 | 7,613,805 KB |
+| TypeScript | 78 | 15,473,739 KB |
+| other | 22 | 175,986 KB |
+| Go | 16 | 1,321,567 KB |
+| Shell | 15 | 815,409 KB |
+| JavaScript | 13 | 698,659 KB |
+| Rust | 13 | 650,671 KB |
+| HTML | 11 | 879,983 KB |
+| C++ | 5 | 4,759,020 KB |
+| C | 5 | 256,391 KB |
+| Nix | 4 | 295,411 KB |
+| C# | 3 | 391,383 KB |
+| Vue | 2 | 31,128 KB |
 | Jupyter Notebook | 2 | 649,626 KB |
-| Java | 2 | 107,325 KB |
+| Java | 2 | 106,754 KB |
 | Svelte | 1 | 13,955 KB |
 | QML | 1 | 998 KB |
 | CSS | 1 | 180 KB |
-| PDDL | 1 | 885,223 KB |
-| Kotlin | 1 | 21,499 KB |
+| PDDL | 1 | 885,431 KB |
+| Kotlin | 1 | 22,141 KB |
 | MDX | 1 | 7,709 KB |
-| Dockerfile | 1 | 1,145 KB |
-| PHP | 1 | 51,493 KB |
+| Dockerfile | 1 | 1,146 KB |
+| PHP | 1 | 51,524 KB |
 
 ## Combinatorial Potential
 
-57 tags bridge owned and starred repos. See [COMBINATORIAL.md](COMBINATORIAL.md) for full analysis.
+59 tags bridge owned and starred repos. See [COMBINATORIAL.md](COMBINATORIAL.md) for full analysis.
 
 ## Migration Candidates
 

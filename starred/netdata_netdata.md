@@ -5,9 +5,9 @@ description: 'The fastest path to AI-powered full stack observability, even for 
 type: unknown
 status: active
 language: Go
-size_kb: 292796
-stars: 79696
-last_pushed: '2026-07-19'
+size_kb: 295928
+stars: 79860
+last_pushed: '2026-07-26'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -45,7 +45,7 @@ topics:
   - observability
   - postgresql
   - prometheus
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # netdata
@@ -59,8 +59,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 292,796 KB
-- **Stars:** 79,696
-- **Last Pushed:** 2026-07-19
+- **Size:** 295,928 KB
+- **Stars:** 79,860
+- **Last Pushed:** 2026-07-26
 - **License:** GPL-3.0
 - **Tags:** ai, aie, database, docker, education, go, mcp, monitoring, multi-agent, observability, sustainability, training, ui, vector-db

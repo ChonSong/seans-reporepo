@@ -6,13 +6,13 @@ type: agent
 status: active
 language: Python
 size_kb: 19581
-stars: 1087
+stars: 1092
 last_pushed: '2026-07-13'
 license: unknown
 tags:
   - agent
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # ARPO
@@ -27,7 +27,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 19,581 KB
-- **Stars:** 1,087
+- **Stars:** 1,092
 - **Last Pushed:** 2026-07-13
 - **License:** unknown
 - **Tags:** agent

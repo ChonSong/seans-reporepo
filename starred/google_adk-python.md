@@ -5,9 +5,9 @@ description: 'An open-source, code-first Python toolkit for building, evaluating
 type: agent
 status: active
 language: Python
-size_kb: 71396
-stars: 20736
-last_pushed: '2026-07-17'
+size_kb: 71767
+stars: 20893
+last_pushed: '2026-07-25'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -41,7 +41,7 @@ topics:
   - multi-agent-systems
   - multi-agents
   - multi-agents-collaboration
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # adk-python
@@ -55,8 +55,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 71,396 KB
-- **Stars:** 20,736
-- **Last Pushed:** 2026-07-17
+- **Size:** 71,767 KB
+- **Stars:** 20,893
+- **Last Pushed:** 2026-07-25
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, bot, chat-ui, coding-agent, docker, framework, library, llm, multi-agent, python, sustainability, training

@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Python
 size_kb: 16049
-stars: 898
+stars: 900
 last_pushed: '2026-05-26'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # meshgen
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 16,049 KB
-- **Stars:** 898
+- **Stars:** 900
 - **Last Pushed:** 2026-05-26
 - **License:** MIT
 - **Tags:** agent, ai

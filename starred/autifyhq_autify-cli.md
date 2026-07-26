@@ -5,16 +5,16 @@ description: Autify Command Line Interface (CLI)
 type: cli
 status: active
 language: TypeScript
-size_kb: 8434
+size_kb: 8790
 stars: 43
-last_pushed: '2026-07-10'
+last_pushed: '2026-07-25'
 license: unknown
 tags:
   - cli
 topics:
   - autify
   - cli
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # autify-cli
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** cli
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 8,434 KB
+- **Size:** 8,790 KB
 - **Stars:** 43
-- **Last Pushed:** 2026-07-10
+- **Last Pushed:** 2026-07-25
 - **License:** unknown
 - **Tags:** cli

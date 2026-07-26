@@ -5,15 +5,15 @@ description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/Re
 type: unknown
 status: active
 language: Python
-size_kb: 10733
-stars: 73382
-last_pushed: '2026-07-17'
+size_kb: 11322
+stars: 73503
+last_pushed: '2026-07-24'
 license: MIT
 tags:
   - ai
   - react
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # screenshot-to-code
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 10,733 KB
-- **Stars:** 73,382
-- **Last Pushed:** 2026-07-17
+- **Size:** 11,322 KB
+- **Stars:** 73,503
+- **Last Pushed:** 2026-07-24
 - **License:** MIT
 - **Tags:** ai, react

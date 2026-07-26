@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 9641
-stars: 5401
+stars: 5442
 last_pushed: '2026-05-09'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
   - automation
   - multi-agent
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # ClawTeam
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 9,641 KB
-- **Stars:** 5,401
+- **Stars:** 5,442
 - **Last Pushed:** 2026-05-09
 - **License:** MIT
 - **Tags:** agent, automation, multi-agent

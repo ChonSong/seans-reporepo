@@ -5,9 +5,9 @@ description: 'Hermes Agent made portable desktop for Windows — 100 tools, GUI,
 type: agent
 status: active
 language: Python
-size_kb: 72781
-stars: 190
-last_pushed: '2026-07-13'
+size_kb: 73517
+stars: 193
+last_pushed: '2026-07-26'
 license: MIT
 tags:
   - agent
@@ -36,7 +36,7 @@ topics:
   - tool-making
   - windows
   - workflow-automation
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # portable-hermes-agent
@@ -50,8 +50,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 72,781 KB
-- **Stars:** 190
-- **Last Pushed:** 2026-07-13
+- **Size:** 73,517 KB
+- **Stars:** 193
+- **Last Pushed:** 2026-07-26
 - **License:** MIT
 - **Tags:** agent, ai, aie, audio, automation, docker, hermes-agent, image-gen, sustainability, training, workflow-engine

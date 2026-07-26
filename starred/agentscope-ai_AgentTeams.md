@@ -5,9 +5,9 @@ description: 'An open-source Collaborative Multi-Agent OS for transparent, human
 type: agent
 status: active
 language: Go
-size_kb: 17585
-stars: 5098
-last_pushed: '2026-07-18'
+size_kb: 19225
+stars: 5176
+last_pushed: '2026-07-26'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -16,7 +16,7 @@ tags:
 topics:
   - agent-teams
   - openclaw
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # AgentTeams
@@ -30,8 +30,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 17,585 KB
-- **Stars:** 5,098
-- **Last Pushed:** 2026-07-18
+- **Size:** 19,225 KB
+- **Stars:** 5,176
+- **Last Pushed:** 2026-07-26
 - **License:** Apache-2.0
 - **Tags:** agent, multi-agent, openclaw

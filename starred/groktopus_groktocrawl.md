@@ -5,16 +5,16 @@ description: 'Self-hosted, API-compatible Firecrawl alternative with Agent endpo
 type: agent
 status: active
 language: Python
-size_kb: 2310
-stars: 59
-last_pushed: '2026-07-15'
+size_kb: 2386
+stars: 62
+last_pushed: '2026-07-26'
 license: MIT
 tags:
   - agent
   - api
   - docker
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # groktocrawl
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 2,310 KB
-- **Stars:** 59
-- **Last Pushed:** 2026-07-15
+- **Size:** 2,386 KB
+- **Stars:** 62
+- **Last Pushed:** 2026-07-26
 - **License:** MIT
 - **Tags:** agent, api, docker

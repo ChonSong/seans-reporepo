@@ -5,9 +5,9 @@ description: 'Self-hosted downloader and player for YouTube, Bilibili, Twitch, M
 type: library
 status: active
 language: TypeScript
-size_kb: 22091
-stars: 1078
-last_pushed: '2026-07-19'
+size_kb: 22760
+stars: 1088
+last_pushed: '2026-07-26'
 license: MIT
 tags:
   - docker
@@ -38,7 +38,7 @@ topics:
   - youtube
   - youtube-downloader
   - yt-dlp
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # MyTube
@@ -52,8 +52,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 22,091 KB
-- **Stars:** 1,078
-- **Last Pushed:** 2026-07-19
+- **Size:** 22,760 KB
+- **Stars:** 1,088
+- **Last Pushed:** 2026-07-26
 - **License:** MIT
 - **Tags:** docker, express, ide, infrastructure, rag, typescript, ui, video

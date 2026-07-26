@@ -5,9 +5,9 @@ description: Write HTML. Render video. Built for agents.
 type: agent
 status: active
 language: TypeScript
-size_kb: 360686
-stars: 36273
-last_pushed: '2026-07-19'
+size_kb: 364319
+stars: 37832
+last_pushed: '2026-07-26'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -34,7 +34,7 @@ topics:
   - rendering
   - typescript
   - video
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # hyperframes
@@ -48,8 +48,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 360,686 KB
-- **Stars:** 36,273
-- **Last Pushed:** 2026-07-19
+- **Size:** 364,319 KB
+- **Stars:** 37,832
+- **Last Pushed:** 2026-07-26
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, docker, framework, ide, mcp, sustainability, testing, training, typescript, video

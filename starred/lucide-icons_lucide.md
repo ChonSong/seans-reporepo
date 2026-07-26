@@ -5,9 +5,9 @@ description: 'Beautiful & consistent icon toolkit made by the community. Open-so
 type: unknown
 status: active
 language: TypeScript
-size_kb: 21450
-stars: 23528
-last_pushed: '2026-07-17'
+size_kb: 21055
+stars: 23640
+last_pushed: '2026-07-25'
 license: NOASSERTION
 tags:
   - react
@@ -24,7 +24,7 @@ topics:
   - ui-components
   - ui-design
   - vue
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # lucide
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 21,450 KB
-- **Stars:** 23,528
-- **Last Pushed:** 2026-07-17
+- **Size:** 21,055 KB
+- **Stars:** 23,640
+- **Last Pushed:** 2026-07-25
 - **License:** NOASSERTION
 - **Tags:** react, ui, vue

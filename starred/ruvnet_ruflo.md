@@ -5,9 +5,9 @@ description: '🌊 The leading agent meta-harness. Deploy intelligent multi-play
 type: agent
 status: active
 language: TypeScript
-size_kb: 537399
-stars: 65196
-last_pushed: '2026-07-19'
+size_kb: 537737
+stars: 66119
+last_pushed: '2026-07-26'
 license: MIT
 tags:
   - agent
@@ -42,7 +42,7 @@ topics:
   - swarm
   - swarm-intelligence
   - typescript
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # ruflo
@@ -56,8 +56,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 537,399 KB
-- **Stars:** 65,196
-- **Last Pushed:** 2026-07-19
+- **Size:** 537,737 KB
+- **Stars:** 66,119
+- **Last Pushed:** 2026-07-26
 - **License:** MIT
 - **Tags:** agent, ai, framework, harness, hermes-agent, infrastructure, mcp, multi-agent, rag, typescript, workflow-engine

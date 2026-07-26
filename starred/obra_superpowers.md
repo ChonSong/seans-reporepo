@@ -5,9 +5,9 @@ description: 'An agentic skills framework & software development methodology tha
 type: library
 status: active
 language: Shell
-size_kb: 3895
-stars: 257543
-last_pushed: '2026-07-19'
+size_kb: 4104
+stars: 261567
+last_pushed: '2026-07-24'
 license: MIT
 tags:
   - agent
@@ -27,7 +27,7 @@ topics:
   - skills
   - subagent-driven-development
   - superpowers
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # superpowers
@@ -41,8 +41,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Shell
-- **Size:** 3,895 KB
-- **Stars:** 257,543
-- **Last Pushed:** 2026-07-19
+- **Size:** 4,104 KB
+- **Stars:** 261,567
+- **Last Pushed:** 2026-07-24
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, docker, framework, sustainability, training

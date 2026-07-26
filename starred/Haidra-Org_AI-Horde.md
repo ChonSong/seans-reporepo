@@ -5,9 +5,9 @@ description: A crowdsourced distributed cluster for AI art and text generation
 type: unknown
 status: active
 language: Python
-size_kb: 18871
-stars: 1473
-last_pushed: '2026-07-11'
+size_kb: 19296
+stars: 1484
+last_pushed: '2026-07-26'
 license: 'AGPL-3.0'
 tags:
   - ai
@@ -25,7 +25,7 @@ topics:
   - opt
   - stable-diffusion
   - volunteer-computing
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # AI-Horde
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 18,871 KB
-- **Stars:** 1,473
-- **Last Pushed:** 2026-07-11
+- **Size:** 19,296 KB
+- **Stars:** 1,484
+- **Last Pushed:** 2026-07-26
 - **License:** AGPL-3.0
 - **Tags:** ai, aie, api, docker, image-gen, sustainability, training

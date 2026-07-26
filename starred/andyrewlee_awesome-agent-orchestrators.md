@@ -5,9 +5,9 @@ description: List of agent orchestrators
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 169
-stars: 1056
-last_pushed: '2026-07-17'
+size_kb: 104
+stars: 1131
+last_pushed: '2026-07-26'
 license: unknown
 tags:
   - agent
@@ -38,7 +38,7 @@ topics:
   - ralph-loop
   - ralph-wiggum
   - vibe-coding
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # awesome-agent-orchestrators
@@ -52,8 +52,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 169 KB
-- **Stars:** 1,056
-- **Last Pushed:** 2026-07-17
+- **Size:** 104 KB
+- **Stars:** 1,131
+- **Last Pushed:** 2026-07-26
 - **License:** unknown
 - **Tags:** agent, ai, awesome-list, cli, coding-agent, multi-agent, orchestration

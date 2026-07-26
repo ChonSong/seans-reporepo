@@ -5,9 +5,9 @@ description: '🗺️ Hermes Atlas — the community map of every tool, skill, a
 type: agent
 status: active
 language: HTML
-size_kb: 350664
-stars: 1152
-last_pushed: '2026-07-19'
+size_kb: 370853
+stars: 1163
+last_pushed: '2026-07-26'
 license: unknown
 tags:
   - agent
@@ -20,7 +20,7 @@ topics:
   - hermes-agent
   - hermes-atlas
   - nous-research
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # hermes-ecosystem
@@ -34,8 +34,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** HTML
-- **Size:** 350,664 KB
-- **Stars:** 1,152
-- **Last Pushed:** 2026-07-19
+- **Size:** 370,853 KB
+- **Stars:** 1,163
+- **Last Pushed:** 2026-07-26
 - **License:** unknown
 - **Tags:** agent, ai, hermes-agent, research

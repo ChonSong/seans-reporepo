@@ -5,9 +5,9 @@ description: Browser automation CLI for AI agents
 type: agent
 status: active
 language: Rust
-size_kb: 18752
-stars: 38770
-last_pushed: '2026-07-19'
+size_kb: 19353
+stars: 39256
+last_pushed: '2026-07-26'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -16,7 +16,7 @@ tags:
   - browser-automation
   - cli
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # agent-browser
@@ -30,8 +30,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 18,752 KB
-- **Stars:** 38,770
-- **Last Pushed:** 2026-07-19
+- **Size:** 19,353 KB
+- **Stars:** 39,256
+- **Last Pushed:** 2026-07-26
 - **License:** Apache-2.0
 - **Tags:** agent, ai, automation, browser-automation, cli

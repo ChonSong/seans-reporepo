@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: HTML
 size_kb: 1989
-stars: 4620
+stars: 4779
 last_pushed: '2026-07-14'
 license: unknown
 tags:
@@ -23,7 +23,7 @@ topics:
   - github-api
   - single-file
   - visualization
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # codeflow
@@ -38,7 +38,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** HTML
 - **Size:** 1,989 KB
-- **Stars:** 4,620
+- **Stars:** 4,779
 - **Last Pushed:** 2026-07-14
 - **License:** unknown
 - **Tags:** api, browser-automation

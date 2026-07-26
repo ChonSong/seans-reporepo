@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: other
 size_kb: 3659
-stars: 1342
+stars: 1348
 last_pushed: '2024-04-18'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # OpenDevin.OpenDevin
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 3,659 KB
-- **Stars:** 1,342
+- **Stars:** 1,348
 - **Last Pushed:** 2024-04-18
 - **License:** MIT

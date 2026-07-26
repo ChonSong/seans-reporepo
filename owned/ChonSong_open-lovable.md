@@ -6,7 +6,7 @@ type: monorepo
 status: active
 language: TypeScript
 size_kb: 1334
-stars: 0
+stars: 1
 last_pushed: '2026-06-11'
 license: unknown
 tags:
@@ -20,7 +20,7 @@ tags:
   - react
   - solver
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # open-lovable
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 1,334 KB
-- **Stars:** 0
+- **Stars:** 1
 - **Last Pushed:** 2026-06-11
 - **License:** unknown
 - **Tags:** ai, api, dashboard, go, ide, llm, multi-agent, react, solver

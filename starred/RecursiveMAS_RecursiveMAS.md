@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 22997
-stars: 893
+stars: 902
 last_pushed: '2026-06-29'
 license: MIT
 tags:
@@ -20,7 +20,7 @@ topics:
   - reasoning-agent
   - recursive-algorithm
   - scaling-algorithms
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # RecursiveMAS
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 22,997 KB
-- **Stars:** 893
+- **Stars:** 902
 - **Last Pushed:** 2026-06-29
 - **License:** MIT
 - **Tags:** agent, go, multi-agent

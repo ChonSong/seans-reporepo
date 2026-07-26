@@ -5,9 +5,9 @@ description: 'A docker-powered PaaS that helps you build and manage the lifecycl
 type: infrastructure
 status: active
 language: Shell
-size_kb: 25314
-stars: 32046
-last_pushed: '2026-07-19'
+size_kb: 25494
+stars: 32058
+last_pushed: '2026-07-24'
 license: MIT
 tags:
   - ai
@@ -26,7 +26,7 @@ topics:
   - paas
   - self-hosted
   - selfhosted
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # dokku
@@ -40,8 +40,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Shell
-- **Size:** 25,314 KB
-- **Stars:** 32,046
-- **Last Pushed:** 2026-07-19
+- **Size:** 25,494 KB
+- **Stars:** 32,058
+- **Last Pushed:** 2026-07-24
 - **License:** MIT
 - **Tags:** ai, docker, paas, ui

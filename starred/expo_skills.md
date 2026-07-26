@@ -4,16 +4,16 @@ url: 'https://github.com/expo/skills'
 description: A collection of AI agent skills for working with Expo projects and Expo Application Services
 type: agent
 status: active
-language: JavaScript
-size_kb: 3142
-stars: 2229
-last_pushed: '2026-07-19'
+language: Shell
+size_kb: 3181
+stars: 2326
+last_pushed: '2026-07-24'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # skills
@@ -26,9 +26,9 @@ refreshed_at: '2026-07-19 23:34 UTC'
 
 - **Type:** agent
 - **Status:** active
-- **Language:** JavaScript
-- **Size:** 3,142 KB
-- **Stars:** 2,229
-- **Last Pushed:** 2026-07-19
+- **Language:** Shell
+- **Size:** 3,181 KB
+- **Stars:** 2,326
+- **Last Pushed:** 2026-07-24
 - **License:** MIT
 - **Tags:** agent, ai

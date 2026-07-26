@@ -5,9 +5,9 @@ description: A semantic search engine for files and code.
 type: unknown
 status: active
 language: Python
-size_kb: 9829
+size_kb: 9830
 stars: 228
-last_pushed: '2026-07-13'
+last_pushed: '2026-07-22'
 license: MIT
 tags:
   - ai
@@ -37,7 +37,7 @@ topics:
   - skills
   - terminal
   - vector
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # vexor
@@ -51,8 +51,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 9,829 KB
+- **Size:** 9,830 KB
 - **Stars:** 228
-- **Last Pushed:** 2026-07-13
+- **Last Pushed:** 2026-07-22
 - **License:** MIT
 - **Tags:** ai, aie, cli, docker, embeddings, infrastructure, mcp, python, research, sustainability, terminal, training, tui, vector-db, vector-search

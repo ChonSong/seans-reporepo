@@ -5,9 +5,9 @@ description: 'Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-frie
 type: unknown
 status: active
 language: Python
-size_kb: 1484
-stars: 15201
-last_pushed: '2026-07-19'
+size_kb: 1489
+stars: 15228
+last_pushed: '2026-07-22'
 license: MIT
 tags:
   - ai
@@ -24,7 +24,7 @@ topics:
   - code
   - developer-tool
   - ingestion
-refreshed_at: '2026-07-19 23:34 UTC'
+refreshed_at: '2026-07-26 23:00 UTC'
 ---
 
 # gitingest
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-19 23:34 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,484 KB
-- **Stars:** 15,201
-- **Last Pushed:** 2026-07-19
+- **Size:** 1,489 KB
+- **Stars:** 15,228
+- **Last Pushed:** 2026-07-22
 - **License:** MIT
 - **Tags:** ai, aie, code-ingestion, code-packing, coding-agent, docker, ide, sustainability, training
