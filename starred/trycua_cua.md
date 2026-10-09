@@ -4,10 +4,10 @@ url: 'https://github.com/trycua/cua'
 description: 'Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.'
 type: unknown
 status: active
-language: HTML
-size_kb: 285179
-stars: 20656
-last_pushed: '2026-07-26'
+language: Rust
+size_kb: 591444
+stars: 29177
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -39,7 +39,7 @@ topics:
   - virtualization-framework
   - windows
   - windows-sandbox
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # cua
@@ -52,9 +52,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** HTML
-- **Size:** 285,179 KB
-- **Stars:** 20,656
-- **Last Pushed:** 2026-07-26
+- **Language:** Rust
+- **Size:** 591,444 KB
+- **Stars:** 29,177
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** agent, ai, automation, benchmarking, coding-agent, database, docker, framework, multi-agent, training

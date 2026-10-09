@@ -5,9 +5,9 @@ description: '3D force-directed graph component using ThreeJS/WebGL'
 type: unknown
 status: active
 language: HTML
-size_kb: 2498
-stars: 6251
-last_pushed: '2026-04-05'
+size_kb: 2523
+stars: 6443
+last_pushed: '2026-09-29'
 license: MIT
 tags:
   - web-app
@@ -19,7 +19,7 @@ topics:
   - force-directed-graphs
   - threejs
   - webgl
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # 3d-force-graph
@@ -33,8 +33,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** HTML
-- **Size:** 2,498 KB
-- **Stars:** 6,251
-- **Last Pushed:** 2026-04-05
+- **Size:** 2,523 KB
+- **Stars:** 6,443
+- **Last Pushed:** 2026-09-29
 - **License:** MIT
 - **Tags:** web-app

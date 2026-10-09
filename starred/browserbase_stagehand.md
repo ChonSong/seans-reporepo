@@ -1,46 +1,59 @@
 ---
 repo: browserbase/stagehand
 url: 'https://github.com/browserbase/stagehand'
-description: The SDK For Browser Agents
-type: agent
+description: 'The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.'
+type: unknown
 status: active
 language: TypeScript
-size_kb: 105084
-stars: 23645
-last_pushed: '2026-07-26'
+size_kb: 186717
+stars: 25593
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
   - ai
   - aie
+  - api
+  - automation
   - browser-automation
   - docker
-  - llm
+  - infrastructure
+  - python
   - sustainability
   - training
+  - typescript
+  - web-app
 topics:
   - agents
   - ai
-  - llms
+  - ai-agents
+  - browser-agent
+  - browser-automation
+  - cdp
+  - cloud-browser
+  - data-extraction
+  - headless-chrome
   - playwright
-  - puppeteer
-  - selenium
-refreshed_at: '2026-07-26 23:00 UTC'
+  - python
+  - typescript
+  - web-automation
+  - web-scraping
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # stagehand
 
-> The SDK For Browser Agents
+> The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 
 **URL:** [browserbase/stagehand](https://github.com/browserbase/stagehand)
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 105,084 KB
-- **Stars:** 23,645
-- **Last Pushed:** 2026-07-26
+- **Size:** 186,717 KB
+- **Stars:** 25,593
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, aie, browser-automation, docker, llm, sustainability, training
+- **Tags:** agent, ai, aie, api, automation, browser-automation, docker, infrastructure, python, sustainability, training, typescript, web-app

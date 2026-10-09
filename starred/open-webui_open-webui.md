@@ -5,9 +5,9 @@ description: 'User-friendly AI Interface (Supports Ollama, OpenAI API, ...)'
 type: unknown
 status: active
 language: Python
-size_kb: 398587
-stars: 146819
-last_pushed: '2026-07-26'
+size_kb: 462161
+stars: 154141
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - ai
@@ -40,7 +40,7 @@ topics:
   - self-hosted
   - ui
   - webui
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # open-webui
@@ -54,8 +54,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 398,587 KB
-- **Stars:** 146,819
-- **Last Pushed:** 2026-07-26
+- **Size:** 462,161 KB
+- **Stars:** 154,141
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
 - **Tags:** ai, aie, api, chat-ui, docker, image-gen, llm, mcp, rag, reliability, sustainability, training, tui, ui

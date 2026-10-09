@@ -5,9 +5,9 @@ description: DiceBear is an avatar library for designers and developers. 🌍
 type: library
 status: active
 language: Vue
-size_kb: 26678
-stars: 9128
-last_pushed: '2026-07-26'
+size_kb: 32762
+stars: 9815
+last_pushed: '2026-09-28'
 license: MIT
 tags:
   - api
@@ -23,7 +23,7 @@ topics:
   - dicebear
   - figma
   - pixel-art
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # dicebear
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Vue
-- **Size:** 26,678 KB
-- **Stars:** 9,128
-- **Last Pushed:** 2026-07-26
+- **Size:** 32,762 KB
+- **Stars:** 9,815
+- **Last Pushed:** 2026-09-28
 - **License:** MIT
 - **Tags:** api, bot, browser-automation

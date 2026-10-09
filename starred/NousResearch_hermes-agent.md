@@ -5,21 +5,18 @@ description: The agent that grows with you
 type: agent
 status: active
 language: Python
-size_kb: 556667
-stars: 220904
-last_pushed: '2026-07-26'
+size_kb: 1202928
+stars: 252271
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
   - ai
   - aie
-  - bot
   - chat-ui
-  - database
   - docker
   - hermes-agent
   - llm
-  - openclaw
   - research
   - sustainability
   - training
@@ -31,16 +28,13 @@ topics:
   - chatgpt
   - claude
   - claude-code
-  - clawdbot
   - codex
   - hermes
   - hermes-agent
   - llm
-  - moltbot
   - nous-research
   - openai
-  - openclaw
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # hermes-agent
@@ -54,8 +48,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 556,667 KB
-- **Stars:** 220,904
-- **Last Pushed:** 2026-07-26
+- **Size:** 1,202,928 KB
+- **Stars:** 252,271
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, aie, bot, chat-ui, database, docker, hermes-agent, llm, openclaw, research, sustainability, training
+- **Tags:** agent, ai, aie, chat-ui, docker, hermes-agent, llm, research, sustainability, training

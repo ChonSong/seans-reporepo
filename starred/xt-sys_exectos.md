@@ -5,9 +5,9 @@ description: ExectOS Operating System
 type: unknown
 status: active
 language: C++
-size_kb: 14576
-stars: 136
-last_pushed: '2026-07-14'
+size_kb: 14547
+stars: 141
+last_pushed: '2026-09-24'
 license: 'GPL-3.0'
 tags:
   - agent
@@ -71,7 +71,7 @@ topics:
   - x86-64
   - xt
   - xtos
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # exectos
@@ -85,8 +85,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** C++
-- **Size:** 14,576 KB
-- **Stars:** 136
-- **Last Pushed:** 2026-07-14
+- **Size:** 14,547 KB
+- **Stars:** 141
+- **Last Pushed:** 2026-09-24
 - **License:** GPL-3.0
 - **Tags:** agent, ai, analytics, audio, automation, awesome-list, backup, benchmarking, bot, browser-automation, chat-ui, cli, code-ingestion, code-packing, coding-agent, css, database, docker, dotfiles, education, energy, ide, image-gen, infrastructure, javascript, mcp, mobile, multi-agent, openclaw, orchestration, plugin, rag, react, reliability, remote-dev, research, security, sustainability, sync, typescript, vector-db, vector-search, voice, web-app

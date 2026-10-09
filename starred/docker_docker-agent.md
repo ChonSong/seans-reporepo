@@ -5,9 +5,9 @@ description: AI Agent Builder and Runtime by Docker Engineering
 type: agent
 status: active
 language: Go
-size_kb: 76156
-stars: 3216
-last_pushed: '2026-07-24'
+size_kb: 84939
+stars: 4312
+last_pushed: '2026-10-09'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -19,7 +19,7 @@ tags:
 topics:
   - agents
   - ai
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # docker-agent
@@ -33,8 +33,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 76,156 KB
-- **Stars:** 3,216
-- **Last Pushed:** 2026-07-24
+- **Size:** 84,939 KB
+- **Stars:** 4,312
+- **Last Pushed:** 2026-10-09
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, docker, sustainability, training

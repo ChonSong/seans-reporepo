@@ -5,16 +5,16 @@ description: 'A modular, composable ethics skillset that any AI agent — runnin
 type: agent
 status: active
 language: Python
-size_kb: 150
+size_kb: 348
 stars: 3
-last_pushed: '2026-06-16'
+last_pushed: '2026-08-23'
 license: MIT
 tags:
   - agent
   - ai
   - ide
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # ethics-filter
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 150 KB
+- **Size:** 348 KB
 - **Stars:** 3
-- **Last Pushed:** 2026-06-16
+- **Last Pushed:** 2026-08-23
 - **License:** MIT
 - **Tags:** agent, ai, ide

@@ -5,9 +5,9 @@ description: 'A semantic supervisor that sits between you and Hermes — refinin
 type: agent
 status: active
 language: Python
-size_kb: 341
+size_kb: 366
 stars: 1
-last_pushed: '2026-07-20'
+last_pushed: '2026-08-03'
 license: unknown
 tags:
   - agent
@@ -27,7 +27,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # intermediary-agent
@@ -41,9 +41,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 341 KB
+- **Size:** 366 KB
 - **Stars:** 1
-- **Last Pushed:** 2026-07-20
+- **Last Pushed:** 2026-08-03
 - **License:** unknown
 - **Tags:** agent, ai, api, audio, bot, browser-automation, cli, go, hermes-agent, ide, llm, multi-agent, python, terminal, voice, web-app
 

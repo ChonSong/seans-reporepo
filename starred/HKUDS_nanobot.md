@@ -1,56 +1,66 @@
 ---
 repo: HKUDS/nanobot
 url: 'https://github.com/HKUDS/nanobot'
-description: 'Lightweight, open-source AI agent for your tools, chats, and workflows.'
-type: agent
+description: 'Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps'
+type: library
 status: active
 language: Python
-size_kb: 53492
-stars: 46268
-last_pushed: '2026-07-26'
+size_kb: 72775
+stars: 48905
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
   - ai
-  - aie
+  - automation
   - bot
   - chat-ui
-  - cli
-  - docker
+  - framework
   - llm
+  - mcp
+  - multi-agent
   - openclaw
-  - sustainability
-  - training
+  - python
+  - ui
+  - web-app
+  - workflow-engine
 topics:
-  - ai
+  - agent-framework
   - ai-agent
   - ai-agents
-  - anthropic
-  - chatgpt
-  - claude
-  - claude-code
-  - codex
-  - codex-cli
-  - llm
-  - nanobot
-  - openai
+  - chatbot
+  - chatops
+  - discord-bot
+  - llm-agents
+  - llms
+  - local-llm
+  - mcp
+  - model-context-protocol
+  - multi-agent
+  - openai-compatible
   - openclaw
-refreshed_at: '2026-07-26 23:00 UTC'
+  - personal-ai-assistant
+  - python
+  - self-hosted
+  - telegram-bot-ai-assistant
+  - webui
+  - workflow-automation
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # nanobot
 
-> Lightweight, open-source AI agent for your tools, chats, and workflows.
+> Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 
 **URL:** [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 53,492 KB
-- **Stars:** 46,268
-- **Last Pushed:** 2026-07-26
+- **Size:** 72,775 KB
+- **Stars:** 48,905
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, aie, bot, chat-ui, cli, docker, llm, openclaw, sustainability, training
+- **Tags:** agent, ai, automation, bot, chat-ui, framework, llm, mcp, multi-agent, openclaw, python, ui, web-app, workflow-engine

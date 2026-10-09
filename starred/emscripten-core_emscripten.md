@@ -5,9 +5,9 @@ description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
 type: unknown
 status: active
 language: C++
-size_kb: 269538
-stars: 27530
-last_pushed: '2026-07-26'
+size_kb: 273566
+stars: 27694
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - web-app
@@ -16,7 +16,7 @@ topics:
   - hacktoberfest
   - wasm
   - webassembly
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # emscripten
@@ -30,8 +30,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** C++
-- **Size:** 269,538 KB
-- **Stars:** 27,530
-- **Last Pushed:** 2026-07-26
+- **Size:** 273,566 KB
+- **Stars:** 27,694
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
 - **Tags:** web-app

@@ -1,13 +1,13 @@
 ---
 repo: ruvnet/ruflo
 url: 'https://github.com/ruvnet/ruflo'
-description: '🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated'
+description: '🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated'
 type: agent
 status: active
 language: TypeScript
-size_kb: 537737
-stars: 66119
-last_pushed: '2026-07-26'
+size_kb: 651366
+stars: 74200
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -18,8 +18,10 @@ tags:
   - infrastructure
   - mcp
   - multi-agent
+  - plugin
   - rag
   - typescript
+  - vector-db
   - workflow-engine
 topics:
   - agentic-ai
@@ -28,11 +30,11 @@ topics:
   - agents
   - ai-agents
   - ai-assistant
-  - ai-coding
   - ai-skills
   - autonomous-agents
-  - claude-code
+  - claude
   - codex
+  - dsh-plugin
   - harness
   - mcp-server
   - multi-agent
@@ -42,12 +44,12 @@ topics:
   - swarm
   - swarm-intelligence
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # ruflo
 
-> 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+> 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 **URL:** [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
@@ -56,8 +58,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 537,737 KB
-- **Stars:** 66,119
-- **Last Pushed:** 2026-07-26
+- **Size:** 651,366 KB
+- **Stars:** 74,200
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, framework, harness, hermes-agent, infrastructure, mcp, multi-agent, rag, typescript, workflow-engine
+- **Tags:** agent, ai, framework, harness, hermes-agent, infrastructure, mcp, multi-agent, plugin, rag, typescript, vector-db, workflow-engine

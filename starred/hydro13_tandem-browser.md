@@ -5,15 +5,16 @@ description: 'AI-Human symbiotic browser — browse the web as one entity'
 type: unknown
 status: active
 language: TypeScript
-size_kb: 8997
-stars: 570
-last_pushed: '2026-07-25'
+size_kb: 8939
+stars: 616
+last_pushed: '2026-10-02'
 license: MIT
 tags:
   - ai
   - aie
   - browser-automation
   - docker
+  - hermes-agent
   - openclaw
   - sustainability
   - training
@@ -23,12 +24,16 @@ topics:
   - ai
   - browser
   - chromium
+  - claude-code
+  - claude-desktop
+  - codex
   - electron
+  - hermes
   - human-ai-collaboration
   - local-first
   - openclaw
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # tandem-browser
@@ -42,8 +47,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 8,997 KB
-- **Stars:** 570
-- **Last Pushed:** 2026-07-25
+- **Size:** 8,939 KB
+- **Stars:** 616
+- **Last Pushed:** 2026-10-02
 - **License:** MIT
-- **Tags:** ai, aie, browser-automation, docker, openclaw, sustainability, training, typescript, web-app
+- **Tags:** ai, aie, browser-automation, docker, hermes-agent, openclaw, sustainability, training, typescript, web-app

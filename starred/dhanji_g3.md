@@ -5,14 +5,14 @@ description: experiments in goose
 type: unknown
 status: active
 language: Rust
-size_kb: 3699
-stars: 516
-last_pushed: '2026-05-02'
+size_kb: 4006
+stars: 519
+last_pushed: '2026-09-06'
 license: unknown
 tags:
   - go
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # g3
@@ -26,8 +26,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Rust
-- **Size:** 3,699 KB
-- **Stars:** 516
-- **Last Pushed:** 2026-05-02
+- **Size:** 4,006 KB
+- **Stars:** 519
+- **Last Pushed:** 2026-09-06
 - **License:** unknown
 - **Tags:** go

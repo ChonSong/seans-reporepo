@@ -1,13 +1,13 @@
 ---
 repo: colbymchenry/codegraph
 url: 'https://github.com/colbymchenry/codegraph'
-description: 'Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local'
+description: 'Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local'
 type: agent
 status: active
 language: C
-size_kb: 16317
-stars: 62568
-last_pushed: '2026-07-24'
+size_kb: 39052
+stars: 73604
+last_pushed: '2026-10-07'
 license: MIT
 tags:
   - agent
@@ -15,12 +15,12 @@ tags:
   - hermes-agent
   - sync
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # codegraph
 
-> Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+> Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 **URL:** [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 
@@ -29,8 +29,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** C
-- **Size:** 16,317 KB
-- **Stars:** 62,568
-- **Last Pushed:** 2026-07-24
+- **Size:** 39,052 KB
+- **Stars:** 73,604
+- **Last Pushed:** 2026-10-07
 - **License:** MIT
 - **Tags:** agent, coding-agent, hermes-agent, sync

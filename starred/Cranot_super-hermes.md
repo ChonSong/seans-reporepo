@@ -4,16 +4,16 @@ url: 'https://github.com/Cranot/super-hermes'
 description: Skills that teach Hermes Agent to write its own analytical prompts
 type: agent
 status: active
-language: Shell
-size_kb: 542
-stars: 324
-last_pushed: '2026-03-15'
+language: PowerShell
+size_kb: 551
+stars: 487
+last_pushed: '2026-07-27'
 license: MIT
 tags:
   - agent
   - hermes-agent
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # super-hermes
@@ -26,9 +26,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** agent
 - **Status:** active
-- **Language:** Shell
-- **Size:** 542 KB
-- **Stars:** 324
-- **Last Pushed:** 2026-03-15
+- **Language:** PowerShell
+- **Size:** 551 KB
+- **Stars:** 487
+- **Last Pushed:** 2026-07-27
 - **License:** MIT
 - **Tags:** agent, hermes-agent

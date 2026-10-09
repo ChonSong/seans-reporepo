@@ -5,9 +5,9 @@ description: QEMU in a Docker container.
 type: infrastructure
 status: active
 language: Shell
-size_kb: 1767
-stars: 1903
-last_pushed: '2026-07-26'
+size_kb: 2102
+stars: 2157
+last_pushed: '2026-10-05'
 license: MIT
 tags:
   - ai
@@ -21,7 +21,7 @@ topics:
   - qemu-kvm
   - virtual-machine
   - virtualization
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # qemu
@@ -35,8 +35,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** infrastructure
 - **Status:** active
 - **Language:** Shell
-- **Size:** 1,767 KB
-- **Stars:** 1,903
-- **Last Pushed:** 2026-07-26
+- **Size:** 2,102 KB
+- **Stars:** 2,157
+- **Last Pushed:** 2026-10-05
 - **License:** MIT
 - **Tags:** ai, docker

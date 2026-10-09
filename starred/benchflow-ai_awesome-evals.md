@@ -5,9 +5,9 @@ description: 'A curated, non-BS library of the best resources for building and e
 type: library
 status: active
 language: other
-size_kb: 1404
-stars: 759
-last_pushed: '2026-07-01'
+size_kb: 1427
+stars: 967
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - llm
   - llm-evaluation
   - rl-environments
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # awesome-evals
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** other
-- **Size:** 1,404 KB
-- **Stars:** 759
-- **Last Pushed:** 2026-07-01
+- **Size:** 1,427 KB
+- **Stars:** 967
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, benchmarking, llm

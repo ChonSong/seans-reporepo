@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: C
 size_kb: 11107
-stars: 282
+stars: 280
 last_pushed: '2025-10-04'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # retrobot
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** C
 - **Size:** 11,107 KB
-- **Stars:** 282
+- **Stars:** 280
 - **Last Pushed:** 2025-10-04
 - **License:** MIT

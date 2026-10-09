@@ -4,10 +4,10 @@ url: 'https://github.com/dokku/dokku'
 description: 'A docker-powered PaaS that helps you build and manage the lifecycle of applications'
 type: infrastructure
 status: active
-language: Shell
-size_kb: 25494
-stars: 32058
-last_pushed: '2026-07-24'
+language: Go
+size_kb: 27244
+stars: 32173
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - ai
@@ -26,7 +26,7 @@ topics:
   - paas
   - self-hosted
   - selfhosted
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # dokku
@@ -39,9 +39,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** infrastructure
 - **Status:** active
-- **Language:** Shell
-- **Size:** 25,494 KB
-- **Stars:** 32,058
-- **Last Pushed:** 2026-07-24
+- **Language:** Go
+- **Size:** 27,244 KB
+- **Stars:** 32,173
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** ai, docker, paas, ui

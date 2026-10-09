@@ -4,11 +4,11 @@ url: 'https://github.com/OpenHands/OpenHands'
 description: '🙌 OpenHands: AI-Driven Development'
 type: unknown
 status: active
-language: Python
-size_kb: 360223
-stars: 82186
-last_pushed: '2026-07-26'
-license: NOASSERTION
+language: TypeScript
+size_kb: 463727
+stars: 90402
+last_pushed: '2026-10-09'
+license: MIT
 tags:
   - agent
   - ai
@@ -27,7 +27,7 @@ topics:
   - gpt
   - llm
   - openai
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # OpenHands
@@ -40,9 +40,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** Python
-- **Size:** 360,223 KB
-- **Stars:** 82,186
-- **Last Pushed:** 2026-07-26
-- **License:** NOASSERTION
+- **Language:** TypeScript
+- **Size:** 463,727 KB
+- **Stars:** 90,402
+- **Last Pushed:** 2026-10-09
+- **License:** MIT
 - **Tags:** agent, ai, chat-ui, cli, coding-agent, llm, multi-agent

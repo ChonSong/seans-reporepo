@@ -5,9 +5,9 @@ description: 'Production-grade engineering skills for AI coding agents.'
 type: agent
 status: active
 language: JavaScript
-size_kb: 671
-stars: 80481
-last_pushed: '2026-07-26'
+size_kb: 1669
+stars: 103935
+last_pushed: '2026-10-03'
 license: MIT
 tags:
   - agent
@@ -19,7 +19,7 @@ topics:
   - codex
   - cursor
   - skills
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # agent-skills
@@ -33,8 +33,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 671 KB
-- **Stars:** 80,481
-- **Last Pushed:** 2026-07-26
+- **Size:** 1,669 KB
+- **Stars:** 103,935
+- **Last Pushed:** 2026-10-03
 - **License:** MIT
 - **Tags:** agent, ai

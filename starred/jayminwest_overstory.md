@@ -6,7 +6,7 @@ type: agent
 status: archived
 language: TypeScript
 size_kb: 5603
-stars: 1330
+stars: 1317
 last_pushed: '2026-05-28'
 license: MIT
 tags:
@@ -20,7 +20,7 @@ topics:
   - ai-agents
   - claude-code
   - tmux
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # overstory
@@ -35,7 +35,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** archived
 - **Language:** TypeScript
 - **Size:** 5,603 KB
-- **Stars:** 1,330
+- **Stars:** 1,317
 - **Last Pushed:** 2026-05-28
 - **License:** MIT
 - **Tags:** agent, ai, multi-agent, orchestration, ui

@@ -5,9 +5,9 @@ description: 'Force-directed graph rendered on HTML5 canvas'
 type: unknown
 status: active
 language: JavaScript
-size_kb: 2732
-stars: 2078
-last_pushed: '2026-04-16'
+size_kb: 2772
+stars: 2140
+last_pushed: '2026-09-28'
 license: MIT
 tags: []
 topics:
@@ -16,7 +16,7 @@ topics:
   - force
   - force-directed-graph
   - simulation
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # force-graph
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 2,732 KB
-- **Stars:** 2,078
-- **Last Pushed:** 2026-04-16
+- **Size:** 2,772 KB
+- **Stars:** 2,140
+- **Last Pushed:** 2026-09-28
 - **License:** MIT

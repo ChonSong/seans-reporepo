@@ -5,15 +5,15 @@ description: 'Fun-Audio-Chat is a Large Audio Language Model built for natural, 
 type: unknown
 status: active
 language: Python
-size_kb: 9592
-stars: 985
-last_pushed: '2026-02-27'
+size_kb: 14547
+stars: 1007
+last_pushed: '2026-09-24'
 license: 'Apache-2.0'
 tags:
   - audio
   - voice
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Fun-Audio-Chat
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 9,592 KB
-- **Stars:** 985
-- **Last Pushed:** 2026-02-27
+- **Size:** 14,547 KB
+- **Stars:** 1,007
+- **Last Pushed:** 2026-09-24
 - **License:** Apache-2.0
 - **Tags:** audio, voice

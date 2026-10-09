@@ -1,14 +1,14 @@
 ---
 repo: openclaw/openclaw
 url: 'https://github.com/openclaw/openclaw'
-description: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-type: agent
+description: The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+type: unknown
 status: active
 language: TypeScript
-size_kb: 2198087
-stars: 384229
-last_pushed: '2026-07-26'
-license: NOASSERTION
+size_kb: 8277486
+stars: 391526
+last_pushed: '2026-10-09'
+license: MIT
 tags:
   - ai
   - aie
@@ -25,22 +25,22 @@ topics:
   - openclaw
   - own-your-data
   - personal
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # openclaw
 
-> Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+> The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 **URL:** [openclaw/openclaw](https://github.com/openclaw/openclaw)
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 2,198,087 KB
-- **Stars:** 384,229
-- **Last Pushed:** 2026-07-26
-- **License:** NOASSERTION
+- **Size:** 8,277,486 KB
+- **Stars:** 391,526
+- **Last Pushed:** 2026-10-09
+- **License:** MIT
 - **Tags:** ai, aie, docker, openclaw, rust, sustainability, training

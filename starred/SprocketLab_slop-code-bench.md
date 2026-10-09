@@ -5,13 +5,13 @@ description: 'SlopCodeBench: Measuring Code Erosion Under Iterative Specificatio
 type: unknown
 status: active
 language: Python
-size_kb: 59502
-stars: 95
-last_pushed: '2026-06-11'
+size_kb: 58451
+stars: 243
+last_pushed: '2026-09-22'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # slop-code-bench
@@ -25,7 +25,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 59,502 KB
-- **Stars:** 95
-- **Last Pushed:** 2026-06-11
+- **Size:** 58,451 KB
+- **Stars:** 243
+- **Last Pushed:** 2026-09-22
 - **License:** MIT

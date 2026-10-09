@@ -5,16 +5,16 @@ description: Browserbase's official collection of agent skills to access the web
 type: agent
 status: active
 language: JavaScript
-size_kb: 7530
-stars: 3662
-last_pushed: '2026-07-24'
+size_kb: 10650
+stars: 3729
+last_pushed: '2026-09-29'
 license: unknown
 tags:
   - agent
   - browser-automation
   - web-app
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # skills
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 7,530 KB
-- **Stars:** 3,662
-- **Last Pushed:** 2026-07-24
+- **Size:** 10,650 KB
+- **Stars:** 3,729
+- **Last Pushed:** 2026-09-29
 - **License:** unknown
 - **Tags:** agent, browser-automation, web-app

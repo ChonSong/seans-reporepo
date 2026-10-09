@@ -5,9 +5,9 @@ description: 'OfficeCLI is the first and best Office suite  purpose-built for AI
 type: agent
 status: active
 language: 'C#'
-size_kb: 316545
-stars: 22367
-last_pushed: '2026-07-25'
+size_kb: 322513
+stars: 31765
+last_pushed: '2026-10-09'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -35,7 +35,7 @@ topics:
   - skills
   - word
   - xlsx
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # OfficeCLI
@@ -49,8 +49,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** C#
-- **Size:** 316,545 KB
-- **Stars:** 22,367
-- **Last Pushed:** 2026-07-25
+- **Size:** 322,513 KB
+- **Stars:** 31,765
+- **Last Pushed:** 2026-10-09
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, cli, coding-agent, docker, multi-agent, openclaw, sustainability, training

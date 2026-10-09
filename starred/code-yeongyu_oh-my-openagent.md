@@ -1,22 +1,20 @@
 ---
 repo: 'code-yeongyu/oh-my-openagent'
 url: 'https://github.com/code-yeongyu/oh-my-openagent'
-description: 'omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode'
-type: agent
+description: 'OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.'
+type: unknown
 status: active
 language: TypeScript
-size_kb: 108680
-stars: 66623
-last_pushed: '2026-07-26'
+size_kb: 278787
+stars: 69918
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - agent
   - ai
   - aie
   - chat-ui
-  - coding-agent
   - docker
-  - harness
   - ide
   - orchestration
   - sustainability
@@ -41,22 +39,22 @@ topics:
   - orchestration
   - tui
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # oh-my-openagent
 
-> omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+> OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 
 **URL:** [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 
 ## Metadata
 
-- **Type:** agent
+- **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 108,680 KB
-- **Stars:** 66,623
-- **Last Pushed:** 2026-07-26
+- **Size:** 278,787 KB
+- **Stars:** 69,918
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
-- **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, harness, ide, orchestration, sustainability, training, tui, typescript, ui, video
+- **Tags:** agent, ai, aie, chat-ui, docker, ide, orchestration, sustainability, training, tui, typescript, ui, video

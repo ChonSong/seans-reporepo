@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 152296
-stars: 3737
+stars: 4154
 last_pushed: '2025-10-17'
 license: NOASSERTION
 tags:
@@ -22,7 +22,7 @@ topics:
   - shape-generation
   - text-to-3d
   - texture-genertaion
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Hunyuan3D-2.1
@@ -37,7 +37,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 152,296 KB
-- **Stars:** 3,737
+- **Stars:** 4,154
 - **Last Pushed:** 2025-10-17
 - **License:** NOASSERTION
 - **Tags:** ai, ide

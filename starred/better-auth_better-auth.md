@@ -5,9 +5,9 @@ description: The most comprehensive authentication framework
 type: library
 status: active
 language: TypeScript
-size_kb: 148841
-stars: 29336
-last_pushed: '2026-07-26'
+size_kb: 162783
+stars: 30230
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - framework
@@ -22,7 +22,7 @@ topics:
   - sso
   - stripe
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # better-auth
@@ -36,8 +36,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 148,841 KB
-- **Stars:** 29,336
-- **Last Pushed:** 2026-07-26
+- **Size:** 162,783 KB
+- **Stars:** 30,230
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** framework, security, typescript

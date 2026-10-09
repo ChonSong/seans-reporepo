@@ -5,9 +5,9 @@ description: 'CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud
 type: unknown
 status: active
 language: Go
-size_kb: 182856
-stars: 36881
-last_pushed: '2025-08-06'
+size_kb: 181034
+stars: 37294
+last_pushed: '2026-09-28'
 license: 'Apache-2.0'
 tags:
   - automation
@@ -26,7 +26,7 @@ topics:
   - raspberry
   - self-hosted
   - vuejs
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # CasaOS
@@ -40,8 +40,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 182,856 KB
-- **Stars:** 36,881
-- **Last Pushed:** 2025-08-06
+- **Size:** 181,034 KB
+- **Stars:** 37,294
+- **Last Pushed:** 2026-09-28
 - **License:** Apache-2.0
 - **Tags:** automation, docker, go, infrastructure, vue

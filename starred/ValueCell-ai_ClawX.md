@@ -5,9 +5,9 @@ description: 'ClawX is a desktop app that provides a graphical interface for Ope
 type: agent
 status: active
 language: TypeScript
-size_kb: 39511
-stars: 7551
-last_pushed: '2026-07-26'
+size_kb: 42422
+stars: 7610
+last_pushed: '2026-09-30'
 license: MIT
 tags:
   - agent
@@ -35,7 +35,7 @@ topics:
   - moltbot
   - openclaw
   - skill
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # ClawX
@@ -49,8 +49,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 39,511 KB
-- **Stars:** 7,551
-- **Last Pushed:** 2026-07-26
+- **Size:** 42,422 KB
+- **Stars:** 7,610
+- **Last Pushed:** 2026-09-30
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, cli, coding-agent, database, docker, ide, multi-agent, openclaw, orchestration, sustainability, terminal, training, web-app

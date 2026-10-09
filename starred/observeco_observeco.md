@@ -1,20 +1,19 @@
 ---
 repo: observeco/observeco
 url: 'https://github.com/observeco/observeco'
-description: 'Self-healing observability for AI agents. Discover, monitor, and auto-recover multi-agent systems — without a cloud dependency.'
+description: 'Differentiation strategy consultancy for Singapore small businesses — and the open-source agent-observability tool we build and run on ourselves.'
 type: agent
 status: active
 language: Python
-size_kb: 9255
+size_kb: 81935
 stars: 8
-last_pushed: '2026-07-19'
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
   - ai
   - llm
   - monitoring
-  - multi-agent
   - observability
   - python
 topics:
@@ -30,12 +29,12 @@ topics:
   - python
   - runtime-integrity
   - self-healing
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # observeco
 
-> Self-healing observability for AI agents. Discover, monitor, and auto-recover multi-agent systems — without a cloud dependency.
+> Differentiation strategy consultancy for Singapore small businesses — and the open-source agent-observability tool we build and run on ourselves.
 
 **URL:** [observeco/observeco](https://github.com/observeco/observeco)
 
@@ -44,8 +43,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 9,255 KB
+- **Size:** 81,935 KB
 - **Stars:** 8
-- **Last Pushed:** 2026-07-19
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, llm, monitoring, multi-agent, observability, python
+- **Tags:** agent, ai, llm, monitoring, observability, python

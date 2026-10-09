@@ -5,9 +5,9 @@ description: 'The world's first open-source AI-native vector design tool and the
 type: agent
 status: active
 language: Rust
-size_kb: 150585
-stars: 4427
-last_pushed: '2026-07-26'
+size_kb: 448537
+stars: 6113
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -19,6 +19,7 @@ tags:
   - image-gen
   - mcp
   - multi-agent
+  - plugin
   - react
   - reliability
   - rust
@@ -27,7 +28,6 @@ tags:
   - tui
   - ui
   - vector-db
-  - vue
 topics:
   - agent
   - agent-team
@@ -35,6 +35,7 @@ topics:
   - claude
   - claude-code
   - codex
+  - dsh-plugin
   - fimga
   - flutter
   - mcp
@@ -48,8 +49,7 @@ topics:
   - ui
   - vibecoding
   - vibedesign
-  - vue
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # openpencil
@@ -63,8 +63,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 150,585 KB
-- **Stars:** 4,427
-- **Last Pushed:** 2026-07-26
+- **Size:** 448,537 KB
+- **Stars:** 6,113
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, image-gen, mcp, multi-agent, react, reliability, rust, sustainability, training, tui, ui, vector-db, vue
+- **Tags:** agent, ai, aie, chat-ui, coding-agent, docker, image-gen, mcp, multi-agent, plugin, react, reliability, rust, sustainability, training, tui, ui, vector-db

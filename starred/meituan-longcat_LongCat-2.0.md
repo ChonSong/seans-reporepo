@@ -6,12 +6,12 @@ type: unknown
 status: active
 language: other
 size_kb: 1105
-stars: 504
+stars: 567
 last_pushed: '2026-07-08'
 license: MIT
 tags: []
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # LongCat-2.0
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** other
 - **Size:** 1,105 KB
-- **Stars:** 504
+- **Stars:** 567
 - **Last Pushed:** 2026-07-08
 - **License:** MIT

@@ -5,9 +5,9 @@ description: 'Taste-Skill - gives your AI good taste. stops the AI from generati
 type: unknown
 status: active
 language: JavaScript
-size_kb: 33423
-stars: 67911
-last_pushed: '2026-07-23'
+size_kb: 38348
+stars: 94090
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -35,7 +35,7 @@ topics:
   - skill
   - skills
   - vibecoding
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # taste-skill
@@ -49,8 +49,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** JavaScript
-- **Size:** 33,423 KB
-- **Stars:** 67,911
-- **Last Pushed:** 2026-07-23
+- **Size:** 38,348 KB
+- **Stars:** 94,090
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, design-system, docker, go, multi-agent, sustainability, training, web-app

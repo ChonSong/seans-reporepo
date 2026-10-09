@@ -1,31 +1,41 @@
 ---
 repo: DigitalPlatDev/FreeDomain
 url: 'https://github.com/DigitalPlatDev/FreeDomain'
-description: 'DigitalPlat FreeDomain: Free Domain For Everyone'
+description: Free domain registration and practical DNS learning resources for everyone.
 type: unknown
 status: active
-language: other
-size_kb: 1139
-stars: 188781
-last_pushed: '2026-07-16'
+language: Markdown
+size_kb: 1144
+stars: 203076
+last_pushed: '2026-08-12'
 license: 'AGPL-3.0'
 tags:
   - ai
+  - education
+  - infrastructure
   - paas
 topics:
   - digitalplat
+  - dns
+  - dns-tutorial
+  - documentation
   - domain
   - domain-platform
+  - domain-registration
   - domainname
   - domains
+  - education
   - free
+  - free-domain
   - freedomain
-refreshed_at: '2026-07-26 23:00 UTC'
+  - internet-infrastructure
+  - nameserver
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # FreeDomain
 
-> DigitalPlat FreeDomain: Free Domain For Everyone
+> Free domain registration and practical DNS learning resources for everyone.
 
 **URL:** [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 
@@ -33,9 +43,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** unknown
 - **Status:** active
-- **Language:** other
-- **Size:** 1,139 KB
-- **Stars:** 188,781
-- **Last Pushed:** 2026-07-16
+- **Language:** Markdown
+- **Size:** 1,144 KB
+- **Stars:** 203,076
+- **Last Pushed:** 2026-08-12
 - **License:** AGPL-3.0
-- **Tags:** ai, paas
+- **Tags:** ai, education, infrastructure, paas

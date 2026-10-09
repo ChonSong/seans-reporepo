@@ -1,24 +1,24 @@
 ---
-repo: 'SeniorMatt/Matthew-s-NixOS'
-url: 'https://github.com/SeniorMatt/Matthew-s-NixOS'
+repo: 'SeniorMatt/My-NixOS-old'
+url: 'https://github.com/SeniorMatt/My-NixOS-old'
 description: My NixOS configuration
 type: unknown
 status: active
 language: Nix
 size_kb: 188462
-stars: 55
+stars: 53
 last_pushed: '2025-12-21'
 license: unknown
 tags: []
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
-# Matthew-s-NixOS
+# My-NixOS-old
 
 > My NixOS configuration
 
-**URL:** [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS)
+**URL:** [SeniorMatt/My-NixOS-old](https://github.com/SeniorMatt/My-NixOS-old)
 
 ## Metadata
 
@@ -26,6 +26,6 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Nix
 - **Size:** 188,462 KB
-- **Stars:** 55
+- **Stars:** 53
 - **Last Pushed:** 2025-12-21
 - **License:** unknown

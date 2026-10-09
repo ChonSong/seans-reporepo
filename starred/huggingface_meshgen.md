@@ -5,15 +5,15 @@ description: Use AI Agents directly in Blender.
 type: agent
 status: active
 language: Python
-size_kb: 16049
-stars: 900
-last_pushed: '2026-05-26'
+size_kb: 16065
+stars: 929
+last_pushed: '2026-09-23'
 license: MIT
 tags:
   - agent
   - ai
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # meshgen
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 16,049 KB
-- **Stars:** 900
-- **Last Pushed:** 2026-05-26
+- **Size:** 16,065 KB
+- **Stars:** 929
+- **Last Pushed:** 2026-09-23
 - **License:** MIT
 - **Tags:** agent, ai

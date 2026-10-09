@@ -6,7 +6,7 @@ type: agent
 status: active
 language: Python
 size_kb: 52943
-stars: 21
+stars: 22
 last_pushed: '2026-06-24'
 license: MIT
 tags:
@@ -21,7 +21,7 @@ topics:
   - nanobot-skill
   - nanobot-webui
   - openclaw
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # nanobot-webgui
@@ -36,7 +36,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 52,943 KB
-- **Stars:** 21
+- **Stars:** 22
 - **Last Pushed:** 2026-06-24
 - **License:** MIT
 - **Tags:** agent, bot, mcp, openclaw, ui, web-app

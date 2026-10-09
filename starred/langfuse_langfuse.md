@@ -1,21 +1,21 @@
 ---
 repo: langfuse/langfuse
 url: 'https://github.com/langfuse/langfuse'
-description: '🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 '
-type: unknown
+description: '🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.'
+type: agent
 status: active
 language: TypeScript
-size_kb: 103768
-stars: 31895
-last_pushed: '2026-07-26'
+size_kb: 242923
+stars: 35577
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
+  - agent
   - ai
   - analytics
   - llm
   - monitoring
   - observability
-  - telemetry
 topics:
   - analytics
   - autogen
@@ -36,22 +36,22 @@ topics:
   - prompt-management
   - self-hosted
   - ycombinator
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # langfuse
 
-> 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+> 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 
 **URL:** [langfuse/langfuse](https://github.com/langfuse/langfuse)
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 103,768 KB
-- **Stars:** 31,895
-- **Last Pushed:** 2026-07-26
+- **Size:** 242,923 KB
+- **Stars:** 35,577
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
-- **Tags:** ai, analytics, llm, monitoring, observability, telemetry
+- **Tags:** agent, ai, analytics, llm, monitoring, observability

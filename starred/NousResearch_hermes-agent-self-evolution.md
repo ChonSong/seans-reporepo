@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Python
 size_kb: 32
-stars: 4815
+stars: 5481
 last_pushed: '2026-06-17'
 license: unknown
 tags:
   - agent
   - hermes-agent
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # hermes-agent-self-evolution
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 32 KB
-- **Stars:** 4,815
+- **Stars:** 5,481
 - **Last Pushed:** 2026-06-17
 - **License:** unknown
 - **Tags:** agent, hermes-agent

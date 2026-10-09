@@ -5,9 +5,9 @@ description: 'AI-powered PR review tool — multi-armed code analysis, no bug es
 type: unknown
 status: active
 language: TypeScript
-size_kb: 6681
-stars: 87
-last_pushed: '2026-07-26'
+size_kb: 11940
+stars: 108
+last_pushed: '2026-10-08'
 license: NOASSERTION
 tags:
   - ai
@@ -20,7 +20,7 @@ topics:
   - code-quality
   - code-review
   - developer-tools
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # octopus
@@ -34,8 +34,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 6,681 KB
-- **Stars:** 87
-- **Last Pushed:** 2026-07-26
+- **Size:** 11,940 KB
+- **Stars:** 108
+- **Last Pushed:** 2026-10-08
 - **License:** NOASSERTION
 - **Tags:** ai, aie, docker, sustainability, training

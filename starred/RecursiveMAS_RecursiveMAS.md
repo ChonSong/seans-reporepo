@@ -1,13 +1,13 @@
 ---
 repo: RecursiveMAS/RecursiveMAS
 url: 'https://github.com/RecursiveMAS/RecursiveMAS'
-description: 'Offical Implementation for "Recursive Multi-Agent Systems"'
+description: '[NeurIPS 2026] Recursive Multi-Agent Systems'
 type: agent
 status: active
 language: Python
-size_kb: 22997
-stars: 902
-last_pushed: '2026-06-29'
+size_kb: 23006
+stars: 962
+last_pushed: '2026-09-28'
 license: MIT
 tags:
   - agent
@@ -20,12 +20,12 @@ topics:
   - reasoning-agent
   - recursive-algorithm
   - scaling-algorithms
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # RecursiveMAS
 
-> Offical Implementation for "Recursive Multi-Agent Systems"
+> [NeurIPS 2026] Recursive Multi-Agent Systems
 
 **URL:** [RecursiveMAS/RecursiveMAS](https://github.com/RecursiveMAS/RecursiveMAS)
 
@@ -34,8 +34,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 22,997 KB
-- **Stars:** 902
-- **Last Pushed:** 2026-06-29
+- **Size:** 23,006 KB
+- **Stars:** 962
+- **Last Pushed:** 2026-09-28
 - **License:** MIT
 - **Tags:** agent, go, multi-agent

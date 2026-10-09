@@ -5,16 +5,16 @@ description: 'Beginner, advanced, expert level Rust training material'
 type: unknown
 status: active
 language: Rust
-size_kb: 1745
-stars: 14748
-last_pushed: '2026-06-25'
+size_kb: 1589
+stars: 14917
+last_pushed: '2026-09-28'
 license: MIT
 tags:
   - ai
   - rust
   - training
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # RustTraining
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Rust
-- **Size:** 1,745 KB
-- **Stars:** 14,748
-- **Last Pushed:** 2026-06-25
+- **Size:** 1,589 KB
+- **Stars:** 14,917
+- **Last Pushed:** 2026-09-28
 - **License:** MIT
 - **Tags:** ai, rust, training

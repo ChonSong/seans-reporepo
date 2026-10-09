@@ -5,9 +5,9 @@ description: 'Dr. MAS is an end-to-end RL training framework for multi-agent LLM
 type: library
 status: active
 language: Python
-size_kb: 40880
-stars: 145
-last_pushed: '2026-07-26'
+size_kb: 43099
+stars: 168
+last_pushed: '2026-09-26'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -17,7 +17,7 @@ tags:
   - multi-agent
   - training
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # DrMAS
@@ -31,8 +31,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 40,880 KB
-- **Stars:** 145
-- **Last Pushed:** 2026-07-26
+- **Size:** 43,099 KB
+- **Stars:** 168
+- **Last Pushed:** 2026-09-26
 - **License:** Apache-2.0
 - **Tags:** agent, ai, framework, llm, multi-agent, training

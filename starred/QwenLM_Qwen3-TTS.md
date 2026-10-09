@@ -6,7 +6,7 @@ type: unknown
 status: active
 language: Python
 size_kb: 7042
-stars: 12617
+stars: 13709
 last_pushed: '2026-03-17'
 license: 'Apache-2.0'
 tags:
@@ -15,7 +15,7 @@ tags:
   - multi-agent
   - voice
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Qwen3-TTS
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 7,042 KB
-- **Stars:** 12,617
+- **Stars:** 13,709
 - **Last Pushed:** 2026-03-17
 - **License:** Apache-2.0
 - **Tags:** express, image-gen, multi-agent, voice

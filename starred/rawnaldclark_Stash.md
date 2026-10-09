@@ -1,13 +1,13 @@
 ---
 repo: rawnaldclark/Stash
 url: 'https://github.com/rawnaldclark/Stash'
-description: 'Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever. '
+description: 'Your Spotify + YouTube Music library & daily mixes. Free and open source forever. '
 type: library
 status: active
 language: Kotlin
-size_kb: 22141
-stars: 799
-last_pushed: '2026-07-25'
+size_kb: 34953
+stars: 1175
+last_pushed: '2026-10-09'
 license: 'GPL-3.0'
 tags:
   - ai
@@ -32,12 +32,12 @@ topics:
   - youtube
   - youtube-music
   - yt-dlp
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Stash
 
-> Your Spotify + YouTube Music library & daily mixes. Stream or download in lossless FLAC. Free and open source forever. 
+> Your Spotify + YouTube Music library & daily mixes. Free and open source forever. 
 
 **URL:** [rawnaldclark/Stash](https://github.com/rawnaldclark/Stash)
 
@@ -46,8 +46,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Kotlin
-- **Size:** 22,141 KB
-- **Stars:** 799
-- **Last Pushed:** 2026-07-25
+- **Size:** 34,953 KB
+- **Stars:** 1,175
+- **Last Pushed:** 2026-10-09
 - **License:** GPL-3.0
 - **Tags:** ai, audio, mobile

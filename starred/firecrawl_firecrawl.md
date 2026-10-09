@@ -1,13 +1,13 @@
 ---
 repo: firecrawl/firecrawl
 url: 'https://github.com/firecrawl/firecrawl'
-description: 'The API to search, scrape, and interact with the web at scale. 🔥'
-type: unknown
+description: Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+type: library
 status: active
 language: TypeScript
-size_kb: 96836
-stars: 156427
-last_pushed: '2026-07-26'
+size_kb: 184136
+stars: 189908
+last_pushed: '2026-10-09'
 license: 'AGPL-3.0'
 tags:
   - agent
@@ -40,22 +40,22 @@ topics:
   - web-scraping
   - web-search
   - webscraping
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # firecrawl
 
-> The API to search, scrape, and interact with the web at scale. 🔥
+> Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 
 **URL:** [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
 ## Metadata
 
-- **Type:** unknown
+- **Type:** library
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 96,836 KB
-- **Stars:** 156,427
-- **Last Pushed:** 2026-07-26
+- **Size:** 184,136 KB
+- **Stars:** 189,908
+- **Last Pushed:** 2026-10-09
 - **License:** AGPL-3.0
 - **Tags:** agent, ai, aie, api, browser-automation, docker, llm, sustainability, training, web-app

@@ -6,14 +6,14 @@ type: agent
 status: active
 language: Python
 size_kb: 212
-stars: 4
+stars: 5
 last_pushed: '2025-09-12'
 license: MIT
 tags:
   - ai
   - mcp
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # kasm-mcp-server-v2
@@ -28,7 +28,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 212 KB
-- **Stars:** 4
+- **Stars:** 5
 - **Last Pushed:** 2025-09-12
 - **License:** MIT
 - **Tags:** ai, mcp

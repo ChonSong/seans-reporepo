@@ -5,16 +5,16 @@ description: 'An agent-managed museum exhibit, built in Rust with Gajae-Code / L
 type: agent
 status: active
 language: Rust
-size_kb: 25104
-stars: 194927
-last_pushed: '2026-06-26'
+size_kb: 25129
+stars: 194973
+last_pushed: '2026-08-16'
 license: MIT
 tags:
   - agent
   - ai
   - rust
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # claw-code
@@ -28,8 +28,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 25,104 KB
-- **Stars:** 194,927
-- **Last Pushed:** 2026-06-26
+- **Size:** 25,129 KB
+- **Stars:** 194,973
+- **Last Pushed:** 2026-08-16
 - **License:** MIT
 - **Tags:** agent, ai, rust

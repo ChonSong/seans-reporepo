@@ -5,9 +5,9 @@ description: 'Hermes Agent made portable desktop for Windows — 100 tools, GUI,
 type: agent
 status: active
 language: Python
-size_kb: 73517
-stars: 193
-last_pushed: '2026-07-26'
+size_kb: 481889
+stars: 231
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -18,25 +18,34 @@ tags:
   - docker
   - hermes-agent
   - image-gen
+  - llm
   - sustainability
   - training
+  - ui
+  - voice
   - workflow-engine
 topics:
   - ai
   - ai-agents
+  - comfyui
   - desktop-app
+  - hacktoberfest
   - hermes
   - hermes-agent
+  - llm
   - lm-studio
   - local-ai
+  - local-llm
   - music-generation
   - no-docker
   - no-install
   - portable
+  - text-to-speech
+  - tkinter
   - tool-making
   - windows
   - workflow-automation
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # portable-hermes-agent
@@ -50,8 +59,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 73,517 KB
-- **Stars:** 193
-- **Last Pushed:** 2026-07-26
+- **Size:** 481,889 KB
+- **Stars:** 231
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
-- **Tags:** agent, ai, aie, audio, automation, docker, hermes-agent, image-gen, sustainability, training, workflow-engine
+- **Tags:** agent, ai, aie, audio, automation, docker, hermes-agent, image-gen, llm, sustainability, training, ui, voice, workflow-engine

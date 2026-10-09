@@ -5,13 +5,13 @@ description: Polling analysis and forecast projections for Australian elections
 type: unknown
 status: active
 language: C++
-size_kb: 3847191
-stars: 13
-last_pushed: '2026-07-26'
+size_kb: 4243489
+stars: 12
+last_pushed: '2026-10-09'
 license: unknown
 tags: []
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # aus-polling-analyser
@@ -25,7 +25,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** C++
-- **Size:** 3,847,191 KB
-- **Stars:** 13
-- **Last Pushed:** 2026-07-26
+- **Size:** 4,243,489 KB
+- **Stars:** 12
+- **Last Pushed:** 2026-10-09
 - **License:** unknown

@@ -6,7 +6,7 @@ type: agent
 status: active
 language: PDDL
 size_kb: 885431
-stars: 1582
+stars: 1835
 last_pushed: '2026-07-23'
 license: 'Apache-2.0'
 tags:
@@ -15,7 +15,7 @@ tags:
 topics:
   - benchmark
   - skillsbench
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # skillsbench
@@ -30,7 +30,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** PDDL
 - **Size:** 885,431 KB
-- **Stars:** 1,582
+- **Stars:** 1,835
 - **Last Pushed:** 2026-07-23
 - **License:** Apache-2.0
 - **Tags:** agent, benchmarking

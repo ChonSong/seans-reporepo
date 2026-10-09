@@ -5,9 +5,9 @@ description: 'A C and Python library for physically accurate, real-time, sensor 
 type: library
 status: active
 language: Python
-size_kb: 14288
-stars: 192
-last_pushed: '2026-07-17'
+size_kb: 16454
+stars: 228
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - ai
@@ -59,7 +59,7 @@ topics:
   - robotics
   - sensor
   - simulation
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # ovrtx
@@ -73,8 +73,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 14,288 KB
-- **Stars:** 192
-- **Last Pushed:** 2026-07-17
+- **Size:** 16,454 KB
+- **Stars:** 228
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
 - **Tags:** ai, analytics, audio, automation, awesome-list, backup, benchmarking, bot, browser-automation, chat-ui, cli, code-ingestion, code-packing, coding-agent, css, docker, education, energy, ide, image-gen, infrastructure, javascript, mcp, openclaw, orchestration, python, react, reliability, research, security, sustainability, sync, typescript, vector-db, vector-search, voice, web-app

@@ -1,12 +1,12 @@
 ---
 repo: 'Open-LLM-VTuber/Open-LLM-VTuber'
 url: 'https://github.com/Open-LLM-VTuber/Open-LLM-VTuber'
-description: 'Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms'
+description: 'Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms'
 type: unknown
 status: active
 language: Python
 size_kb: 46740
-stars: 12795
+stars: 14026
 last_pushed: '2026-05-15'
 license: NOASSERTION
 tags:
@@ -30,12 +30,12 @@ topics:
   - llm
   - neuro-sama
   - ollama
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Open-LLM-VTuber
 
-> Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+> Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms
 
 **URL:** [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
 
@@ -45,7 +45,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** Python
 - **Size:** 46,740 KB
-- **Stars:** 12,795
+- **Stars:** 14,026
 - **Last Pushed:** 2026-05-15
 - **License:** NOASSERTION
 - **Tags:** ai, aie, bot, chat-ui, docker, llm, sustainability, training, voice

@@ -5,9 +5,9 @@ description: 'A Survey of Self-Evolving Agents | A curated list of resources (su
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 16227
-stars: 356
-last_pushed: '2026-07-20'
+size_kb: 16194
+stars: 469
+last_pushed: '2026-10-04'
 license: unknown
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - self-evolving
   - self-evolving-agents
   - skill-survey
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Awesome-Self-Evolving-Agents
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 16,227 KB
-- **Stars:** 356
-- **Last Pushed:** 2026-07-20
+- **Size:** 16,194 KB
+- **Stars:** 469
+- **Last Pushed:** 2026-10-04
 - **License:** unknown
 - **Tags:** agent, awesome-list, benchmarking, coding-agent, infrastructure, multi-agent

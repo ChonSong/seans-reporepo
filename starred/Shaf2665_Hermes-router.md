@@ -5,9 +5,9 @@ description: 'OpenAI/Anthropic-compatible AI router that keeps apps online with 
 type: unknown
 status: active
 language: Python
-size_kb: 5529
-stars: 77
-last_pushed: '2026-07-13'
+size_kb: 5034
+stars: 110
+last_pushed: '2026-09-30'
 license: MIT
 tags:
   - agent
@@ -34,7 +34,7 @@ topics:
   - load-balancer
   - openai
   - python
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # Hermes-router
@@ -48,8 +48,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 5,529 KB
-- **Stars:** 77
-- **Last Pushed:** 2026-07-13
+- **Size:** 5,034 KB
+- **Stars:** 110
+- **Last Pushed:** 2026-09-30
 - **License:** MIT
 - **Tags:** agent, ai, aie, analytics, api, coding-agent, docker, ide, llm, multi-agent, proxy, python, sustainability, training

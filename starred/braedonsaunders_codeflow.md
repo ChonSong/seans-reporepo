@@ -5,10 +5,10 @@ description: 'Paste any GitHub URL → interactive architecture map. See how fil
 type: unknown
 status: active
 language: HTML
-size_kb: 1989
-stars: 4779
-last_pushed: '2026-07-14'
-license: unknown
+size_kb: 7947
+stars: 5403
+last_pushed: '2026-09-22'
+license: MIT
 tags:
   - api
   - browser-automation
@@ -23,7 +23,7 @@ topics:
   - github-api
   - single-file
   - visualization
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # codeflow
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** HTML
-- **Size:** 1,989 KB
-- **Stars:** 4,779
-- **Last Pushed:** 2026-07-14
-- **License:** unknown
+- **Size:** 7,947 KB
+- **Stars:** 5,403
+- **Last Pushed:** 2026-09-22
+- **License:** MIT
 - **Tags:** api, browser-automation

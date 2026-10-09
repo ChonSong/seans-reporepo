@@ -1,13 +1,13 @@
 ---
 repo: simstudioai/sim
 url: 'https://github.com/simstudioai/sim'
-description: 'Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.'
+description: 'Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.'
 type: agent
 status: active
 language: TypeScript
-size_kb: 513936
-stars: 29228
-last_pushed: '2026-07-26'
+size_kb: 702952
+stars: 29792
+last_pushed: '2026-10-09'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -18,7 +18,7 @@ tags:
   - browser-automation
   - chat-ui
   - docker
-  - orchestration
+  - monitoring
   - rag
   - react
   - sustainability
@@ -44,12 +44,12 @@ topics:
   - rag
   - react
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # sim
 
-> Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+> Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 
 **URL:** [simstudioai/sim](https://github.com/simstudioai/sim)
 
@@ -58,8 +58,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 513,936 KB
-- **Stars:** 29,228
-- **Last Pushed:** 2026-07-26
+- **Size:** 702,952 KB
+- **Stars:** 29,792
+- **Last Pushed:** 2026-10-09
 - **License:** Apache-2.0
-- **Tags:** agent, ai, aie, automation, bot, browser-automation, chat-ui, docker, orchestration, rag, react, sustainability, training, typescript, workflow-engine
+- **Tags:** agent, ai, aie, automation, bot, browser-automation, chat-ui, docker, monitoring, rag, react, sustainability, training, typescript, workflow-engine

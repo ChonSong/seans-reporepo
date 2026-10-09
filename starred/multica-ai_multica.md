@@ -1,24 +1,26 @@
 ---
 repo: 'multica-ai/multica'
 url: 'https://github.com/multica-ai/multica'
-description: 'The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.'
+description: 'Make humans and AI agents work as one team — open-source and self-hostable.'
 type: agent
 status: active
 language: Go
-size_kb: 87237
-stars: 42089
-last_pushed: '2026-07-26'
+size_kb: 158533
+stars: 52305
+last_pushed: '2026-10-09'
 license: NOASSERTION
 tags:
   - agent
+  - ai
+  - image-gen
   - multi-agent
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # multica
 
-> The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+> Make humans and AI agents work as one team — open-source and self-hostable.
 
 **URL:** [multica-ai/multica](https://github.com/multica-ai/multica)
 
@@ -27,8 +29,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Go
-- **Size:** 87,237 KB
-- **Stars:** 42,089
-- **Last Pushed:** 2026-07-26
+- **Size:** 158,533 KB
+- **Stars:** 52,305
+- **Last Pushed:** 2026-10-09
 - **License:** NOASSERTION
-- **Tags:** agent, multi-agent
+- **Tags:** agent, ai, image-gen, multi-agent

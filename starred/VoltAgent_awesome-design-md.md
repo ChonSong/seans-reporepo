@@ -5,9 +5,9 @@ description: A collection of DESIGN.md files analysis by popular brand design sy
 type: agent
 status: active
 language: other
-size_kb: 2203
-stars: 104691
-last_pushed: '2026-06-16'
+size_kb: 2311
+stars: 120031
+last_pushed: '2026-10-05'
 license: MIT
 tags:
   - agent
@@ -25,7 +25,7 @@ topics:
   - vibe-coding
   - vibe-design
   - vibecoding
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # awesome-design-md
@@ -39,8 +39,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 2,203 KB
-- **Stars:** 104,691
-- **Last Pushed:** 2026-06-16
+- **Size:** 2,311 KB
+- **Stars:** 120,031
+- **Last Pushed:** 2026-10-05
 - **License:** MIT
 - **Tags:** agent, awesome-list, design-system, go

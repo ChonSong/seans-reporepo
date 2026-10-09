@@ -5,9 +5,9 @@ description: 'Omnigent is an open-source AI agent framework and meta-harness: or
 type: library
 status: active
 language: Python
-size_kb: 85751
-stars: 7778
-last_pushed: '2026-07-26'
+size_kb: 306469
+stars: 10706
+last_pushed: '2026-10-09'
 license: 'Apache-2.0'
 tags:
   - agent
@@ -42,7 +42,7 @@ topics:
   - multi-agent
   - python
   - sandbox
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # omnigent
@@ -56,8 +56,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** Python
-- **Size:** 85,751 KB
-- **Stars:** 7,778
-- **Last Pushed:** 2026-07-26
+- **Size:** 306,469 KB
+- **Stars:** 10,706
+- **Last Pushed:** 2026-10-09
 - **License:** Apache-2.0
 - **Tags:** agent, ai, aie, coding-agent, database, docker, framework, go, harness, llm, multi-agent, orchestration, python, sustainability, training

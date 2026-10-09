@@ -4,10 +4,10 @@ url: 'https://github.com/bovinphang/frontend-craft'
 description: 'frontend-craft is a universal frontend plugin that brings the same opinionated engineering standards to all 15 AI coding assistants. '
 type: agent
 status: active
-language: JavaScript
-size_kb: 7351
-stars: 19
-last_pushed: '2026-06-25'
+language: TypeScript
+size_kb: 8269
+stars: 22
+last_pushed: '2026-09-26'
 license: MIT
 tags:
   - ai
@@ -37,7 +37,7 @@ topics:
   - trae
   - typescript
   - vue3
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # frontend-craft
@@ -50,9 +50,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** agent
 - **Status:** active
-- **Language:** JavaScript
-- **Size:** 7,351 KB
-- **Stars:** 19
-- **Last Pushed:** 2026-06-25
+- **Language:** TypeScript
+- **Size:** 8,269 KB
+- **Stars:** 22
+- **Last Pushed:** 2026-09-26
 - **License:** MIT
 - **Tags:** ai, plugin, react, typescript, vue, web-app

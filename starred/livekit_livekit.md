@@ -5,9 +5,9 @@ description: 'End-to-end realtime stack for connecting humans and AI'
 type: unknown
 status: active
 language: Go
-size_kb: 15735
-stars: 19963
-last_pushed: '2026-07-26'
+size_kb: 16714
+stars: 21349
+last_pushed: '2026-10-09'
 license: 'Apache-2.0'
 tags:
   - ai
@@ -24,7 +24,7 @@ topics:
   - voice
   - voice-ai
   - webrtc
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # livekit
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 15,735 KB
-- **Stars:** 19,963
-- **Last Pushed:** 2026-07-26
+- **Size:** 16,714 KB
+- **Stars:** 21,349
+- **Last Pushed:** 2026-10-09
 - **License:** Apache-2.0
 - **Tags:** ai, go, ide, infrastructure, video, voice

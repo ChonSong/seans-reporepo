@@ -6,7 +6,7 @@ type: agent
 status: active
 language: TypeScript
 size_kb: 4951
-stars: 844
+stars: 866
 last_pushed: '2026-04-14'
 license: MIT
 tags:
@@ -14,7 +14,7 @@ tags:
   - ai
   - browser-automation
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # proofshot
@@ -29,7 +29,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Status:** active
 - **Language:** TypeScript
 - **Size:** 4,951 KB
-- **Stars:** 844
+- **Stars:** 866
 - **Last Pushed:** 2026-04-14
 - **License:** MIT
 - **Tags:** agent, ai, browser-automation

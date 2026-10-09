@@ -5,9 +5,9 @@ description: Personal code catalog for ideation and combinatorial app design
 type: 'awesome-list'
 status: active
 language: Python
-size_kb: 1260
+size_kb: 1354
 stars: 0
-last_pushed: '2026-07-19'
+last_pushed: '2026-07-29'
 license: unknown
 tags:
   - agent
@@ -21,6 +21,7 @@ tags:
   - browser-automation
   - cli
   - code-packing
+  - docker
   - go
   - harness
   - hermes-agent
@@ -34,7 +35,7 @@ tags:
   - voice
   - web-app
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # seans-reporepo
@@ -48,11 +49,11 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** Python
-- **Size:** 1,260 KB
+- **Size:** 1,354 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-19
+- **Last Pushed:** 2026-07-29
 - **License:** unknown
-- **Tags:** agent, ai, aie, api, audio, automation, awesome-list, bot, browser-automation, cli, code-packing, go, harness, hermes-agent, ide, llm, plugin, python, svelte, transpilation, typescript, voice, web-app
+- **Tags:** agent, ai, aie, api, audio, automation, awesome-list, bot, browser-automation, cli, code-packing, docker, go, harness, hermes-agent, ide, llm, plugin, python, svelte, transpilation, typescript, voice, web-app
 
 ## README Excerpt
 
@@ -60,25 +61,25 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 > Personal code catalog — owned and starred repositories indexed for ideation, discovery, and combinatorial application design.
 >
-> **Last refreshed:** 2026-07-19 23:34 UTC
+> **Last refreshed:** 2026-07-26 23:00 UTC
 
 ## Quick Stats
 
 | | Owned | Starred | Total |
 |---|---|---|---|
-| Repos | 60 | 224 | 284 |
-| Total Size | 2,952,253 KB | 30,715,407 KB | 33,667,660 KB (32,878 MB) |
+| Repos | 62 | 229 | 291 |
+| Total Size | 2,972,165 KB | 32,130,451 KB | 35,102,616 KB (34,279 MB) |
 | Languages | 13 | 20 | 23 |
 | Tags | — | — | 79 |
 
 ## Structure
 
 ```
-├── owned/           # My repositories (60)
+├── owned/           # My repositories (62)
 │   ├── agent-os.md
 │   ├── repo-transmute.md
 │   └── ...
-├── starred/         # Repos I've starred (224)
+├── starred/         # Repos I've starred (229)
 │   ├── yamadashy_repomix.md
 │   ├── e2b-dev_awesome-ai-agents.md
 │   └── ...
@@ -89,7 +90,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 ## Owned Repositories
 
-### Agent (19)
+### Agent (21)
 
 | Repo | Language | Size | Stars | Tags |
 |---|---|---|---|---|
@@ -100,8 +101,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 | [dev-loop](owned/ChonSong_dev-loop.md) | Python | 20,354 KB | 1 | agent, ai, bot |
 | [hermes-web-computer](owned/ChonSong_hermes-web-computer.md) | Svelte | 13,955 KB | 1 | agent, ai, audio |
 | [claw-aie-harness](owned/ChonSong_claw-aie-harness.md) | Python | 10,759 KB | 0 | agent, ai, aie |
+| [proofshot](owned/ChonSong_proofshot.md) | TypeScript | 4,961 KB | 0 | agent, ai, browser-automation |
 | [hermes-guide](owned/ChonSong_hermes-guide.md) | other | 3,529 KB | 1 | agent, browser-automation, hermes-agent |
 | [onefilellm](owned/ChonSong_onefilellm.md) | Python | 1,427 KB | 0 | agent, ai, api |
-| [intermediary-agent](owned/ChonSong_intermediary-agent.md) | Python | 299 KB | 1 | agent, ai, api |
-| [Codeovertcp](owned/ChonSong_Codeovertcp.md) | other | 153 KB | 0 | agent, ide, voice |
-| [claw-aie](owned...
+| [intermediary-agent](owned/ChonSong_intermediary-agent.md) | Python | 341 KB | 1 | agent, ai, api |
+| [...

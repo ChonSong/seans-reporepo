@@ -5,15 +5,15 @@ description: 'The best way to use Hermes Agent on your computer!'
 type: agent
 status: active
 language: Rust
-size_kb: 4835
-stars: 26
-last_pushed: '2026-07-19'
+size_kb: 4319
+stars: 47
+last_pushed: '2026-09-24'
 license: MIT
 tags:
   - agent
   - hermes-agent
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # hermes-desktop-rust
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Rust
-- **Size:** 4,835 KB
-- **Stars:** 26
-- **Last Pushed:** 2026-07-19
+- **Size:** 4,319 KB
+- **Stars:** 47
+- **Last Pushed:** 2026-09-24
 - **License:** MIT
 - **Tags:** agent, hermes-agent

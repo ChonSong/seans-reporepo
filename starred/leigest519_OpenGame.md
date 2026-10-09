@@ -5,15 +5,15 @@ description: 'OpenGame: Open Agentic Coding for Games'
 type: agent
 status: active
 language: TypeScript
-size_kb: 22439
-stars: 2744
-last_pushed: '2026-04-22'
+size_kb: 22491
+stars: 2974
+last_pushed: '2026-09-03'
 license: 'Apache-2.0'
 tags:
   - agent
   - gaming
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # OpenGame
@@ -27,8 +27,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 22,439 KB
-- **Stars:** 2,744
-- **Last Pushed:** 2026-04-22
+- **Size:** 22,491 KB
+- **Stars:** 2,974
+- **Last Pushed:** 2026-09-03
 - **License:** Apache-2.0
 - **Tags:** agent, gaming

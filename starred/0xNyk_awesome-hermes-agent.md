@@ -5,9 +5,9 @@ description: 'Independent directory of useful skills, plugins, memory providers,
 type: agent
 status: active
 language: other
-size_kb: 2631
-stars: 5039
-last_pushed: '2026-07-25'
+size_kb: 3577
+stars: 5818
+last_pushed: '2026-09-22'
 license: NOASSERTION
 tags:
   - agent
@@ -29,7 +29,7 @@ topics:
   - memory
   - nous-research
   - skills
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # awesome-hermes-agent
@@ -43,8 +43,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** other
-- **Size:** 2,631 KB
-- **Stars:** 5,039
-- **Last Pushed:** 2026-07-25
+- **Size:** 3,577 KB
+- **Stars:** 5,818
+- **Last Pushed:** 2026-09-22
 - **License:** NOASSERTION
 - **Tags:** agent, ai, awesome-list, hermes-agent, ide, mcp, plugin, research

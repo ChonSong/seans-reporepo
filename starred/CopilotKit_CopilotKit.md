@@ -5,9 +5,9 @@ description: 'The Frontend Stack for Agents & Generative UI. React, Angular, Mob
 type: agent
 status: active
 language: TypeScript
-size_kb: 803774
-stars: 36295
-last_pushed: '2026-07-26'
+size_kb: 883093
+stars: 37867
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - agent
@@ -46,7 +46,7 @@ topics:
   - reactjs
   - ts
   - typescript
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # CopilotKit
@@ -60,8 +60,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 803,774 KB
-- **Stars:** 36,295
-- **Last Pushed:** 2026-07-26
+- **Size:** 883,093 KB
+- **Stars:** 37,867
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** agent, ai, aie, bot, chat-ui, coding-agent, docker, llm, mobile, multi-agent, react, sustainability, training, typescript, ui

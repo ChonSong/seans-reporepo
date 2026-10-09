@@ -5,9 +5,9 @@ description: '🏔 Love Freedom - ❌ Block Mass Surveillance'
 type: unknown
 status: active
 language: Go
-size_kb: 40821
-stars: 13380
-last_pushed: '2026-06-16'
+size_kb: 40448
+stars: 13890
+last_pushed: '2026-10-06'
 license: 'GPL-3.0'
 tags:
   - go
@@ -23,7 +23,7 @@ topics:
   - privacy-enhancing-technologies
   - privacy-protection
   - privacy-tools
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # portmaster
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Go
-- **Size:** 40,821 KB
-- **Stars:** 13,380
-- **Last Pushed:** 2026-06-16
+- **Size:** 40,448 KB
+- **Stars:** 13,890
+- **Last Pushed:** 2026-10-06
 - **License:** GPL-3.0
 - **Tags:** go

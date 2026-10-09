@@ -4,10 +4,10 @@ url: 'https://github.com/OpenCloudGaming/OpenNOW'
 description: Custom GeForce Now Client Named OpenNOW
 type: cli
 status: active
-language: TypeScript
-size_kb: 204428
-stars: 2145
-last_pushed: '2026-07-26'
+language: Rust
+size_kb: 239168
+stars: 3349
+last_pushed: '2026-10-09'
 license: MIT
 tags:
   - cli
@@ -21,7 +21,7 @@ topics:
   - geforce-now
   - gfn
   - nvidia
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # OpenNOW
@@ -34,9 +34,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 
 - **Type:** cli
 - **Status:** active
-- **Language:** TypeScript
-- **Size:** 204,428 KB
-- **Stars:** 2,145
-- **Last Pushed:** 2026-07-26
+- **Language:** Rust
+- **Size:** 239,168 KB
+- **Stars:** 3,349
+- **Last Pushed:** 2026-10-09
 - **License:** MIT
 - **Tags:** cli, gaming, infrastructure, paas

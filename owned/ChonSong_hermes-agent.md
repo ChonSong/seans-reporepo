@@ -5,9 +5,9 @@ description: The agent that grows with you
 type: agent
 status: active
 language: Python
-size_kb: 325155
+size_kb: 325206
 stars: 0
-last_pushed: '2026-07-09'
+last_pushed: '2026-08-09'
 license: unknown
 tags:
   - agent
@@ -25,7 +25,7 @@ tags:
   - tui
   - voice
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # hermes-agent
@@ -39,9 +39,9 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** Python
-- **Size:** 325,155 KB
+- **Size:** 325,206 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-09
+- **Last Pushed:** 2026-08-09
 - **License:** unknown
 - **Tags:** agent, ai, automation, backup, cli, go, hermes-agent, infrastructure, llm, python, solver, terminal, tui, voice
 

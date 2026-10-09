@@ -5,9 +5,9 @@ description: A list of AI autonomous agents
 type: 'awesome-list'
 status: active
 language: other
-size_kb: 117630
-stars: 29100
-last_pushed: '2026-07-09'
+size_kb: 117929
+stars: 30320
+last_pushed: '2026-08-21'
 license: NOASSERTION
 tags:
   - agent
@@ -34,7 +34,7 @@ topics:
   - gpt-engineer
   - openai
   - python
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # awesome-ai-agents
@@ -48,8 +48,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** awesome-list
 - **Status:** active
 - **Language:** other
-- **Size:** 117,630 KB
-- **Stars:** 29,100
-- **Last Pushed:** 2026-07-09
+- **Size:** 117,929 KB
+- **Stars:** 30,320
+- **Last Pushed:** 2026-08-21
 - **License:** NOASSERTION
 - **Tags:** agent, ai, aie, awesome-list, coding-agent, docker, multi-agent, python, sustainability, training

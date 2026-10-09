@@ -5,9 +5,9 @@ description: 'Autonomous game development for Godot, Bevy, and Babylon.js with C
 type: unknown
 status: active
 language: Python
-size_kb: 790
-stars: 5046
-last_pushed: '2026-07-26'
+size_kb: 605
+stars: 7073
+last_pushed: '2026-10-01'
 license: MIT
 tags:
   - cli
@@ -24,7 +24,7 @@ topics:
   - godot
   - godot4
   - skills
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # godogen
@@ -38,8 +38,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** unknown
 - **Status:** active
 - **Language:** Python
-- **Size:** 790 KB
-- **Stars:** 5,046
-- **Last Pushed:** 2026-07-26
+- **Size:** 605 KB
+- **Stars:** 7,073
+- **Last Pushed:** 2026-10-01
 - **License:** MIT
 - **Tags:** cli, gaming, go

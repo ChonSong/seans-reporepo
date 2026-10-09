@@ -5,9 +5,9 @@ description: An open source template for building cloud agents.
 type: agent
 status: active
 language: TypeScript
-size_kb: 10702
-stars: 5752
-last_pushed: '2026-07-15'
+size_kb: 11099
+stars: 5842
+last_pushed: '2026-08-29'
 license: MIT
 tags:
   - agent
@@ -23,7 +23,7 @@ topics:
   - agents
   - ai
   - background-agents
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # open-agents
@@ -37,8 +37,8 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** agent
 - **Status:** active
 - **Language:** TypeScript
-- **Size:** 10,702 KB
-- **Stars:** 5,752
-- **Last Pushed:** 2026-07-15
+- **Size:** 11,099 KB
+- **Stars:** 5,842
+- **Last Pushed:** 2026-08-29
 - **License:** MIT
 - **Tags:** agent, ai, aie, coding-agent, docker, multi-agent, sustainability, training

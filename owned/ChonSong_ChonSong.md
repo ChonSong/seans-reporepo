@@ -5,9 +5,9 @@ description: Profile README for github.com/ChonSong
 type: library
 status: active
 language: other
-size_kb: 6
+size_kb: 9
 stars: 0
-last_pushed: '2026-07-08'
+last_pushed: '2026-07-30'
 license: unknown
 tags:
   - agent
@@ -28,7 +28,7 @@ tags:
   - typescript
   - web-app
 topics: []
-refreshed_at: '2026-07-26 23:00 UTC'
+refreshed_at: '2026-10-09 22:21 UTC'
 ---
 
 # ChonSong
@@ -42,17 +42,15 @@ refreshed_at: '2026-07-26 23:00 UTC'
 - **Type:** library
 - **Status:** active
 - **Language:** other
-- **Size:** 6 KB
+- **Size:** 9 KB
 - **Stars:** 0
-- **Last Pushed:** 2026-07-08
+- **Last Pushed:** 2026-07-30
 - **License:** unknown
 - **Tags:** agent, ai, api, database, docker, gaming, go, hermes-agent, infrastructure, python, rag, react, solver, svelte, training, typescript, web-app
 
 ## README Excerpt
 
 ### Hi there 👋 I'm Sean
-
-**Data Science graduate who ships production code.** I build full-stack platforms, distributed systems, and AI-powered infrastructure — the same stack as a mid-level engineer, because I've been doing it throughout my degree.
 
 📍 **Sydney, Australia** · seanos1a@gmail.com · [github.com/ChonSong](https://github.com/ChonSong)
 
@@ -63,7 +61,7 @@ refreshed_at: '2026-07-26 23:00 UTC'
 | Focus | Projects |
 |-------|----------|
 | **WebUI extensions** | [Hermes WebUI Extensions](https://github.com/ChonSong/hermes-webui-extensions) — extensions library for Hermes WebUI |
-| **GTO training** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone) — open-source poker training platform with equity calculator, CFR solver, training modes |
+| **GTO training** | [GTO Wizard Clone](https://github.com/ChonSong/gto-wizard-clone-v2) — open-source poker training platform with equity calculator, CFR solver, training modes |
 | **Skill retrieval** | [Skill Retriever](https://github.com/ChonSong/skill-retriever) — AgentSkillOS-powered semantic skill retrieval for Hermes Agent |
 
 ### Stack
